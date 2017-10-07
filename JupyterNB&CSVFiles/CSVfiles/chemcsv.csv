@@ -1,0 +1,1488 @@
+Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received
+"Tauber, Michael",CHEM 100A - Analytical Chemistry Lab (A),WI17,86,48,46.70%,48.90%,9.3,B (3.02),B- (2.92)
+"Pomeroy, Robert S.",CHEM 100B - Instrumental Chemistry Lab (A),WI17,20,4,100.00%,100.00%,11,B+ (3.67),C+ (2.62)
+"Crowell, John E",CHEM 105A - Physical Chemistry Laboratory (A),WI17,33,14,58.30%,83.30%,9.83,B- (2.92),B- (2.94)
+"Crowell, John E",No CAPEs submitted,WI17,2,0,N/A,N/A,N/A,N/A,N/A
+"Johnson, Christina A",CHEM 109 - Recombinant DNA Laboratory (A),WI17,37,14,83.30%,91.70%,10.83,C+ (2.58),B+ (3.31)
+"Johnson, Christina A",CHEM 109 - Recombinant DNA Laboratory (B),WI17,20,10,77.80%,100.00%,10.72,B (3.22),B+ (3.31)
+"Muller, Ulrich K.",CHEM 114A - Biochemical Structure&Function (A),WI17,107,39,92.30%,84.60%,6.18,B (3.19),C+ (2.49)
+"Komives, Elizabeth A",CHEM 114B - Biochem Energetics&Metabolism (A),WI17,154,56,96.30%,100.00%,7.82,B (3.21),B (3.15)
+"Devaraj, Neal Krishna",CHEM 116 - Chemical Biology (B),WI17,8,3,66.70%,100.00%,5.17,C+ (2.67),N/A
+"Amaro, Rommie E",CHEM 118 - Pharmacology and Toxicology (A),WI17,178,64,98.40%,98.40%,5.21,B+ (3.56),B+ (3.49)
+"Hoeger, Carl",CHEM 12 - Molecules and Reactions (A),WI17,84,39,82.10%,89.70%,5.24,B (3.00),B+ (3.34)
+"Figueroa, Joshua",CHEM 120A - Inorganic Chemistry I (A),WI17,97,38,86.50%,94.60%,7.61,B (3.24),C+ (2.61)
+"Sailor, Michael Joseph",CHEM 120B - Inorganic Chemistry II (A),WI17,79,42,97.60%,97.60%,6.45,B+ (3.44),B (3.09)
+"Xiong, Wei",CHEM 126 - Physical Chem: Quantum Mech (A),WI17,153,55,38.00%,58.00%,8.5,B- (2.94),B- (2.88)
+"Weare, John H.",CHEM 131 - Chem Physics: Stat Thermo I (A),WI17,63,30,37.90%,10.30%,8.98,C+ (2.59),B (3.08)
+"Bertrand, Guy",CHEM 140A - Organic Chemistry I (A),WI17,365,194,96.80%,97.80%,6.51,B+ (3.41),B- (2.83)
+"Gianneschi, Nathan",CHEM 140A - Organic Chemistry I (B),WI17,263,123,73.90%,71.30%,8.52,B- (2.84),C+ (2.60)
+"Albizati, Kim F.",CHEM 140B - Organic Chemistry II (A),WI17,404,184,84.50%,92.00%,8.38,B (3.05),B- (2.77)
+"Ternansky, Robert J.",CHEM 140B - Organic Chemistry II (B),WI17,128,68,92.60%,94.10%,9.31,B- (2.88),C+ (2.67)
+"Hoeger, Carl",CHEM 140B - Organic Chemistry II (C),WI17,201,99,81.90%,93.60%,9.73,B (3.02),B- (2.86)
+"Albizati, Kim F.",CHEM 140B - Organic Chemistry II (D),WI17,221,89,80.50%,90.20%,9.53,B (3.03),B- (2.77)
+"Weizman, Haim",CHEM 140BH - Honors Organic Chemistry (A),WI17,76,35,92.30%,92.30%,7.35,B+ (3.65),B+ (3.65)
+"Godula, Kamil",CHEM 140C - Organic Chemistry III (A),WI17,203,193,85.50%,87.60%,7.36,B- (2.96),C+ (2.47)
+"Weizman, Haim",CHEM 143A - Organic Chemistry Laboratory (A),WI17,449,200,78.10%,82.00%,6.88,B (3.20),B- (2.98)
+"Ternansky, Robert J.",CHEM 143B - Organic Chemistry Laboratory (A),WI17,74,35,76.50%,91.20%,7.62,B (3.15),B+ (3.32)
+"Burkart, Michael D",CHEM 145 - Biofuels (A),WI17,11,9,100.00%,100.00%,3.61,B+ (3.67),N/A
+"Schmidt, Valerie A",CHEM 155 - Synthesis of Complex Molecules (A),WI17,8,5,80.00%,80.00%,3.7,B+ (3.60),N/A
+"Yang, Jerry",CHEM 156 - Struct&Properties/Organc Molec (A),WI17,13,5,80.00%,100.00%,8.9,B (3.20),N/A
+"Perrin, Charles L.",CHEM 158 - Applied Spectroscopy (A),WI17,6,4,75.00%,100.00%,10,B+ (3.67),N/A
+"Villa Rodriguez, Elizabeth",CHEM 165 - 3D Elctron Microscopy/Macromol (A),WI17,9,8,100.00%,100.00%,4.21,B+ (3.50),N/A
+"Devaraj, Neal Krishna",CHEM 168 - Drug Synthesis and Design (A),WI17,63,25,91.70%,95.80%,4.5,B+ (3.52),B+ (3.36)
+"Estillore, Armando D",CHEM 171 - Environmental Chemistry I (A),WI17,82,35,90.90%,90.90%,5.05,B+ (3.32),B- (2.95)
+"Grassian, Vicki Helene",CHEM 171 - Environmental Chemistry I (A),WI17,81,34,90.60%,87.50%,5.13,B+ (3.30),B- (2.95)
+"Bussey, Thomas J",CHEM 187 - Foundn of Teach&Learn Science (A),WI17,8,6,100.00%,100.00%,4.1,A- (3.80),N/A
+"Newsam, John",CHEM 194 - Special Topics in Chemistry (A),WI17,7,6,100.00%,100.00%,4.1,A (4.00),N/A
+"Schimpf, Alina M",CHEM 6A - General Chemistry I (A),WI17,375,175,86.60%,63.70%,6.44,B (3.03),C+ (2.59)
+"Zid, Brian M",CHEM 6A - General Chemistry I (B),WI17,191,97,82.60%,64.10%,6.81,B- (2.85),B- (2.71)
+"Buyanin, Alex",CHEM 6B - General Chemistry II (A),WI17,345,223,82.80%,61.20%,7.07,B- (2.82),C+ (2.55)
+"Kummel, Andrew C",CHEM 6B - General Chemistry II (B),WI17,211,111,92.10%,81.20%,6.6,B (3.21),C+ (2.69)
+"Lam, Tin Yiu",CHEM 6B - General Chemistry II (C),WI17,285,148,91.00%,90.30%,7.2,B (3.27),B- (2.86)
+"Bussey, Thomas J",CHEM 6B - General Chemistry II (D),WI17,407,209,92.30%,91.80%,6.35,B (3.23),B- (2.73)
+"Johnson, Christina A",CHEM 6B - General Chemistry II (E),WI17,426,232,93.60%,91.80%,7.89,B (3.13),B (3.05)
+"Crowell, John E",CHEM 6B - General Chemistry II (F),WI17,195,76,80.60%,55.60%,7.53,B- (2.94),B- (2.73)
+"Paesani, Francesco",CHEM 6BH - Honors General Chemistry II (A),WI17,88,69,81.80%,97.00%,7.75,B (3.25),B+ (3.45)
+"Brydges, Stacey",CHEM 6C - General Chemistry III (A),WI17,173,79,85.90%,87.20%,6.37,B (3.22),B- (2.87)
+"Cohen, Seth M",CHEM 7L - General Chemistry Laboratory (A),WI17,260,158,88.80%,94.70%,4.71,B+ (3.52),B+ (3.49)
+"Cohen, Seth M",CHEM 7L - General Chemistry Laboratory (B),WI17,269,154,95.10%,97.20%,5.06,B+ (3.54),B+ (3.49)
+"Brydges, Stacey",CHEM 87 - Freshman Seminar (A),WI17,10,10,90.00%,100.00%,0.9,A (4.00),N/A
+"Shaheen, Robina",CHEM 100A - Analytical Chemistry Lab (A),FA16,95,53,64.60%,12.50%,8.12,B (3.17),B (3.18)
+"Pomeroy, Robert S.",CHEM 100B - Instrumental Chemistry Lab (A),FA16,14,7,100.00%,85.70%,9.36,B (3.14),N/A
+"Crowell, John E",CHEM 105A - Physical Chemistry Laboratory (A),FA16,29,11,72.70%,81.80%,10.5,B- (2.73),B (3.00)
+"Ghosh, Gourisankar",CHEM 108 - Protein Biochemistry Lab (A),FA16,73,39,94.70%,81.60%,5.76,B+ (3.45),B+ (3.48)
+"Mrse, Anthony Adrian",CHEM 11 - The Periodic Table (A),FA16,202,86,70.50%,76.90%,5.06,B (3.13),B (3.17)
+"Toor, Navtej",CHEM 114A - Biochemical Structure&Function (A),FA16,232,113,89.20%,71.20%,6.65,B (3.29),B- (2.90)
+"Ghosh, Gourisankar",CHEM 114D - Molecular & Cellular Biochem (A),FA16,27,11,90.00%,100.00%,6.72,B+ (3.50),B+ (3.49)
+"Rinehart, Jeffrey Dennis",CHEM 120A - Inorganic Chemistry I (A),FA16,161,86,94.10%,97.60%,7.31,B (3.25),B- (2.74)
+"Yuen Zhou, Joel",CHEM 127 - Physical Chem: Thermodynamics (A),FA16,126,101,64.00%,62.00%,8.02,B- (2.86),B- (2.94)
+"Sinha, Amitabha",CHEM 130 - Chem Physics: Quantum Mech (A),FA16,80,34,72.70%,66.70%,9.25,B- (2.94),C+ (2.70)
+"Oconnor, Joseph M.",CHEM 140A - Organic Chemistry I (A),FA16,381,195,81.10%,76.70%,9.47,B- (2.95),B- (2.76)
+"Yang, Jerry",CHEM 140A - Organic Chemistry I (B),FA16,193,86,76.50%,66.70%,8.38,B- (2.91),C+ (2.65)
+"Ternansky, Robert J.",CHEM 140A - Organic Chemistry I (C),FA16,188,128,86.30%,86.30%,9.79,B- (2.92),B- (2.70)
+"Perrin, Charles L.",CHEM 140A - Organic Chemistry I (D),FA16,349,192,82.70%,83.20%,8.49,B (3.03),C+ (2.66)
+"Albizati, Kim F.",CHEM 140A - Organic Chemistry I (E),FA16,158,81,96.20%,98.70%,7.73,B (3.04),C+ (2.61)
+"Theodorakis, Emmanouil",CHEM 140B - Organic Chemistry II (A),FA16,142,77,86.50%,89.20%,7.13,B (3.05),C+ (2.66)
+"Hoeger, Carl",CHEM 140B - Organic Chemistry II (B),FA16,136,61,75.50%,84.90%,9.62,B (3.06),C+ (2.63)
+"Hermann, Thomas",CHEM 140C - Organic Chemistry III (A),FA16,283,116,90.00%,96.40%,6.63,B (3.23),B (3.01)
+"Cao, Kevin Jay",CHEM 143A - Organic Chemistry Laboratory (A),FA16,460,236,86.80%,89.50%,5.93,B (3.28),B (3.21)
+"Ternansky, Robert J.",CHEM 143C - Organic Chemistry Laboratory (A),FA16,53,23,90.90%,72.70%,8.39,B- (2.89),B (3.20)
+"Weizman, Haim",CHEM 143D - Molecular Design & Synthesis (B),FA16,9,5,100.00%,100.00%,8.9,B+ (3.40),N/A
+"Theodorakis, Emmanouil",CHEM 152 - Synthetic Methods/Organic Chem (A),FA16,44,22,77.30%,81.80%,3.95,B (3.27),B+ (3.48)
+"Tor, Yitzhak",CHEM 154 - Mechanisms/Organic Reactions (A),FA16,39,22,94.70%,100.00%,6.71,B+ (3.67),B+ (3.58)
+"Pomeroy, Robert S.",CHEM 172 - Environmental Chemistry II (A),FA16,69,26,100.00%,100.00%,5.62,B- (2.92),B- (2.78)
+"Albizati, Kim F.",CHEM 192 - Sr Seminar in Chem & Biochem (A),FA16,19,9,100.00%,100.00%,1.83,B- (2.75),N/A
+"Hoeger, Carl",CHEM 4 - Basic Chemistry (A),FA16,235,139,85.70%,86.50%,6.96,B- (2.80),B- (2.75)
+"Berniolles, Sandrine",CHEM 6A - General Chemistry I (A),FA16,397,220,93.70%,87.90%,6.35,B (3.15),B (3.06)
+"Berniolles, Sandrine",CHEM 6A - General Chemistry I (B),FA16,205,121,95.50%,93.60%,6.5,B (3.13),B (3.06)
+"Brydges, Stacey",CHEM 6A - General Chemistry I (C),FA16,329,190,96.10%,95.60%,6.96,B+ (3.42),B (3.10)
+"Johnson, Christina A",CHEM 6A - General Chemistry I (D),FA16,425,245,93.50%,97.80%,7.88,B (3.00),B (3.18)
+"Johnson, Christina A",CHEM 6A - General Chemistry I (E),FA16,433,275,92.70%,94.30%,7.35,B (3.10),B (3.18)
+"Crowell, John E",CHEM 6A - General Chemistry I (F),FA16,326,188,87.30%,53.00%,7.67,B (3.02),B- (2.72)
+"Moore, Amy Lea",CHEM 6A - General Chemistry I (G),FA16,327,197,94.50%,90.10%,6.3,B+ (3.31),B (3.08)
+"Lam, Tin Yiu",CHEM 6A - General Chemistry I (H),FA16,193,116,91.00%,85.60%,6.68,B (3.26),B- (2.88)
+"Albizati, Kim F.",CHEM 6A - General Chemistry I (I),FA16,217,120,92.90%,92.00%,5.77,B+ (3.49),B (3.01)
+"Tauber, Michael",CHEM 6AH - Honors General Chemistry I (A),FA16,125,86,78.50%,75.90%,8.35,B+ (3.30),B+ (3.34)
+"Bussey, Thomas J",CHEM 6B - General Chemistry II (A),FA16,210,106,89.10%,99.00%,5.79,B (3.19),C+ (2.70)
+"Bussey, Thomas J",CHEM 6C - General Chemistry III (A),FA16,385,172,97.00%,98.20%,6.61,B (3.21),B- (2.81)
+"Kim, Judy E.",CHEM 7L - General Chemistry Laboratory (A),FA16,347,182,76.60%,74.30%,7.17,B (3.20),B- (2.97)
+"Kim, Judy E.",CHEM 7L - General Chemistry Laboratory (B),FA16,336,165,76.50%,81.00%,6.33,B (3.22),B- (2.97)
+"Weizman, Haim",CHEM 87 - Freshman Seminar (B),FA16,16,9,100.00%,100.00%,1.25,N/A,N/A
+"Bussey, Thomas J",No CAPEs submitted,FA16,8,0,N/A,N/A,N/A,N/A,N/A
+"Luthi, Andrea J",CHEM 12 - Molecules and Reactions (A),S216,13,12,83.30%,91.70%,5.59,B+ (3.30),N/A
+"Ternansky, Robert J.",CHEM 140A - Organic Chemistry I (A),S216,69,42,81.00%,92.90%,14.5,B (3.12),C+ (2.63)
+"Oconnor, Joseph M.",CHEM 140A - Organic Chemistry I (B),S216,23,10,80.00%,70.00%,9.9,B (3.20),B (3.25)
+"Oconnor, Joseph M.",CHEM 140B - Organic Chemistry II (A),S216,155,34,93.90%,93.90%,13.21,B (3.10),C+ (2.56)
+"Albizati, Kim F.",CHEM 140C - Organic Chemistry III (A),S216,162,35,97.00%,100.00%,11.17,B (3.21),B- (2.80)
+"Fisher, Kaitlin Mallory",CHEM 6A - General Chemistry I (A),S216,64,30,96.60%,93.10%,7.33,B+ (3.62),B+ (3.51)
+"Johnson, Christina A",CHEM 6B - General Chemistry II (A),S216,37,13,92.30%,84.60%,11.58,C+ (2.69),C+ (2.69)
+"Johnson, Christina A",CHEM 6C - General Chemistry III (A),S216,71,19,82.40%,100.00%,10.97,B- (2.76),B- (2.73)
+"Finzel, Kara",CHEM 11 - The Periodic Table (A),S116,43,16,87.50%,93.80%,5.25,A- (3.80),B- (2.90)
+"Bussey, Thomas J",CHEM 114A - Biochemical Structure&Function (A),S116,63,23,95.20%,95.20%,9.7,B+ (3.67),B- (2.97)
+"Boerneke, Mark Andrew",CHEM 140A - Organic Chemistry I (A),S116,167,140,87.10%,95.00%,11.16,B- (2.86),B- (2.73)
+"Weizman, Haim",CHEM 140B - Organic Chemistry II (A),S116,129,31,86.20%,96.60%,10.57,B (3.14),B- (2.73)
+"Albizati, Kim F.",CHEM 140C - Organic Chemistry III (A),S116,96,19,94.10%,100.00%,10.74,B+ (3.35),C+ (2.66)
+"Weizman, Haim",CHEM 143A - Organic Chemistry Laboratory (A),S116,132,28,84.00%,84.00%,11.3,B (3.16),B- (2.97)
+"Ternansky, Robert J.",CHEM 143B - Organic Chemistry Laboratory (A),S116,36,15,92.90%,85.70%,10.93,B (3.07),B+ (3.40)
+"Hoeger, Carl",CHEM 6A - General Chemistry I (A),S116,51,8,87.50%,87.50%,8.25,B (3.25),B (3.06)
+"Bussey, Thomas J",CHEM 6B - General Chemistry II (A),S116,56,12,100.00%,100.00%,8.5,B (3.00),B- (2.86)
+"Hoeger, Carl",CHEM 6C - General Chemistry III (A),S116,58,15,84.60%,92.30%,10.96,B (3.09),B (3.19)
+"Berniolles, Sandrine",CHEM 7L - General Chemistry Laboratory (A),S116,135,49,79.50%,87.20%,9.45,B+ (3.34),B (3.10)
+"Fisher, Kaitlin Mallory",CHEM 7L - General Chemistry Laboratory (B),S116,152,59,90.70%,94.40%,7.12,B+ (3.48),B+ (3.47)
+"Pomeroy, Robert S.",CHEM 100A - Analytical Chemistry Lab (A),SP16,80,41,69.20%,89.70%,7.83,B (3.03),B- (2.84)
+"Pomeroy, Robert S.",CHEM 100B - Instrumental Chemistry Lab (A),SP16,20,6,100.00%,100.00%,5.3,B (3.20),B- (2.98)
+"Xiong, Wei",CHEM 105A - Physical Chemistry Laboratory (A),SP16,46,20,55.60%,88.90%,8.5,B (3.06),B (3.23)
+"Xiong, Wei",CHEM 105B - Physical Chemistry Laboratory (A),SP16,2,2,100.00%,100.00%,6.5,B (3.00),N/A
+"Huang, Xuemei",CHEM 108 - Protein Biochemistry Lab (A),SP16,51,18,100.00%,100.00%,9.43,B+ (3.47),B+ (3.48)
+"Mrse, Anthony Adrian",CHEM 108 - Protein Biochemistry Lab (A),SP16,51,17,100.00%,100.00%,9.43,B+ (3.47),B+ (3.48)
+"Wang, Wei",CHEM 11 - The Periodic Table (A),SP16,199,170,81.20%,72.90%,4.05,B+ (3.36),B (3.13)
+"Komives, Elizabeth A",CHEM 113 - Physical Chem/Biol Macromolec (A),SP16,15,9,100.00%,100.00%,6.5,A- (3.88),N/A
+"Wollman, Roy",CHEM 114B - Biochem Energetics&Metabolism (A),SP16,38,15,100.00%,71.40%,5.93,B+ (3.64),B (3.20)
+"Joseph, Simpson",CHEM 114C - Biosynthesis of Macromolecules (A),SP16,148,44,77.30%,61.40%,6.95,B (3.00),B- (2.70)
+"Sailor, Michael Joseph",CHEM 123 - Advanced Inorganic Chem Lab (A),SP16,15,8,100.00%,100.00%,4.5,A- (3.80),N/A
+"Cohen, Seth M",CHEM 125 - Bioinorganic Chemistry (A),SP16,11,10,90.00%,100.00%,5.5,B- (2.90),N/A
+"Tezcan, Faik",CHEM 125 - Bioinorganic Chemistry (A),SP16,12,9,88.90%,88.90%,5.61,B- (2.78),N/A
+"Crowell, John E",CHEM 126 - Physical Chem: Quantum Mech (A),SP16,44,16,73.30%,80.00%,8.23,B- (2.73),B- (2.97)
+"Villa Rodriguez, Elizabeth",CHEM 127 - Physical Chem: Thermodynamics (A),SP16,90,62,82.00%,90.20%,5.71,B (3.15),B- (2.91)
+"Opella, Stanley J",CHEM 13 - Chemistry of Life (A),SP16,60,29,44.40%,55.60%,4.57,B (3.07),B- (2.91)
+"Galperin, Michael",CHEM 132 - Chem Physics: Stat Thermo II (A),SP16,42,23,73.90%,82.60%,7.77,B- (2.85),B- (2.77)
+"Sinha, Amitabha",CHEM 135 - Molecular Spectroscopy (A),SP16,3,2,50.00%,100.00%,7.5,B (3.00),N/A
+"Ternansky, Robert J.",CHEM 140A - Organic Chemistry I (A),SP16,209,109,78.60%,82.50%,9.85,B- (2.86),C+ (2.67)
+"Siegel, Dionicio R.",CHEM 140B - Organic Chemistry II (A),SP16,387,276,92.60%,95.90%,6.94,B (3.16),C+ (2.34)
+"Weizman, Haim",CHEM 140B - Organic Chemistry II (B),SP16,323,119,72.20%,85.20%,8.48,B- (2.76),C+ (2.69)
+"Albizati, Kim F.",CHEM 140C - Organic Chemistry III (A),SP16,403,144,85.80%,93.30%,7.97,B (3.13),B- (2.72)
+"Hoeger, Carl",CHEM 140C - Organic Chemistry III (B),SP16,195,84,83.30%,80.80%,8.53,B- (2.99),B (3.08)
+"Tor, Yitzhak",CHEM 140CH - Honors Organic Chemistry (A),SP16,70,36,94.30%,97.10%,6.96,B+ (3.65),B+ (3.67)
+"Albizati, Kim F.",CHEM 143A - Organic Chemistry Laboratory (A),SP16,458,167,88.00%,98.00%,6.51,B+ (3.33),B (3.03)
+"Ternansky, Robert J.",CHEM 143B - Organic Chemistry Laboratory (A),SP16,82,30,96.30%,92.60%,6.81,B (3.12),B+ (3.31)
+"Perrin, Charles L.",CHEM 146 - Kinetics & Mechan of Org React (A),SP16,7,3,100.00%,100.00%,9.5,B+ (3.50),N/A
+"Weizman, Haim",CHEM 151 - Molecules That Changed World (A),SP16,64,36,87.90%,90.90%,3.77,B+ (3.42),B+ (3.57)
+"Burkart, Michael D",CHEM 157 - Natural Products Chemistry (A),SP16,26,10,90.00%,100.00%,4.7,B (3.20),B+ (3.40)
+"Molinski, Tadeusz",CHEM 158 - Applied Spectroscopy (A),SP16,3,2,100.00%,100.00%,4.5,B (3.00),N/A
+"Baker, Timothy Stanley",CHEM 164 - Structural Biology of Viruses (A),SP16,30,12,75.00%,91.70%,5.83,B+ (3.33),B (3.24)
+"Evan, Amato Tomas",CHEM 173 - Atmospheric Chemistry (A),SP16,15,2,100.00%,50.00%,1.5,B+ (3.50),N/A
+"Molina, Mario",CHEM 173 - Atmospheric Chemistry (A),SP16,15,2,100.00%,100.00%,1.5,B+ (3.50),N/A
+"Prather, Kimberly A",CHEM 173 - Atmospheric Chemistry (A),SP16,14,2,100.00%,100.00%,1.5,B+ (3.50),N/A
+"Ramanathan, Veerabhadran",CHEM 173 - Atmospheric Chemistry (A),SP16,15,2,100.00%,100.00%,1.5,B+ (3.50),N/A
+"Dickson, Andrew Gilmore",CHEM 174 - Chem Prin of Marine Systems (A),SP16,34,12,77.80%,88.90%,4.72,B+ (3.44),B- (2.85)
+"Bafna, Vineet",CHEM 182 - Biological Databases (A),SP16,4,2,100.00%,50.00%,12.5,C+ (2.50),N/A
+"Amaro, Rommie E",CHEM 185 - Intro/Computational Chemistry (A),SP16,15,6,25.00%,75.00%,10.5,B- (2.75),N/A
+"Walker, Ross Charles",CHEM 185 - Intro/Computational Chemistry (A),SP16,17,6,25.00%,50.00%,10.5,B- (2.75),N/A
+"Bussey, Thomas J",CHEM 188 - Capstone Sem in Science Eductn (A),SP16,5,4,100.00%,100.00%,4,A- (3.75),N/A
+"Tezcan, Faik",CHEM 6A - General Chemistry I (A),SP16,108,43,85.00%,67.50%,6.19,B (3.08),C+ (2.54)
+"Fisher, Kaitlin Mallory",CHEM 6B - General Chemistry II (A),SP16,350,173,94.10%,98.80%,7.11,B (3.23),B (3.20)
+"Fisher, Kaitlin Mallory",CHEM 6B - General Chemistry II (B),SP16,185,87,91.80%,98.80%,6.55,B (3.17),B (3.20)
+"Hoeger, Carl",CHEM 6C - General Chemistry III (A),SP16,197,94,93.30%,84.30%,6.91,B (3.26),B- (2.88)
+"Brydges, Stacey",CHEM 6C - General Chemistry III (B),SP16,356,169,92.90%,95.50%,6.7,B (3.21),B (3.20)
+"Johnson, Christina A",CHEM 6C - General Chemistry III (C),SP16,353,165,86.00%,80.90%,8.14,B- (2.89),B- (2.83)
+"Johnson, Christina A",CHEM 6C - General Chemistry III (D),SP16,400,202,87.20%,85.70%,8.25,B- (2.82),B- (2.83)
+"Kubiak, Clifford Paul",CHEM 6CH - Honors General Chemistry III (A),SP16,91,44,78.60%,90.50%,6.55,B+ (3.56),B+ (3.54)
+"Berniolles, Sandrine",CHEM 7L - General Chemistry Laboratory (A),SP16,273,107,80.60%,92.20%,5.01,B+ (3.41),B (3.03)
+"Berniolles, Sandrine",CHEM 7L - General Chemistry Laboratory (B),SP16,273,119,79.60%,83.20%,5.82,B (3.24),B (3.03)
+"Brydges, Stacey",CHEM 7LM - General Chemistry Lab - Majors (A),SP16,93,50,95.70%,95.70%,10.85,B+ (3.45),B+ (3.56)
+"Doolittle, Russell F.",CHEM 92 - Undergrad Pharmacology Seminar (A),SP16,102,44,84.10%,81.80%,1.45,A (4.00),N/A
+"Kummel, Andrew C",CHEM 93 - Cancer Therapeutic/Diagnostic (A),SP16,12,5,100.00%,80.00%,7.7,A- (3.75),N/A
+"Bussey, Thomas J",CHEM 96 - Introductn to Teaching Science (A),SP16,10,4,100.00%,100.00%,4,A (4.00),N/A
+"Tauber, Michael",CHEM 100A - Analytical Chemistry Lab (A),WI16,57,28,67.90%,64.30%,8.29,B (3.04),B- (2.83)
+"Pomeroy, Robert S.",CHEM 100B - Instrumental Chemistry Lab (A),WI16,21,9,100.00%,88.90%,8.06,B+ (3.33),B (3.13)
+"Crowell, John E",CHEM 105A - Physical Chemistry Laboratory (A),WI16,25,14,71.40%,78.60%,11.58,B (3.08),B (3.14)
+"Johnson, Christina A",CHEM 109 - Recombinant DNA Laboratory (A),WI16,61,17,81.30%,87.50%,12.5,B+ (3.56),B+ (3.33)
+"Bussey, Thomas J",CHEM 114A - Biochemical Structure&Function (A),WI16,91,48,90.90%,93.20%,8.09,B+ (3.30),B- (2.99)
+"Komives, Elizabeth A",CHEM 114B - Biochem Energetics&Metabolism (A),WI16,123,66,92.70%,94.50%,7.59,B (3.24),B (3.22)
+"Devaraj, Neal Krishna",CHEM 116 - Chemical Biology (A),WI16,12,3,100.00%,100.00%,5.17,B+ (3.67),N/A
+"Amaro, Rommie E",CHEM 118 - Pharmacology and Toxicology (A),WI16,97,36,100.00%,97.10%,5.13,B+ (3.40),B+ (3.49)
+"Dibrov, Sergey M",CHEM 12 - Molecules and Reactions (A),WI16,152,137,75.00%,78.70%,4.4,B (3.20),C+ (2.64)
+"Figueroa, Joshua",CHEM 120A - Inorganic Chemistry I (A),WI16,80,43,87.50%,82.50%,8.24,B- (2.92),B- (2.78)
+"Sailor, Michael Joseph",CHEM 120B - Inorganic Chemistry II (A),WI16,43,21,100.00%,100.00%,4.71,B+ (3.50),B+ (3.54)
+"Paesani, Francesco",CHEM 126 - Physical Chem: Quantum Mech (A),WI16,130,62,78.90%,94.70%,7.94,B (3.11),B- (2.84)
+"Weare, John H.",CHEM 131 - Chem Physics: Stat Thermo I (A),WI16,54,32,53.10%,34.40%,7.47,B- (2.81),B (3.22)
+"Bertrand, Guy",CHEM 140A - Organic Chemistry I (A),WI16,376,189,90.60%,97.20%,6.83,B (3.25),B- (2.75)
+"Gianneschi, Nathan",CHEM 140A - Organic Chemistry I (B),WI16,272,131,80.00%,62.00%,8.33,B- (2.74),B- (2.78)
+"Albizati, Kim F.",CHEM 140B - Organic Chemistry II (A),WI16,407,193,90.90%,97.80%,8.2,B (3.09),B- (2.72)
+"Ternansky, Robert J.",CHEM 140B - Organic Chemistry II (B),WI16,196,127,87.00%,87.80%,9.39,B (3.10),C+ (2.68)
+"Burkart, Michael D",CHEM 140B - Organic Chemistry II (C),WI16,376,199,87.70%,94.40%,8.56,B (3.10),B- (2.72)
+"Weizman, Haim",CHEM 140BH - Honors Organic Chemistry (A),WI16,64,43,93.00%,93.00%,8.31,B+ (3.49),B+ (3.66)
+"Godula, Kamil",CHEM 140C - Organic Chemistry III (A),WI16,184,171,87.10%,92.90%,7.36,B (3.09),B- (2.72)
+"Gianneschi, Nathan",CHEM 141 - Organic Nanomaterials (A),WI16,3,3,100.00%,100.00%,4.5,B+ (3.33),N/A
+"Ternansky, Robert J.",CHEM 143A - Organic Chemistry Laboratory (A),WI16,404,197,78.70%,64.90%,7.17,B- (2.99),B (3.11)
+"Weizman, Haim",CHEM 143AM - Organic Chem Lab - Majors (A),WI16,64,36,91.20%,94.10%,8.09,B (3.29),B- (2.97)
+"Albizati, Kim F.",CHEM 143B - Organic Chemistry Laboratory (A),WI16,86,38,94.10%,97.10%,5.83,B+ (3.45),B (3.14)
+"Godula, Kamil",CHEM 155 - Synthesis of Complex Molecules (A),WI16,3,1,100.00%,100.00%,8.5,A (4.00),N/A
+"Yang, Jerry",CHEM 156 - Struct&Properties/Organc Molec (A),WI16,8,5,60.00%,100.00%,6.5,B+ (3.40),N/A
+"Devaraj, Neal Krishna",CHEM 168 - Drug Synthesis and Design (A),WI16,52,21,95.20%,95.20%,5.36,B (3.24),B (3.26)
+"Pomeroy, Robert S.",CHEM 172 - Environmental Chemistry II (A),WI16,39,17,94.10%,100.00%,6.26,B (3.18),B- (2.95)
+"Bussey, Thomas J",CHEM 187 - Foundn of Teach&Learn Science (A),WI16,5,3,100.00%,100.00%,4.5,B+ (3.67),N/A
+"Newsam, John",CHEM 194 - Special Topics in Chemistry (A),WI16,18,16,93.80%,100.00%,1.75,A- (3.86),N/A
+"Albizati, Kim F.",CHEM 194 - Special Topics in Chemistry (B),WI16,18,11,90.90%,90.90%,2.14,B (3.11),N/A
+"Dibrov, Sergey M",CHEM 6A - General Chemistry I (A),WI16,128,87,78.30%,47.00%,6.25,C+ (2.44),C (2.24)
+"Dembinski, Holly",CHEM 6A - General Chemistry I (B),WI16,248,125,82.60%,46.10%,6.19,C+ (2.47),B- (2.78)
+"Fisher, Kaitlin Mallory",CHEM 6A - General Chemistry I (C),WI16,211,103,92.80%,93.80%,6.64,B (3.08),B (3.19)
+"Trogler, William C",CHEM 6B - General Chemistry II (A),WI16,384,225,92.60%,79.60%,6.28,B+ (3.39),B (3.24)
+"Kummel, Andrew C",CHEM 6B - General Chemistry II (B),WI16,378,242,90.90%,91.30%,6.25,B (3.26),B- (2.86)
+"Hamaoka, Brent Y",CHEM 6B - General Chemistry II (C),WI16,153,85,83.30%,51.30%,5.29,B (3.08),B- (2.79)
+"Hoeger, Carl",CHEM 6B - General Chemistry II (D),WI16,375,227,92.50%,86.80%,7.57,B (3.12),B- (2.83)
+"Johnson, Christina A",CHEM 6B - General Chemistry II (E),WI16,428,261,89.40%,92.10%,7.65,B (3.10),B (3.03)
+"Paesani, Francesco",CHEM 6BH - Honors General Chemistry II (A),WI16,104,79,88.20%,97.40%,7.37,B+ (3.57),B+ (3.46)
+"Hoeger, Carl",CHEM 6C - General Chemistry III (A),WI16,155,73,87.50%,86.10%,7.97,C+ (2.69),B- (2.73)
+"Berniolles, Sandrine",CHEM 7L - General Chemistry Laboratory (A),WI16,225,94,81.70%,87.80%,6.06,B (3.12),B (3.05)
+"Berniolles, Sandrine",CHEM 7L - General Chemistry Laboratory (B),WI16,205,111,84.60%,87.50%,5.94,B (3.26),B (3.05)
+"Fisher, Kaitlin Mallory",CHEM 7L - General Chemistry Laboratory (C),WI16,131,76,83.30%,98.60%,6.09,B+ (3.43),B+ (3.32)
+"Brydges, Stacey",CHEM 7LM - General Chemistry Lab - Majors (A),WI16,77,42,97.60%,100.00%,8.83,B+ (3.55),B+ (3.65)
+"Bussey, Thomas J",CHEM 87 - Freshman Seminar (B),WI16,17,10,100.00%,100.00%,1.93,N/A,N/A
+"Bussey, Thomas J",CHEM 96 - Introductn to Teaching Science (A),WI16,15,11,100.00%,100.00%,3.23,A- (3.90),N/A
+"Pomeroy, Robert S.",CHEM 100A - Analytical Chemistry Lab (A),FA15,121,60,75.90%,81.00%,7.64,B (3.26),B- (3.00)
+"Xiong, Wei",CHEM 105A - Physical Chemistry Laboratory (A),FA15,30,5,100.00%,100.00%,8.5,B+ (3.60),B (3.06)
+"Xiong, Wei",CHEM 105B - Physical Chemistry Laboratory (A),FA15,5,3,66.70%,66.70%,7.83,B+ (3.67),N/A
+"Ghosh, Gourisankar",CHEM 108 - Protein Biochemistry Lab (A),FA15,57,20,100.00%,75.00%,5.17,B+ (3.53),B+ (3.42)
+"Brydges, Stacey",CHEM 11 - The Periodic Table (A),FA15,197,91,90.90%,98.90%,4.91,B+ (3.31),B (3.22)
+"Toor, Navtej",CHEM 114A - Biochemical Structure&Function (A),FA15,190,83,88.90%,85.20%,6.53,B (3.26),B (3.09)
+"Ghosh, Gourisankar",CHEM 114D - Molecular & Cellular Biochem (A),FA15,29,4,50.00%,75.00%,5.5,B (3.25),B+ (3.47)
+"Rinehart, Jeffrey Dennis",CHEM 120A - Inorganic Chemistry I (A),FA15,116,58,90.60%,92.50%,5.13,B+ (3.33),B- (2.91)
+"Yuen Zhou, Joel",CHEM 127 - Physical Chem: Thermodynamics (A),FA15,113,55,49.00%,33.30%,8.62,B (3.04),B- (2.77)
+"Sinha, Amitabha",CHEM 130 - Chem Physics: Quantum Mech (A),FA15,85,44,62.80%,67.40%,8.75,B- (2.80),C+ (2.40)
+"Oconnor, Joseph M.",CHEM 140A - Organic Chemistry I (A),FA15,392,161,83.90%,87.90%,9.65,B (3.07),B- (2.72)
+"Yang, Jerry",CHEM 140A - Organic Chemistry I (B),FA15,257,108,86.80%,84.00%,8.44,B (3.13),B- (2.79)
+"Ternansky, Robert J.",CHEM 140A - Organic Chemistry I (C),FA15,248,146,80.40%,69.60%,10.78,C+ (2.68),C+ (2.68)
+"Perrin, Charles L.",CHEM 140A - Organic Chemistry I (D),FA15,341,171,82.00%,91.90%,8.71,B- (2.99),B- (2.75)
+"Theodorakis, Emmanouil",CHEM 140B - Organic Chemistry II (A),FA15,347,118,79.80%,90.80%,8.09,B- (2.89),B- (2.78)
+"Hermann, Thomas",CHEM 140C - Organic Chemistry III (A),FA15,204,128,83.90%,89.50%,7.95,B (3.17),B- (2.76)
+"Ternansky, Robert J.",CHEM 143A - Organic Chemistry Laboratory (A),FA15,410,186,82.70%,85.10%,6.63,B (3.21),B (3.09)
+"Albizati, Kim F.",CHEM 143C - Organic Chemistry Laboratory (A),FA15,66,31,96.70%,100.00%,6.17,B+ (3.30),B (3.29)
+"Weizman, Haim",CHEM 143D - Molecular Design & Synthesis (A),FA15,9,3,100.00%,100.00%,7.17,B+ (3.33),N/A
+"Theodorakis, Emmanouil",CHEM 152 - Synthetic Methods/Organic Chem (A),FA15,22,10,100.00%,100.00%,4.5,B+ (3.63),A- (3.92)
+"Tor, Yitzhak",CHEM 154 - Mechanisms/Organic Reactions (A),FA15,38,14,92.30%,100.00%,5.83,B+ (3.33),B+ (3.41)
+"Pomeroy, Robert S.",CHEM 171 - Environmental Chemistry I (A),FA15,110,46,86.70%,88.90%,5.8,B (3.07),B- (2.72)
+"Albizati, Kim F.",CHEM 192 - Sr Seminar in Chem & Biochem (A),FA15,18,10,100.00%,100.00%,2.72,A (4.00),N/A
+"Hoeger, Carl",CHEM 4 - Basic Chemistry (A),FA15,245,146,88.90%,89.60%,6.89,B- (2.73),B- (2.96)
+"Zimmermann, Joerg",CHEM 6A - General Chemistry I (A),FA15,342,229,85.80%,64.70%,6.72,B (3.03),B (3.09)
+"Crowell, John E",CHEM 6A - General Chemistry I (B),FA15,413,228,81.70%,34.90%,6.99,B- (2.98),B- (2.79)
+"Dembinski, Holly",CHEM 6A - General Chemistry I (C),FA15,355,183,86.60%,55.50%,6.25,B (3.02),B- (2.94)
+"Johnson, Christina A",CHEM 6A - General Chemistry I (D),FA15,422,230,94.30%,98.10%,6.86,B (3.26),B (3.16)
+"Bussey, Thomas J",CHEM 6A - General Chemistry I (E),FA15,404,246,95.30%,95.30%,6.46,B (3.28),B- (2.97)
+"Crowell, John E",CHEM 6A - General Chemistry I (F),FA15,352,191,76.90%,38.70%,7.22,B (3.04),B- (2.79)
+"Bussey, Thomas J",CHEM 6A - General Chemistry I (G),FA15,359,195,93.00%,97.30%,6.2,B (3.27),B- (2.97)
+"Kim, Judy E.",CHEM 6AH - Honors General Chemistry I (A),FA15,157,98,63.00%,91.30%,8.74,B (3.12),B (3.17)
+"Hoeger, Carl",CHEM 6B - General Chemistry II (A),FA15,220,89,89.00%,89.00%,7.83,B- (2.91),C+ (2.64)
+"Johnson, Christina A",CHEM 6C - General Chemistry III (A),FA15,356,144,89.60%,94.80%,8.29,B- (2.91),C+ (2.64)
+"Berniolles, Sandrine",CHEM 7L - General Chemistry Laboratory (A),FA15,268,121,80.00%,89.00%,5.88,B (3.25),B (3.04)
+"Berniolles, Sandrine",CHEM 7L - General Chemistry Laboratory (B),FA15,266,105,83.50%,87.60%,6.5,B+ (3.35),B (3.04)
+"Hamaoka, Brent Y",CHEM 7L - General Chemistry Laboratory (C),FA15,132,60,94.60%,82.10%,7.01,B+ (3.35),B+ (3.42)
+"Brydges, Stacey",CHEM 87 - Freshman Seminar (B),FA15,14,9,100.00%,100.00%,1,A (4.00),N/A
+"Albizati, Kim F.",CHEM 87 - Freshman Seminar (C),FA15,15,8,100.00%,100.00%,0.5,A (4.00),N/A
+"Doolittle, Russell F.",CHEM 87 - Freshman Seminar (D),FA15,16,12,83.30%,83.30%,0.83,A (4.00),N/A
+"Hamaoka, Brent Y",CHEM 108 - Protein Biochemistry Lab (A),S215,16,11,90.90%,100.00%,10.68,B (3.10),N/A
+"Ternansky, Robert J.",CHEM 140A - Organic Chemistry I (A),S215,68,23,73.90%,82.60%,16.41,B (3.00),B- (2.79)
+"Hammons, Justin Charles",CHEM 140A - Organic Chemistry I (B),S215,25,24,100.00%,90.90%,13.55,B+ (3.43),B+ (3.32)
+"Oconnor, Joseph M.",CHEM 140B - Organic Chemistry II (B),S215,156,29,69.00%,93.10%,14.22,B (3.10),C+ (2.59)
+"Albizati, Kim F.",CHEM 140C - Organic Chemistry III (A),S215,117,25,92.00%,100.00%,10.17,B (3.17),C+ (2.68)
+"Pomeroy, Robert S.",CHEM 6A - General Chemistry I (A),S215,44,16,92.90%,100.00%,9.21,B+ (3.67),B- (2.80)
+"Johnson, Christina A",CHEM 6B - General Chemistry II (A),S215,34,10,90.00%,100.00%,9.3,C+ (2.56),C+ (2.53)
+"Johnson, Christina A",CHEM 6C - General Chemistry III (A),S215,92,23,84.20%,94.70%,12.18,B (3.26),B- (2.72)
+"Dembinski, Holly",CHEM 11 - The Periodic Table (A),S115,27,13,100.00%,100.00%,5.88,A- (3.78),B+ (3.64)
+"Bussey, Thomas J",CHEM 114A - Biochemical Structure&Function (A),S115,39,11,100.00%,100.00%,8.86,B (3.18),B (3.04)
+"Oconnor, Joseph M.",CHEM 140A - Organic Chemistry I (B),S115,141,29,77.80%,85.20%,11.02,B (3.15),C+ (2.68)
+"Weizman, Haim",CHEM 140B - Organic Chemistry II (A),S115,210,45,88.60%,100.00%,9.59,B (3.27),B- (2.82)
+"Albizati, Kim F.",CHEM 140C - Organic Chemistry III (A),S115,101,22,85.00%,100.00%,11.4,B- (2.79),C+ (2.61)
+"Weizman, Haim",CHEM 143A - Organic Chemistry Laboratory (A),S115,72,12,100.00%,90.00%,9.7,B+ (3.50),B (3.07)
+"Ternansky, Robert J.",CHEM 143B - Organic Chemistry Laboratory (A),S115,28,17,94.10%,100.00%,6.85,B (3.29),B (3.29)
+"Hoeger, Carl",CHEM 6A - General Chemistry I (A),S115,43,14,84.60%,92.30%,9,B+ (3.36),C+ (2.67)
+"Bussey, Thomas J",CHEM 6B - General Chemistry II (A),S115,45,9,88.90%,88.90%,8.5,B (3.22),C+ (2.63)
+"Hoeger, Carl",CHEM 6C - General Chemistry III (A),S115,72,22,85.70%,95.20%,9.3,B (3.00),B- (2.96)
+"Berniolles, Sandrine",CHEM 7L - General Chemistry Laboratory (A),S115,176,59,87.20%,83.00%,8.88,B+ (3.36),B (3.01)
+"Leigh, Brian",CHEM 7L - General Chemistry Laboratory (B),S115,133,43,90.20%,95.10%,8.6,B+ (3.38),B- (2.96)
+"Leigh, Brian",CHEM 100A - Analytical Chemistry Lab (A),SP15,62,28,83.30%,83.30%,7.28,B (3.05),B- (2.79)
+"Pomeroy, Robert S.",CHEM 100B - Instrumental Chemistry Lab (A),SP15,25,9,87.50%,87.50%,12.5,B (3.13),B- (2.98)
+"Crowell, John E",CHEM 105A - Physical Chemistry Laboratory (A),SP15,42,16,53.30%,60.00%,10.1,B (3.00),B- (2.97)
+"Zimmermann, Joerg",CHEM 105A - Physical Chemistry Laboratory (B),SP15,10,7,83.30%,100.00%,10.17,B+ (3.33),N/A
+"Crowell, John E",No CAPEs submitted,SP15,6,0,N/A,N/A,N/A,N/A,N/A
+"Mrse, Anthony Adrian",CHEM 108 - Protein Biochemistry Lab (A),SP15,46,18,82.40%,94.10%,8.85,B+ (3.56),B+ (3.40)
+"Wang, Wei",CHEM 11 - The Periodic Table (A),SP15,158,58,75.40%,56.10%,4.08,B+ (3.64),B- (2.95)
+"Komives, Elizabeth A",CHEM 113 - Physical Chem/Biol Macromolec (A),SP15,21,6,100.00%,100.00%,7.3,A (4.00),A- (3.80)
+"Wollman, Roy",CHEM 114B - Biochem Energetics&Metabolism (A),SP15,32,23,77.30%,81.80%,6.5,B+ (3.33),B (3.06)
+"Joseph, Simpson",CHEM 114C - Biosynthesis of Macromolecules (A),SP15,174,55,88.00%,86.00%,6.24,B+ (3.38),B- (2.81)
+"Rinehart, Jeffrey Dennis",CHEM 120A - Inorganic Chemistry I (A),SP15,103,50,87.50%,95.80%,7,B+ (3.31),B- (2.88)
+"Sailor, Michael Joseph",CHEM 120B - Inorganic Chemistry II (A),SP15,48,22,86.40%,90.90%,5.26,B+ (3.45),B (3.17)
+"Crowell, John E",CHEM 126 - Physical Chem: Quantum Mech (A),SP15,63,25,56.00%,48.00%,6.95,B (3.00),C+ (2.59)
+"Tauber, Michael",CHEM 127 - Physical Chem: Thermodynamics (A),SP15,59,27,88.90%,85.20%,6.57,B (3.08),C+ (2.66)
+"Opella, Stanley J",CHEM 13 - Chemistry of Life (A),SP15,51,18,62.50%,87.50%,4,B- (2.88),B- (2.95)
+"Galperin, Michael",CHEM 132 - Chem Physics: Stat Thermo II (A),SP15,35,14,71.40%,100.00%,6.65,B (3.00),C+ (2.67)
+"Sinha, Amitabha",CHEM 135 - Molecular Spectroscopy (A),SP15,7,2,100.00%,100.00%,6.5,B+ (3.50),N/A
+"Ternansky, Robert J.",CHEM 140A - Organic Chemistry I (A),SP15,218,89,74.40%,79.10%,9.86,B- (2.77),C+ (2.60)
+"Molinski, Tadeusz",CHEM 140B - Organic Chemistry II (A),SP15,118,38,60.50%,28.90%,8.55,C+ (2.59),C+ (2.63)
+"Whitesell, James K.",CHEM 140B - Organic Chemistry II (B),SP15,389,153,71.90%,48.90%,5.8,B (3.25),B- (2.73)
+"Albizati, Kim F.",CHEM 140C - Organic Chemistry III (A),SP15,383,128,88.00%,94.90%,8.21,B (3.22),B- (2.74)
+"Hoeger, Carl",CHEM 140C - Organic Chemistry III (B),SP15,111,49,72.30%,83.00%,8.23,B- (2.93),B- (2.89)
+"Tor, Yitzhak",CHEM 140CH - Honors Organic Chemistry (A),SP15,48,25,91.30%,95.70%,7.68,B+ (3.43),A- (3.72)
+"Gianneschi, Nathan",CHEM 141 - Organic Nanomaterials (B),SP15,2,1,100.00%,100.00%,2.5,A (4.00),N/A
+"Lipomi, Darren John",CHEM 141 - Organic Nanomaterials (B),SP15,2,1,100.00%,100.00%,2.5,A (4.00),N/A
+"Albizati, Kim F.",CHEM 143A - Organic Chemistry Laboratory (A),SP15,367,130,90.80%,96.70%,6.42,B+ (3.39),B (3.05)
+"Albizati, Kim F.",CHEM 143A - Organic Chemistry Laboratory (B),SP15,89,31,96.60%,100.00%,8.22,B (3.27),B (3.05)
+"Ternansky, Robert J.",CHEM 143B - Organic Chemistry Laboratory (A),SP15,84,36,88.20%,94.10%,6.85,B (3.09),B (3.25)
+"Burkart, Michael D",CHEM 157 - Natural Products Chemistry (A),SP15,36,11,90.90%,72.70%,5.59,B- (2.82),B (3.06)
+"Perrin, Charles L.",CHEM 158 - Applied Spectroscopy (A),SP15,11,9,66.70%,88.90%,6.28,B (3.25),N/A
+"Baker, Timothy Stanley",CHEM 164 - Structural Biology of Viruses (A),SP15,43,17,81.30%,100.00%,5.3,B+ (3.63),B (3.21)
+"Swift, Robert Vernon",CHEM 167 - Medicinal Chemistry (A),SP15,24,10,100.00%,100.00%,6.06,B+ (3.56),B (3.20)
+"Evan, Amato Tomas",CHEM 173 - Atmospheric Chemistry (A),SP15,9,4,100.00%,100.00%,6.5,B (3.00),N/A
+"Molina, Mario",CHEM 173 - Atmospheric Chemistry (A),SP15,9,4,100.00%,100.00%,6.5,B (3.00),N/A
+"Prather, Kimberly A",CHEM 173 - Atmospheric Chemistry (A),SP15,9,4,100.00%,100.00%,6.5,B (3.00),N/A
+"Ramanathan, Veerabhadran",CHEM 173 - Atmospheric Chemistry (A),SP15,9,4,100.00%,100.00%,6.5,B (3.00),N/A
+"Bussey, Thomas J",CHEM 188 - Capstone Sem in Science Eductn (A),SP15,7,5,100.00%,100.00%,5.3,A (4.00),N/A
+"Zimmermann, Joerg",CHEM 6A - General Chemistry I (A),SP15,125,47,84.10%,59.10%,4.59,B (3.00),C+ (2.64)
+"Johnson, Christina A",CHEM 6B - General Chemistry II (A),SP15,373,165,84.80%,91.80%,7.67,B- (2.83),C+ (2.64)
+"Hamaoka, Brent Y",CHEM 6B - General Chemistry II (B),SP15,176,61,85.70%,71.40%,5.88,B- (2.82),C+ (2.46)
+"Hoeger, Carl",CHEM 6C - General Chemistry III (A),SP15,247,109,89.70%,86.90%,7.29,B- (2.98),B- (2.85)
+"Brydges, Stacey",CHEM 6C - General Chemistry III (B),SP15,400,177,90.10%,98.30%,6.28,B (3.20),B (3.11)
+"Pomeroy, Robert S.",CHEM 6C - General Chemistry III (C),SP15,300,139,84.30%,64.20%,6.19,B (3.11),B- (2.94)
+"Johnson, Christina A",CHEM 6C - General Chemistry III (D),SP15,396,184,88.80%,91.60%,8.31,B (3.07),B- (2.95)
+"Kubiak, Clifford Paul",CHEM 6CH - Honors General Chemistry III (A),SP15,71,39,91.90%,91.90%,6.93,B (3.25),B (3.27)
+"Berniolles, Sandrine",CHEM 7L - General Chemistry Laboratory (A),SP15,266,91,83.90%,85.10%,5.66,B (3.29),B- (2.96)
+"Berniolles, Sandrine",CHEM 7L - General Chemistry Laboratory (B),SP15,270,96,83.50%,89.00%,6.25,B (3.05),B- (2.96)
+"Brydges, Stacey",CHEM 7LM - General Chemistry Lab - Majors (A),SP15,94,57,91.10%,91.10%,9.75,B+ (3.38),B+ (3.58)
+"Albizati, Kim F.",CHEM 87 - Freshman Seminar (A),SP15,10,5,100.00%,100.00%,0.5,A (4.00),N/A
+"Tukey, Robert H",CHEM 92 - Undergrad Pharmacology Seminar (A),SP15,121,52,95.70%,97.90%,1.43,A (4.00),N/A
+"Kummel, Andrew C",CHEM 93 - Cancer Therapeutic/Diagnostic (0),SP15,5,3,100.00%,100.00%,4.5,A (4.00),N/A
+"Bussey, Thomas J",CHEM 96 - Introductn to Teaching Science (A),SP15,6,4,100.00%,100.00%,3,A (4.00),N/A
+"Tauber, Michael",CHEM 100A - Analytical Chemistry Lab (A),WI15,45,25,68.20%,45.50%,9.55,B- (2.76),B- (2.78)
+"Pomeroy, Robert S.",CHEM 100B - Instrumental Chemistry Lab (A),WI15,16,9,71.40%,85.70%,11.17,B (3.29),N/A
+"Magde, Douglas",CHEM 105A - Physical Chemistry Laboratory (A),WI15,45,14,83.30%,91.70%,9.59,B (3.09),B (3.01)
+"Zimmermann, Joerg",CHEM 105A - Physical Chemistry Laboratory (A),WI15,45,14,83.30%,83.30%,9.59,B (3.09),B (3.01)
+"Magde, Douglas",CHEM 105B - Physical Chemistry Laboratory (A),WI15,3,2,100.00%,50.00%,15.5,B+ (3.50),N/A
+"Magde, Douglas",No CAPEs submitted,WI15,1,0,N/A,N/A,N/A,N/A,N/A
+"Johnson, Christina A",CHEM 109 - Recombinant DNA Laboratory (A),WI15,79,29,96.30%,96.30%,9.54,B+ (3.46),B+ (3.39)
+"Toor, Navtej",CHEM 114A - Biochemical Structure&Function (A),WI15,104,53,94.10%,96.10%,6.15,B (3.24),B- (2.99)
+"Komives, Elizabeth A",CHEM 114B - Biochem Energetics&Metabolism (A),WI15,134,58,85.20%,96.30%,6.96,B (3.21),B (3.26)
+"Devaraj, Neal Krishna",CHEM 116 - Chemical Biology (A),WI15,25,6,83.30%,100.00%,6.5,B+ (3.60),B+ (3.40)
+"Tukey, Robert H",CHEM 118 - Pharmacology and Toxicology (A),WI15,118,45,92.10%,86.80%,5.87,B+ (3.34),B- (2.84)
+"Dibrov, Sergey M",CHEM 12 - Molecules and Reactions (A),WI15,149,125,69.60%,75.20%,4.6,B- (2.94),B- (2.78)
+"Figueroa, Joshua",CHEM 120A - Inorganic Chemistry I (A),WI15,123,62,86.70%,93.30%,6.31,B (3.23),B- (2.71)
+"Sailor, Michael Joseph",CHEM 123 - Advanced Inorganic Chem Lab (A),WI15,12,5,100.00%,100.00%,3.3,A- (3.80),N/A
+"Tezcan, Faik",CHEM 125 - Bioinorganic Chemistry (A),WI15,10,4,100.00%,100.00%,8.5,A- (3.75),N/A
+"Paesani, Francesco",CHEM 126 - Physical Chem: Quantum Mech (A),WI15,149,65,64.50%,90.30%,8.57,B (3.08),C+ (2.58)
+"Weare, John H.",CHEM 131 - Chem Physics: Stat Thermo I (A),WI15,62,32,63.30%,20.00%,8.09,B (3.00),B- (2.93)
+"Bertrand, Guy",CHEM 140A - Organic Chemistry I (A),WI15,408,175,92.60%,96.90%,6.18,B+ (3.35),B- (2.78)
+"Gianneschi, Nathan",CHEM 140A - Organic Chemistry I (B),WI15,320,129,86.10%,75.40%,7.41,B- (2.76),C+ (2.45)
+"Guerrero, Carlos Ariel",CHEM 140B - Organic Chemistry II (A),WI15,278,108,77.50%,73.50%,8.82,B (3.00),C+ (2.55)
+"Whitesell, James K.",CHEM 140B - Organic Chemistry II (B),WI15,267,92,87.40%,62.10%,6.71,B+ (3.36),B- (2.73)
+"Theodorakis, Emmanouil",CHEM 140B - Organic Chemistry II (C),WI15,306,145,75.60%,88.10%,7.61,B- (2.72),B (3.00)
+"Weizman, Haim",CHEM 140BH - Honors Organic Chemistry (A),WI15,42,21,100.00%,95.20%,7.55,A- (3.76),A- (3.74)
+"Godula, Kamil",CHEM 140C - Organic Chemistry III (A),WI15,118,48,83.00%,87.20%,6.72,B (3.11),B- (2.75)
+"Ternansky, Robert J.",CHEM 143A - Organic Chemistry Laboratory (A),WI15,306,131,87.70%,87.70%,6.5,B (3.17),B (3.08)
+"Albizati, Kim F.",CHEM 143A - Organic Chemistry Laboratory (B),WI15,106,40,89.50%,94.70%,7.74,B (3.24),B (3.11)
+"Ternansky, Robert J.",CHEM 143B - Organic Chemistry Laboratory (A),WI15,88,42,95.00%,90.00%,6.5,B (3.28),B+ (3.37)
+"Burkart, Michael D",CHEM 145 - Biofuels (A),WI15,7,3,100.00%,100.00%,6.5,B (3.00),N/A
+"Theodorakis, Emmanouil",CHEM 151 - Molecules That Changed World (A),WI15,48,18,88.20%,29.40%,3.56,B (3.29),B+ (3.70)
+"Weizman, Haim",CHEM 151 - Molecules That Changed World (A),WI15,49,18,88.20%,100.00%,3.56,B (3.29),B+ (3.70)
+"Godula, Kamil",No CAPEs submitted,WI15,1,0,N/A,N/A,N/A,N/A,N/A
+"Perrin, Charles L.",No CAPEs submitted,WI15,3,0,N/A,N/A,N/A,N/A,N/A
+"Devaraj, Neal Krishna",CHEM 168 - Drug Synthesis and Design (A),WI15,22,5,100.00%,100.00%,3.7,B+ (3.60),B+ (3.40)
+"Pomeroy, Robert S.",CHEM 172 - Environmental Chemistry II (A),WI15,32,12,81.80%,90.90%,8.68,B (3.18),B- (2.93)
+"Bussey, Thomas J",CHEM 187 - Foundn of Teach&Learn Science (A),WI15,6,5,100.00%,100.00%,6.5,A (4.00),N/A
+"Albizati, Kim F.",CHEM 192 - Sr Seminar in Chem & Biochem (A),WI15,18,6,100.00%,100.00%,0.5,A (4.00),N/A
+"Newsam, John",CHEM 194 - Special Topics in Chemistry (A),WI15,14,12,100.00%,100.00%,2.33,A- (3.91),N/A
+"Bussey, Thomas J",CHEM 6A - General Chemistry I (A),WI15,262,148,90.00%,92.10%,6.49,B (3.15),B- (2.70)
+"Hoeger, Carl",CHEM 6A - General Chemistry I (B),WI15,101,43,92.70%,95.10%,7.01,B- (2.78),C+ (2.56)
+"Johnson, Christina A",CHEM 6A - General Chemistry I (C),WI15,284,128,90.20%,95.10%,6.65,B- (2.82),C+ (2.69)
+"Trogler, William C",CHEM 6B - General Chemistry II (A),WI15,352,181,91.10%,75.70%,5.9,B (3.30),B- (2.98)
+"Kummel, Andrew C",CHEM 6B - General Chemistry II (B),WI15,388,211,91.30%,83.50%,6.81,B (3.09),B- (2.75)
+"Muller, Ulrich K.",CHEM 6B - General Chemistry II (C),WI15,372,196,91.10%,86.10%,5.05,B+ (3.42),B- (2.87)
+"Leigh, Brian",CHEM 6B - General Chemistry II (D),WI15,356,175,91.30%,95.30%,6.28,B (3.20),B- (2.77)
+"Hoeger, Carl",CHEM 6B - General Chemistry II (E),WI15,399,201,90.60%,83.30%,7.54,B (3.05),B- (2.84)
+"Paesani, Francesco",CHEM 6BH - Honors General Chemistry II (A),WI15,97,61,84.20%,93.00%,7.21,B (3.22),B (3.28)
+"Ghosh, Partho",CHEM 6C - General Chemistry III (A),WI15,305,126,83.20%,85.70%,6.48,B- (2.94),C+ (2.63)
+"Berniolles, Sandrine",CHEM 7L - General Chemistry Laboratory (A),WI15,260,96,92.40%,82.60%,6.1,B (3.29),B (3.02)
+"Berniolles, Sandrine",CHEM 7L - General Chemistry Laboratory (B),WI15,267,103,86.30%,84.20%,5.87,B+ (3.34),B (3.02)
+"Brydges, Stacey",CHEM 7LM - General Chemistry Lab - Majors (A),WI15,87,47,83.00%,89.40%,8.5,B (3.11),B+ (3.31)
+"Albizati, Kim F.",CHEM 87 - Freshman Seminar (A),WI15,11,9,100.00%,100.00%,0.5,N/A,N/A
+"Weizman, Haim",CHEM 87 - Freshman Seminar (B),WI15,18,12,100.00%,100.00%,0.5,N/A,N/A
+"Evan, Amato Tomas",CHEM 87 - Freshman Seminar (C),WI15,3,3,100.00%,100.00%,1.83,N/A,N/A
+"Prather, Kimberly A",CHEM 87 - Freshman Seminar (C),WI15,3,3,100.00%,100.00%,1.83,N/A,N/A
+"Ramanathan, Veerabhadran",CHEM 87 - Freshman Seminar (C),WI15,3,3,100.00%,100.00%,1.83,N/A,N/A
+"Bussey, Thomas J",CHEM 96 - Introductn to Teaching Science (A),WI15,10,6,100.00%,100.00%,4.1,B+ (3.60),N/A
+"Pomeroy, Robert S.",CHEM 100A - Analytical Chemistry Lab (A),FA14,88,36,84.80%,87.90%,8.94,B (3.19),B- (2.80)
+"Xiong, Wei",CHEM 105A - Physical Chemistry Laboratory (A),FA14,37,18,87.50%,68.80%,8,B+ (3.50),B (3.01)
+"Xiong, Wei",CHEM 105B - Physical Chemistry Laboratory (A),FA14,4,1,100.00%,100.00%,4.5,A (4.00),N/A
+"Ghosh, Gourisankar",CHEM 108 - Protein Biochemistry Lab (A),FA14,78,29,100.00%,88.00%,5.54,A- (3.72),B+ (3.50)
+"Dibrov, Sergey M",CHEM 11 - The Periodic Table (A),FA14,266,133,69.60%,64.30%,4.68,B (3.24),B (3.14)
+"Jennings, Patricia A.",CHEM 114A - Biochemical Structure&Function (A),FA14,245,91,76.70%,30.20%,6.23,B+ (3.31),B (3.26)
+"Ghosh, Gourisankar",CHEM 114D - Molecular & Cellular Biochem (A),FA14,33,12,100.00%,100.00%,9.17,A- (3.82),B+ (3.64)
+"Tauber, Michael",CHEM 127 - Physical Chem: Thermodynamics (A),FA14,149,60,77.80%,75.90%,8.58,B (3.15),B- (2.71)
+"Sinha, Amitabha",CHEM 130 - Chem Physics: Quantum Mech (B),FA14,79,42,60.00%,80.00%,8.24,B- (2.92),C+ (2.58)
+"Oconnor, Joseph M.",CHEM 140A - Organic Chemistry I (A),FA14,362,162,77.10%,80.70%,10.08,B (3.06),B- (2.81)
+"Yang, Jerry",CHEM 140A - Organic Chemistry I (B),FA14,264,102,84.00%,63.80%,7.98,B- (2.98),C+ (2.62)
+"Ternansky, Robert J.",CHEM 140A - Organic Chemistry I (C),FA14,214,114,86.20%,89.90%,10.01,B- (2.92),B- (2.74)
+"Reyes-Rodriguez, Gabriel J",CHEM 140A - Organic Chemistry I (D),FA14,352,190,88.20%,91.10%,8.28,B (3.07),B- (2.71)
+"Albizati, Kim F.",CHEM 140B - Organic Chemistry II (A),FA14,311,105,85.60%,98.90%,7.56,B (3.03),C+ (2.57)
+"Hermann, Thomas",CHEM 140C - Organic Chemistry III (A),FA14,275,169,86.00%,91.70%,7.32,B (3.11),B- (2.76)
+"Albizati, Kim F.",CHEM 143A - Organic Chemistry Laboratory (A),FA14,335,133,87.00%,98.30%,7.45,B (3.29),B- (2.99)
+"Albizati, Kim F.",CHEM 143A - Organic Chemistry Laboratory (B),FA14,117,30,89.30%,100.00%,6.35,B+ (3.37),B- (2.99)
+"Ternansky, Robert J.",CHEM 143C - Organic Chemistry Laboratory (B),FA14,73,30,92.30%,100.00%,8.35,B+ (3.35),B (3.29)
+"Guerrero, Carlos Ariel",CHEM 152 - Synthetic Methods/Organic Chem (A),FA14,26,6,83.30%,83.30%,8.17,B (3.00),B (3.15)
+"Tor, Yitzhak",CHEM 154 - Mechanisms/Organic Reactions (A),FA14,49,18,100.00%,100.00%,7.61,B+ (3.39),B+ (3.34)
+"Collins, Douglas Bradford",CHEM 171 - Environmental Chemistry I (A),FA14,64,28,96.20%,88.50%,7.14,B (3.08),C+ (2.69)
+"Gilson, Michael K.",CHEM 185 - Intro/Computational Chemistry (A),FA14,3,1,100.00%,100.00%,10.5,A (4.00),N/A
+"Albizati, Kim F.",CHEM 192 - Sr Seminar in Chem & Biochem (A),FA14,16,3,100.00%,100.00%,1.17,N/A,N/A
+"Hoeger, Carl",CHEM 4 - Basic Chemistry (A),FA14,304,168,88.90%,91.70%,6.12,B- (2.78),B- (2.76)
+"Hoeger, Carl",CHEM 6A - General Chemistry I (A),FA14,404,254,94.90%,89.90%,7.2,B (3.10),B- (2.96)
+"Crowell, John E",CHEM 6A - General Chemistry I (B),FA14,407,220,83.00%,52.10%,6.83,B (3.14),B- (2.95)
+"Bussey, Thomas J",CHEM 6A - General Chemistry I (C),FA14,419,266,95.30%,95.70%,6.12,B+ (3.35),B (3.24)
+"Johnson, Christina A",CHEM 6A - General Chemistry I (D),FA14,413,226,90.70%,95.90%,7.72,B (3.14),B (3.07)
+"Zimmermann, Joerg",CHEM 6A - General Chemistry I (E),FA14,319,204,87.50%,64.80%,6.29,B (3.16),B- (2.94)
+"Hamaoka, Brent Y",CHEM 6A - General Chemistry I (F),FA14,316,204,94.10%,88.80%,5.57,B+ (3.51),B (3.11)
+"Crowell, John E",CHEM 6A - General Chemistry I (G),FA14,349,190,86.00%,44.60%,6.68,B (3.14),B- (2.95)
+"Kim, Judy E.",CHEM 6AH - Honors General Chemistry I (A),FA14,179,116,69.40%,85.70%,8.17,B+ (3.30),B (3.16)
+"Hamaoka, Brent Y",CHEM 6B - General Chemistry II (A),FA14,310,127,92.20%,80.00%,7.04,B (3.04),C+ (2.62)
+"Johnson, Christina A",CHEM 6C - General Chemistry III (A),FA14,415,169,83.40%,94.50%,8.15,B- (2.85),C+ (2.68)
+"Berniolles, Sandrine",CHEM 7L - General Chemistry Laboratory (A),FA14,269,101,86.20%,86.20%,6.13,B+ (3.40),B (3.01)
+"Berniolles, Sandrine",CHEM 7L - General Chemistry Laboratory (B),FA14,262,91,77.10%,83.10%,6.94,B+ (3.43),B (3.01)
+"Albizati, Kim F.",CHEM 87 - Freshman Seminar (A),FA14,19,13,92.30%,92.30%,0.5,N/A,N/A
+"Brydges, Stacey",CHEM 87 - Freshman Seminar (B),FA14,18,12,100.00%,100.00%,1.5,A (4.00),N/A
+"Blum, Angela Patricia",CHEM 12 - Molecules and Reactions (A),S214,18,13,100.00%,100.00%,4.04,B+ (3.36),N/A
+"Ternansky, Robert J.",CHEM 140A - Organic Chemistry I (A),S214,58,32,90.60%,93.80%,14.06,B (3.00),C+ (2.63)
+"Oconnor, Joseph M.",CHEM 140B - Organic Chemistry II (A),S214,118,11,90.90%,90.90%,14.72,B (3.20),B- (2.73)
+"Albizati, Kim F.",CHEM 140C - Organic Chemistry III (A),S214,173,42,85.40%,97.60%,10.26,B (3.20),C+ (2.59)
+"Hamaoka, Brent Y",CHEM 6A - General Chemistry I (A),S214,53,14,91.70%,83.30%,8.67,B+ (3.36),C+ (2.54)
+"Johnson, Christina A",CHEM 6B - General Chemistry II (A),S214,61,14,71.40%,100.00%,9.07,B- (2.93),B- (2.73)
+"Johnson, Christina A",CHEM 6C - General Chemistry III (A),S214,155,31,79.30%,96.60%,9.6,B- (2.93),B- (2.85)
+"Pomeroy, Robert S.",CHEM 100A - Analytical Chemistry Lab (A),S114,18,6,100.00%,100.00%,14.1,B+ (3.40),N/A
+"Hamaoka, Brent Y",CHEM 108 - Protein Biochemistry Lab (A),S114,23,6,100.00%,100.00%,10.5,B+ (3.50),B (3.16)
+"Fusco, Amanda J.",CHEM 114A - Biochemical Structure&Function (A),S114,73,16,64.30%,85.70%,6.81,B (3.14),C+ (2.50)
+"Oconnor, Joseph M.",CHEM 140A - Organic Chemistry I (A),S114,132,26,92.00%,92.00%,12.33,B+ (3.38),B- (2.80)
+"Weizman, Haim",CHEM 140B - Organic Chemistry II (A),S114,113,17,93.30%,93.30%,12.36,B (3.13),B- (2.83)
+"Albizati, Kim F.",CHEM 140C - Organic Chemistry III (A),S114,127,15,86.70%,100.00%,11.83,B+ (3.47),B- (2.72)
+"Weizman, Haim",CHEM 143A - Organic Chemistry Laboratory (A),S114,57,12,90.90%,90.90%,11.05,B- (2.82),B (3.00)
+"Ternansky, Robert J.",CHEM 143B - Organic Chemistry Laboratory (A),S114,35,15,86.70%,93.30%,7.03,B (3.00),B+ (3.44)
+"Hoeger, Carl",CHEM 6A - General Chemistry I (A),S114,64,17,100.00%,80.00%,8.77,B (3.14),B- (2.75)
+"Leigh, Brian",CHEM 6B - General Chemistry II (A),S114,50,12,100.00%,100.00%,8.3,B+ (3.33),B- (2.73)
+"Hoeger, Carl",CHEM 6C - General Chemistry III (A),S114,120,24,82.60%,91.30%,8.41,B- (2.73),B (3.12)
+"Berniolles, Sandrine",CHEM 7L - General Chemistry Laboratory (A),S114,179,45,90.50%,90.50%,9.79,B (3.29),B- (2.96)
+"Martz, Todd R.",CHEM 100A - Analytical Chemistry Lab (A),SP14,73,32,71.40%,78.60%,7.14,B+ (3.50),B+ (3.31)
+"Pomeroy, Robert S.",CHEM 100B - Instrumental Analysis (A),SP14,22,9,87.50%,100.00%,6.25,B- (2.88),B- (2.77)
+"Pomeroy, Robert S.",CHEM 100BL - Instrumental Analysis Lab (A),SP14,22,7,71.40%,100.00%,10.21,B- (2.86),B- (2.97)
+"Kim, Judy E.",CHEM 105A - Physical Chemistry Laboratory (A),SP14,38,12,66.70%,100.00%,7.17,B+ (3.33),B- (2.92)
+"Crowell, John E",CHEM 105A - Physical Chemistry Laboratory (B),SP14,43,13,83.30%,58.30%,6.86,B+ (3.36),B- (2.89)
+"Kim, Judy E.",CHEM 105B - Physical Chemistry Laboratory (A),SP14,5,2,50.00%,100.00%,14.5,B (3.00),N/A
+"Crowell, John E",CHEM 105B - Physical Chemistry Laboratory (B),SP14,4,1,100.00%,100.00%,4.5,B (3.00),N/A
+"Huang, Xuemei",CHEM 108 - Protein Biochemistry Lab (A),SP14,59,23,90.00%,95.00%,11.3,B+ (3.50),B+ (3.37)
+"Mrse, Anthony Adrian",CHEM 108 - Protein Biochemistry Lab (A),SP14,59,16,85.70%,100.00%,10.64,B+ (3.50),N/A
+"Brydges, Stacey",CHEM 11 - The Periodic Table (A),SP14,184,92,89.70%,98.90%,4.38,B (3.26),B+ (3.30)
+"Komives, Elizabeth A",CHEM 113 - Physical Chem/Biol Macromolec (A),SP14,24,12,100.00%,100.00%,5.83,B+ (3.67),A- (3.88)
+"Walker, Ross Charles",CHEM 113 - Physical Chem/Biol Macromolec (A),SP14,24,10,100.00%,100.00%,5.83,B+ (3.60),A- (3.88)
+"Wollman, Roy",CHEM 114B - Biochem Energetics&Metabolism (A),SP14,52,26,95.50%,90.90%,7.59,B+ (3.45),B (3.22)
+"Joseph, Simpson",CHEM 114C - Biosynthesis of Macromolecules (A),SP14,204,59,76.80%,76.80%,8.03,B (3.24),C+ (2.65)
+"Tezcan, Faik",CHEM 120A - Inorganic Chemistry I (A),SP14,111,39,70.30%,78.40%,6.68,B (3.03),C (2.26)
+"Opella, Stanley J",CHEM 13 - Chemistry of Life (A),SP14,63,20,75.00%,75.00%,4.4,B (3.25),B- (2.81)
+"Galperin, Michael",CHEM 133 - Chemical Physics: Quantum Mech (A),SP14,81,31,54.80%,74.20%,11.63,C+ (2.60),C+ (2.49)
+"Sinha, Amitabha",CHEM 135 - Molecular Spectroscopy (A),SP14,4,2,100.00%,100.00%,3.5,A (4.00),N/A
+"Whitesell, James K.",CHEM 140A - Organic Chemistry I (A),SP14,245,69,78.10%,51.60%,6.56,B (3.11),C+ (2.54)
+"Theodorakis, Emmanouil",CHEM 140B - Organic Chemistry II (A),SP14,371,106,81.60%,94.90%,7.59,B- (2.99),C+ (2.65)
+"Whitesell, James K.",CHEM 140B - Organic Chemistry II (B),SP14,389,103,76.80%,48.40%,6.52,B (3.11),C+ (2.65)
+"Hoeger, Carl",CHEM 140C - Organic Chemistry III (A),SP14,299,96,83.70%,84.80%,9.65,B (3.14),B (3.04)
+"Ternansky, Robert J.",CHEM 140C - Organic Chemistry III (B),SP14,120,64,95.30%,93.80%,10.23,B (3.04),C+ (2.69)
+"Tor, Yitzhak",CHEM 140CH - Honors Organic Chemistry (A),SP14,62,26,92.30%,100.00%,7.88,B+ (3.48),B+ (3.65)
+"Weizman, Haim",CHEM 143A - Organic Chemistry Laboratory (B),SP14,335,115,92.20%,85.40%,6.32,B (3.28),B- (2.97)
+"Ternansky, Robert J.",CHEM 143B - Organic Chemistry Laboratory (A),SP14,108,40,86.10%,86.10%,8.16,B (3.00),B (3.25)
+"Weizman, Haim",CHEM 143D - Molecular Design & Synthesis (A),SP14,13,5,80.00%,80.00%,8,B (3.25),N/A
+"Perrin, Charles L.",CHEM 146 - Kinetics & Mechan of Org React (A),SP14,22,8,75.00%,87.50%,3.25,B- (2.88),B+ (3.42)
+"Burkart, Michael D",CHEM 157 - Natural Products Chemistry (A),SP14,70,21,85.70%,95.20%,5.74,B (3.29),B- (2.97)
+"Molinski, Tadeusz",CHEM 158 - Applied Spectroscopy (A),SP14,9,5,60.00%,40.00%,7.3,B (3.20),N/A
+"Baker, Timothy Stanley",CHEM 164 - Structural Biology of Viruses (A),SP14,33,12,83.30%,91.70%,6.33,B (3.27),B (3.10)
+"AMARO, ROMMIE",CHEM 167 - Medicinal Chemistry (A),SP14,67,48,91.30%,87.00%,5.26,B+ (3.30),B+ (3.47)
+"Prather, Kimberly A",CHEM 173 - Atmospheric Chemistry (A),SP14,11,6,80.00%,40.00%,5.3,B (3.00),N/A
+"Dickson, Andrew Gilmore",CHEM 174 - Chem Prin of Marine Systems (A),SP14,32,7,100.00%,85.70%,5.64,B+ (3.57),B- (2.87)
+"Czworkowski, John",CHEM 188 - Capstone Sem in Science Eductn (A),SP14,5,4,100.00%,100.00%,4,B+ (3.50),N/A
+"Albizati, Kim F.",CHEM 192 - Sr Seminar in Chem & Biochem (A),SP14,16,5,100.00%,100.00%,0.5,N/A,N/A
+"Johnson, Christina A",CHEM 6A - General Chemistry I (A),SP14,261,85,92.60%,95.10%,7.46,B- (2.82),C+ (2.66)
+"Crowell, John E",CHEM 6B - General Chemistry II (A),SP14,372,140,72.10%,54.40%,7.31,B- (2.91),C+ (2.58)
+"Johnson, Christina A",CHEM 6B - General Chemistry II (B),SP14,440,187,85.20%,93.40%,7.48,B- (2.92),B- (2.75)
+"Albizati, Kim F.",CHEM 6C - General Chemistry III (A),SP14,409,199,90.10%,99.50%,6.17,B (3.19),C+ (2.57)
+"Hoeger, Carl",CHEM 6C - General Chemistry III (B),SP14,208,100,90.60%,88.50%,7.48,B (3.04),B- (2.96)
+"Brydges, Stacey",CHEM 6C - General Chemistry III (C),SP14,423,201,92.20%,92.20%,6.74,B (3.15),B (3.00)
+"Ghosh, Gourisankar",CHEM 6C - General Chemistry III (D),SP14,260,122,80.80%,22.50%,6.52,B- (2.88),B- (2.76)
+"Kubiak, Clifford Paul",CHEM 6CH - Honors General Chemistry III (A),SP14,85,45,82.20%,88.90%,6.32,B+ (3.34),B+ (3.42)
+"Berniolles, Sandrine",CHEM 7L - General Chemistry Laboratory (A),SP14,266,101,87.20%,86.20%,6.39,B (3.17),B- (2.89)
+"Berniolles, Sandrine",CHEM 7L - General Chemistry Laboratory (B),SP14,224,82,83.80%,73.80%,6.47,B+ (3.41),B- (2.89)
+"Albizati, Kim F.",CHEM 87 - Freshman Seminar (A),SP14,19,10,88.90%,88.90%,1,N/A,N/A
+"Tukey, Robert H",CHEM 92 - Undergrad Pharmacology Seminar (A),SP14,127,41,97.40%,92.10%,1.36,A (4.00),N/A
+"Czworkowski, John",CHEM 96 - Introductn to Teaching Science (A),SP14,6,4,75.00%,75.00%,4,B+ (3.50),N/A
+"Lingner, David W",CHEM 100A - Analytical Chemistry Lab (A),WI14,77,37,71.40%,34.30%,7.01,B (3.03),B- (2.94)
+"Pomeroy, Robert S.",CHEM 100B - Instrumental Analysis (A),WI14,8,4,100.00%,100.00%,4.5,C+ (2.50),N/A
+"Pomeroy, Robert S.",CHEM 100BL - Instrumental Analysis Lab (A),WI14,7,3,100.00%,100.00%,8.5,C+ (2.67),N/A
+"Continetti, Robert E.",CHEM 105A - Physical Chemistry Laboratory (A),WI14,67,28,85.20%,85.20%,9.73,B+ (3.48),B (3.00)
+"Continetti, Robert E.",CHEM 105B - Physical Chemistry Laboratory (A),WI14,4,1,100.00%,100.00%,4.5,B (3.00),N/A
+"Johnson, Christina A",CHEM 109 - Recombinant DNA Laboratory (A),WI14,95,43,95.10%,97.60%,7.96,B (3.24),B+ (3.34)
+"Toor, Navtej",CHEM 114A - Biochemical Structure&Function (A),WI14,114,56,96.30%,100.00%,6.84,B+ (3.49),B- (2.86)
+"Komives, Elizabeth A",CHEM 114B - Biochem Energetics&Metabolism (A),WI14,230,85,88.90%,96.30%,7.64,B (3.25),B- (2.90)
+"Devaraj, Neal Krishna",CHEM 116 - Chemical Biology (A),WI14,36,11,100.00%,90.00%,8.3,B (3.20),B+ (3.41)
+"Dorrestein, Pieter",CHEM 116 - Chemical Biology (A),WI14,36,10,90.00%,90.00%,8.3,B (3.00),B+ (3.41)
+"Tukey, Robert H",CHEM 118 - Pharmacology and Toxicology (A),WI14,154,62,93.30%,78.30%,4.6,B+ (3.32),B- (2.88)
+"Fry, Nicole L",CHEM 12 - Molecules and Reactions (A),WI14,152,68,63.60%,59.10%,4.5,B+ (3.43),B (3.24)
+"Sailor, Michael Joseph",CHEM 120B - Inorganic Chemistry II (A),WI14,67,36,88.60%,91.40%,5.95,B+ (3.53),B (3.18)
+"Tauber, Michael",CHEM 127 - Physical Chem: Thermodynamics (A),WI14,270,99,68.50%,81.50%,7.1,B (3.10),B- (2.72)
+"Lindenberg, Katja",CHEM 132 - Chem Physics: Stat Thermo II (A),WI14,80,37,73.50%,85.30%,8.32,B (3.09),C+ (2.48)
+"Bertrand, Guy",CHEM 140A - Organic Chemistry I (A),WI14,303,101,93.70%,96.80%,6.94,B (3.28),B- (2.74)
+"Albizati, Kim F.",CHEM 140A - Organic Chemistry I (B),WI14,413,165,91.00%,99.40%,7.57,B (3.16),C+ (2.63)
+"Ternansky, Robert J.",CHEM 140B - Organic Chemistry II (A),WI14,285,145,82.00%,89.90%,10.39,B- (2.95),C+ (2.67)
+"Hoeger, Carl",CHEM 140B - Organic Chemistry II (B),WI14,327,132,75.40%,83.10%,8.67,B (3.02),B- (2.90)
+"Hoeger, Carl",CHEM 140B - Organic Chemistry II (C),WI14,211,87,80.00%,92.50%,10.09,B- (2.94),B- (2.90)
+"Weizman, Haim",CHEM 140BH - Honors Organic Chemistry (A),WI14,80,37,97.20%,100.00%,8.06,B+ (3.57),B+ (3.61)
+"Whitesell, James K.",CHEM 140C - Organic Chemistry III (A),WI14,113,46,79.10%,76.70%,5.45,B+ (3.51),B- (2.87)
+"Albizati, Kim F.",CHEM 143A - Organic Chemistry Laboratory (A),WI14,415,158,95.40%,96.70%,6.97,B+ (3.56),B (3.02)
+"Ternansky, Robert J.",CHEM 143B - Organic Chemistry Laboratory (A),WI14,98,45,95.60%,84.40%,7.15,B (3.16),B+ (3.32)
+"Burkart, Michael D",CHEM 145 - Biofuels (A),WI14,19,10,100.00%,88.90%,5.17,B+ (3.63),B+ (3.41)
+"Whitesell, James K.",CHEM 151 - Molecules That Changed World (A),WI14,69,24,95.80%,91.70%,2.85,A- (3.96),A (4.00)
+"Godula, Kamil",CHEM 155 - Synthesis of Complex Molecules (A),WI14,3,1,100.00%,100.00%,14.5,A (4.00),N/A
+"Gianneschi, Nathan",CHEM 156 - Struct&Properties/Organc Molec (A),WI14,11,3,100.00%,50.00%,3.5,A (4.00),N/A
+"Yang, Jerry",CHEM 156 - Struct&Properties/Organc Molec (A),WI14,11,2,100.00%,100.00%,3.5,A (4.00),B (3.27)
+"Viadiu, Hector",CHEM 165 - 3D Elctron Microscopy/Macromol (B),WI14,14,9,88.90%,100.00%,5.39,B+ (3.56),B- (2.94)
+"Devaraj, Neal Krishna",CHEM 168 - Drug Synthesis and Design (A),WI14,43,20,100.00%,100.00%,3.55,A- (3.89),B+ (3.50)
+"Pomeroy, Robert S.",CHEM 172 - Environmental Chemistry II (A),WI14,41,12,91.70%,100.00%,6.17,B (3.25),C+ (2.68)
+"Czworkowski, John",CHEM 187 - Foundn of Teach&Learn Science (A),WI14,11,8,87.50%,87.50%,3.93,B+ (3.57),B+ (3.43)
+"Weizman, Haim",CHEM 192 - Sr Seminar in Chem & Biochem (A),WI14,14,6,100.00%,100.00%,1.17,N/A,N/A
+"Albizati, Kim F.",CHEM 192 - Sr Seminar in Chem & Biochem (B),WI14,11,5,100.00%,100.00%,0.5,N/A,N/A
+"Newsam, John",CHEM 194 - Special Topics in Chemistry (A),WI14,8,6,100.00%,100.00%,2.17,A (4.00),N/A
+"Sinha, Amitabha",CHEM 6A - General Chemistry I (A),WI14,293,154,82.20%,63.70%,6.36,B- (2.89),C+ (2.49)
+"Trogler, William C",CHEM 6A - General Chemistry I (B),WI14,346,196,93.20%,75.80%,5.9,B (3.16),B- (2.85)
+"Johnson, Christina A",CHEM 6A - General Chemistry I (C),WI14,409,237,91.20%,95.60%,7.06,B- (2.91),B- (2.88)
+"Crowell, John E",CHEM 6B - General Chemistry II (A),WI14,429,245,89.10%,52.50%,6.73,B (3.19),B- (2.75)
+"Kummel, Andrew C",CHEM 6B - General Chemistry II (B),WI14,416,229,88.20%,85.00%,7.11,B (3.07),B- (2.70)
+"Muller, Ulrich K.",CHEM 6B - General Chemistry II (C),WI14,408,267,87.40%,91.20%,5.42,B+ (3.36),B- (2.98)
+"Crowell, John E",CHEM 6B - General Chemistry II (D),WI14,425,244,83.80%,47.90%,6.88,B (3.16),B- (2.75)
+"Paesani, Francesco",CHEM 6BH - Honors General Chemistry II (A),WI14,114,68,84.60%,95.40%,6.38,B+ (3.38),B (3.19)
+"Ghosh, Partho",CHEM 6C - General Chemistry III (A),WI14,186,76,97.30%,90.40%,6.14,B (3.08),C+ (2.58)
+"Berniolles, Sandrine",CHEM 7L - General Chemistry Laboratory (A),WI14,262,96,83.00%,84.10%,7.27,B (3.26),B- (2.78)
+"Berniolles, Sandrine",CHEM 7L - General Chemistry Laboratory (B),WI14,224,91,83.80%,81.30%,6.42,B+ (3.40),B- (2.78)
+"Czworkowski, John",CHEM 87 - Freshman Seminar (A),WI14,9,9,100.00%,88.90%,1.39,A (4.00),N/A
+"Albizati, Kim F.",CHEM 87 - Freshman Seminar (B),WI14,14,7,100.00%,100.00%,0.83,N/A,N/A
+"Czworkowski, John",CHEM 96 - Introductn to Teaching Science (A),WI14,9,6,100.00%,100.00%,2.5,A- (3.80),N/A
+"Pomeroy, Robert S.",CHEM 100A - Analytical Chemistry Lab (A),FA13,117,50,69.40%,85.70%,7.31,B+ (3.42),B (3.18)
+"Pomeroy, Robert S.",CHEM 100B - Instrumental Analysis (A),FA13,19,8,57.10%,85.70%,7.36,B (3.00),N/A
+"Pomeroy, Robert S.",CHEM 100BL - Instrumental Analysis Lab (A),FA13,15,4,75.00%,75.00%,10,B+ (3.50),N/A
+"Magde, Douglas",CHEM 105A - Physical Chemistry Laboratory (A),FA13,39,18,76.50%,94.10%,7.79,B (3.25),B (3.29)
+"Magde, Douglas",CHEM 105B - Physical Chemistry Laboratory (A),FA13,2,2,100.00%,100.00%,7.5,B+ (3.50),N/A
+"Hamaoka, Brent Y",CHEM 108 - Protein Biochemistry Lab (A),FA13,46,22,95.20%,100.00%,8.79,B+ (3.43),B (3.13)
+"Hamaoka, Brent Y",CHEM 108 - Protein Biochemistry Lab (B),FA13,25,10,100.00%,88.90%,7.17,B+ (3.63),B (3.13)
+"Lennox, Joseph",CHEM 11 - The Periodic Table (A),FA13,204,177,82.40%,79.50%,4.78,B+ (3.45),B (3.27)
+"Jennings, Patricia A.",CHEM 114A - Biochemical Structure&Function (A),FA13,240,106,86.00%,58.00%,6.89,B+ (3.50),B- (2.88)
+"Ghosh, Gourisankar",CHEM 114D - Molecular & Cellular Biochem (A),FA13,31,13,76.90%,84.60%,7.27,B+ (3.55),B (3.12)
+"Figueroa, Joshua",CHEM 120A - Inorganic Chemistry I (A),FA13,167,88,81.00%,83.30%,7.51,B+ (3.32),C+ (2.55)
+"Kim, Judy E.",CHEM 126 - Physical Chem: Quantum Mech (A),FA13,268,104,65.70%,89.90%,8.77,B (3.04),C+ (2.66)
+"Paesani, Francesco",CHEM 131 - Physical Chemistry (A),FA13,135,65,76.90%,86.20%,7.78,B (3.25),C+ (2.64)
+"Oconnor, Joseph M.",CHEM 140A - Organic Chemistry I (A),FA13,388,189,80.60%,88.00%,9.51,B (3.20),B- (2.80)
+"Yang, Jerry",CHEM 140A - Organic Chemistry I (B),FA13,341,163,81.90%,74.20%,8.75,B (3.06),C+ (2.60)
+"Ternansky, Robert J.",CHEM 140A - Organic Chemistry I (C),FA13,244,142,92.90%,91.50%,10.9,B- (2.94),C+ (2.66)
+"Perrin, Charles L.",CHEM 140A - Organic Chemistry I (D),FA13,193,92,88.80%,84.30%,8.93,B (3.21),C+ (2.62)
+"Guerrero, Carlos Ariel",CHEM 140B - Organic Chemistry II (A),FA13,229,105,72.40%,55.10%,8.52,B- (2.80),C+ (2.58)
+"Hermann, Thomas",CHEM 140C - Organic Chemistry III (A),FA13,173,132,78.50%,87.70%,6.87,B (3.07),C+ (2.60)
+"Weizman, Haim",CHEM 143A - Organic Chemistry Laboratory (A),FA13,391,150,86.90%,91.00%,7.36,B (3.24),B (3.00)
+"Albizati, Kim F.",CHEM 143AH - Honors Organic Chemistry Lab (A),FA13,76,35,96.90%,93.80%,8.3,B+ (3.56),B+ (3.49)
+"Ternansky, Robert J.",CHEM 143C - Organic Chemistry Laboratory (A),FA13,83,46,97.60%,95.20%,8.01,B+ (3.33),B+ (3.43)
+"Guerrero, Carlos Ariel",CHEM 152 - Synthetic Methods/Organic Chem (A),FA13,21,8,75.00%,75.00%,8,B (3.00),B- (2.75)
+"Tor, Yitzhak",CHEM 154 - Mechanisms/Organic Reactions (A),FA13,47,15,100.00%,100.00%,7.3,B+ (3.53),B+ (3.30)
+"Bertram, Timothy",CHEM 171 - Environmental Chemistry I (A),FA13,73,34,78.10%,81.30%,6.13,B (3.00),B (3.04)
+"AMARO, ROMMIE",CHEM 185 - Intro/Computational Chemistry (A),FA13,7,2,100.00%,100.00%,9.5,A (4.00),N/A
+"Hoeger, Carl",CHEM 4 - Basic Chemistry (A),FA13,346,221,89.00%,90.00%,6.77,B- (2.95),B- (2.80)
+"Hoeger, Carl",CHEM 6A - General Chemistry I (A),FA13,426,263,94.40%,89.60%,7.9,B (3.11),B- (2.78)
+"Czworkowski, John",CHEM 6A - General Chemistry I (B),FA13,423,227,89.90%,77.10%,6.29,B (3.28),C+ (2.66)
+"Czworkowski, John",CHEM 6A - General Chemistry I (C),FA13,419,255,89.50%,78.70%,6.06,B (3.28),C+ (2.66)
+"Lennox, Joseph",CHEM 6A - General Chemistry I (D),FA13,407,372,87.90%,67.70%,7.33,B (3.02),B (3.07)
+"Johnson, Christina A",CHEM 6A - General Chemistry I (E),FA13,381,221,94.40%,96.70%,6.89,B (3.08),B (3.03)
+"Zimmermann, Joerg",CHEM 6A - General Chemistry I (F),FA13,334,269,93.20%,61.70%,6.28,B (3.15),B- (2.98)
+"Weare, John H.",CHEM 6AH - Honors General Chemistry I (A),FA13,189,128,49.60%,31.70%,8.65,B+ (3.33),B+ (3.45)
+"Albizati, Kim F.",CHEM 6B - General Chemistry II (A),FA13,222,97,91.40%,95.70%,5.98,B (3.21),B- (2.76)
+"Johnson, Christina A",CHEM 6C - General Chemistry III (A),FA13,381,168,94.30%,97.50%,7.71,B (3.08),B- (2.76)
+"Berniolles, Sandrine",CHEM 7L - General Chemistry Laboratory (A),FA13,273,107,80.80%,81.70%,6.31,B (3.28),B- (2.84)
+"Berniolles, Sandrine",CHEM 7L - General Chemistry Laboratory (B),FA13,272,110,86.90%,85.90%,5.56,B+ (3.30),B- (2.84)
+"Czworkowski, John",CHEM 87 - Freshman Seminar (A),FA13,12,8,87.50%,100.00%,1.36,N/A,N/A
+"Weizman, Haim",CHEM 87 - Freshman Seminar (B),FA13,18,14,92.90%,100.00%,0.79,A (4.00),N/A
+"Albizati, Kim F.",CHEM 87 - Freshman Seminar (C),FA13,17,14,92.90%,92.90%,0.5,A (4.00),N/A
+"Hamaoka, Brent Y",CHEM 108 - Protein Biochemistry Lab (A),S213,38,13,92.30%,100.00%,11.58,B+ (3.31),B (3.19)
+"Ternansky, Robert J.",CHEM 140A - Organic Chemistry I (A),S213,54,24,100.00%,100.00%,15.41,B+ (3.33),C+ (2.69)
+"Oconnor, Joseph M.",CHEM 140B - Organic Chemistry II (A),S213,170,31,74.20%,93.50%,10.89,B- (2.93),C+ (2.61)
+"Albizati, Kim F.",CHEM 140C - Organic Chemistry III (A),S213,116,19,100.00%,94.70%,8.71,B+ (3.53),C+ (2.62)
+"Lennox, Joseph",CHEM 6A - General Chemistry I (A),S213,40,32,90.30%,90.30%,8.89,B (3.14),B- (2.96)
+"Johnson, Christina A",CHEM 6B - General Chemistry II (A),S213,39,25,88.00%,96.00%,9.62,B- (2.76),B- (2.87)
+"Johnson, Christina A",CHEM 6C - General Chemistry III (A),S213,131,105,94.20%,97.10%,10.08,B (3.04),B- (2.90)
+"Fusco, Amanda J.",CHEM 114A - Biochemical Structure&Function (A),S113,82,24,95.50%,95.50%,7.32,B+ (3.59),B- (2.79)
+"Rios, Andro C",CHEM 12 - Molecules and Reactions (A),S113,23,9,88.90%,100.00%,4.5,A (4.00),B+ (3.43)
+"Oconnor, Joseph M.",CHEM 140A - Organic Chemistry I (A),S113,107,24,82.60%,87.00%,10.15,B (3.09),B- (2.81)
+"Weizman, Haim",CHEM 140B - Organic Chemistry II (A),S113,183,44,78.00%,95.10%,9.45,B (3.02),B- (2.80)
+"Albizati, Kim F.",CHEM 140C - Organic Chemistry III (A),S113,81,19,88.20%,100.00%,10.85,B+ (3.53),B- (2.74)
+"Hoeger, Carl",CHEM 6A - General Chemistry I (A),S113,77,12,81.80%,63.60%,11.05,B+ (3.36),B- (2.88)
+"Hamaoka, Brent Y",CHEM 6B - General Chemistry II (A),S113,39,12,72.70%,100.00%,8.5,B- (2.91),C+ (2.56)
+"Hoeger, Carl",CHEM 6C - General Chemistry III (A),S113,92,23,94.40%,94.40%,8.61,B (3.00),B- (2.86)
+"Williams, Renee T",CHEM 100A - Analytical Chemistry Lab (A),SP13,97,44,61.40%,25.00%,9.95,B (3.19),B (3.24)
+"Pomeroy, Robert S.",CHEM 100B - Instrumental Analysis (A),SP13,29,13,92.30%,100.00%,5.12,B (3.15),B- (2.99)
+"Pomeroy, Robert S.",CHEM 100BL - Instrumental Analysis Lab (A),SP13,29,13,92.30%,100.00%,7.27,B+ (3.46),B+ (3.33)
+"Magde, Douglas",CHEM 105A - Physical Chemistry Laboratory (A),SP13,79,20,52.60%,78.90%,9.76,B (3.21),B (3.18)
+"Magde, Douglas",CHEM 105B - Physical Chemistry Laboratory (A),SP13,5,2,50.00%,100.00%,4.5,B (3.00),N/A
+"Magde, Douglas",CHEM 105B - Physical Chemistry Laboratory (B),SP13,5,1,100.00%,100.00%,6.5,A (4.00),N/A
+"Hamaoka, Brent Y",CHEM 108 - Protein Biochemistry Lab (A),SP13,46,18,76.50%,88.20%,9.32,B (3.24),B (3.09)
+"Hamaoka, Brent Y",CHEM 108 - Protein Biochemistry Lab (B),SP13,41,14,100.00%,100.00%,8.36,B+ (3.43),B (3.09)
+"Lennox, Joseph",CHEM 11 - The Periodic Table (A),SP13,148,118,87.30%,84.70%,5.15,B (3.21),B (3.19)
+"Komives, Elizabeth A",CHEM 113 - Physical Chem/Biol Macromolec (A),SP13,37,13,92.30%,100.00%,8.5,A (4.00),A- (3.75)
+"Walker, Ross Charles",CHEM 113 - Physical Chem/Biol Macromolec (A),SP13,37,13,92.30%,100.00%,5.83,A (4.00),A- (3.75)
+"Joseph, Simpson",CHEM 114C - Biosynthesis of Macromolecules (A),SP13,337,133,93.00%,92.20%,6.09,B+ (3.51),C+ (2.45)
+"Tezcan, Faik",CHEM 120A - Inorganic Chemistry I (A),SP13,179,72,91.50%,83.10%,6.65,B (3.28),C+ (2.61)
+"Tezcan, Faik",CHEM 125 - Bioinorganic Chemistry (A),SP13,44,15,66.70%,73.30%,7.17,B- (2.86),C+ (2.52)
+"Swift, Robert Vernon",CHEM 13 - Chemistry of Life (A),SP13,81,36,72.20%,94.40%,3.7,B (3.29),B+ (3.49)
+"Galperin, Michael",CHEM 133 - Chemical Physics: Quantum Mech (A),SP13,102,33,42.40%,54.50%,9.63,B- (2.82),C+ (2.58)
+"Albizati, Kim F.",CHEM 140A - Organic Chemistry I (A),SP13,336,123,91.90%,98.40%,7.05,B (3.07),B- (2.73)
+"Molinski, Tadeusz",CHEM 140B - Organic Chemistry II (A),SP13,82,29,79.30%,24.10%,8.71,B (3.11),C (2.01)
+"Whitesell, James K.",CHEM 140B - Organic Chemistry II (B),SP13,334,116,79.10%,38.30%,7.91,B (3.03),C+ (2.34)
+"Albizati, Kim F.",CHEM 140C - Organic Chemistry III (A),SP13,394,133,88.60%,95.50%,7.17,B (3.28),C+ (2.66)
+"Ternansky, Robert J.",CHEM 140C - Organic Chemistry III (B),SP13,77,47,87.20%,100.00%,9.03,B (3.16),C+ (2.67)
+"Tor, Yitzhak",CHEM 140CH - Honors Organic Chemistry (A),SP13,28,17,94.10%,94.10%,9.44,B+ (3.47),B+ (3.65)
+"Weizman, Haim",CHEM 143A - Organic Chemistry Laboratory (A),SP13,438,149,87.70%,90.30%,7.02,B (3.30),B (3.05)
+"Ternansky, Robert J.",CHEM 143B - Organic Chemistry Laboratory (A),SP13,120,53,81.10%,90.60%,6.77,B (3.14),B+ (3.49)
+"Weizman, Haim",CHEM 143D - Molecular Design & Synthesis (A),SP13,16,4,100.00%,100.00%,11.17,B (3.00),N/A
+"Hermann, Thomas",CHEM 157 - Natural Products Chemistry (A),SP13,73,21,81.00%,95.20%,6.12,B- (2.95),B- (2.74)
+"Perrin, Charles L.",CHEM 158 - Applied Spectroscopy (A),SP13,21,10,80.00%,100.00%,6.3,B- (2.89),B (3.29)
+"Baker, Timothy Stanley",CHEM 164 - Structural Biology of Viruses (A),SP13,37,17,88.20%,100.00%,4.75,B+ (3.50),B (3.15)
+"AMARO, ROMMIE",CHEM 167 - Medicinal Chemistry (A),SP13,47,29,96.40%,100.00%,5.21,A- (3.73),B+ (3.32)
+"Axson, Jessica Lynne",CHEM 173 - Atmospheric Chemistry (A),SP13,15,5,100.00%,100.00%,3.5,B (3.25),N/A
+"Dickson, Andrew Gilmore",CHEM 174 - Chem Prin of Marine Systems (A),SP13,39,14,64.30%,71.40%,5.58,B+ (3.31),B- (2.73)
+"Czworkowski, John",CHEM 188 - Capstone Sem in Science Eductn (A),SP13,13,4,100.00%,100.00%,5.17,A (4.00),N/A
+"Brydges, Stacey",No CAPEs submitted,SP13,3,0,N/A,N/A,N/A,N/A,N/A
+"Crowell, John E",CHEM 6A - General Chemistry I (A),SP13,177,53,56.60%,28.30%,6.23,C+ (2.67),C+ (2.37)
+"Johnson, Christina A",CHEM 6B - General Chemistry II (A),SP13,306,108,84.80%,97.10%,7.67,B- (2.89),B- (2.71)
+"Johnson, Christina A",CHEM 6B - General Chemistry II (B),SP13,350,120,89.80%,95.80%,7.01,B (3.00),B- (2.71)
+"Hoeger, Carl",CHEM 6C - General Chemistry III (A),SP13,319,142,89.70%,89.00%,7.93,B (3.11),C+ (2.69)
+"Hoeger, Carl",CHEM 6C - General Chemistry III (B),SP13,274,108,84.90%,60.40%,7.59,B (3.00),C+ (2.69)
+"Ghosh, Gourisankar",CHEM 6C - General Chemistry III (C),SP13,242,88,83.70%,58.10%,4.62,B+ (3.35),B- (2.77)
+"Bertram, Timothy",CHEM 6C - General Chemistry III (D),SP13,249,106,97.10%,96.20%,6.5,B (3.24),C+ (2.66)
+"Kubiak, Clifford Paul",CHEM 6CH - Honors General Chemistry III (A),SP13,56,26,80.80%,88.50%,7.12,B+ (3.32),B (3.15)
+"Berniolles, Sandrine",CHEM 7L - General Chemistry Laboratory (A),SP13,271,102,91.00%,88.00%,6.07,B+ (3.41),B- (2.90)
+"Berniolles, Sandrine",CHEM 7L - General Chemistry Laboratory (B),SP13,274,95,79.60%,82.80%,6.37,B+ (3.33),B- (2.90)
+"Tukey, Robert H",CHEM 92 - Undergrad Pharmacology Seminar (A),SP13,182,56,94.40%,94.40%,0.95,A (4.00),N/A
+"Czworkowski, John",CHEM 96 - Introductn to Teaching Science (A),SP13,11,4,100.00%,100.00%,2.5,A- (3.75),N/A
+"Williams, Renee T",CHEM 100A - Analytical Chemistry Lab (A),WI13,108,62,49.20%,28.80%,8.64,B (3.08),B- (2.78)
+"Huang, Xuemei",CHEM 100B - Instrumental Analysis (A),WI13,23,9,88.90%,66.70%,3.83,C+ (2.67),B (3.26)
+"Mrse, Anthony Adrian",CHEM 100B - Instrumental Analysis (A),WI13,23,9,100.00%,77.80%,4.28,C+ (2.67),B (3.26)
+"Pomeroy, Robert S.",CHEM 100BL - Instrumental Analysis Lab (A),WI13,22,8,100.00%,87.50%,8.25,B (3.00),B (3.28)
+"Kim, Judy E.",CHEM 105A - Physical Chemistry Laboratory (A),WI13,69,42,61.00%,90.20%,7.1,B (3.24),B- (2.86)
+"Kim, Judy E.",CHEM 105B - Physical Chemistry Laboratory (B),WI13,4,3,100.00%,100.00%,5.83,C+ (2.33),N/A
+"Johnson, Christina A",CHEM 109 - Recombinant DNA Laboratory (A),WI13,50,33,90.90%,100.00%,8.14,B (3.28),B+ (3.40)
+"Johnson, Christina A",CHEM 109 - Recombinant DNA Laboratory (B),WI13,44,21,95.20%,95.20%,9.26,B (3.25),B+ (3.40)
+"Toor, Navtej",CHEM 114A - Biochemical Structure&Function (A),WI13,132,63,86.40%,88.10%,6.68,B+ (3.36),B- (2.92)
+"Komives, Elizabeth A",CHEM 114B - Biochem Energetics&Metabolism (A),WI13,337,168,76.60%,80.20%,8.09,B (3.26),B (3.15)
+"Devaraj, Neal Krishna",CHEM 116 - Enzyme Catalyzed Reactions (A),WI13,25,13,76.90%,92.30%,5.88,B+ (3.38),B (3.21)
+"Dorrestein, Pieter",CHEM 116 - Enzyme Catalyzed Reactions (A),WI13,25,14,71.40%,78.60%,7.36,B+ (3.43),B (3.21)
+"Tukey, Robert H",CHEM 118 - Pharmacology and Toxicology (A),WI13,178,83,90.20%,80.50%,5.25,B- (2.99),B- (2.86)
+"Lennox, Joseph",CHEM 12 - Molecules and Reactions (A),WI13,152,92,44.60%,59.80%,5.23,B (3.05),B (3.17)
+"Rheingold, Arnold L",CHEM 120B - Inorganic Chemistry II (A),WI13,79,40,75.70%,64.90%,6.72,B (3.19),B- (2.78)
+"Sailor, Michael Joseph",CHEM 123 - Advanced Inorganic Chem Lab (A),WI13,10,3,100.00%,66.70%,8.5,B+ (3.33),N/A
+"Tauber, Michael",CHEM 127 - Physical Chem: Thermodynamics (A),WI13,308,178,61.80%,68.50%,7.8,B- (2.92),C+ (2.65)
+"Galperin, Michael",CHEM 132 - Chem Physics: Stat Thermo II (A),WI13,92,45,84.10%,79.50%,8.31,B- (2.95),C+ (2.61)
+"Whitesell, James K.",CHEM 140A - Organic Chemistry I (A),WI13,198,85,80.80%,52.60%,7.88,B (3.09),C (2.08)
+"Bertrand, Guy",CHEM 140A - Organic Chemistry I (B),WI13,328,148,88.70%,93.70%,6.16,B (3.23),B- (2.74)
+"Guerrero, Carlos Ariel",CHEM 140B - Organic Chemistry II (A),WI13,241,119,79.30%,69.80%,8.85,B- (2.97),C+ (2.60)
+"Hoeger, Carl",CHEM 140B - Organic Chemistry II (B),WI13,234,124,78.30%,86.70%,9.58,B- (2.98),B- (2.87)
+"Whitesell, James K.",CHEM 140B - Organic Chemistry II (C),WI13,209,84,69.90%,42.20%,7.47,B- (2.86),C+ (2.35)
+"Weizman, Haim",CHEM 140BH - Honors Organic Chemistry (A),WI13,62,42,83.30%,90.50%,7.23,B+ (3.50),A- (3.80)
+"Jennings, Patricia A.",CHEM 140C - Organic Chemistry III (A),WI13,248,90,77.80%,47.80%,7.24,B (3.19),B (3.07)
+"Ternansky, Robert J.",CHEM 143A - Organic Chemistry Laboratory (A),WI13,398,213,86.80%,87.30%,7,B (3.23),B (3.10)
+"Albizati, Kim F.",CHEM 143AH - Honors Organic Chemistry Lab (A),WI13,60,40,90.00%,97.50%,9.01,B+ (3.67),B+ (3.39)
+"Ternansky, Robert J.",CHEM 143B - Organic Chemistry Laboratory (A),WI13,124,74,87.80%,91.90%,6.11,B (3.13),B+ (3.49)
+"Nicolaou, Kyriacos C",CHEM 151 - Molecules That Changed World (A),WI13,53,21,90.50%,85.70%,4.1,B+ (3.65),A- (3.79)
+"Gianneschi, Nathan",CHEM 156 - Struct&Properties/Organc Molec (A),WI13,17,8,75.00%,37.50%,5.07,B- (2.83),N/A
+"Baker, Timothy Stanley",CHEM 165 - 3D Elctron Microscopy/Macromol (A),WI13,21,10,80.00%,90.00%,6.3,B (3.11),B- (2.97)
+"Viadiu, Hector",CHEM 165 - 3D Elctron Microscopy/Macromol (A),WI13,21,10,70.00%,90.00%,6.5,B (3.11),B- (2.97)
+"Devaraj, Neal Krishna",CHEM 168 - Drug Synthesis and Design (A),WI13,20,10,100.00%,100.00%,4.7,A- (3.89),B+ (3.39)
+"Pomeroy, Robert S.",CHEM 172 - Environmental Chemistry II (A),WI13,57,24,100.00%,100.00%,5.83,B+ (3.30),B- (2.74)
+"Czworkowski, John",CHEM 187 - Foundn of Teach&Learn Science (B),WI13,8,5,100.00%,100.00%,3.3,A- (3.80),N/A
+"Newsam, John",CHEM 192 - Sr Seminar in Chem & Biochem (A),WI13,6,5,100.00%,100.00%,2.1,A (4.00),N/A
+"Brydges, Stacey",No CAPEs submitted,WI13,4,0,N/A,N/A,N/A,N/A,N/A
+"Sinha, Amitabha",CHEM 6A - General Chemistry I (A),WI13,264,125,83.60%,54.10%,6.87,B- (2.71),C+ (2.37)
+"Johnson, Christina A",CHEM 6A - General Chemistry I (B),WI13,361,188,93.90%,97.20%,7.28,B (3.02),B- (2.85)
+"Trogler, William C",CHEM 6A - General Chemistry I (C),WI13,248,108,92.20%,85.40%,5.98,B+ (3.34),B- (2.92)
+"Muller, Ulrich K.",CHEM 6B - General Chemistry II (A),WI13,358,205,92.00%,93.00%,5.37,B+ (3.47),B (3.25)
+"Hoeger, Carl",CHEM 6B - General Chemistry II (B),WI13,352,171,88.00%,83.80%,8.09,B (3.02),B- (2.79)
+"Crowell, John E",CHEM 6B - General Chemistry II (C),WI13,329,141,86.20%,55.80%,6.52,B+ (3.32),B- (2.88)
+"Kummel, Andrew C",CHEM 6B - General Chemistry II (E),WI13,319,138,85.00%,83.50%,7.5,B- (2.94),C+ (2.64)
+"Paesani, Francesco",CHEM 6BH - Honors General Chemistry II (A),WI13,79,54,87.00%,98.10%,7.65,B+ (3.46),B (3.23)
+"Ghosh, Partho",CHEM 6C - General Chemistry III (A),WI13,258,131,89.80%,87.50%,5.78,B+ (3.35),C+ (2.64)
+"Berniolles, Sandrine",CHEM 7L - General Chemistry Laboratory (A),WI13,254,117,84.20%,86.80%,7.05,B+ (3.31),B- (2.94)
+"Berniolles, Sandrine",CHEM 7L - General Chemistry Laboratory (B),WI13,260,120,89.10%,88.20%,5.9,B (3.30),B- (2.94)
+"Czworkowski, John",CHEM 96 - Introductn to Teaching Science (A),WI13,10,4,75.00%,100.00%,3.5,B+ (3.50),N/A
+"Pomeroy, Robert S.",CHEM 100A - Analytical Chemistry Lab (A),FA12,91,44,71.40%,83.30%,7.64,B (3.15),B (3.15)
+"Pomeroy, Robert S.",CHEM 100B - Fundamentls/Instrumentl Analys (A),FA12,24,11,90.00%,90.00%,6.1,B (3.20),B- (2.86)
+"Pomeroy, Robert S.",CHEM 100BL - Instrumental Analysis Lab (A),FA12,23,8,87.50%,87.50%,7.25,B+ (3.50),B (3.20)
+"Tauber, Michael",CHEM 105A - Physical Chemistry Laboratory (B),FA12,29,19,77.80%,88.90%,8.39,B (3.06),B- (2.90)
+"Tauber, Michael",CHEM 105B - Physical Chemistry Laboratory (A),FA12,5,4,100.00%,100.00%,7.5,B (3.25),N/A
+"Hamaoka, Brent Y",CHEM 108 - Protein Biochemistry Lab (A),FA12,32,14,100.00%,100.00%,8.07,B+ (3.36),B (3.06)
+"Hamaoka, Brent Y",CHEM 108 - Protein Biochemistry Lab (B),FA12,46,28,80.80%,92.30%,8.25,B+ (3.40),B (3.06)
+"Brydges, Stacey",CHEM 11 - The Periodic Table (A),FA12,159,81,88.20%,94.70%,4.5,B+ (3.36),B+ (3.36)
+"Brydges, Stacey",CHEM 11 - The Periodic Table (B),FA12,146,81,97.20%,97.20%,5.4,B+ (3.48),B+ (3.36)
+"Viadiu, Hector",CHEM 114A - Biochemical Structure&Function (A),FA12,350,187,92.60%,88.00%,6.49,B+ (3.49),C+ (2.61)
+"Figueroa, Joshua",CHEM 120A - Inorganic Chemistry I (A),FA12,182,85,70.90%,84.80%,7.77,B (3.16),B- (2.72)
+"Kim, Judy E.",CHEM 126 - Physical Chem: Quantum Mech (A),FA12,301,239,78.60%,92.00%,8.06,B (3.16),C+ (2.61)
+"Paesani, Francesco",CHEM 131 - Physical Chemistry (A),FA12,139,67,81.30%,92.20%,8.08,B- (2.97),C+ (2.58)
+"Ternansky, Robert J.",CHEM 140A - Organic Chemistry I (A),FA12,244,146,90.10%,85.80%,9.95,B (3.02),B- (2.72)
+"Oconnor, Joseph M.",CHEM 140A - Organic Chemistry I (B),FA12,318,145,93.00%,89.10%,9.73,B (3.26),B- (2.74)
+"Perrin, Charles L.",CHEM 140A - Organic Chemistry I (C),FA12,320,144,77.40%,88.00%,8.39,B- (2.96),C+ (2.59)
+"Opella, Stanley J",CHEM 140A - Organic Chemistry I (D),FA12,61,30,89.30%,75.00%,7.07,B+ (3.64),C+ (2.58)
+"Theodorakis, Emmanouil",CHEM 140B - Organic Chemistry II (A),FA12,293,108,77.20%,86.10%,7.69,B- (2.84),C+ (2.68)
+"Hermann, Thomas",CHEM 140C - Organic Chemistry III (A),FA12,297,211,86.00%,87.90%,7.24,B (3.24),B (3.01)
+"Weizman, Haim",CHEM 143A - Organic Chemistry Laboratory (A),FA12,439,177,85.30%,94.10%,6.86,B+ (3.32),B (3.03)
+"Albizati, Kim F.",CHEM 143AH - Honors Organic Chemistry Lab (A),FA12,68,34,87.90%,93.90%,7.41,B+ (3.56),B+ (3.41)
+"Ternansky, Robert J.",CHEM 143C - Organic Chemistry Laboratory (A),FA12,86,62,87.70%,93.00%,7.37,B (3.20),B+ (3.40)
+"Guerrero, Carlos Ariel",CHEM 152 - Synthetic Methods/Organic Chem (A),FA12,35,9,66.70%,77.80%,5.61,B (3.00),B+ (3.40)
+"Theodorakis, Emmanouil",CHEM 152 - Synthetic Methods/Organic Chem (A),FA12,35,9,88.90%,88.90%,5.39,B (3.11),B+ (3.40)
+"Tor, Yitzhak",CHEM 154 - Mechanisms/Organic Reactions (A),FA12,65,29,80.80%,88.50%,7.5,B (3.04),B+ (3.36)
+"Bertram, Timothy",CHEM 171 - Environmental Chemistry I (A),FA12,93,45,90.50%,88.10%,5.36,B (3.22),B- (2.93)
+"AMARO, ROMMIE",CHEM 185 - Intro/Computational Chemistry (A),FA12,4,4,100.00%,100.00%,7,A- (3.75),N/A
+"Hoeger, Carl",CHEM 4 - Basic Chemistry (A),FA12,318,185,91.10%,86.90%,6.74,B- (2.75),B (3.04)
+"Hoeger, Carl",CHEM 6A - General Chemistry I (A),FA12,427,235,90.60%,90.60%,7.48,B (3.15),B- (2.87)
+"Czworkowski, John",CHEM 6A - General Chemistry I (B),FA12,367,186,91.10%,70.80%,6.22,B (3.25),C+ (2.68)
+"Czworkowski, John",CHEM 6A - General Chemistry I (C),FA12,376,191,90.60%,78.80%,6.13,B (3.10),C+ (2.68)
+"Crowell, John E",CHEM 6A - General Chemistry I (D),FA12,390,197,73.70%,36.80%,7.88,B- (2.85),C+ (2.67)
+"Crowell, John E",CHEM 6A - General Chemistry I (E),FA12,393,212,81.60%,37.40%,7.22,B- (2.97),C+ (2.67)
+"Weare, John H.",CHEM 6AH - Honors General Chemistry I (A),FA12,161,98,52.80%,31.50%,8.43,B+ (3.34),B+ (3.39)
+"Albizati, Kim F.",CHEM 6B - General Chemistry II (A),FA12,321,163,93.10%,93.80%,7.47,B (3.14),B- (2.74)
+"Johnson, Christina A",CHEM 6C - General Chemistry III (A),FA12,157,68,85.90%,96.90%,7.15,B (3.00),B- (2.75)
+"Johnson, Christina A",CHEM 6C - General Chemistry III (B),FA12,187,84,92.60%,100.00%,8.6,B (3.05),B- (2.75)
+"Berniolles, Sandrine",CHEM 7L - General Chemistry Laboratory (A),FA12,264,110,84.50%,86.40%,6.13,B (3.30),B- (2.90)
+"Berniolles, Sandrine",CHEM 7L - General Chemistry Laboratory (B),FA12,271,132,87.80%,90.20%,6.47,B+ (3.40),B- (2.90)
+"Weizman, Haim",CHEM 87 - Freshman Seminar (A),FA12,20,11,88.90%,100.00%,0.5,A (4.00),N/A
+"Czworkowski, John",CHEM 87 - Freshman Seminar (B),FA12,12,11,100.00%,100.00%,0.94,N/A,N/A
+"Pickham, Kathleen M",CHEM 108 - Protein Biochemistry Lab (A),S212,29,15,60.00%,73.30%,15.83,B+ (3.50),B- (2.99)
+"Fusco, Amanda J.",CHEM 114A - Biochemical Structure&Function (A),S212,100,33,97.00%,100.00%,8.8,A- (3.73),B- (2.98)
+"Albizati, Kim F.",CHEM 140A - Organic Chemistry I (A),S212,119,32,96.90%,100.00%,10.38,B+ (3.50),C+ (2.64)
+"Oconnor, Joseph M.",CHEM 140B - Organic Chemistry II (A),S212,176,24,79.20%,95.70%,13.08,B (3.13),C+ (2.52)
+"Ternansky, Robert J.",CHEM 140C - Organic Chemistry III (A),S212,62,29,86.20%,86.20%,13.26,B- (2.89),B- (2.71)
+"Johnson, Christina A",CHEM 6B - General Chemistry II (A),S212,69,16,73.30%,93.30%,11.7,B+ (3.33),B- (2.74)
+"Johnson, Christina A",CHEM 6C - General Chemistry III (A),S212,96,25,96.00%,92.00%,9.86,B (3.00),B- (2.81)
+"Pomeroy, Robert S.",CHEM 100A - Analytical Chemistry Lab (A),S112,43,11,72.70%,90.90%,10.14,A- (3.73),B+ (3.48)
+"Brydges, Stacey",CHEM 11 - The Periodic Table (A),S112,19,9,100.00%,100.00%,8.06,B+ (3.67),N/A
+"Albizati, Kim F.",CHEM 140A - Organic Chemistry I (A),S112,137,35,88.20%,97.10%,11.36,B (3.19),N/A
+"Oconnor, Joseph M.",CHEM 140A - Organic Chemistry I (A),S112,137,35,88.20%,97.10%,11.36,B (3.19),C+ (2.61)
+"Weizman, Haim",CHEM 140B - Organic Chemistry II (A),S112,166,43,86.00%,97.60%,10.41,B (3.00),B (3.04)
+"Albizati, Kim F.",CHEM 140C - Organic Chemistry III (A),S112,221,69,86.60%,100.00%,11.26,B (3.27),B- (2.73)
+"Weizman, Haim",CHEM 143A - Organic Chemistry Laboratory (A),S112,90,25,84.00%,92.00%,12.26,B+ (3.68),B- (2.99)
+"Ternansky, Robert J.",CHEM 143B - Organic Chemistry Laboratory (A),S112,45,36,88.90%,86.10%,9.44,B (3.09),B+ (3.51)
+"Hoeger, Carl",CHEM 6A - General Chemistry I (A),S112,88,24,91.70%,91.70%,10,B+ (3.52),B- (2.86)
+"Pomeroy, Robert S.",CHEM 6B - General Chemistry II (B),S112,59,16,87.50%,93.80%,9.63,B- (2.80),C+ (2.52)
+"Hoeger, Carl",CHEM 6C - General Chemistry III (A),S112,90,24,83.30%,87.50%,10.67,B+ (3.50),B- (2.89)
+"Berniolles, Sandrine",CHEM 7L - General Chemistry Laboratory (A),S112,185,72,73.60%,79.20%,11.03,B (3.25),B- (2.90)
+"Limtiaco, John Francis Kup",CHEM 100A - Analytical Chemistry Lab (A),SP12,129,62,77.40%,83.90%,7.32,B+ (3.56),B (3.24)
+"Pomeroy, Robert S.",CHEM 100B - Fundamentls/Instrumentl Analys (A),SP12,24,9,100.00%,88.90%,9.17,B (3.00),B- (2.76)
+"Pomeroy, Robert S.",CHEM 100BL - Instrumental Analysis Lab (A),SP12,24,9,88.90%,88.90%,8.28,B+ (3.33),B (3.04)
+"Magde, Douglas",CHEM 105A - Physical Chemistry Laboratory (A),SP12,80,29,75.90%,96.60%,9.71,B+ (3.33),B (3.17)
+"Magde, Douglas",CHEM 105B - Physical Chemistry Laboratory (A),SP12,7,3,100.00%,100.00%,10.5,B+ (3.33),N/A
+"Johnson, Christina A",CHEM 109 - Recombinant DNA Laboratory (A),SP12,40,10,90.00%,100.00%,6.5,B+ (3.50),B+ (3.35)
+"Johnson, Christina A",CHEM 109 - Recombinant DNA Laboratory (B),SP12,39,17,94.10%,100.00%,7.21,B (3.24),B+ (3.35)
+"Rubinshtein, Mark",CHEM 11 - The Periodic Table (A),SP12,151,50,93.90%,89.80%,4.63,B (3.24),B (3.12)
+"Joseph, Simpson",CHEM 114C - Biosynthesis of Macromolecules (A),SP12,299,116,93.10%,88.80%,6.68,B+ (3.48),B- (2.91)
+"Tukey, Robert H",CHEM 118 - Pharmacology and Toxicology (A),SP12,155,64,98.40%,95.20%,6.44,B+ (3.49),B- (2.83)
+"Cohen, Seth M",CHEM 120A - Inorganic Chemistry I (A),SP12,196,94,77.70%,61.70%,7.12,B- (2.90),C+ (2.50)
+"Cohen, Seth M",CHEM 125 - Bioinorganic Chemistry (A),SP12,26,11,90.90%,90.90%,5.41,B+ (3.50),B- (2.88)
+"Tezcan, Faik",CHEM 125 - Bioinorganic Chemistry (A),SP12,26,10,90.00%,60.00%,5.5,B+ (3.50),B- (2.88)
+"Hoeger, Carl",CHEM 13 - Chemistry of Life (A),SP12,137,51,64.70%,84.00%,5.64,B (3.09),B (3.10)
+"Galperin, Michael",CHEM 132 - Physical Chemistry (A),SP12,96,28,75.00%,82.10%,7.5,B (3.26),C+ (2.51)
+"Sinha, Amitabha",CHEM 135 - Molecular Spectroscopy (A),SP12,5,3,100.00%,100.00%,7.17,A (4.00),N/A
+"Yang, Jerry",CHEM 140A - Organic Chemistry I (A),SP12,227,65,85.70%,79.40%,9.26,B- (2.92),C+ (2.57)
+"Whitesell, James K.",CHEM 140B - Organic Chemistry II (A),SP12,158,50,85.70%,53.10%,8.74,B+ (3.35),C (2.10)
+"Whitesell, James K.",CHEM 140B - Organic Chemistry II (B),SP12,359,115,75.20%,53.10%,7.13,B (3.11),C (2.10)
+"Albizati, Kim F.",CHEM 140C - Organic Chemistry III (A),SP12,410,161,84.40%,98.10%,8.13,B (3.25),C+ (2.68)
+"Ternansky, Robert J.",CHEM 140C - Organic Chemistry III (B),SP12,315,243,83.90%,88.00%,9.58,B (3.02),B- (2.71)
+"Weizman, Haim",CHEM 140CH - Honors Organic Chemistry (A),SP12,59,34,91.20%,97.10%,6.56,B+ (3.59),A- (3.80)
+"Weizman, Haim",CHEM 143A - Organic Chemistry Laboratory (A),SP12,441,172,86.50%,91.90%,8.3,B (3.21),B- (2.99)
+"Ternansky, Robert J.",CHEM 143B - Organic Chemistry Laboratory (B),SP12,121,70,91.40%,92.90%,6.9,B (3.19),B+ (3.31)
+"Burkart, Michael D",CHEM 157 - Natural Products Chemistry (A),SP12,66,21,90.50%,100.00%,5.93,B (3.25),B+ (3.40)
+"Molinski, Tadeusz",CHEM 158 - Applied Spectroscopy (A),SP12,10,3,100.00%,100.00%,9.17,B (3.00),N/A
+"Prather, Kimberly A",CHEM 173 - Atmospheric Chemistry (A),SP12,7,3,100.00%,66.70%,3.17,B (3.00),N/A
+"Dickson, Andrew Gilmore",CHEM 174 - Chem Prin of Marine Systems (A),SP12,35,12,66.70%,72.70%,5,B+ (3.33),B- (2.88)
+"Dickson, Andrew Gilmore",CHEM 174 - Chem Prin of Marine Systems (A),SP12,15,5,100.00%,80.00%,2.5,B (3.00),B- (2.88)
+"Paesani, Francesco",CHEM 185 - Intro/Computational Chemistry (A),SP12,7,5,100.00%,100.00%,8.1,B (3.25),N/A
+"Czworkowski, John",CHEM 188 - Capstone Sem in Science Eductn (A),SP12,8,2,100.00%,100.00%,5.5,B+ (3.50),N/A
+"Tezcan, Faik",CHEM 6A - General Chemistry I (A),SP12,178,114,80.00%,88.20%,7.26,B- (2.93),C+ (2.38)
+"Crowell, John E",CHEM 6B - General Chemistry II (A),SP12,251,96,82.60%,67.40%,7.53,B- (2.82),C+ (2.31)
+"Johnson, Christina A",CHEM 6B - General Chemistry II (B),SP12,311,151,86.10%,94.00%,8.63,B (3.01),B- (2.83)
+"Hoeger, Carl",CHEM 6C - General Chemistry III (A),SP12,299,129,88.30%,87.50%,7.61,B (3.03),B- (2.95)
+"Brydges, Stacey",CHEM 6C - General Chemistry III (B),SP12,305,150,89.70%,96.60%,7.04,B+ (3.43),B (3.03)
+"Ghosh, Gourisankar",CHEM 6C - General Chemistry III (C),SP12,60,28,71.40%,53.60%,5.71,B (3.30),C+ (2.58)
+"Bertram, Timothy",CHEM 6C - General Chemistry III (D),SP12,254,135,87.90%,83.80%,6.82,B (3.08),C+ (2.58)
+"Kubiak, Clifford Paul",CHEM 6CH - Honors General Chemistry III (A),SP12,75,34,79.40%,88.20%,7.79,B+ (3.61),B+ (3.34)
+"Berniolles, Sandrine",CHEM 7L - General Chemistry Laboratory (A),SP12,263,114,73.00%,79.30%,7.63,B (3.17),B- (2.76)
+"Berniolles, Sandrine",CHEM 7L - General Chemistry Laboratory (B),SP12,275,101,85.00%,82.00%,6.72,B (3.22),B- (2.76)
+"Brydges, Stacey",CHEM 87 - Freshman Seminar (A),SP12,18,9,100.00%,100.00%,1.61,N/A,N/A
+"Tukey, Robert H",CHEM 92 - Undergrad Pharmacology Seminar (A),SP12,188,92,92.30%,94.50%,1.31,A- (3.91),N/A
+"Czworkowski, John",CHEM 96 - Introductn to Teaching Science (A),SP12,5,2,100.00%,100.00%,3.5,A (4.00),N/A
+"Czworkowski, John",CHEM 96 - Introductn to Teaching Science (A),SP12,10,5,80.00%,100.00%,2.5,B+ (3.40),N/A
+"Limtiaco, John Francis Kup",CHEM 100A - Analytical Chemistry Lab (A),WI12,125,73,58.90%,60.30%,8.88,B+ (3.34),B (3.16)
+"Prather, Kimberly A",CHEM 100B - Fundamentls/Instrumentl Analys (A),WI12,20,10,90.00%,90.00%,7.3,B- (2.70),C (2.21)
+"Pomeroy, Robert S.",CHEM 100BL - Instrumental Analysis Lab (A),WI12,16,8,100.00%,100.00%,7.75,B (3.00),N/A
+"Tauber, Michael",CHEM 105A - Physical Chemistry Laboratory (A),WI12,47,24,52.20%,82.60%,8.33,B (3.14),B- (2.76)
+"Tauber, Michael",CHEM 105B - Physical Chemistry Laboratory (A),WI12,4,2,100.00%,100.00%,13.5,B+ (3.50),N/A
+"Pickham, Kathleen M",CHEM 108 - Protein Biochemistry Lab (A),WI12,33,15,86.70%,93.30%,8.9,B+ (3.50),B (3.06)
+"Pickham, Kathleen M",CHEM 108 - Protein Biochemistry Lab (B),WI12,32,15,93.30%,86.70%,6.77,B (3.20),B (3.06)
+"Toor, Navtej",CHEM 114A - Biochemical Structure&Function (A),WI12,140,69,88.20%,85.10%,7.78,B+ (3.45),C+ (2.64)
+"Wang, Wei",CHEM 114B - Biochem Energetics&Metabolism (A),WI12,305,159,83.20%,58.10%,7.91,B+ (3.35),B- (2.76)
+"Nakagawa, Terunaga",CHEM 12 - Molecules and Reactions (A),WI12,191,81,49.40%,39.70%,5.46,B (3.00),B+ (3.56)
+"Rheingold, Arnold L",CHEM 120B - Inorganic Chemistry II (A),WI12,68,37,81.10%,81.10%,7.69,B (3.17),C+ (2.55)
+"Sailor, Michael Joseph",CHEM 123 - Advanced Inorganic Chem Lab (A),WI12,10,7,100.00%,100.00%,4.5,A- (3.86),N/A
+"Kim, Judy E.",CHEM 126 - Physical Chemistry (A),WI12,219,103,72.50%,91.20%,8.75,B (3.15),C+ (2.69)
+"Paesani, Francesco",CHEM 131 - Physical Chemistry (A),WI12,127,67,78.50%,75.40%,8.47,B- (2.98),C+ (2.47)
+"Gianneschi, Nathan",CHEM 140A - Organic Chemistry I (A),WI12,303,133,88.00%,84.20%,8.35,B- (2.86),B- (2.72)
+"Gianneschi, Nathan",CHEM 140A - Organic Chemistry I (B),WI12,195,80,88.30%,87.00%,9.75,B- (2.96),B- (2.72)
+"Opella, Stanley J",CHEM 140A - Organic Chemistry I (C),WI12,85,32,87.50%,65.60%,6.69,B+ (3.44),C+ (2.54)
+"Burkart, Michael D",CHEM 140B - Organic Chemistry II (A),WI12,386,211,81.30%,95.70%,9.37,B (3.26),C+ (2.60)
+"Hoeger, Carl",CHEM 140B - Organic Chemistry II (B),WI12,205,95,85.30%,93.70%,8.67,B (3.05),B- (2.89)
+"Johnson, Christina A",CHEM 140B - Organic Chemistry II (C),WI12,373,163,84.60%,90.70%,9.84,B (3.05),B- (2.79)
+"Weizman, Haim",CHEM 140BH - Honors Organic Chemistry (A),WI12,49,35,94.30%,97.10%,7.07,B+ (3.59),B+ (3.61)
+"Jennings, Patricia A.",CHEM 140C - Organic Chemistry III (A),WI12,284,110,79.10%,56.40%,5.91,B+ (3.32),B (3.11)
+"Ternansky, Robert J.",CHEM 143A - Organic Chemistry Laboratory (A),WI12,442,204,84.70%,81.30%,7.52,B (3.27),B (3.10)
+"Ternansky, Robert J.",CHEM 143B - Organic Chemistry Laboratory (A),WI12,104,53,86.80%,79.20%,6.73,B (3.17),B (3.29)
+"Perrin, Charles L.",CHEM 146 - Kinetics & Mechan of Org React (A),WI12,10,5,100.00%,100.00%,8.1,B+ (3.40),N/A
+"Pomeroy, Robert S.",CHEM 149B - Environmental Chemistry (A),WI12,32,20,100.00%,100.00%,5.9,B+ (3.45),B (3.09)
+"Rubinshtein, Mark",CHEM 15 - Chemistry of the Universe (A),WI12,44,22,100.00%,95.50%,3.68,B (3.20),B (3.21)
+"Guerrero, Carlos Ariel",CHEM 155 - Synthesis of Complex Molecules (A),WI12,10,5,100.00%,100.00%,10.5,C+ (2.67),N/A
+"Theodorakis, Emmanouil",CHEM 155 - Synthesis of Complex Molecules (A),WI12,10,5,100.00%,80.00%,10,B (3.00),N/A
+"Yang, Jerry",CHEM 156 - Struct&Properties/Organc Molec (A),WI12,22,8,87.50%,75.00%,9.25,B+ (3.50),B (3.27)
+"Viadiu, Hector",CHEM 165 - 3D Elctron Microscopy/Macromol (A),WI12,25,9,77.80%,100.00%,4.94,B+ (3.67),B+ (3.52)
+"Pomeroy, Robert S.",CHEM 172 - Environmental Chemistry (A),WI12,32,20,100.00%,100.00%,5.9,B+ (3.45),B (3.09)
+"Czworkowski, John",CHEM 187 - Foundn of Teach&Learn Science (A),WI12,4,1,100.00%,100.00%,8.5,A (4.00),N/A
+"Czworkowski, John",CHEM 187 - Foundn of Teach&Learn Science (A),WI12,13,5,80.00%,80.00%,4.1,A- (3.80),N/A
+"Newsam, John",CHEM 192 - Sr Seminar in Chem & Biochem (A),WI12,6,5,100.00%,100.00%,2.1,N/A,N/A
+"Sinha, Amitabha",CHEM 6A - General Chemistry I (A),WI12,186,80,79.70%,63.30%,7.06,C+ (2.68),C+ (2.41)
+"Johnson, Christina A",CHEM 6A - General Chemistry I (B),WI12,297,141,89.10%,94.90%,8.4,B (3.10),B- (2.81)
+"Trogler, William C",CHEM 6A - General Chemistry I (C),WI12,267,129,85.70%,82.40%,6.88,B (3.02),B- (2.80)
+"Muller, Ulrich K.",CHEM 6B - General Chemistry II (A),WI12,166,77,94.70%,92.10%,5.45,B+ (3.55),B- (2.84)
+"Brydges, Stacey",CHEM 6B - General Chemistry II (B),WI12,306,162,90.70%,94.40%,7.36,B (3.13),B- (2.86)
+"Crowell, John E",CHEM 6B - General Chemistry II (C),WI12,266,146,84.10%,59.30%,8.5,B (3.20),C+ (2.66)
+"Crowell, John E",CHEM 6B - General Chemistry II (D),WI12,278,138,84.60%,50.70%,7.49,B (3.17),C+ (2.66)
+"Kummel, Andrew C",CHEM 6B - General Chemistry II (E),WI12,210,125,82.00%,90.80%,8.61,B (3.05),B- (2.76)
+"Hoeger, Carl",CHEM 6BH - Honors General Chemistry II (A),WI12,80,39,94.70%,100.00%,8.45,A- (3.85),B (3.06)
+"Ghosh, Partho",CHEM 6C - General Chemistry III (A),WI12,266,125,88.50%,75.40%,6.58,B (3.03),C+ (2.45)
+"Berniolles, Sandrine",CHEM 7L - General Chemistry Laboratory (A),WI12,267,115,80.90%,74.80%,7.2,B+ (3.35),B- (2.72)
+"Berniolles, Sandrine",CHEM 7L - General Chemistry Laboratory (B),WI12,260,104,71.20%,73.10%,8.03,B+ (3.41),B- (2.72)
+"Czworkowski, John",CHEM 87 - Freshman Seminar (A),WI12,14,7,100.00%,100.00%,1.36,N/A,N/A
+"Czworkowski, John",CHEM 96 - Introductn to Teaching Science (A),WI12,3,2,50.00%,100.00%,4.5,B+ (3.50),N/A
+"Czworkowski, John",CHEM 96 - Introductn to Teaching Science (A),WI12,12,6,100.00%,100.00%,3.5,B+ (3.67),N/A
+"Pomeroy, Robert S.",CHEM 100A - Analytical Chemistry Lab (A),FA11,89,49,81.30%,87.50%,7.48,B+ (3.33),B (3.01)
+"Pomeroy, Robert S.",CHEM 100B - Fundamentls/Instrumentl Analys (A),FA11,15,7,100.00%,100.00%,7.36,B (3.14),N/A
+"Pomeroy, Robert S.",CHEM 100BL - Instrumental Analysis Lab (A),FA11,13,8,100.00%,100.00%,10.5,B (3.13),N/A
+"Tauber, Michael",CHEM 105A - Physical Chemistry Laboratory (A),FA11,32,15,66.70%,86.70%,11.83,B- (2.92),C+ (2.65)
+"Pickham, Kathleen M",CHEM 108 - Protein Biochemistry Lab (A),FA11,33,15,93.30%,93.30%,9.3,B (3.00),B (3.04)
+"Pickham, Kathleen M",CHEM 108 - Protein Biochemistry Lab (B),FA11,31,15,93.30%,100.00%,9.97,B (3.27),B (3.04)
+"Brydges, Stacey",CHEM 11 - The Periodic Table (A),FA11,167,98,83.70%,93.90%,4.93,B (3.20),B (3.23)
+"Brydges, Stacey",CHEM 11 - The Periodic Table (B),FA11,193,105,80.60%,93.20%,5.82,B (3.15),B (3.23)
+"Viadiu, Hector",CHEM 114A - Biochemical Structure&Function (A),FA11,297,156,94.20%,85.70%,6.86,B+ (3.55),B- (2.97)
+"Donoghue, Daniel J.",CHEM 114D - Molecular & Cellular Biochem (A),FA11,19,14,78.60%,100.00%,8.36,B (3.21),N/A
+"Dorrestein, Pieter",CHEM 116 - Enzyme Catalyzed Reactions (A),FA11,29,15,86.70%,100.00%,6.63,B+ (3.47),B (3.30)
+"Komives, Elizabeth A",CHEM 116 - Enzyme Catalyzed Reactions (A),FA11,29,15,86.70%,92.90%,5.83,B+ (3.47),B (3.30)
+"Figueroa, Joshua",CHEM 120A - Inorganic Chemistry I (A),FA11,176,98,89.80%,83.70%,8.91,B (3.17),B- (2.87)
+"Kim, Judy E.",CHEM 127 - Physical Chemistry (A),FA11,248,125,85.20%,93.40%,7.93,B (3.21),B- (2.71)
+"Galperin, Michael",CHEM 133 - Physical Chemistry (A),FA11,68,34,57.60%,73.50%,10.21,C+ (2.61),C+ (2.67)
+"Ternansky, Robert J.",CHEM 140A - Organic Chemistry I (A),FA11,219,114,82.30%,76.10%,11.79,B- (2.85),C+ (2.66)
+"Whitesell, James K.",CHEM 140A - Organic Chemistry I (B),FA11,127,53,73.10%,52.90%,8.07,B (3.02),C+ (2.32)
+"Oconnor, Joseph M.",CHEM 140A - Organic Chemistry I (C),FA11,397,191,85.80%,90.50%,9.46,B (3.17),C+ (2.69)
+"Hoeger, Carl",CHEM 140A - Organic Chemistry I (D),FA11,374,192,87.50%,87.50%,8.94,B (3.06),B- (2.80)
+"Theodorakis, Emmanouil",CHEM 140B - Organic Chemistry II (A),FA11,334,158,87.90%,95.50%,7.54,B (3.00),C+ (2.62)
+"Hermann, Thomas",CHEM 140C - Organic Chemistry III (A),FA11,348,135,83.50%,85.70%,8,B (3.26),C+ (2.55)
+"Weizman, Haim",CHEM 143A - Organic Chemistry Laboratory (A),FA11,453,184,89.50%,90.60%,8.53,B+ (3.38),B (3.04)
+"Ternansky, Robert J.",CHEM 143C - Organic Chemistry Laboratory (A),FA11,82,43,90.20%,97.60%,7.79,B (3.29),B+ (3.37)
+"Bertram, Timothy",CHEM 149A - Environmental Chemistry (A),FA11,72,36,94.10%,85.30%,6.79,B (3.13),B (3.02)
+"Guerrero, Carlos Ariel",CHEM 152 - Synthetic Methods/Organic Chem (A),FA11,30,13,53.80%,76.90%,4.83,B (3.29),B (3.00)
+"Theodorakis, Emmanouil",CHEM 152 - Synthetic Methods/Organic Chem (A),FA11,30,11,60.00%,90.00%,3.5,B+ (3.40),B (3.00)
+"Tor, Yitzhak",CHEM 154 - Mechanisms/Organic Reactions (A),FA11,52,29,100.00%,100.00%,6.5,B (3.30),B+ (3.33)
+"Bertram, Timothy",CHEM 171 - Environmental Chemistry (A),FA11,72,36,94.10%,85.30%,6.79,B (3.13),B (3.02)
+"Hoeger, Carl",CHEM 4 - Basic Chemistry (A),FA11,295,175,87.90%,84.30%,7.58,B- (2.90),B- (2.87)
+"Magde, Douglas",CHEM 6A - General Chemistry I (A),FA11,314,174,85.50%,42.20%,6.85,B (3.24),C+ (2.64)
+"Czworkowski, John",CHEM 6A - General Chemistry I (B),FA11,306,183,81.80%,68.50%,7.47,B (3.00),C+ (2.59)
+"Czworkowski, John",CHEM 6A - General Chemistry I (C),FA11,277,155,86.40%,55.60%,7.69,B- (2.99),C+ (2.59)
+"Sailor, Michael Joseph",CHEM 6A - General Chemistry I (D),FA11,327,176,95.40%,93.70%,6.09,B+ (3.65),B (3.26)
+"Crowell, John E",CHEM 6A - General Chemistry I (E),FA11,377,220,82.50%,59.20%,8.19,B- (2.88),C+ (2.57)
+"Weare, John H.",CHEM 6AH - Honors General Chemistry I (A),FA11,124,71,52.90%,35.20%,9.6,B+ (3.37),B+ (3.58)
+"Albizati, Kim F.",CHEM 6B - General Chemistry II (A),FA11,291,142,91.50%,96.50%,7.44,B (3.16),C+ (2.70)
+"Johnson, Christina A",CHEM 6C - General Chemistry III (A),FA11,239,109,92.70%,96.30%,7.77,B (3.11),B- (2.94)
+"Johnson, Christina A",CHEM 6C - General Chemistry III (B),FA11,127,54,98.10%,96.20%,8.65,B (3.08),B- (2.94)
+"Berniolles, Sandrine",CHEM 7L - General Chemistry Laboratory (A),FA11,269,126,80.00%,83.90%,7.13,B+ (3.59),B- (2.93)
+"Berniolles, Sandrine",CHEM 7L - General Chemistry Laboratory (B),FA11,274,121,81.80%,93.30%,6.85,B+ (3.43),B- (2.93)
+"Czworkowski, John",CHEM 87 - Freshman Seminar (A),FA11,14,4,100.00%,100.00%,1.5,A (4.00),N/A
+"Weizman, Haim",CHEM 87 - Freshman Seminar (B),FA11,19,16,100.00%,100.00%,1.63,A (4.00),N/A
+"Fusco, Amanda J.",CHEM 114A - Biochemical Structure&Function (A),S211,70,25,88.00%,88.00%,8.75,B (3.24),B (3.17)
+"Albizati, Kim F.",CHEM 140A - Organic Chemistry I (A),S211,104,43,93.00%,100.00%,12.27,B+ (3.34),C+ (2.57)
+"Oconnor, Joseph M.",CHEM 140B - Organic Chemistry II (A),S211,172,48,85.10%,93.60%,10.63,B- (2.98),C+ (2.54)
+"Ternansky, Robert J.",CHEM 140C - Organic Chemistry III (A),S211,37,14,78.60%,92.90%,13.93,C+ (2.69),C+ (2.66)
+"Johnson, Christina A",CHEM 6B - General Chemistry II (A),S211,63,18,83.30%,100.00%,11.17,B- (2.94),B- (2.75)
+"Johnson, Christina A",CHEM 6C - General Chemistry III (A),S211,105,32,78.10%,84.40%,11.06,B (3.16),B- (2.88)
+"Pomeroy, Robert S.",CHEM 100A - Analytical Chem Lab (B),S111,38,15,93.30%,86.70%,9.03,B (3.14),B (3.05)
+"Brydges, Stacey",CHEM 11 - The Periodic Table (A),S111,31,11,100.00%,100.00%,9.41,B (3.00),B- (2.86)
+"Oconnor, Joseph M.",CHEM 140A - Organic Chemistry I (A),S111,131,33,100.00%,100.00%,11.47,B+ (3.42),C+ (2.66)
+"Weizman, Haim",CHEM 140B - Organic Chemistry II (A),S111,207,43,83.70%,90.70%,10.79,B (3.14),B- (2.90)
+"Albizati, Kim F.",CHEM 140C - Organic Chemistry III (A),S111,300,103,87.30%,99.00%,11.03,B+ (3.40),B- (2.72)
+"Weizman, Haim",CHEM 143A - Organic Chemistry Laboratory (A),S111,86,32,87.50%,90.60%,10.81,B (3.25),B (3.08)
+"Ternansky, Robert J.",CHEM 143B - Organic Chemistry Laboratory (A),S111,23,20,95.00%,100.00%,6.5,B (3.20),B+ (3.41)
+"Hoeger, Carl",CHEM 6A - General Chemistry I (A),S111,91,24,83.30%,83.30%,9.25,B (3.00),C+ (2.67)
+"Pomeroy, Robert S.",CHEM 6B - General Chemistry II (A),S111,81,40,77.50%,92.50%,9.9,B- (2.82),C+ (2.48)
+"Hoeger, Carl",CHEM 6C - General Chemistry III (A),S111,108,52,90.40%,98.00%,10.07,B (3.23),B- (2.95)
+"Berniolles, Sandrine",CHEM 7L - General Chemistry Laboratory (A),S111,187,74,86.30%,98.60%,10.55,B+ (3.36),B- (2.79)
+"Feng, Da Fei",CHEM 100A - Analytical Chem Lab (A),SP11,94,36,58.30%,63.90%,11.3,B (3.11),B (3.14)
+"Pomeroy, Robert S.",CHEM 100B - Fundamentls/Instrumentl Analys (A),SP11,16,5,100.00%,100.00%,6.5,B (3.00),N/A
+"Pomeroy, Robert S.",CHEM 100BL - Instrumental Analysis Lab (A),SP11,15,4,100.00%,100.00%,9,B+ (3.33),N/A
+"Magde, Douglas",CHEM 105A - Physical Chemistry Laboratory (A),SP11,61,26,73.10%,100.00%,9.27,B (3.23),B (3.14)
+"Magde, Douglas",CHEM 105B - Physical Chemistry Laboratory (A),SP11,4,4,100.00%,100.00%,8.5,A (4.00),N/A
+"Johnson, Christina A",CHEM 109 - Recombinant DNA Laboratory (A),SP11,43,19,68.40%,100.00%,6.08,B+ (3.39),B+ (3.38)
+"Johnson, Christina A",CHEM 109 - Recombinant DNA Laboratory (B),SP11,42,18,83.30%,88.90%,7.28,B+ (3.33),B+ (3.38)
+"Donoghue, Daniel J.",CHEM 11 - The Periodic Table (A),SP11,139,60,95.00%,98.30%,3.38,B+ (3.56),B- (2.90)
+"Komives, Elizabeth A",CHEM 113 - Physical Chem/Biol Macromolec (A),SP11,7,4,75.00%,100.00%,4.5,A- (3.75),N/A
+"Wolynes, Peter Guy",CHEM 113 - Physical Chem/Biol Macromolec (A),SP11,7,4,75.00%,50.00%,4.5,A- (3.75),N/A
+"Hoffmann, Alexander",CHEM 114C - Biosynthesis of Macromolecules (A),SP11,196,72,88.70%,91.50%,7.53,B+ (3.37),C+ (2.66)
+"Tukey, Robert H",CHEM 118 - Pharmacology and Toxicology (A),SP11,139,45,91.10%,88.90%,5.41,B+ (3.34),B- (2.79)
+"Cohen, Seth M",CHEM 120A - Inorganic Chemistry I (A),SP11,151,73,94.40%,82.90%,5.49,B+ (3.48),C+ (2.51)
+"Cohen, Seth M",CHEM 125 - Bioinorganic Chemistry (A),SP11,15,10,90.00%,100.00%,5.83,B (3.10),N/A
+"Tezcan, Faik",CHEM 125 - Bioinorganic Chemistry (A),SP11,15,10,90.00%,100.00%,5.83,B (3.10),N/A
+"Joseph, Simpson",CHEM 13 - Chemistry of Life (A),SP11,139,52,78.00%,91.80%,3.86,B+ (3.59),B+ (3.42)
+"Lindenberg, Katja",CHEM 132 - Physical Chemistry (A),SP11,95,42,61.00%,68.30%,8.64,B (3.05),C+ (2.49)
+"Sinha, Amitabha",CHEM 135 - Molecular Spectroscopy (A),SP11,5,3,66.70%,100.00%,12.5,B (3.00),N/A
+"Yang, Jerry",CHEM 140A - Organic Chemistry I (A),SP11,290,108,92.50%,89.80%,8.98,B (3.09),C+ (2.61)
+"Whitesell, James K.",CHEM 140B - Organic Chemistry II (A),SP11,373,143,75.50%,41.00%,7.07,B (3.20),C+ (2.39)
+"Molinski, Tadeusz",CHEM 140B - Organic Chemistry II (B),SP11,202,83,81.70%,24.40%,8.33,B- (2.93),C+ (2.56)
+"Hoeger, Carl",CHEM 140C - Organic Chemistry III (A),SP11,321,148,80.80%,85.60%,8.97,B (3.04),B (3.13)
+"Ternansky, Robert J.",CHEM 140C - Organic Chemistry III (B),SP11,213,164,82.30%,86.50%,10.66,B (3.02),B- (2.92)
+"Tor, Yitzhak",CHEM 140CH - Honors Organic Chemistry (A),SP11,52,37,100.00%,100.00%,7.11,B+ (3.66),B+ (3.38)
+"Weizman, Haim",CHEM 143A - Organic Chemistry Laboratory (A),SP11,456,205,90.50%,91.60%,7.73,B+ (3.33),B- (2.99)
+"Ternansky, Robert J.",CHEM 143B - Organic Chemistry Laboratory (A),SP11,99,49,73.50%,81.30%,8.34,B (3.21),B (3.29)
+"Weizman, Haim",CHEM 143D - Molecular Design & Synthesis (A),SP11,15,9,100.00%,100.00%,8.94,B+ (3.56),N/A
+"Burkart, Michael D",CHEM 157 - Natural Products Chemistry (A),SP11,64,27,74.10%,92.60%,5.98,B (3.13),B (3.13)
+"Hermann, Thomas",CHEM 157 - Natural Products Chemistry (A),SP11,64,25,76.00%,88.00%,5.94,B (3.13),B (3.13)
+"Perrin, Charles L.",CHEM 158 - Applied Spectroscopy (A),SP11,6,4,100.00%,100.00%,6,B+ (3.67),N/A
+"Baker, Timothy Stanley",CHEM 164 - Structural Biology of Viruses (A),SP11,25,16,87.50%,93.80%,5.38,B+ (3.38),B (3.08)
+"Baker, Timothy Stanley",CHEM 164 - Structural Biology of Viruses (A),SP11,6,4,100.00%,100.00%,4.5,A- (3.75),B (3.08)
+"Bertram, Timothy",CHEM 173 - Atmospheric Chemistry (A),SP11,9,3,50.00%,100.00%,3.5,B+ (3.33),N/A
+"Dickson, Andrew Gilmore",CHEM 174 - Chem Prin of Marine Systems (A),SP11,48,16,87.50%,75.00%,3.43,B (3.20),B- (2.88)
+"Paesani, Francesco",CHEM 185 - Intro/Computational Chemistry (A),SP11,7,3,100.00%,100.00%,9.17,B+ (3.67),N/A
+"Czworkowski, John",CHEM 188 - Capstone Sem in Science Eductn (A),SP11,8,5,100.00%,100.00%,3.7,B+ (3.60),N/A
+"Tezcan, Faik",CHEM 6A - General Chemistry I (A),SP11,194,134,85.50%,84.00%,7.5,B (3.15),C+ (2.42)
+"Crowell, John E",CHEM 6B - General Chemistry II (A),SP11,347,128,75.80%,57.00%,7.67,B (3.03),C+ (2.55)
+"Crowell, John E",CHEM 6B - General Chemistry II (B),SP11,300,120,75.90%,58.60%,8.34,B- (2.95),C+ (2.55)
+"Hoeger, Carl",CHEM 6C - General Chemistry III (A),SP11,227,104,93.30%,87.40%,7.55,B (3.15),B- (2.98)
+"Brydges, Stacey",CHEM 6C - General Chemistry III (B),SP11,369,153,92.10%,86.20%,6.96,B+ (3.38),B (3.07)
+"Ghosh, Gourisankar",CHEM 6C - General Chemistry III (C),SP11,144,71,82.90%,37.10%,4.84,B+ (3.36),C+ (2.55)
+"Johnson, Christina A",CHEM 6C - General Chemistry III (D),SP11,352,179,87.60%,95.50%,7.64,B (3.27),B- (2.98)
+"Kubiak, Clifford Paul",CHEM 6CH - Honors General Chemistry III (A),SP11,73,44,79.50%,90.90%,6.45,B+ (3.59),B+ (3.34)
+"Berniolles, Sandrine",CHEM 7L - General Chemistry Laboratory (A),SP11,267,116,76.70%,84.30%,8.88,B+ (3.37),B- (2.80)
+"Berniolles, Sandrine",CHEM 7L - General Chemistry Laboratory (B),SP11,269,106,80.00%,87.60%,8.1,B (3.26),B- (2.80)
+"Cohen, Seth M",CHEM 87 - Freshman Seminar (A),SP11,11,5,100.00%,100.00%,0.5,N/A,N/A
+"Tukey, Robert H",CHEM 92 - Undergrad Pharmacology Seminar (A),SP11,187,78,79.70%,87.80%,0.79,A (4.00),N/A
+"Czworkowski, John",CHEM 96 - Introductn to Teaching Science (A),SP11,15,10,100.00%,100.00%,3.1,B+ (3.44),N/A
+"Feng, Da Fei",CHEM 100A - Analytical Chem Lab (A),WI11,76,39,51.30%,59.00%,13.47,B (3.00),B (3.16)
+"Pomeroy, Robert S.",CHEM 100B - Fundamentls/Instrumentl Analys (A),WI11,21,13,69.20%,84.60%,6.19,B (3.23),B (3.14)
+"Pomeroy, Robert S.",CHEM 100BL - Instrumental Analysis Lab (A),WI11,20,13,75.00%,83.30%,8.5,B+ (3.36),B+ (3.49)
+"Viadiu, Hector",CHEM 104 - Intro to X-ray Crystallography (A),WI11,17,11,63.60%,81.80%,5.77,B (3.10),N/A
+"Tauber, Michael",CHEM 105A - Physical Chemistry Laboratory (A),WI11,36,26,88.50%,88.50%,9.5,B (3.16),C+ (2.68)
+"Pickham, Kathleen M",CHEM 108 - Protein Biochemistry Lab (A),WI11,32,9,88.90%,100.00%,11.17,B+ (3.33),B (3.15)
+"Pickham, Kathleen M",CHEM 108 - Protein Biochemistry Lab (B),WI11,34,17,76.50%,100.00%,9.32,B+ (3.56),B (3.15)
+"Toor, Navtej",CHEM 114A - Biochemical Structure&Function (A),WI11,86,48,89.60%,83.30%,7.29,B+ (3.49),B- (2.98)
+"Wang, Wei",CHEM 114B - Biochem Energetics&Metabolism (A),WI11,185,91,79.10%,57.80%,8.66,B+ (3.39),B- (2.79)
+"Nakagawa, Terunaga",CHEM 12 - Molecules and Reactions (A),WI11,158,63,57.10%,52.40%,4.47,B (3.10),B (3.29)
+"Hendrickson, David N",CHEM 120B - Inorganic Chemistry II (A),WI11,76,39,89.50%,82.10%,3.78,B+ (3.66),B+ (3.34)
+"Sailor, Michael Joseph",CHEM 123 - Advanced Inorganic Chem Lab (A),WI11,10,8,100.00%,100.00%,6.25,B+ (3.43),N/A
+"Crowell, John E",CHEM 126 - Physical Chemistry (A),WI11,164,68,55.90%,67.60%,8.21,B (3.08),C+ (2.61)
+"Paesani, Francesco",CHEM 131 - Physical Chemistry (A),WI11,127,64,73.00%,81.00%,7.92,B (3.08),C+ (2.56)
+"Gianneschi, Nathan",CHEM 140A - Organic Chemistry I (A),WI11,154,60,88.30%,95.00%,8.37,B (3.15),C+ (2.48)
+"Albizati, Kim F.",CHEM 140A - Organic Chemistry I (B),WI11,313,143,89.40%,97.90%,8.06,B (3.17),C+ (2.52)
+"Albizati, Kim F.",CHEM 140A - Organic Chemistry I (C),WI11,320,131,89.20%,100.00%,7.82,B (3.14),C+ (2.52)
+"Burkart, Michael D",CHEM 140B - Organic Chemistry II (A),WI11,379,241,82.80%,97.00%,9.16,B (3.16),B- (2.75)
+"Theodorakis, Emmanouil",CHEM 140B - Organic Chemistry II (B),WI11,340,165,84.70%,90.70%,8.52,B (3.06),B- (2.80)
+"Whitesell, James K.",CHEM 140B - Organic Chemistry II (C),WI11,173,73,88.90%,63.40%,7.92,B+ (3.44),C+ (2.61)
+"Weizman, Haim",CHEM 140BH - Honors Organic Chemistry (A),WI11,48,38,100.00%,100.00%,7.03,B+ (3.63),A- (3.75)
+"Jennings, Patricia A.",CHEM 140C - Organic Chemistry III (A),WI11,331,130,83.80%,45.40%,6.39,B+ (3.31),B- (2.98)
+"Ternansky, Robert J.",CHEM 143A - Organic Chemistry Laboratory (A),WI11,428,214,80.50%,83.30%,8.4,B (3.16),B (3.10)
+"Weizman, Haim",CHEM 143AH - Honors Organic Chemistry Lab (A),WI11,52,35,91.40%,94.30%,9.01,B+ (3.53),B+ (3.35)
+"Ternansky, Robert J.",CHEM 143B - Organic Chemistry Laboratory (A),WI11,75,44,83.30%,83.30%,9.38,B (3.12),B (3.20)
+"Pomeroy, Robert S.",CHEM 149B - Environmental Chemistry (A),WI11,25,12,100.00%,100.00%,4.83,A- (3.83),B+ (3.47)
+"Moore, Amy Lea",CHEM 15 - Chemistry of the Universe (A),WI11,59,31,79.30%,89.70%,3.3,B+ (3.58),B- (2.97)
+"Nicolaou, Kyriacos C",CHEM 151 - Molecules That Changed World (A),WI11,86,51,86.30%,92.20%,4.98,B+ (3.42),B+ (3.43)
+"Yang, Jerry",CHEM 156 - Struct&Properties/Organc Molec (A),WI11,21,12,91.70%,100.00%,4.5,B+ (3.55),B (3.06)
+"Baker, Timothy Stanley",CHEM 165 - 3D Elctron Microscopy/Macromol (A),WI11,11,7,85.70%,85.70%,5.07,A- (3.71),N/A
+"Pomeroy, Robert S.",CHEM 172 - Environmental Chemistry (A),WI11,25,12,100.00%,100.00%,4.83,A- (3.83),B+ (3.47)
+"Czworkowski, John",CHEM 187 - Foundn of Teach&Learn Science (B),WI11,13,7,100.00%,100.00%,2.79,A- (3.71),N/A
+"Sinha, Amitabha",CHEM 6A - General Chemistry I (A),WI11,279,132,85.30%,65.90%,7.21,B- (2.92),C+ (2.34)
+"Hoeger, Carl",CHEM 6A - General Chemistry I (B),WI11,307,154,96.00%,98.00%,8.33,B- (2.97),B- (2.78)
+"Trogler, William C",CHEM 6A - General Chemistry I (C),WI11,239,129,88.40%,86.00%,6.83,B (3.16),B- (2.90)
+"Muller, Ulrich K.",CHEM 6B - General Chemistry II (A),WI11,307,183,91.70%,78.90%,6.06,B (3.24),B- (2.79)
+"Brydges, Stacey",CHEM 6B - General Chemistry II (B),WI11,205,107,86.80%,90.70%,7.34,B (3.30),B- (2.80)
+"Johnson, Christina A",CHEM 6B - General Chemistry II (C),WI11,349,193,91.70%,93.80%,8.42,B (3.20),B- (2.90)
+"Kim, Judy E.",CHEM 6B - General Chemistry II (D),WI11,154,137,89.80%,81.80%,6.25,B (3.16),B- (2.74)
+"Kummel, Andrew C",CHEM 6B - General Chemistry II (E),WI11,365,296,81.00%,82.00%,8.1,B (3.04),C+ (2.64)
+"Hoeger, Carl",CHEM 6BH - Honors General Chemistry II (A),WI11,99,64,70.30%,87.50%,7.29,B+ (3.31),B (3.03)
+"Ghosh, Partho",CHEM 6C - General Chemistry III (A),WI11,239,130,86.20%,81.30%,6.33,B (3.15),C+ (2.47)
+"Berniolles, Sandrine",CHEM 7L - General Chemistry Laboratory (A),WI11,255,107,67.00%,85.80%,8.61,B+ (3.40),B- (2.85)
+"Berniolles, Sandrine",CHEM 7L - General Chemistry Laboratory (B),WI11,263,106,79.00%,88.70%,8.25,B+ (3.38),B- (2.85)
+"Czworkowski, John",CHEM 87 - Freshman Seminar (A),WI11,11,8,87.50%,87.50%,1.5,A (4.00),N/A
+"Czworkowski, John",CHEM 96 - Introductn to Teaching Science (A),WI11,18,8,87.50%,100.00%,3.5,A- (3.83),N/A
+"Feng, Da Fei",CHEM 100A - Analytical Chem Lab (A),FA10,73,39,52.60%,60.50%,12.04,B (3.14),B (3.07)
+"Pomeroy, Robert S.",CHEM 100B - Fundamentls/Instrumentl Analys (A),FA10,15,4,100.00%,100.00%,6,B (3.25),N/A
+"Pomeroy, Robert S.",CHEM 100BL - Instrumental Analysis Lab (A),FA10,14,4,100.00%,100.00%,5,B (3.25),N/A
+"Kim, Judy E.",CHEM 105A - Physical Chemistry Laboratory (A),FA10,27,11,100.00%,81.80%,7.5,B+ (3.60),B (3.02)
+"Pickham, Kathleen M",CHEM 108 - Protein Biochemistry Lab (A),FA10,28,15,86.70%,100.00%,6.77,B+ (3.57),B+ (3.33)
+"Pickham, Kathleen M",CHEM 108 - Protein Biochemistry Lab (B),FA10,17,10,100.00%,90.00%,11.3,B+ (3.40),B+ (3.33)
+"Brydges, Stacey",CHEM 11 - The Periodic Table (A),FA10,144,75,85.10%,97.30%,5.31,B+ (3.33),B (3.23)
+"Brydges, Stacey",CHEM 11 - The Periodic Table (B),FA10,141,74,83.30%,95.80%,5.28,B+ (3.32),B (3.23)
+"Viadiu, Hector",CHEM 114A - Biochemical Structure&Function (A),FA10,210,135,88.80%,90.30%,7.65,B+ (3.39),B- (2.74)
+"Donoghue, Daniel J.",CHEM 114D - Molecular & Cellular Biochem (A),FA10,14,4,75.00%,100.00%,4.5,A- (3.75),N/A
+"Komives, Elizabeth A",CHEM 116 - Enzyme Catalyzed Reactions (A),FA10,27,15,93.30%,93.30%,5.3,B+ (3.60),B+ (3.51)
+"Figueroa, Joshua",CHEM 120A - Inorganic Chemistry I (A),FA10,148,77,80.50%,76.60%,6.81,B+ (3.33),B (3.02)
+"Tauber, Michael",CHEM 127 - Physical Chemistry (A),FA10,165,96,75.00%,91.70%,8.2,B (3.13),C+ (2.57)
+"Galperin, Michael",CHEM 133 - Physical Chemistry (A),FA10,54,27,51.90%,66.70%,9.98,B- (2.96),C+ (2.48)
+"Ternansky, Robert J.",CHEM 140A - Organic Chemistry I (A),FA10,256,173,91.90%,88.40%,11.6,B (3.09),C+ (2.68)
+"Whitesell, James K.",CHEM 140A - Organic Chemistry I (B),FA10,172,78,96.20%,73.10%,7.75,B+ (3.35),C+ (2.39)
+"Perrin, Charles L.",CHEM 140A - Organic Chemistry I (C),FA10,369,174,85.50%,90.60%,8.99,B (3.02),C+ (2.65)
+"Oconnor, Joseph M.",CHEM 140A - Organic Chemistry I (D),FA10,378,203,85.10%,95.00%,9.06,B (3.18),C+ (2.68)
+"Hoeger, Carl",CHEM 140B - Organic Chemistry II (A),FA10,273,115,74.60%,89.60%,9.86,B (3.03),C+ (2.62)
+"Hermann, Thomas",CHEM 140C - Organic Chemistry III (A),FA10,350,165,86.10%,87.30%,7.46,B (3.10),C+ (2.48)
+"Weizman, Haim",CHEM 143A - Organic Chemistry Laboratory (A),FA10,457,196,85.10%,87.10%,8.04,B+ (3.31),B (3.04)
+"Ternansky, Robert J.",CHEM 143C - Organic Chemistry Laboratory (A),FA10,73,52,94.20%,98.10%,6.74,B+ (3.42),B (3.15)
+"Bertram, Timothy",CHEM 149A - Environmental Chemistry (A),FA10,56,35,88.60%,91.40%,5.59,B+ (3.41),B (3.14)
+"Theodorakis, Emmanouil",CHEM 152 - Synthetic Methods/Organic Chem (A),FA10,32,16,93.80%,100.00%,3.25,B+ (3.69),B+ (3.56)
+"Tor, Yitzhak",CHEM 154 - Mechanisms/Organic Reactions (A),FA10,50,25,96.00%,96.00%,5.78,B+ (3.44),B (3.21)
+"Bertram, Timothy",CHEM 171 - Environmental Chemistry (A),FA10,56,35,88.60%,91.40%,5.59,B+ (3.41),B (3.14)
+"Hoeger, Carl",CHEM 4 - Basic Chemistry (A),FA10,307,188,95.70%,95.70%,9.31,B (3.19),B (3.01)
+"Magde, Douglas",CHEM 6A - General Chemistry I (A),FA10,328,207,89.60%,56.40%,7.43,B (3.15),B- (2.80)
+"Czworkowski, John",CHEM 6A - General Chemistry I (B),FA10,340,203,92.10%,77.20%,6.74,B (3.25),B- (2.83)
+"Czworkowski, John",CHEM 6A - General Chemistry I (C),FA10,342,166,89.00%,75.50%,6.56,B (3.21),B- (2.83)
+"Sailor, Michael Joseph",CHEM 6A - General Chemistry I (D),FA10,318,177,95.40%,91.40%,6.14,B+ (3.39),B- (2.89)
+"Johnson, Christina A",CHEM 6A - General Chemistry I (E),FA10,330,188,92.50%,96.20%,8.63,B (3.19),B (3.24)
+"Weare, John H.",CHEM 6AH - Honors General Chemistry I (A),FA10,158,101,43.60%,31.00%,8.08,B+ (3.40),B+ (3.46)
+"Crowell, John E",CHEM 6B - General Chemistry II (A),FA10,273,124,86.20%,74.80%,7.36,B (3.13),C+ (2.46)
+"Rheingold, Arnold L",CHEM 6C - General Chemistry III (A),FA10,191,84,78.60%,44.60%,6.52,B- (2.81),C+ (2.48)
+"Pomeroy, Robert S.",CHEM 6C - General Chemistry III (B),FA10,143,61,86.90%,72.10%,7.17,B (3.08),C+ (2.68)
+"Berniolles, Sandrine",CHEM 7L - General Chemistry Laboratory (A),FA10,247,114,73.20%,83.90%,8.39,B+ (3.36),B- (2.91)
+"Berniolles, Sandrine",CHEM 7L - General Chemistry Laboratory (B),FA10,252,120,71.70%,75.60%,8.62,B+ (3.34),B- (2.91)
+"Czworkowski, John",CHEM 87 - Freshman Seminar (A),FA10,18,12,91.70%,100.00%,0.83,A (4.00),N/A
+"Brydges, Stacey",CHEM 87 - Freshman Seminar (B),FA10,19,16,100.00%,100.00%,0.63,A (4.00),N/A
+"Weizman, Haim",CHEM 87 - Freshman Seminar (C),FA10,12,10,90.00%,90.00%,0.5,A (4.00),N/A
+"Pomeroy, Robert S.",CHEM 100A - Analytical Chem Lab (A),SU10,21,8,87.50%,87.50%,12.75,B+ (3.63),N/A
+"Knowles, Aileen",CHEM 114A - Biochemical Structure&Function (A),SU10,34,16,93.80%,100.00%,9.5,B+ (3.56),N/A
+"Oconnor, Joseph M.",CHEM 140A - Organic Chemistry I (A),SU10,193,63,84.10%,98.40%,12.66,B+ (3.33),N/A
+"Oconnor, Joseph M.",CHEM 140B - Organic Chemistry II (A),SU10,226,61,78.70%,100.00%,12.5,B (3.05),N/A
+"Weizman, Haim",CHEM 140B - Organic Chemistry II (B),SU10,146,38,84.20%,97.40%,9.5,B+ (3.31),N/A
+"Ternansky, Robert J.",CHEM 140C - Organic Chemistry III (A),SU10,91,76,68.40%,83.60%,14.21,B- (2.95),N/A
+"Weizman, Haim",CHEM 143A - Organic Chemistry Laboratory (A),SU10,92,37,94.60%,88.90%,11.58,B+ (3.36),N/A
+"Ternansky, Robert J.",CHEM 143B - Organic Chemistry Laboratory (A),SU10,22,14,92.90%,92.90%,8.07,B+ (3.36),N/A
+"Russell, Lynn M.",CHEM 149A - Environmental Chemistry (A),SU10,33,9,88.90%,100.00%,5.61,B+ (3.33),N/A
+"Russell, Lynn M.",CHEM 171 - Environmental Chemistry (A),SU10,33,9,88.90%,100.00%,5.61,B+ (3.33),N/A
+"Hoeger, Carl",CHEM 6A - General Chemistry I (B),SU10,80,20,85.00%,68.40%,11.8,B+ (3.56),N/A
+"Johnson, Christina A",CHEM 6B - General Chemistry II (A),SU10,77,20,85.00%,90.00%,10.6,B (3.05),N/A
+"Pomeroy, Robert S.",CHEM 6B - General Chemistry II (A),SU10,50,12,83.30%,91.70%,9.33,B- (2.75),N/A
+"Berniolles, Sandrine",CHEM 6BL - Intr Inorganic Chem Laboratory (A),SU10,188,72,66.70%,90.10%,12.86,B+ (3.52),N/A
+"Hoeger, Carl",CHEM 6C - General Chemistry III (A),SU10,121,44,90.90%,86.40%,8.22,B (3.16),N/A
+"Johnson, Christina A",CHEM 6C - General Chemistry III (A),SU10,128,45,97.80%,100.00%,9.18,B (3.14),N/A
+"Feng, Da Fei",CHEM 100A - Analytical Chem Lab (A),SP10,88,50,73.50%,80.00%,10.66,B+ (3.37),B (3.20)
+"Pomeroy, Robert S.",CHEM 100B - Fundamentls/Instrumentl Analys (A),SP10,15,7,85.70%,85.70%,7.93,B+ (3.57),N/A
+"Pomeroy, Robert S.",CHEM 100BL - Instrumental Analysis Lab (A),SP10,13,5,75.00%,75.00%,10.1,B+ (3.40),N/A
+"Magde, Douglas",CHEM 105A - Physical Chemistry Laboratory (A),SP10,65,30,83.30%,86.70%,9.83,B+ (3.50),B (3.21)
+"Stuart, Christina",CHEM 105A - Physical Chemistry Laboratory (A),SP10,65,21,88.20%,100.00%,8.39,B+ (3.50),B (3.13)
+"Crowley, Thomas E.",CHEM 109 - Molecular Biochemistry Lab (A),SP10,28,17,82.40%,100.00%,9.68,A- (3.71),B+ (3.53)
+"Ghosh, Gourisankar",CHEM 109 - Molecular Biochemistry Lab (B),SP10,28,11,90.90%,81.80%,7.05,A- (3.82),B+ (3.38)
+"Donoghue, Daniel J.",CHEM 11 - The Periodic Table (A),SP10,158,63,85.70%,95.20%,3.98,B+ (3.68),B (3.18)
+"Crowley, Thomas E.",CHEM 112B - Molecular Biochemistry Lab (A),SP10,28,17,82.40%,100.00%,9.68,A- (3.71),B+ (3.53)
+"Ghosh, Gourisankar",CHEM 112B - Molecular Biochemistry Lab (B),SP10,28,11,90.90%,81.80%,7.05,A- (3.82),B+ (3.38)
+"Komives, Elizabeth A",CHEM 113 - Physical Chem/Biol Macromolec (A),SP10,9,2,100.00%,100.00%,12.5,B (3.00),N/A
+"Wolynes, Peter Guy",CHEM 113 - Physical Chem/Biol Macromolec (A),SP10,9,2,100.00%,100.00%,4.5,B (3.00),N/A
+"Hoffmann, Alexander",CHEM 114C - Biosynthesis of Macromolecules (A),SP10,201,81,87.50%,90.00%,6.68,B (3.26),B- (2.71)
+"Tukey, Robert H",CHEM 118 - Pharmacology and Toxicology (A),SP10,110,58,98.20%,93.00%,6.16,B+ (3.49),B- (2.71)
+"Figueroa, Joshua",CHEM 120A - Inorganic Chemistry I (A),SP10,102,55,74.50%,78.20%,6.57,B (3.12),C+ (2.60)
+"Rheingold, Arnold L",CHEM 120A - Inorganic Chemistry I (A),SP10,102,50,72.30%,63.80%,5.97,B (3.14),C+ (2.60)
+"Sailor, Michael Joseph",CHEM 123 - Advanced Inorganic Chem Lab (A),SP10,10,6,100.00%,100.00%,6.17,B (3.17),N/A
+"Cohen, Seth M",CHEM 124 - Bioinorganic Chemistry (A),SP10,33,19,73.70%,94.70%,5.72,B (3.25),C+ (2.58)
+"Cohen, Seth M",CHEM 125 - Bioinorganic Chemistry (A),SP10,33,19,73.70%,94.70%,5.72,B (3.25),C+ (2.58)
+"Joseph, Simpson",CHEM 13 - Chemistry of Life (A),SP10,145,63,81.70%,88.30%,4.6,B+ (3.30),B (3.11)
+"Galperin, Michael",CHEM 133 - Physical Chemistry (A),SP10,60,31,38.70%,41.90%,8.11,B- (2.79),B+ (3.41)
+"Sinha, Amitabha",CHEM 135 - Molecular Spectroscopy (A),SP10,3,2,100.00%,100.00%,5.5,B (3.00),N/A
+"Yang, Jerry",CHEM 140A - Organic Chemistry I (A),SP10,299,120,82.40%,83.90%,7.83,B- (2.99),C+ (2.41)
+"Hoeger, Carl",CHEM 140B - Organic Chemistry II (A),SP10,350,140,73.00%,82.60%,8.69,B- (2.87),C+ (2.53)
+"Hoeger, Carl",CHEM 140B - Organic Chemistry II (B),SP10,361,165,70.10%,79.60%,9,B- (2.84),C+ (2.53)
+"Albizati, Kim F.",CHEM 140C - Organic Chemistry III (A),SP10,367,166,85.70%,99.40%,7.46,B (3.15),C+ (2.63)
+"Ternansky, Robert J.",CHEM 140C - Organic Chemistry III (B),SP10,249,135,83.50%,87.40%,10.56,B (3.17),B- (2.73)
+"Tor, Yitzhak",CHEM 140CH - Honors Organic Chemistry (A),SP10,55,40,100.00%,100.00%,6.2,A- (3.73),B+ (3.48)
+"Weizman, Haim",CHEM 143A - Organic Chemistry Laboratory (A),SP10,395,162,84.50%,83.50%,8.29,B (3.24),B (3.01)
+"Ternansky, Robert J.",CHEM 143B - Organic Chemistry Laboratory (A),SP10,84,46,73.90%,78.30%,7.15,B- (2.87),B+ (3.38)
+"Weizman, Haim",CHEM 143D - Molecular Design & Synthesis (A),SP10,15,8,100.00%,100.00%,12.5,B+ (3.38),N/A
+"Burkart, Michael D",CHEM 157 - Natural Products Chemistry (A),SP10,60,29,89.30%,93.10%,5.93,B (3.30),B (3.24)
+"Molinski, Tadeusz",CHEM 158 - Applied Spectroscopy (A),SP10,4,2,50.00%,50.00%,10.5,B+ (3.50),N/A
+"Baker, Timothy Stanley",CHEM 164 - Structural Biology of Viruses (A),SP10,14,5,80.00%,100.00%,4.1,B+ (3.33),N/A
+"Molina, Mario",CHEM 173 - Atmospheric Chemistry (A),SP10,9,3,100.00%,100.00%,5.17,B+ (3.67),N/A
+"Prather, Kimberly A",CHEM 173 - Atmospheric Chemistry (A),SP10,9,3,100.00%,100.00%,5.17,B+ (3.67),N/A
+"Dickson, Andrew Gilmore",CHEM 174 - Chem Prin of Marine Systems (A),SP10,51,24,75.00%,79.20%,4.08,B+ (3.39),B (3.06)
+"Paesani, Francesco",CHEM 185 - Intro/Computational Chemistry (A),SP10,3,1,100.00%,100.00%,6.5,A (4.00),N/A
+"Czworkowski, John",CHEM 188 - Capstone Sem in Science Eductn (A),SP10,11,8,100.00%,100.00%,4.5,B+ (3.50),N/A
+"Tezcan, Faik",CHEM 6A - General Chemistry I (A),SP10,157,75,82.40%,79.70%,6.14,B (3.06),C- (1.96)
+"Crowell, John E",CHEM 6B - General Chemistry II (A),SP10,295,113,70.90%,53.20%,7.34,C+ (2.69),C (2.29)
+"Johnson, Christina A",CHEM 6B - General Chemistry II (B),SP10,333,153,85.80%,98.00%,8.55,B- (2.99),C+ (2.55)
+"Berniolles, Sandrine",CHEM 6BL - Intr Inorganic Chem Laboratory (A),SP10,247,125,69.60%,79.80%,8.97,B+ (3.35),B- (2.97)
+"Berniolles, Sandrine",CHEM 6BL - Intr Inorganic Chem Laboratory (B),SP10,267,131,73.40%,77.30%,8.84,B (3.29),B- (2.97)
+"Kubiak, Clifford Paul",CHEM 6C - General Chemistry III (A),SP10,351,185,89.60%,75.80%,6.71,B (3.25),B- (2.85)
+"Brydges, Stacey",CHEM 6C - General Chemistry III (B),SP10,102,36,91.40%,82.90%,5.99,B+ (3.33),B- (2.99)
+"Brydges, Stacey",CHEM 6C - General Chemistry III (C),SP10,226,100,90.90%,81.60%,6.62,B (3.25),B- (2.99)
+"Johnson, Christina A",CHEM 6C - General Chemistry III (D),SP10,349,177,87.00%,98.90%,7.96,B (3.29),B- (2.95)
+"Cohen, Seth M",CHEM 6CH - Honors General Chemistry III (A),SP10,87,72,88.90%,98.60%,6.28,B+ (3.34),B- (2.77)
+"Weizman, Haim",CHEM 87 - Freshman Seminar (A),SP10,15,8,87.50%,100.00%,1.5,N/A,N/A
+"Tukey, Robert H",CHEM 92 - Undergrad Pharmacology Seminar (A),SP10,151,71,92.90%,97.10%,1.04,A- (3.80),N/A
+"Czworkowski, John",CHEM 96 - Introductn to Teaching Science (A),SP10,12,5,100.00%,100.00%,4.5,B+ (3.60),N/A
+"Feng, Da Fei",CHEM 100A - Analytical Chem Lab (A),WI10,55,26,61.50%,72.00%,12.96,B+ (3.50),B- (2.95)
+"Pomeroy, Robert S.",CHEM 100B - Fundamentls/Instrumentl Analys (A),WI10,15,6,83.30%,100.00%,8.83,C+ (2.67),N/A
+"Pomeroy, Robert S.",CHEM 100BL - Instrumental Analysis Lab (A),WI10,14,6,83.30%,100.00%,9.17,B (3.00),N/A
+"Kim, Judy E.",CHEM 105A - Physical Chemistry Laboratory (A),WI10,31,14,85.70%,85.70%,9.36,B+ (3.38),B- (2.89)
+"Crowley, Thomas E.",CHEM 108 - Molecular Biochemistry Lab (A),WI10,33,15,71.40%,92.90%,8.64,B+ (3.38),B+ (3.31)
+"Crowley, Thomas E.",CHEM 108 - Molecular Biochemistry Lab (B),WI10,20,10,100.00%,100.00%,6.3,B+ (3.50),B+ (3.31)
+"Crowley, Thomas E.",CHEM 112A - Molecular Biochemistry Lab (A),WI10,33,15,71.40%,92.90%,8.64,B+ (3.38),B+ (3.31)
+"Crowley, Thomas E.",CHEM 112A - Molecular Biochemistry Lab (B),WI10,20,10,100.00%,100.00%,6.3,B+ (3.50),B+ (3.31)
+"Opella, Stanley J",CHEM 114A - Biochemical Structure&Function (A),WI10,85,29,100.00%,89.70%,4.16,B+ (3.69),B- (2.85)
+"Dorrestein, Pieter",CHEM 114B - Biochem Energetics&Metabolism (A),WI10,198,67,73.10%,81.80%,7.01,B+ (3.38),C+ (2.69)
+"Wang, Wei",CHEM 114B - Biochem Energetics&Metabolism (A),WI10,198,67,70.10%,49.30%,7.23,B+ (3.35),C+ (2.69)
+"Nakagawa, Terunaga",CHEM 12 - Molecules and Reactions (A),WI10,174,76,41.10%,32.40%,4.45,B- (2.76),B (3.28)
+"Hendrickson, David N",CHEM 120B - Inorganic Chemistry II (A),WI10,67,31,83.30%,80.00%,3.92,B+ (3.58),B+ (3.32)
+"Sailor, Michael Joseph",CHEM 123 - Advanced Inorganic Chem Lab (A),WI10,9,6,100.00%,100.00%,4.5,B+ (3.67),N/A
+"Tauber, Michael",CHEM 127 - Physical Chemistry (A),WI10,169,73,52.80%,65.80%,8.94,B (3.20),C+ (2.59)
+"Lindenberg, Katja",CHEM 132 - Physical Chemistry (A),WI10,79,35,82.90%,91.40%,8.04,B+ (3.32),C+ (2.50)
+"Gianneschi, Nathan",CHEM 140A - Organic Chemistry I (A),WI10,359,141,84.40%,88.70%,8.1,B (3.13),C+ (2.47)
+"Oconnor, Joseph M.",CHEM 140A - Organic Chemistry I (B),WI10,385,129,82.20%,92.20%,8.62,B (3.12),C+ (2.60)
+"Whitesell, James K.",CHEM 140A - Organic Chemistry I (C),WI10,142,34,82.40%,55.90%,6.97,B (3.03),C+ (2.37)
+"Burkart, Michael D",CHEM 140B - Organic Chemistry II (A),WI10,391,193,83.90%,96.30%,7.85,B (3.21),B- (2.88)
+"Theodorakis, Emmanouil",CHEM 140B - Organic Chemistry II (B),WI10,365,125,70.20%,82.30%,8.29,B (3.02),C+ (2.60)
+"Hoeger, Carl",CHEM 140B - Organic Chemistry II (C),WI10,277,97,86.60%,90.60%,9.32,B (3.16),C+ (2.62)
+"Weizman, Haim",CHEM 140BH - Honors Organic Chemistry (A),WI10,49,35,94.10%,97.10%,6.44,B+ (3.69),A- (3.81)
+"Albizati, Kim F.",CHEM 140C - Organic Chemistry III (A),WI10,360,122,82.80%,97.50%,7.57,B (3.05),C+ (2.54)
+"Ternansky, Robert J.",CHEM 143A - Organic Chemistry Laboratory (A),WI10,373,165,76.40%,92.10%,6.34,B (3.19),B (3.11)
+"Weizman, Haim",CHEM 143AH - Honors Organic Chemistry Lab (A),WI10,42,24,91.70%,95.80%,7.92,B+ (3.42),B (3.22)
+"Ternansky, Robert J.",CHEM 143B - Organic Chemistry Laboratory (A),WI10,68,30,83.30%,83.30%,9.37,B+ (3.33),B (3.27)
+"Perrin, Charles L.",CHEM 146 - Kinetics & Mechan of Org React (A),WI10,10,6,80.00%,100.00%,6.5,B (3.20),N/A
+"Pomeroy, Robert S.",CHEM 149B - Environmental Chemistry (A),WI10,28,21,95.20%,100.00%,5.45,B (3.20),B (3.09)
+"Wilson, Beth",CHEM 15 - Chemistry of the Universe (A),WI10,66,23,78.30%,60.90%,2.41,B (3.29),B (3.26)
+"Nicolaou, Kyriacos C",CHEM 151 - Molecules That Changed World (A),WI10,106,50,89.80%,92.00%,4.82,B+ (3.57),B (3.13)
+"Yang, Jerry",CHEM 156 - Struct&Properties/Organc Molec (A),WI10,17,7,85.70%,100.00%,6.5,A- (3.71),N/A
+"Baker, Timothy Stanley",CHEM 165 - 3D Elctron Microscopy/Macromol (A),WI10,11,6,100.00%,100.00%,5.5,B (3.00),N/A
+"Pomeroy, Robert S.",CHEM 172 - Environmental Chemistry (A),WI10,28,21,95.20%,100.00%,5.45,B (3.20),B (3.09)
+"Czworkowski, John",CHEM 187 - Foundn of Teach&Learn Science (A),WI10,13,6,100.00%,100.00%,4.5,A- (3.80),N/A
+"Newsam, John",CHEM 192 - Sr Seminar in Chem & Biochem (A),WI10,6,4,100.00%,100.00%,1,N/A,N/A
+"Sailor, Michael Joseph",CHEM 192 - Sr Seminar in Chem & Biochem (A),WI10,6,2,100.00%,100.00%,0.5,N/A,N/A
+"Sinha, Amitabha",CHEM 6A - General Chemistry I (A),WI10,116,48,80.40%,66.70%,7.57,B- (2.86),C+ (2.36)
+"Hoeger, Carl",CHEM 6A - General Chemistry I (B),WI10,307,149,90.60%,94.00%,8.26,B- (2.97),C+ (2.69)
+"Weinberger, Leor",CHEM 6A - General Chemistry I (C),WI10,302,228,90.70%,79.10%,5.61,B (3.15),B- (2.90)
+"Muller, Ulrich K.",CHEM 6B - General Chemistry II (A),WI10,196,105,91.40%,65.70%,5.06,B+ (3.33),C+ (2.64)
+"Brydges, Stacey",CHEM 6B - General Chemistry II (B),WI10,92,44,93.20%,93.20%,7.23,B (3.19),B- (2.80)
+"Johnson, Christina A",CHEM 6B - General Chemistry II (C),WI10,346,179,90.90%,93.80%,8.41,B (3.23),B- (2.89)
+"Johnson, Christina A",CHEM 6B - General Chemistry II (D),WI10,350,171,92.20%,91.10%,8.82,B (3.25),B- (2.89)
+"Kummel, Andrew C",CHEM 6B - General Chemistry II (E),WI10,339,189,87.00%,82.20%,7.58,B (3.05),C+ (2.67)
+"Weare, John H.",CHEM 6BH - Honors General Chemistry II (A),WI10,118,68,61.80%,42.60%,7.56,B (3.24),B+ (3.45)
+"Berniolles, Sandrine",CHEM 6BL - Intr Inorganic Chem Laboratory (A),WI10,239,93,72.50%,78.00%,8.57,B (3.24),B- (2.88)
+"Berniolles, Sandrine",CHEM 6BL - Intr Inorganic Chem Laboratory (B),WI10,242,91,70.50%,78.70%,8.34,B (3.25),B- (2.88)
+"Ghosh, Partho",CHEM 6C - General Chemistry III (A),WI10,264,109,87.50%,84.30%,5.38,B (3.15),B- (2.81)
+"Czworkowski, John",CHEM 87 - Freshman Seminar (A),WI10,13,8,100.00%,100.00%,1.07,N/A,N/A
+"Weizman, Haim",CHEM 87 - Freshman Seminar (B),WI10,17,9,66.70%,77.80%,0.5,N/A,N/A
+"Czworkowski, John",CHEM 96 - Introductn to Teaching Science (A),WI10,15,8,87.50%,100.00%,3.93,A- (3.86),N/A
+"Feng, Da Fei",CHEM 100A - Analytical Chem Lab (A),FA09,75,66,68.20%,80.30%,8.05,B+ (3.57),B (3.11)
+"Tauber, Michael",CHEM 105A - Physical Chemistry Laboratory (A),FA09,20,19,50.00%,83.30%,10.08,B- (2.94),B- (2.88)
+"Crowley, Thomas E.",CHEM 108 - Molecular Biochemistry Lab (A),FA09,33,15,92.30%,100.00%,8.1,B+ (3.38),B (3.30)
+"Jennings, Patricia A.",CHEM 108 - Molecular Biochemistry Lab (A),FA09,33,15,93.30%,86.70%,8.63,B+ (3.38),B (3.30)
+"Crowley, Thomas E.",CHEM 108 - Molecular Biochemistry Lab (B),FA09,30,20,94.70%,94.70%,6.4,B+ (3.32),B (3.30)
+"Jennings, Patricia A.",CHEM 108 - Molecular Biochemistry Lab (B),FA09,30,12,91.70%,91.70%,6,B+ (3.33),B (3.30)
+"Brydges, Stacey",CHEM 11 - The Periodic Table (A),FA09,213,141,84.60%,95.60%,3.98,B+ (3.33),B (3.23)
+"Brydges, Stacey",CHEM 11 - The Periodic Table (B),FA09,210,159,77.60%,85.80%,3.57,B+ (3.54),B (3.23)
+"Crowley, Thomas E.",CHEM 112A - Molecular Biochemistry Lab (A),FA09,33,15,92.30%,100.00%,8.1,B+ (3.38),B (3.30)
+"Jennings, Patricia A.",CHEM 112A - Molecular Biochemistry Lab (A),FA09,33,15,93.30%,86.70%,8.63,B+ (3.38),B (3.30)
+"Crowley, Thomas E.",CHEM 112A - Molecular Biochemistry Lab (B),FA09,30,20,94.70%,94.70%,6.4,B+ (3.33),B (3.30)
+"Jennings, Patricia A.",CHEM 112A - Molecular Biochemistry Lab (B),FA09,30,12,91.70%,91.70%,6,B+ (3.33),B (3.30)
+"Viadiu, Hector",CHEM 114A - Biochemical Structure&Function (A),FA09,190,154,89.50%,84.80%,5.75,B+ (3.40),B- (2.99)
+"Hendrickson, David N",CHEM 120A - Inorganic Chemistry I (A),FA09,193,79,94.80%,96.10%,4.12,A- (3.76),B+ (3.32)
+"Crowell, John E",CHEM 126 - Physical Chemistry (A),FA09,161,32,69.00%,79.30%,8.44,B+ (3.34),C+ (2.54)
+"Lindenberg, Katja",CHEM 131 - Physical Chemistry (A),FA09,100,69,69.10%,80.90%,9.08,B (3.12),C+ (2.37)
+"Ternansky, Robert J.",CHEM 140A - Organic Chemistry I (A),FA09,215,191,83.20%,95.30%,9.49,B (3.20),B- (2.72)
+"Whitesell, James K.",CHEM 140A - Organic Chemistry I (B),FA09,176,70,81.20%,60.90%,6.41,B+ (3.42),C (2.19)
+"Perrin, Charles L.",CHEM 140A - Organic Chemistry I (C),FA09,336,255,91.80%,96.00%,7.2,B (3.23),C+ (2.68)
+"Albizati, Kim F.",CHEM 140A - Organic Chemistry I (D),FA09,296,238,91.10%,99.20%,7.05,B (3.23),B- (2.72)
+"Kobayashi, Yoshihisa",CHEM 140B - Organic Chemistry II (A),FA09,344,86,69.40%,39.30%,6.83,B (3.04),C+ (2.50)
+"Hermann, Thomas",CHEM 140C - Organic Chemistry III (A),FA09,279,195,86.70%,89.70%,6.59,B+ (3.36),B- (2.73)
+"Weizman, Haim",CHEM 143A - Organic Chemistry Laboratory (A),FA09,468,177,81.40%,93.00%,7.67,B+ (3.37),B (3.02)
+"Ternansky, Robert J.",CHEM 143C - Organic Chemistry Laboratory (A),FA09,71,64,90.50%,96.80%,5.71,B+ (3.30),B (3.21)
+"Pomeroy, Robert S.",CHEM 149A - Environmental Chemistry (A),FA09,75,58,96.50%,94.80%,4.84,B+ (3.39),B (3.20)
+"Oconnor, Joseph M.",CHEM 152 - Synthetic Methods/Organic Chem (A),FA09,22,26,73.10%,96.20%,3.42,B+ (3.58),B (3.27)
+"Tor, Yitzhak",CHEM 154 - Mechanisms/Organic Reactions (A),FA09,48,56,100.00%,98.20%,4.64,B+ (3.53),B+ (3.62)
+"Pomeroy, Robert S.",CHEM 171 - Environmental Chemistry (A),FA09,75,58,96.50%,94.80%,4.84,B+ (3.39),B (3.20)
+"Kim, Judy E.",CHEM 192 - Sr Seminar in Chem & Biochem (A),FA09,6,5,100.00%,100.00%,1.7,N/A,N/A
+"Hoeger, Carl",CHEM 4 - Basic Chemistry (A),FA09,297,123,95.10%,95.90%,5.7,B (3.07),B- (2.85)
+"Czworkowski, John",CHEM 6A - General Chemistry I (A),FA09,252,201,82.70%,64.00%,5.94,B (3.07),C+ (2.68)
+"Czworkowski, John",CHEM 6A - General Chemistry I (B),FA09,279,228,86.30%,61.90%,6.68,B (3.09),C+ (2.68)
+"Johnson, Christina A",CHEM 6A - General Chemistry I (C),FA09,340,289,95.80%,99.30%,7.56,B (3.27),B- (2.88)
+"Stuart, Christina",CHEM 6A - General Chemistry I (D),FA09,333,248,93.80%,92.10%,7.68,B (3.09),C+ (2.66)
+"Stuart, Christina",CHEM 6A - General Chemistry I (E),FA09,328,222,90.00%,92.30%,7.4,B (3.10),C+ (2.66)
+"Hoeger, Carl",CHEM 6AH - Honors General Chemistry I (A),FA09,151,98,79.60%,99.00%,7.52,B (3.03),B- (2.80)
+"Kim, Judy E.",CHEM 6B - General Chemistry II (A),FA09,269,167,83.60%,79.30%,6.2,B (3.05),C+ (2.60)
+"Berniolles, Sandrine",CHEM 6BL - Intr Inorganic Chem Laboratory (A),FA09,253,100,59.80%,83.70%,9.62,B (3.27),B- (2.87)
+"Berniolles, Sandrine",CHEM 6BL - Intr Inorganic Chem Laboratory (B),FA09,253,46,58.10%,77.30%,8.2,B+ (3.39),B- (2.87)
+"Johnson, Christina A",CHEM 6C - General Chemistry III (A),FA09,293,220,85.40%,98.10%,6.19,B (3.00),B- (2.77)
+"Trogler, William C",CHEM 6C - General Chemistry III (B),FA09,173,60,84.50%,67.80%,5.17,B (3.27),C+ (2.62)
+"Czworkowski, John",CHEM 87 - Freshman Seminar (A),FA09,11,11,100.00%,100.00%,1.23,N/A,N/A
+"Ellis, Arthur",CHEM 87 - Freshman Seminar (B),FA09,17,17,100.00%,100.00%,0.5,A (4.00),N/A
+"Fox, Marye Anne",CHEM 87 - Freshman Seminar (B),FA09,17,17,100.00%,100.00%,0.5,N/A,N/A
+"Pomeroy, Robert S.",CHEM 100A - Analytical Chem Lab (A),SU09,18,11,63.60%,90.90%,12.32,B+ (3.50),N/A
+"Knowles, Aileen",CHEM 114A - Biochemical Structure&Function (A),SU09,44,16,93.80%,68.80%,9.38,B (3.25),N/A
+"Oconnor, Joseph M.",CHEM 140A - Organic Chemistry I (A),SU09,224,50,89.80%,97.90%,12.21,B (3.19),N/A
+"Oconnor, Joseph M.",CHEM 140B - Organic Chemistry II (A),SU09,319,113,74.10%,96.40%,12.09,B (3.07),N/A
+"Ternansky, Robert J.",CHEM 140C - Organic Chemistry III (A),SU09,69,35,74.30%,93.90%,13.7,B- (2.85),N/A
+"Weizman, Haim",CHEM 143A - Organic Chemistry Laboratory (A),SU09,85,30,83.30%,93.30%,11.03,B (3.24),N/A
+"Ternansky, Robert J.",CHEM 143B - Organic Chemistry Laboratory (A),SU09,20,13,92.30%,92.30%,6.81,B (3.23),N/A
+"Brydges, Stacey",CHEM 6A - General Chemistry I (A),SU09,36,12,100.00%,100.00%,8.33,B (3.08),N/A
+"Hoeger, Carl",CHEM 6A - General Chemistry I (A),SU09,67,22,81.80%,77.30%,9.32,B- (2.95),N/A
+"Johnson, Christina A",CHEM 6B - General Chemistry II (A),SU09,72,20,75.00%,100.00%,10,B (3.26),N/A
+"Pomeroy, Robert S.",CHEM 6B - General Chemistry II (A),SU09,43,22,90.90%,72.70%,8.68,B- (2.86),N/A
+"Berniolles, Sandrine",CHEM 6BL - Intr Inorganic Chem Laboratory (A),SU09,158,59,67.80%,89.70%,11.96,B+ (3.33),N/A
+"Hoeger, Carl",CHEM 6C - General Chemistry III (A),SU09,71,27,88.90%,96.20%,8.43,B (3.12),N/A
+"Johnson, Christina A",CHEM 6C - General Chemistry III (A),SU09,117,42,92.90%,95.20%,8.11,B (3.26),N/A
+"Feng, Da Fei",CHEM 100A - Analytical Chem Lab (A),SP09,58,58,69.10%,75.00%,8.84,B+ (3.30),B- (2.93)
+"Pomeroy, Robert S.",CHEM 100B - Fundamentls/Instrumentl Analys (A),SP09,26,19,66.70%,84.20%,8.08,B (3.21),B- (2.75)
+"Pomeroy, Robert S.",CHEM 100BL - Instrumental Analysis Lab (A),SP09,24,23,81.80%,87.00%,8.5,B (3.22),B+ (3.54)
+"Stuart, Christina",CHEM 105A - Physical Chemistry Laboratory (A),SP09,52,23,72.70%,90.90%,8.15,B (3.23),B (3.15)
+"Crowley, Thomas E.",CHEM 109 - Molecular Biochemistry Lab (A),SP09,34,21,90.00%,80.00%,7.1,B+ (3.30),B+ (3.32)
+"Ghosh, Gourisankar",CHEM 109 - Molecular Biochemistry Lab (A),SP09,34,20,75.00%,30.00%,8,B+ (3.33),B+ (3.32)
+"Crowley, Thomas E.",CHEM 109 - Molecular Biochemistry Lab (B),SP09,31,22,90.90%,68.20%,5.32,B+ (3.35),B+ (3.32)
+"Ghosh, Gourisankar",CHEM 109 - Molecular Biochemistry Lab (B),SP09,31,17,94.10%,82.40%,5.21,B+ (3.35),B+ (3.32)
+"Crowley, Thomas E.",CHEM 112B - Molecular Biochemistry Lab (A),SP09,34,21,90.00%,80.00%,7.1,B+ (3.30),B+ (3.39)
+"Ghosh, Gourisankar",CHEM 112B - Molecular Biochemistry Lab (A),SP09,34,20,75.00%,30.00%,8,B+ (3.30),B+ (3.32)
+"Crowley, Thomas E.",CHEM 112B - Molecular Biochemistry Lab (B),SP09,31,22,90.90%,68.20%,5.32,B+ (3.35),B+ (3.39)
+"Ghosh, Gourisankar",CHEM 112B - Molecular Biochemistry Lab (B),SP09,31,17,94.10%,82.40%,5.21,B+ (3.35),B+ (3.32)
+"Hoffmann, Alexander",CHEM 114C - Biosynthesis of Macromolecules (A),SP09,201,88,92.70%,98.80%,5.69,B+ (3.39),C+ (2.62)
+"Printz, Morton P.",CHEM 118 - Pharmacology and Toxicology (A),SP09,142,67,98.50%,98.50%,4.98,B+ (3.60),B+ (3.53)
+"Tezcan, Faik",CHEM 124 - Bioinorganic Chemistry (A),SP09,27,28,85.70%,85.70%,5.86,B (3.15),C+ (2.44)
+"Tezcan, Faik",CHEM 125 - Bioinorganic Chemistry (A),SP09,27,28,85.70%,85.70%,5.86,B (3.15),C+ (2.44)
+"Crowley, Thomas E.",CHEM 13 - Chemistry of Life (A),SP09,138,100,29.80%,27.20%,2.5,B (3.14),B+ (3.30)
+"Sinha, Amitabha",CHEM 133 - Physical Chemistry (A),SP09,74,38,51.40%,83.30%,8.39,B- (2.91),C+ (2.57)
+"Oconnor, Joseph M.",CHEM 140A - Organic Chemistry I (A),SP09,337,26,96.00%,92.30%,6.81,B+ (3.48),C+ (2.41)
+"Glazer, Edith C",CHEM 140B - Organic Chemistry II (A),SP09,194,125,64.80%,63.90%,9.47,B- (2.78),C+ (2.52)
+"Molinski, Tadeusz",CHEM 140B - Organic Chemistry II (B),SP09,318,152,69.30%,46.70%,7.43,B (3.08),C+ (2.32)
+"Albizati, Kim F.",CHEM 140C - Organic Chemistry III (A),SP09,353,235,85.40%,99.10%,6.26,B+ (3.35),B- (2.77)
+"Ternansky, Robert J.",CHEM 140C - Organic Chemistry III (B),SP09,103,96,78.30%,94.60%,9.06,B (3.12),B- (2.70)
+"Tor, Yitzhak",CHEM 140CH - Honors Organic Chemistry (A),SP09,52,37,100.00%,100.00%,6.01,A- (3.79),B+ (3.66)
+"Weizman, Haim",CHEM 143A - Organic Chemistry Laboratory (A),SP09,390,160,86.10%,92.70%,6.53,B+ (3.36),B (3.01)
+"Ternansky, Robert J.",CHEM 143B - Organic Chemistry Laboratory (A),SP09,97,94,93.40%,93.50%,6.37,B (3.14),B (3.23)
+"Yang, Jerry",CHEM 156 - Struct&Properties/Organc Molec (A),SP09,39,28,92.60%,89.30%,5.71,B (3.27),B+ (3.36)
+"Burkart, Michael D",CHEM 157 - Natural Products Chemistry (A),SP09,46,58,88.70%,92.30%,5.07,B+ (3.35),B (3.05)
+"Prather, Kimberly A",CHEM 173 - Atmospheric Chemistry (A),SP09,48,40,85.00%,97.50%,4.55,B (3.19),C+ (2.38)
+"Dickson, Andrew Gilmore",CHEM 174 - Chem Prin of Marine Systems (A),SP09,38,25,72.00%,84.00%,3.75,B (3.10),B- (2.87)
+"Czworkowski, John",CHEM 188 - Capstone Sem in Science Eductn (A),SP09,12,12,91.70%,100.00%,4.33,B+ (3.45),N/A
+"Tezcan, Faik",CHEM 6A - General Chemistry I (A),SP09,251,142,85.10%,90.80%,5.37,B (3.16),C (2.19)
+"Hoeger, Carl",CHEM 6B - General Chemistry II (A),SP09,167,94,92.30%,98.90%,6.59,B- (2.85),C+ (2.64)
+"Johnson, Christina A",CHEM 6B - General Chemistry II (B),SP09,319,198,82.60%,99.00%,6.33,B (3.14),C+ (2.57)
+"Weinberger, Leor",CHEM 6B - General Chemistry II (C),SP09,184,78,90.40%,86.70%,5.27,B+ (3.49),B- (2.79)
+"Berniolles, Sandrine",CHEM 6BL - Intr Inorganic Chem Laboratory (A),SP09,236,17,52.90%,88.20%,10.38,B+ (3.35),B- (2.94)
+"Berniolles, Sandrine",CHEM 6BL - Intr Inorganic Chem Laboratory (B),SP09,242,56,51.90%,94.30%,9.25,B+ (3.35),B- (2.94)
+"Kubiak, Clifford Paul",CHEM 6C - General Chemistry III (A),SP09,196,134,94.60%,96.20%,4.96,B (3.25),B- (2.87)
+"Brydges, Stacey",CHEM 6C - General Chemistry III (B),SP09,145,96,91.50%,85.10%,6.31,B+ (3.36),B- (2.86)
+"Ghosh, Partho",CHEM 6C - General Chemistry III (C),SP09,291,100,83.80%,76.80%,5.16,B (3.09),C+ (2.49)
+"Johnson, Christina A",CHEM 6C - General Chemistry III (D),SP09,346,245,86.70%,98.80%,6.47,B+ (3.37),B- (2.85)
+"Hoeger, Carl",CHEM 6CH - Honors General Chemistry III (A),SP09,64,55,94.50%,100.00%,4.61,B+ (3.66),B+ (3.37)
+"Weizman, Haim",CHEM 87 - Freshman Seminar (A),SP09,14,14,85.70%,85.70%,0.64,A (4.00),N/A
+"Brydges, Stacey",CHEM 87 - Freshman Seminar (B),SP09,18,18,100.00%,100.00%,0.5,N/A,N/A
+"Printz, Morton P.",CHEM 92 - Undergrad Pharmacology Seminar (A),SP09,166,89,100.00%,97.60%,0.84,A- (3.92),N/A
+"Czworkowski, John",CHEM 96 - Introductn to Teaching Science (A),SP09,13,12,100.00%,100.00%,3,B+ (3.55),N/A
+"Feng, Da Fei",CHEM 100A - Analytical Chem Lab (A),WI09,65,62,78.00%,81.70%,7.91,B+ (3.53),B- (2.90)
+"Kim, Judy E.",CHEM 105A - Physical Chemistry Laboratory (A),WI09,41,30,72.40%,96.60%,9.12,B (3.30),B- (2.76)
+"Crowley, Thomas E.",CHEM 108 - Molecular Biochemistry Lab (A),WI09,28,15,78.60%,78.60%,8.23,B+ (3.57),B+ (3.45)
+"Crowley, Thomas E.",CHEM 108 - Molecular Biochemistry Lab (B),WI09,30,24,95.70%,78.30%,6.92,B+ (3.38),B+ (3.45)
+"Crowley, Thomas E.",CHEM 112A - Molecular Biochemistry Lab (A),WI09,28,15,78.60%,78.60%,8.23,B+ (3.57),B+ (3.45)
+"Crowley, Thomas E.",CHEM 112A - Molecular Biochemistry Lab (B),WI09,30,24,95.70%,78.30%,6.92,B+ (3.38),B+ (3.45)
+"Opella, Stanley J",CHEM 114A - Biochemical Structure&Function (A),WI09,89,49,95.90%,100.00%,4.54,B+ (3.65),B- (2.78)
+"Wang, Wei",CHEM 114B - Biochem Energetics&Metabolism (A),WI09,217,87,60.90%,41.40%,7.36,B (3.19),C+ (2.50)
+"Nakagawa, Terunaga",CHEM 12 - Molecules and Reactions (A),WI09,164,34,58.80%,47.10%,4,B+ (3.35),B+ (3.30)
+"Hendrickson, David N",CHEM 120B - Inorganic Chemistry II (A),WI09,79,20,85.00%,90.00%,3.4,A- (3.70),B+ (3.32)
+"Tauber, Michael",CHEM 127 - Physical Chemistry (A),WI09,156,125,71.20%,87.20%,5.56,B (3.07),C+ (2.51)
+"Lindenberg, Katja",CHEM 132 - Physical Chemistry (A),WI09,103,61,54.20%,69.50%,7.25,B (3.00),C+ (2.51)
+"Yang, Jerry",CHEM 140A - Organic Chemistry I (A),WI09,368,257,84.30%,93.50%,7.39,B (3.14),C+ (2.64)
+"Gianneschi, Nathan",CHEM 140A - Organic Chemistry I (B),WI09,330,231,84.40%,86.80%,7.6,B (3.00),C+ (2.58)
+"Burkart, Michael D",CHEM 140B - Organic Chemistry II (A),WI09,308,258,79.00%,94.00%,7.01,B (3.28),B- (2.80)
+"Theodorakis, Emmanouil",CHEM 140B - Organic Chemistry II (B),WI09,273,140,76.60%,93.40%,6.73,B (3.13),C+ (2.65)
+"Whitesell, James K.",CHEM 140B - Organic Chemistry II (C),WI09,210,74,74.00%,59.70%,6.2,B+ (3.36),C+ (2.34)
+"Weizman, Haim",CHEM 140BH - Honors Organic Chemistry (A),WI09,41,38,100.00%,97.40%,6.66,B+ (3.68),A- (3.79)
+"Albizati, Kim F.",CHEM 140C - Organic Chemistry III (A),WI09,259,134,91.70%,100.00%,6.16,B+ (3.38),C+ (2.68)
+"Ternansky, Robert J.",CHEM 143A - Organic Chemistry Laboratory (A),WI09,359,268,70.20%,68.20%,6.4,B (3.06),B (3.09)
+"Weizman, Haim",CHEM 143AH - Honors Organic Chemistry Lab (A),WI09,40,22,81.80%,90.90%,9.41,B+ (3.48),B (3.21)
+"Ternansky, Robert J.",CHEM 143B - Organic Chemistry Laboratory (A),WI09,74,72,76.10%,79.10%,7.34,B- (2.97),B (3.14)
+"Pomeroy, Robert S.",CHEM 149B - Environmental Chemistry (A),WI09,34,26,92.30%,92.30%,5.96,B+ (3.35),B (3.01)
+"Glazer, Edith C",CHEM 15 - Chemistry of the Universe (A),WI09,49,42,76.20%,73.80%,2.69,B+ (3.38),B+ (3.39)
+"Nicolaou, Kyriacos C",CHEM 151 - Molecules That Changed World (A),WI09,97,57,100.00%,100.00%,3.55,A- (3.79),B+ (3.43)
+"Baker, Timothy Stanley",CHEM 165 - 3D Elctron Microscopy/Macromol (A),WI09,10,10,100.00%,100.00%,4.1,B+ (3.60),N/A
+"Pomeroy, Robert S.",CHEM 172 - Environmental Chemistry (A),WI09,34,26,92.30%,92.30%,5.96,B+ (3.35),B (3.01)
+"Czworkowski, John",CHEM 187 - Foundn of Teach&Learn Science (A),WI09,9,9,100.00%,100.00%,3.75,A- (3.78),N/A
+"Newsam, John",CHEM 192 - Sr Seminar in Chem & Biochem (A),WI09,11,12,100.00%,100.00%,1.33,A (4.00),N/A
+"Sailor, Michael Joseph",CHEM 192 - Sr Seminar in Chem & Biochem (A),WI09,11,12,100.00%,100.00%,1.33,A (4.00),N/A
+"Sinha, Amitabha",CHEM 6A - General Chemistry I (A),WI09,312,103,76.30%,58.60%,6.34,B- (2.95),C+ (2.53)
+"Hoeger, Carl",CHEM 6A - General Chemistry I (B),WI09,325,238,89.30%,93.10%,6.02,B- (2.90),C+ (2.67)
+"Crowell, John E",CHEM 6B - General Chemistry II (A),WI09,304,80,78.50%,67.10%,7.18,B (3.09),C+ (2.53)
+"Kummel, Andrew C",CHEM 6B - General Chemistry II (B),WI09,295,125,82.30%,91.90%,6.45,B (3.09),C+ (2.68)
+"Muller, Ulrich K.",CHEM 6B - General Chemistry II (C),WI09,103,86,90.00%,77.80%,5.1,B (3.29),C+ (2.54)
+"brydges, stacey",CHEM 6B - General Chemistry II (D),WI09,260,192,65.40%,63.40%,6.91,B- (2.83),C+ (2.57)
+"Johnson, Christina A",CHEM 6B - General Chemistry II (E),WI09,322,243,86.00%,97.90%,6.81,B (3.22),B- (2.76)
+"Weare, John H.",CHEM 6BH - Honors General Chemistry II (A),WI09,88,60,53.40%,56.70%,7.17,B (3.19),B+ (3.50)
+"Berniolles, Sandrine",CHEM 6BL - Intr Inorganic Chem Laboratory (A),WI09,226,27,63.00%,88.90%,8.65,B+ (3.35),B- (2.95)
+"Berniolles, Sandrine",CHEM 6BL - Intr Inorganic Chem Laboratory (B),WI09,240,81,65.00%,90.00%,7.56,B (3.23),B- (2.95)
+"Hoeger, Carl",CHEM 6C - General Chemistry III (A),WI09,184,134,88.40%,93.80%,5.37,B (3.20),B- (2.77)
+"Czworkowski, John",CHEM 87 - Freshman Seminar (B),WI09,8,6,100.00%,100.00%,1.17,N/A,N/A
+"Czworkowski, John",CHEM 96 - Introductn to Teaching Science (A),WI09,18,16,100.00%,93.30%,2.88,B+ (3.57),N/A
+"Feng, Da Fei",CHEM 100A - Analytical Chem Lab (A),FA08,100,83,77.80%,78.80%,8.74,B+ (3.36),B (3.19)
+"stuart, christina",CHEM 105A - Physical Chemistry Laboratory (A),FA08,38,30,93.10%,96.60%,7.95,B (3.26),B- (2.88)
+"Crowley, Thomas E.",CHEM 108 - Molecular Biochemistry Lab (A),FA08,14,11,100.00%,81.80%,6.32,A- (3.73),B+ (3.39)
+"Jennings, Patricia A.",CHEM 108 - Molecular Biochemistry Lab (A),FA08,14,11,100.00%,90.90%,6.32,A- (3.73),B+ (3.39)
+"Crowley, Thomas E.",CHEM 108 - Molecular Biochemistry Lab (B),FA08,26,16,81.30%,87.50%,6.75,B+ (3.60),B+ (3.39)
+"Jennings, Patricia A.",CHEM 108 - Molecular Biochemistry Lab (B),FA08,26,16,84.60%,100.00%,6.88,B+ (3.60),B+ (3.39)
+"Crowley, Thomas E.",CHEM 11 - The Periodic Table (A),FA08,169,75,73.60%,49.30%,2.36,B+ (3.51),B+ (3.31)
+"Pomeroy, Robert S.",CHEM 11 - The Periodic Table (B),FA08,181,112,82.70%,91.80%,3.85,B+ (3.30),C+ (2.66)
+"Crowley, Thomas E.",CHEM 112A - Molecular Biochemistry Lab (A),FA08,14,11,100.00%,81.80%,6.32,A- (3.73),B+ (3.39)
+"Jennings, Patricia A.",CHEM 112A - Molecular Biochemistry Lab (A),FA08,14,11,100.00%,90.90%,6.32,A- (3.73),B+ (3.39)
+"Crowley, Thomas E.",CHEM 112A - Molecular Biochemistry Lab (B),FA08,26,16,81.30%,87.50%,6.75,B+ (3.60),B+ (3.39)
+"Jennings, Patricia A.",CHEM 112A - Molecular Biochemistry Lab (B),FA08,26,16,84.60%,100.00%,6.88,B+ (3.60),B+ (3.39)
+"Viadiu, Hector",CHEM 114A - Biochemical Structure&Function (A),FA08,223,140,87.10%,89.90%,5.87,B+ (3.47),B (3.03)
+"Dorrestein, Pieter",CHEM 116 - Enzyme Catalyzed Reactions (A),FA08,36,25,69.60%,78.30%,5.22,B+ (3.60),B (3.28)
+"Komives, Elizabeth A",CHEM 116 - Enzyme Catalyzed Reactions (A),FA08,36,22,63.60%,86.40%,4.6,B+ (3.60),B (3.28)
+"Hendrickson, David N",CHEM 120A - Inorganic Chemistry I (A),FA08,228,90,83.00%,92.00%,4.32,B+ (3.58),B (3.16)
+"Crowell, John E",CHEM 126 - Physical Chemistry (A),FA08,130,79,70.50%,91.00%,5.97,B (3.14),C+ (2.59)
+"Crowell, John E",CHEM 126 - Physical Chemistry (B),FA08,35,13,38.50%,84.60%,6.81,B (3.23),C+ (2.59)
+"Lindenberg, Katja",CHEM 131 - Physical Chemistry (A),FA08,120,50,55.10%,79.60%,8.38,B- (2.96),C+ (2.40)
+"Ternansky, Robert J.",CHEM 140A - Organic Chemistry I (A),FA08,201,217,79.50%,91.20%,10.14,B (3.00),B- (2.71)
+"Whitesell, James K.",CHEM 140A - Organic Chemistry I (B),FA08,270,84,73.50%,48.80%,6.57,B+ (3.41),C+ (2.44)
+"Glazer, Edith C",CHEM 140A - Organic Chemistry I (C),FA08,236,184,80.10%,82.30%,8.7,B- (2.98),C+ (2.49)
+"Albizati, Kim F.",CHEM 140A - Organic Chemistry I (D),FA08,201,150,91.30%,99.30%,5.86,B+ (3.37),B- (2.72)
+"Kobayashi, Yoshihisa",CHEM 140B - Organic Chemistry II (A),FA08,262,79,76.60%,40.30%,6.63,B (3.22),C+ (2.55)
+"Hermann, Thomas",CHEM 140C - Organic Chemistry III (A),FA08,297,205,75.90%,82.20%,6.28,B (3.25),C+ (2.68)
+"Weizman, Haim",CHEM 143A - Organic Chemistry Laboratory (A),FA08,437,197,88.90%,96.80%,6.55,B+ (3.41),B- (2.95)
+"Ternansky, Robert J.",CHEM 143C - Organic Chemistry Laboratory (A),FA08,109,98,87.60%,90.70%,7.41,B (3.25),B (3.29)
+"Prather, Kimberly A",CHEM 149A - Environmental Chemistry (A),FA08,60,45,97.70%,95.50%,4.94,B+ (3.42),C+ (2.51)
+"Kobayashi, Yoshihisa",CHEM 152 - Synthetic Methods/Organic Chem (A),FA08,17,19,84.20%,84.20%,5.61,B+ (3.37),N/A
+"Theodorakis, Emmanouil",CHEM 152 - Synthetic Methods/Organic Chem (A),FA08,17,19,84.20%,84.20%,5.61,B+ (3.37),N/A
+"Tor, Yitzhak",CHEM 154 - Mechanisms/Organic Reactions (A),FA08,36,40,92.50%,95.00%,6.05,B+ (3.37),B+ (3.53)
+"Prather, Kimberly A",CHEM 171 - Environmental Chemistry (A),FA08,60,45,97.70%,95.50%,4.94,B+ (3.42),C+ (2.51)
+"Weizman, Haim",CHEM 192 - Sr Seminar in Chem & Biochem (A),FA08,18,13,100.00%,100.00%,1.12,N/A,N/A
+"Hoeger, Carl",CHEM 4 - Basic Chemistry (A),FA08,238,183,96.10%,98.90%,5.76,B- (2.98),B- (2.89)
+"brydges, stacey",CHEM 6A - General Chemistry I (A),FA08,323,247,86.90%,76.60%,6.97,B- (2.84),C+ (2.49)
+"Czworkowski, John",CHEM 6A - General Chemistry I (B),FA08,327,273,81.80%,59.00%,6.15,B (3.15),C+ (2.54)
+"Czworkowski, John",CHEM 6A - General Chemistry I (C),FA08,298,221,75.50%,61.80%,6.27,B (3.08),C+ (2.54)
+"Johnson, Christina A",CHEM 6A - General Chemistry I (D),FA08,336,214,91.30%,98.60%,6.22,B (3.15),B- (2.85)
+"brydges, stacey",CHEM 6A - General Chemistry I (E),FA08,316,253,81.20%,73.20%,6.06,B- (2.99),C+ (2.49)
+"Hoeger, Carl",CHEM 6AH - Honors General Chemistry I (A),FA08,117,97,75.30%,94.60%,6.4,B (3.10),B (3.07)
+"Kim, Judy E.",CHEM 6B - General Chemistry II (A),FA08,239,162,62.90%,37.70%,7.55,B- (2.89),C+ (2.63)
+"Berniolles, Sandrine",CHEM 6BL - Intr Inorganic Chem Laboratory (A),FA08,245,29,72.40%,86.20%,9.19,B (3.29),B- (2.99)
+"Berniolles, Sandrine",CHEM 6BL - Intr Inorganic Chem Laboratory (B),FA08,248,86,59.80%,86.60%,10.59,B (3.18),B- (2.99)
+"Johnson, Christina A",CHEM 6C - General Chemistry III (A),FA08,340,293,90.90%,98.60%,5.66,B (3.23),B- (2.86)
+"Trogler, William C",CHEM 6C - General Chemistry III (B),FA08,120,41,80.00%,85.00%,4.55,B (3.13),B- (2.82)
+"Czworkowski, John",CHEM 87 - Freshman Seminar (B),FA08,16,18,88.90%,94.40%,0.83,A (4.00),N/A
+"Ball, Ian James",CHEM 100A - Analytical Chem Lab (A),SU08,19,16,50.00%,56.30%,12.5,B (3.07),N/A
+"Oconnor, Joseph M.",CHEM 140A - Organic Chemistry I (A),SU08,167,110,85.50%,99.10%,10.54,B+ (3.48),N/A
+"Ternansky, Robert J.",CHEM 140A - Organic Chemistry I (A),SU08,52,36,80.60%,97.20%,15.28,B- (2.82),N/A
+"Oconnor, Joseph M.",CHEM 140B - Organic Chemistry II (A),SU08,278,179,83.60%,96.60%,10.26,B (3.17),N/A
+"Weizman, Haim",CHEM 143A - Organic Chemistry Laboratory (A),SU08,78,68,92.40%,93.80%,10.96,B (3.26),N/A
+"Ternansky, Robert J.",CHEM 143B - Organic Chemistry Laboratory (A),SU08,20,19,100.00%,94.70%,7.97,B- (2.89),N/A
+"Hoeger, Carl",CHEM 6A - General Chemistry I (A),SU08,66,35,91.40%,97.10%,9.15,B (3.29),N/A
+"Pomeroy, Robert S.",CHEM 6A - General Chemistry I (A),SU08,21,12,100.00%,91.70%,7.17,B+ (3.36),N/A
+"Ball, Ian James",CHEM 6B - General Chemistry II (A),SU08,56,44,82.50%,95.00%,8.74,B- (2.98),N/A
+"Pomeroy, Robert S.",CHEM 6B - General Chemistry II (A),SU08,45,38,84.20%,76.30%,8.82,B- (2.86),N/A
+"Berniolles, Sandrine",CHEM 6BL - Intr Inorganic Chem Laboratory (A),SU08,124,63,74.60%,90.50%,11.6,B+ (3.31),N/A
+"Hoeger, Carl",CHEM 6C - General Chemistry III (A),SU08,96,58,89.50%,98.20%,8.74,B+ (3.40),N/A
+"Johnson, Christina A",CHEM 6C - General Chemistry III (A),SU08,92,77,85.50%,94.70%,7.1,B (3.30),N/A
+"Feng, Da Fei",CHEM 100A - Analytical Chem Lab (A),SP08,85,72,71.40%,84.30%,10.28,B+ (3.51),B- (2.98)
+"Magde, Douglas",CHEM 105A - Physical Chemistry Laboratory (A),SP08,56,34,78.10%,96.90%,9.11,B (3.29),B (3.00)
+"Crowley, Thomas E.",CHEM 109 - Molecular Biochemistry Lab (A),SP08,29,19,88.90%,83.30%,8.61,B+ (3.33),B+ (3.38)
+"Crowley, Thomas E.",CHEM 109 - Molecular Biochemistry Lab (B),SP08,24,19,73.70%,36.80%,8.94,B- (2.79),B+ (3.38)
+"Crowley, Thomas E.",CHEM 112B - Molecular Biochemistry Lab (A),SP08,29,19,88.90%,83.30%,8.61,B+ (3.33),B+ (3.38)
+"Crowley, Thomas E.",CHEM 112B - Molecular Biochemistry Lab (B),SP08,24,19,73.70%,36.80%,8.94,B- (2.79),B+ (3.38)
+"Hoffmann, Alexander",CHEM 114C - Biosynthesis of Macromolecules (A),SP08,180,44,86.00%,95.30%,5.64,B+ (3.38),B- (2.72)
+"Dorrestein, Pieter",CHEM 116 - Enzyme Catalyzed Reactions (A),SP08,53,29,92.90%,82.10%,6.71,B+ (3.39),B (3.10)
+"Komives, Elizabeth A",CHEM 116 - Enzyme Catalyzed Reactions (A),SP08,53,33,87.50%,100.00%,6.44,B+ (3.39),B (3.10)
+"Tukey, Robert H",CHEM 118 - Pharmacology and Toxicology (A),SP08,108,72,93.10%,93.10%,5.53,B+ (3.34),B (3.09)
+"Cohen, Seth M",CHEM 124 - Bioinorganic Chemistry (A),SP08,39,34,69.70%,93.90%,5.62,B (3.03),B- (2.81)
+"Tezcan, Faik",CHEM 124 - Bioinorganic Chemistry (A),SP08,39,34,69.70%,93.90%,5.62,B (3.03),B- (2.81)
+"Cohen, Seth M",CHEM 125 - Bioinorganic Chemistry (A),SP08,39,34,69.70%,93.90%,5.62,B (3.03),B- (2.81)
+"Tezcan, Faik",CHEM 125 - Bioinorganic Chemistry (A),SP08,39,34,69.70%,93.90%,5.62,B (3.03),B- (2.81)
+"Joseph, Simpson",CHEM 13 - Chemistry of Life (A),SP08,173,87,83.50%,91.80%,3.27,B+ (3.55),B- (2.88)
+"Sinha, Amitabha",CHEM 133 - Physical Chemistry (A),SP08,70,42,70.70%,90.00%,8.55,B (3.03),C+ (2.34)
+"Ternansky, Robert J.",CHEM 140A - Organic Chemistry I (A),SP08,286,220,82.10%,88.70%,8.01,B (3.02),C+ (2.69)
+"Nefzi, Adel",CHEM 140B - Organic Chemistry II (A),SP08,307,179,81.40%,93.80%,6.01,B (3.08),C+ (2.50)
+"La Clair, James J.",CHEM 140B - Organic Chemistry II (B),SP08,266,134,78.50%,77.50%,5.56,A- (3.71),B+ (3.47)
+"Finn, Michael",CHEM 140C - Organic Chemistry III (A),SP08,194,142,83.00%,88.70%,6.99,B+ (3.44),B (3.10)
+"Nefzi, Adel",CHEM 140C - Organic Chemistry III (B),SP08,341,255,84.80%,88.80%,6.94,B+ (3.33),B- (2.88)
+"Tor, Yitzhak",CHEM 140CH - Honors Organic Chemistry (A),SP08,34,30,96.70%,100.00%,6.63,B+ (3.67),A- (3.79)
+"Weizman, Haim",CHEM 143A - Organic Chemistry Laboratory (A),SP08,384,163,90.40%,95.50%,6.3,B+ (3.41),B (3.01)
+"Ternansky, Robert J.",CHEM 143B - Organic Chemistry Laboratory (A),SP08,97,80,89.30%,93.20%,5.77,B (3.18),B (3.27)
+"Burkart, Michael D",CHEM 157 - Natural Products Chemistry (A),SP08,23,28,85.70%,89.30%,4.29,B+ (3.42),B+ (3.43)
+"Russell, Lynn M.",CHEM 173 - Atmospheric Chemistry (A),SP08,68,54,92.60%,92.60%,3.91,B+ (3.50),B+ (3.47)
+"Czworkowski, John",CHEM 188 - Capstone Sem in Science Eductn (A),SP08,8,8,87.50%,100.00%,4.25,B+ (3.38),N/A
+"Tezcan, Faik",CHEM 6A - General Chemistry I (A),SP08,179,106,90.40%,95.20%,4.9,B (3.14),C (2.30)
+"Hoeger, Carl",CHEM 6B - General Chemistry II (A),SP08,316,217,82.90%,95.70%,6.08,B (3.08),B- (2.82)
+"Dipasquale, Antonio",CHEM 6B - General Chemistry II (B),SP08,263,183,86.60%,87.10%,4.77,B (3.14),B- (2.78)
+"Berniolles, Sandrine",CHEM 6BL - Intr Inorganic Chem Laboratory (A),SP08,224,61,55.00%,95.00%,9.45,B+ (3.42),B- (2.95)
+"Berniolles, Sandrine",CHEM 6BL - Intr Inorganic Chem Laboratory (B),SP08,241,56,63.50%,96.20%,9.05,B+ (3.40),B- (2.95)
+"Trogler, William C",CHEM 6C - General Chemistry III (A),SP08,285,77,75.00%,63.20%,6.45,B (3.26),C+ (2.67)
+"Dipasquale, Antonio",CHEM 6C - General Chemistry III (B),SP08,351,205,76.60%,72.50%,4.68,B (3.17),B- (2.80)
+"Hoeger, Carl",CHEM 6C - General Chemistry III (C),SP08,329,187,85.70%,95.10%,5.84,B (3.23),B (3.01)
+"Cohen, Seth M",CHEM 6CH - Honors General Chemistry III (A),SP08,119,100,97.00%,98.00%,4.72,B+ (3.56),B- (2.80)
+"Cohen, Seth M",CHEM 87 - Freshman Seminar (A),SP08,19,14,100.00%,100.00%,2.07,A (4.00),N/A
+"Weizman, Haim",CHEM 87 - Freshman Seminar (B),SP08,14,13,100.00%,100.00%,0.65,N/A,N/A
+"Tukey, Robert H",CHEM 92 - Undergrad Pharmacology Seminar (A),SP08,171,119,97.40%,97.40%,0.95,A (4.00),N/A
+"Czworkowski, John",CHEM 96 - Introductn to Teaching Science (A),SP08,9,9,88.90%,100.00%,2.06,A (4.00),N/A
+"Feng, Da Fei",CHEM 100A - Analytical Chem Lab (A),WI08,70,66,59.70%,71.00%,10.02,B+ (3.31),B (3.20)
+"Pomeroy, Robert S.",CHEM 100B - Fundamentls/Instrumentl Analys (A),WI08,14,11,90.90%,81.80%,5.95,B+ (3.30),N/A
+"Tauber, Michael",CHEM 105A - Physical Chemistry Laboratory (A),WI08,38,28,60.70%,92.90%,9.64,B (3.14),B- (2.96)
+"Crowley, Thomas E.",CHEM 108 - Molecular Biochemistry Lab (A),WI08,22,22,80.00%,85.00%,6.86,B+ (3.33),B+ (3.31)
+"Crowley, Thomas E.",CHEM 112A - Molecular Biochemistry Lab (A),WI08,22,22,80.00%,85.00%,6.86,B+ (3.33),B+ (3.31)
+"Viadiu, Hector",CHEM 114A - Biochemical Structure&Function (A),WI08,87,43,88.40%,76.70%,6.07,B+ (3.43),B- (2.95)
+"Wang, Wei",CHEM 114B - Biochem Energetics&Metabolism (A),WI08,195,61,78.30%,50.00%,6.7,B+ (3.36),C+ (2.49)
+"Nakagawa, Terunaga",CHEM 12 - Molecules and Reactions (A),WI08,154,115,39.80%,32.10%,3.92,B- (2.99),B- (2.78)
+"Rheingold, Arnold L",CHEM 120B - Inorganic Chemistry II (A),WI08,48,35,77.10%,84.40%,5.7,B (3.03),B (3.28)
+"Magde, Douglas",CHEM 127 - Physical Chemistry (A),WI08,186,90,61.80%,79.80%,6.43,B (3.26),B- (2.89)
+"Lindenberg, Katja",CHEM 132 - Physical Chemistry (A),WI08,109,75,75.70%,86.50%,8.31,B (3.17),C+ (2.44)
+"Whitesell, James K.",CHEM 140A - Organic Chemistry I (A),WI08,377,118,81.80%,71.60%,5.65,B+ (3.46),C+ (2.56)
+"Oconnor, Joseph M.",CHEM 140A - Organic Chemistry I (B),WI08,360,199,89.20%,98.50%,6.23,B (3.25),C+ (2.52)
+"Nefzi, Adel",CHEM 140B - Organic Chemistry II (A),WI08,338,294,82.50%,95.30%,6.82,B (3.20),C+ (2.60)
+"Oconnor, Joseph M.",CHEM 140B - Organic Chemistry II (B),WI08,301,192,78.00%,96.30%,7.01,B (3.20),C+ (2.65)
+"Burkart, Michael D",CHEM 140B - Organic Chemistry II (C),WI08,137,104,84.80%,94.90%,6.44,B+ (3.44),B- (2.89)
+"Weizman, Haim",CHEM 140BH - Honors Organic Chemistry (A),WI08,24,24,100.00%,100.00%,8,A- (3.82),A- (3.89)
+"Nefzi, Adel",CHEM 140C - Organic Chemistry III (A),WI08,206,129,83.10%,95.20%,7.04,B (3.18),C+ (2.47)
+"Ternansky, Robert J.",CHEM 143A - Organic Chemistry Laboratory (A),WI08,309,235,78.20%,84.40%,5.21,B (3.28),B (3.11)
+"Weizman, Haim",CHEM 143AH - Honors Organic Chemistry Lab (A),WI08,40,25,76.00%,100.00%,10.34,B+ (3.46),B+ (3.44)
+"Ternansky, Robert J.",CHEM 143B - Organic Chemistry Laboratory (A),WI08,100,100,83.80%,91.90%,5.55,B (3.16),B (3.22)
+"Pomeroy, Robert S.",CHEM 149B - Environmental Chemistry (A),WI08,41,25,88.00%,88.00%,4.74,B (3.14),B- (2.88)
+"Glazer, Edith C",CHEM 15 - Chemistry of the Universe (A),WI08,55,43,86.00%,88.40%,3.06,B+ (3.56),B+ (3.33)
+"Perrin, Charles L.",CHEM 156 - Struct&Properties/Organc Molec (A),WI08,21,18,61.10%,77.80%,5.21,B (3.00),B- (2.97)
+"Tukey, Robert H",CHEM 166 - Environmntl&Moleculr Toxicolgy (A),WI08,24,22,100.00%,100.00%,5.05,A- (3.91),A- (3.71)
+"Pomeroy, Robert S.",CHEM 172 - Environmental Chemistry (A),WI08,41,25,88.00%,88.00%,4.74,B (3.14),B- (2.88)
+"Czworkowski, John",CHEM 187 - Foundn of Teach&Learn Science (A),WI08,10,10,100.00%,100.00%,3.7,A- (3.89),N/A
+"Winn, Darby Lee",CHEM 6A - General Chemistry I (A),WI08,316,183,85.00%,81.70%,5.8,B (3.03),C+ (2.56)
+"Hoeger, Carl",CHEM 6A - General Chemistry I (B),WI08,307,184,89.40%,97.80%,6.45,B- (2.99),B- (2.78)
+"Muller, Ulrich K.",CHEM 6B - General Chemistry II (A),WI08,120,85,74.10%,51.80%,5.9,B (3.04),C+ (2.60)
+"Dipasquale, Antonio",CHEM 6B - General Chemistry II (B),WI08,230,164,90.30%,94.20%,5.22,B (3.07),B- (2.74)
+"Crowell, John E",CHEM 6B - General Chemistry II (C),WI08,339,229,84.20%,78.60%,6.11,B (3.12),B- (2.77)
+"Crowell, John E",CHEM 6B - General Chemistry II (D),WI08,336,229,79.40%,77.50%,5.95,B (3.06),B- (2.77)
+"Kummel, Andrew C",CHEM 6B - General Chemistry II (E),WI08,288,184,81.00%,91.40%,6.55,B (3.07),C+ (2.60)
+"Hoeger, Carl",CHEM 6BH - Honors General Chemistry II (A),WI08,143,97,88.40%,95.70%,6.27,B+ (3.44),B (3.18)
+"Berniolles, Sandrine",CHEM 6BL - Intr Inorganic Chem Laboratory (A),WI08,179,38,61.10%,91.90%,9.85,B+ (3.34),B- (2.99)
+"Berniolles, Sandrine",CHEM 6BL - Intr Inorganic Chem Laboratory (B),WI08,223,65,66.10%,95.20%,8.25,B+ (3.42),B- (2.99)
+"Dipasquale, Antonio",CHEM 6C - General Chemistry III (A),WI08,276,153,83.40%,76.70%,4.46,B (3.20),C+ (2.65)
+"Czworkowski, John",CHEM 87 - Freshman Seminar (B),WI08,8,6,100.00%,100.00%,0.83,N/A,N/A
+"Czworkowski, John",CHEM 96 - Introductn to Teaching Science (A),WI08,11,11,100.00%,100.00%,3.05,A (4.00),N/A
+"Feng, Da Fei",CHEM 100A - Analytical Chem Lab (A),FA07,83,81,53.20%,65.80%,11.28,B (3.23),B (3.13)
+"Kim, Judy E.",CHEM 105A - Physical Chemistry Laboratory (A),FA07,36,27,84.60%,92.60%,9.46,B (3.12),B- (2.82)
+"Crowley, Thomas E.",CHEM 108 - Molecular Biochemistry Lab (A),FA07,31,23,87.00%,91.30%,5.89,B+ (3.55),B+ (3.50)
+"Dipasquale, Antonio",CHEM 11 - The Periodic Table (A),FA07,102,61,93.40%,95.10%,3.58,B+ (3.43),B+ (3.34)
+"Donoghue, Daniel J.",CHEM 11 - The Periodic Table (B),FA07,307,164,96.20%,99.40%,3.44,B+ (3.65),B (3.28)
+"Crowley, Thomas E.",CHEM 112A - Molecular Biochemistry Lab (A),FA07,31,23,87.00%,91.30%,5.89,B+ (3.55),B+ (3.50)
+"Ghosh, Gourisankar",CHEM 114A - Biochemical Structure&Function (A),FA07,186,69,77.60%,25.40%,6,B+ (3.31),C+ (2.66)
+"Hendrickson, David N",CHEM 120A - Inorganic Chemistry I (A),FA07,183,72,91.30%,88.60%,5.24,A- (3.70),B (3.24)
+"Crowell, John E",CHEM 126 - Physical Chemistry (A),FA07,201,89,68.60%,91.90%,6.97,B (3.23),C+ (2.53)
+"Lindenberg, Katja",CHEM 131 - Physical Chemistry (A),FA07,125,80,76.30%,82.10%,9.13,B (3.01),C+ (2.48)
+"Yang, Jerry",CHEM 140A - Organic Chemistry I (A),FA07,350,243,82.10%,90.10%,7.33,B (3.23),C+ (2.66)
+"Ternansky, Robert J.",CHEM 140A - Organic Chemistry I (B),FA07,245,160,89.70%,94.20%,10.21,B (3.05),C+ (2.68)
+"Perrin, Charles L.",CHEM 140A - Organic Chemistry I (C),FA07,322,242,86.30%,95.30%,7.19,B+ (3.33),C+ (2.51)
+"Hermann, Thomas",CHEM 140C - Organic Chemistry III (A),FA07,249,177,86.30%,86.40%,6.28,B+ (3.33),B- (2.76)
+"Weizman, Haim",CHEM 143A - Organic Chemistry Laboratory (A),FA07,387,174,84.80%,95.80%,6.88,B+ (3.35),B- (2.98)
+"Ternansky, Robert J.",CHEM 143C - Organic Chemistry Laboratory (A),FA07,104,74,94.50%,95.90%,6.72,B+ (3.37),B+ (3.35)
+"Prather, Kimberly A",CHEM 149A - Environmental Chemistry (A),FA07,67,28,100.00%,100.00%,4.14,B+ (3.61),C (2.28)
+"Theodorakis, Emmanouil",CHEM 152 - Synthetic Methods/Organic Chem (A),FA07,21,24,78.30%,95.80%,3.98,B+ (3.54),B (3.29)
+"Tor, Yitzhak",CHEM 154 - Mechanisms/Organic Reactions (A),FA07,34,49,95.80%,100.00%,5.81,B+ (3.32),B+ (3.60)
+"Prather, Kimberly A",CHEM 171 - Environmental Chemistry (A),FA07,67,28,100.00%,100.00%,4.14,B+ (3.61),C (2.28)
+"Dickson, Andrew Gilmore",CHEM 174 - Chem Prin of Marine Systems (A),FA07,19,11,81.80%,100.00%,3.41,B+ (3.30),N/A
+"Sailor, Michael Joseph",CHEM 192 - Sr Seminar in Chem & Biochem (A),FA07,16,12,100.00%,100.00%,1.17,N/A,N/A
+"Weizman, Haim",CHEM 192 - Sr Seminar in Chem & Biochem (B),FA07,16,13,100.00%,100.00%,0.5,N/A,N/A
+"Hoeger, Carl",CHEM 4 - Basic Chemistry (A),FA07,243,152,94.00%,96.00%,5.12,B (3.10),B (3.06)
+"Pomeroy, Robert S.",CHEM 6A - General Chemistry I (A),FA07,330,170,83.30%,83.00%,6.17,B- (2.80),C+ (2.37)
+"Czworkowski, John",CHEM 6A - General Chemistry I (B),FA07,346,214,82.00%,60.80%,6.2,B (3.14),C+ (2.58)
+"Czworkowski, John",CHEM 6A - General Chemistry I (C),FA07,334,111,73.30%,57.00%,6.77,B- (2.93),C+ (2.58)
+"Johnson, Christina A",CHEM 6A - General Chemistry I (D),FA07,352,248,94.60%,99.60%,6.49,B+ (3.30),B (3.00)
+"Pomeroy, Robert S.",CHEM 6A - General Chemistry I (E),FA07,278,257,87.40%,78.60%,6.18,B- (2.84),C+ (2.37)
+"Hoeger, Carl",CHEM 6AH - Honors General Chemistry I (A),FA07,147,96,84.20%,97.90%,6.14,B+ (3.35),B (3.16)
+"Dipasquale, Antonio",CHEM 6B - General Chemistry II (A),FA07,314,214,91.50%,82.50%,5.05,B (3.26),C+ (2.54)
+"Berniolles, Sandrine",CHEM 6BL - Intr Inorganic Chem Laboratory (A),FA07,259,28,55.60%,96.30%,8.43,B (3.12),B (3.03)
+"Berniolles, Sandrine",CHEM 6BL - Intr Inorganic Chem Laboratory (B),FA07,221,39,58.30%,91.70%,9.92,B+ (3.33),B (3.03)
+"Johnson, Christina A",CHEM 6C - General Chemistry III (A),FA07,281,172,91.40%,96.90%,5.56,B (3.28),B (3.00)
+"Winn, Darby Lee",CHEM 6C - General Chemistry III (B),FA07,197,110,89.00%,57.30%,5.77,B (3.20),B- (2.71)
+"Czworkowski, John",CHEM 87 - Freshman Seminar (C),FA07,11,10,100.00%,100.00%,0.7,A (4.00),N/A
+"Ball, Ian James",CHEM 100A - Analytical Chem Lab (A),SU07,17,17,53.30%,100.00%,16.15,B+ (3.50),N/A
+"Ternansky, Robert J.",CHEM 140A - Organic Chemistry I (A),SU07,140,108,88.70%,94.30%,11.99,B (3.08),N/A
+"Nefzi, Adel",CHEM 140C - Organic Chemistry III (A),SU07,162,105,86.10%,94.10%,8.21,B (3.20),N/A
+"Weizman, Haim",CHEM 143A - Organic Chemistry Laboratory (A),SU07,76,49,89.40%,100.00%,11.01,B+ (3.38),N/A
+"Ternansky, Robert J.",CHEM 4 - Basic Chemistry (A),SU07,6,6,100.00%,100.00%,5.5,B- (2.80),N/A
+"Hoeger, Carl",CHEM 6A - General Chemistry I (A),SU07,66,34,81.80%,93.90%,9.31,B+ (3.41),N/A
+"Dipasquale, Antonio",CHEM 6B - General Chemistry II (A),SU07,104,79,74.40%,75.30%,7.29,B (3.07),N/A
+"Ball, Ian James",CHEM 6BL - Intr Inorganic Chem Laboratory (A),SU07,83,60,50.90%,70.70%,12.5,B (3.21),N/A
+"Hoeger, Carl",CHEM 6C - General Chemistry III (A),SU07,89,54,90.40%,94.20%,9.09,B+ (3.33),N/A
+"Johnson, Christina A",CHEM 6C - General Chemistry III (A),SU07,155,136,92.50%,97.80%,7.57,B (3.20),N/A

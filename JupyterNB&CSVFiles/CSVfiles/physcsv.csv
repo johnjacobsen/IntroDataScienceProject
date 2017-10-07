@@ -1,0 +1,1218 @@
+Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received
+"Burgasser, Adam Jonathan",PHYS 10 - Concepts In Physics (A),WI17,182,81,81.60%,88.20%,5.85,B+ (3.31),B+ (3.60)
+"Jenkins, Elizabeth",PHYS 100B - Electromagnetism II (A),WI17,107,44,90.00%,87.50%,7.58,B- (2.92),B (3.01)
+"Dubin, Daniel Herschel",PHYS 105B - Mathematical&Computatnl Phy II (A),WI17,42,14,91.70%,100.00%,14.86,B (3.09),B- (2.80)
+"Wu, Congjun",PHYS 110A - Mechanics I (A),WI17,45,19,94.70%,57.90%,8.61,B (3.24),B (3.19)
+"Barreiro Guerrero, Julio",PHYS 124 - Laboratory Projects (A),WI17,27,24,100.00%,95.70%,7.14,B+ (3.65),B+ (3.57)
+"Murphy, Thomas",PHYS 124 - Laboratory Projects (A),WI17,27,23,100.00%,95.00%,7.45,B+ (3.62),B+ (3.57)
+"Branson, James G",PHYS 130C - Quantum Physics III (A),WI17,15,6,83.30%,0.00%,9.17,B+ (3.33),N/A
+"Grover, Tarun",PHYS 140B - Statistical & Thermal Phys II (A),WI17,18,13,100.00%,100.00%,10.83,B (3.17),N/A
+"Kuti, Julius",PHYS 141 - Comp Phys I:Prob Models & Simu (A),WI17,11,1,100.00%,100.00%,8.5,B (3.00),N/A
+"Butov, Leonid",PHYS 152A - Condensed Matter Physics (A),WI17,10,5,100.00%,100.00%,5.83,B+ (3.67),N/A
+"Konopacky, Quinn Morgan",PHYS 160 - Stellar Astrophysics (A),WI17,47,40,87.50%,82.50%,4.85,B (3.28),B (3.09)
+"Wright, Shelley Adams",PHYS 164 - Observational Astrophysics Lab (A),WI17,27,19,88.90%,100.00%,11.28,B (3.11),B (3.16)
+"Hwa, Terence T.",PHYS 176 - Quantitative Molecular Biology (A),WI17,1,1,100.00%,100.00%,6.5,B (3.00),N/A
+"Kleinfeld, David",PHYS 178 - Biophysics/Neurons & Networks (A),WI17,19,8,100.00%,100.00%,6.17,B+ (3.43),N/A
+"Popmintchev, Tenio",PHYS 1A - Mechanics (A),WI17,316,241,72.20%,66.20%,6.12,B (3.17),B+ (3.38)
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (0),WI17,328,161,85.20%,79.90%,3.37,B+ (3.55),B+ (3.51)
+"Smith, Douglas E",PHYS 1B - Electricity and Magnetism (A),WI17,357,167,78.70%,88.40%,5.32,B+ (3.39),B+ (3.33)
+"Smith, Douglas E",PHYS 1B - Electricity and Magnetism (B),WI17,306,151,76.00%,88.40%,4.86,B+ (3.46),B+ (3.33)
+"Paddock, Mark",PHYS 1B - Electricity and Magnetism (C),WI17,359,306,78.00%,87.90%,5.89,B+ (3.47),B+ (3.44)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (0),WI17,1007,400,66.80%,76.80%,3.53,B+ (3.62),B+ (3.45)
+"Paddock, Mark","PHYS 1C - Waves, Optics & Modern Physics (A)",WI17,272,240,70.60%,79.40%,6.42,B (3.23),B (3.17)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (0)",WI17,263,104,74.70%,81.30%,4.22,B+ (3.43),B+ (3.36)
+"Ni, Kaixuan",PHYS 2A - Physics-Mechanics (A),WI17,331,190,94.00%,88.50%,6.63,B+ (3.42),B (3.10)
+"Shpyrko, Oleg",PHYS 2A - Physics-Mechanics (B),WI17,314,142,85.90%,90.40%,5.76,B (3.27),B (3.05)
+"Shpyrko, Oleg",PHYS 2A - Physics-Mechanics (C),WI17,327,133,90.40%,95.20%,5.4,B (3.28),B (3.05)
+"Schuller, Ivan K",PHYS 2B - Phys-Electricity and Magnetism (A),WI17,235,85,79.70%,38.00%,7.77,B (3.12),B- (2.94)
+"Anderson, Michael G.",PHYS 2BL - Physics Laboratory-Mechanics (A),WI17,60,22,71.40%,71.40%,6.5,B+ (3.65),B (3.26)
+"Fogler, Michael M.","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",WI17,288,115,75.70%,44.10%,7.35,B (3.06),B- (2.76)
+"Maple, M. Brian",PHYS 2CL - Phys Lab-Elec&Magnetism (A),WI17,290,91,62.40%,76.50%,6.98,B (3.16),B (3.23)
+"Hirsch, Jorge Eduardo",PHYS 2D - Phys-Relativity&Quantm Physics (A),WI17,114,40,76.30%,52.60%,8.83,B- (2.78),B- (2.88)
+"Arnold, Kam S",PHYS 4A - Physics/Physics Majrs-Mechancs (A),WI17,97,48,92.70%,85.40%,8.29,B+ (3.32),B (3.04)
+"Averitt, Richard Douglas","PHYS 4D - Phys Majrs-EM Wav,Opt,Spec Rel (A)",WI17,40,16,100.00%,100.00%,5.36,B (3.15),B (3.03)
+"Sandstrom, Karin Marie",PHYS 7 - Galaxies and Cosmology (A),WI17,47,24,100.00%,87.50%,3.68,B (3.21),C+ (2.64)
+"Grinstein, Benjamin",PHYS 87 - Freshman Seminar (A),WI17,12,8,100.00%,100.00%,1.25,N/A,N/A
+"Fuller, George Michael",PHYS 87 - Freshman Seminar (B),WI17,21,11,90.00%,90.00%,0.5,A (4.00),N/A
+"Jenkins, Elizabeth",PHYS 100A - Electromagnetism I (B),FA16,126,80,88.50%,52.60%,8.53,B- (2.77),B- (2.92)
+"Dubin, Daniel Herschel",PHYS 105A - Mathematical&Computatnl Phy I (A),FA16,117,48,89.40%,91.50%,12.63,B- (2.98),C+ (2.57)
+"Tytler, David Robert",PHYS 11 - Survey of Physics (A),FA16,143,64,41.00%,34.40%,5.4,B (3.07),B+ (3.37)
+"Averitt, Richard Douglas",PHYS 110A - Mechanics I (B),FA16,109,38,94.60%,97.30%,7.56,B- (2.86),B- (2.73)
+"Smith, Douglas E",PHYS 122 - Experimental Techniques (A),FA16,18,8,87.50%,87.50%,3,A- (3.75),N/A
+"Wright, Shelley Adams",PHYS 13 - Life in the Universe (A),FA16,24,13,92.30%,69.20%,4.81,B+ (3.55),B (3.13)
+"Surko, Clifford M",PHYS 130B - Quantum Physics II (A),FA16,54,12,100.00%,70.00%,8.3,B (3.00),B- (2.72)
+"Kuti, Julius",PHYS 139 - Special Topics (A),FA16,8,3,100.00%,66.70%,9.83,B+ (3.33),N/A
+"Fogler, Michael M.",PHYS 140A - Statistical & Thermal Phys I (A),FA16,65,21,78.90%,84.20%,7.5,B+ (3.33),B- (2.86)
+"Keres, Dusan",PHYS 163 - Galaxies and Quasars (A),FA16,27,9,88.90%,77.80%,8.5,C+ (2.67),B- (2.88)
+"Dudko, Olga",PHYS 175 - Biological Physics (A),FA16,12,6,100.00%,100.00%,6.1,B+ (3.33),N/A
+"Murphy, Thomas",PHYS 191 - Undergraduate Seminar/Physics (B),FA16,21,12,100.00%,100.00%,0.94,A (4.00),N/A
+"Paddock, Mark",PHYS 1A - Mechanics (A),FA16,350,148,70.10%,69.40%,6.74,B (3.18),B+ (3.62)
+"Paddock, Mark",PHYS 1A - Mechanics (B),FA16,353,168,74.70%,74.10%,6.42,B (3.25),B+ (3.62)
+"Koslover, Elena F",PHYS 1A - Mechanics (C),FA16,288,125,66.90%,61.00%,6.45,B (3.15),B (3.12)
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (0),FA16,1000,401,76.10%,79.90%,3.25,B+ (3.49),B+ (3.46)
+"Bott-Suzuki, Simon Charles",PHYS 1B - Electricity and Magnetism (A),FA16,178,75,80.80%,90.40%,6.18,B+ (3.36),B- (2.73)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (0),FA16,173,65,69.50%,74.60%,4.11,B+ (3.49),B+ (3.37)
+"Tsai, Philbert S","PHYS 1C - Waves, Optics & Modern Physics (A)",FA16,171,95,85.70%,96.70%,5.36,B+ (3.68),B+ (3.36)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (0)",FA16,180,69,65.60%,66.70%,3.61,B+ (3.52),B (3.27)
+"Arnold, Kam S",PHYS 2A - Physics-Mechanics (A),FA16,336,144,82.00%,79.10%,7.63,B (3.17),B- (2.78)
+"Michelsen, Eric Leonard",PHYS 2B - Phys-Electricity and Magnetism (A),FA16,332,164,83.30%,79.50%,6.99,B (3.03),B- (2.83)
+"Anderson, Michael G.",PHYS 2BL - Physics Laboratory-Mechanics (A),FA16,80,32,53.30%,63.30%,5.7,B- (2.90),B (3.28)
+"Sinha, Sunil K",PHYS 2BL - Physics Laboratory-Mechanics (A),FA16,76,32,53.30%,60.00%,5.63,B- (2.90),B (3.28)
+"Branson, James G","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",FA16,323,127,60.00%,36.70%,6.74,B (3.13),B+ (3.39)
+"Palacci, Jeremie","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (B)",FA16,350,251,83.10%,79.50%,6.13,B (3.14),B- (2.89)
+"Meill, Alexander Warren",PHYS 2CL - Phys Lab-Elec&Magnetism (A),FA16,323,150,65.30%,96.60%,6.78,B (3.29),B (3.22)
+"Manohar, Aneesh Vasant",PHYS 4C - Phys Majrs-Elect & Magnetism (B),FA16,34,14,84.60%,84.60%,9.73,B (3.08),B- (2.98)
+"Coil, Alison",PHYS 5 - Stars and Black Holes (A),FA16,88,42,95.00%,97.50%,3.95,B+ (3.31),B (3.22)
+"Grinstein, Benjamin",PHYS 87 - Freshman Seminar (A),FA16,14,10,100.00%,100.00%,0.7,A (4.00),N/A
+"Fuller, George Michael",PHYS 87 - Freshman Seminar (C),FA16,21,11,100.00%,100.00%,0.5,A (4.00),N/A
+"Murphy, Thomas",PHYS 87 - Freshman Seminar (D),FA16,15,9,100.00%,100.00%,0.79,A (4.00),N/A
+"Song, Jaewon",PHYS 1A - Mechanics (A),S216,40,9,57.10%,57.10%,7.07,B (3.29),B (3.14)
+"Gustafson, Scott Matthew",PHYS 1AL - Mechanics Laboratory (0),S216,43,12,63.60%,63.60%,4.32,B- (2.91),B- (2.77)
+"Conger, Casey J",PHYS 1B - Electricity and Magnetism (A),S216,61,13,84.60%,84.60%,6.81,B+ (3.50),B (3.06)
+"Gustafson, Scott Matthew",PHYS 1BL - Electricity & Magnetism Lab (0),S216,50,11,57.10%,85.70%,7.07,B+ (3.50),B- (2.79)
+"Markowitz, Alex Gary","PHYS 1C - Waves, Optics & Modern Physics (A)",S216,56,13,81.80%,72.70%,6.5,B+ (3.36),B (3.23)
+"Gustafson, Scott Matthew","PHYS 1CL - Waves,Optics&Modrn Phys Lab (0)",S216,46,7,100.00%,100.00%,4.1,B- (2.75),B (3.05)
+"Paddock, Mark",PHYS 2A - Physics-Mechanics (A),S216,16,13,92.30%,92.30%,9.5,B (3.18),N/A
+"Kadakia, Nirag Shailesh",PHYS 2B - Phys-Electricity and Magnetism (A),S216,109,61,86.70%,96.70%,9.3,B (3.23),B- (2.93)
+"Allen, Grant","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",S216,113,31,93.30%,96.70%,8.07,B+ (3.50),B+ (3.61)
+"Meill, Alexander Warren","PHYS 2CL - Phys Lab-Elec,Magnetsm,Wav,Opt (A)",S216,88,24,29.20%,100.00%,8.08,B (3.29),B (3.20)
+"Patwardhan, Amol Vivek",PHYS 2D - Phys-Relativity&Quantm Physics (A),S216,48,21,90.00%,90.00%,10.6,B+ (3.39),B- (2.91)
+"Keller, Nicholas A",PHYS 1A - Mechanics (A),S116,56,11,90.00%,100.00%,8.5,A (4.00),B (3.23)
+"Gustafson, Scott Matthew",PHYS 1AL - Mechanics Laboratory (0),S116,45,10,88.90%,88.90%,6.94,A- (3.71),B (3.02)
+"Affolter, Matthew J",PHYS 1B - Electricity and Magnetism (A),S116,56,18,100.00%,100.00%,8.61,A- (3.80),B (3.25)
+"Gustafson, Scott Matthew",PHYS 1BL - Electricity & Magnetism Lab (0),S116,48,11,75.00%,75.00%,5,B+ (3.57),B (3.00)
+"Allen, Grant","PHYS 1C - Waves, Optics & Modern Physics (A)",S116,56,9,87.50%,87.50%,6,B+ (3.63),B+ (3.63)
+"Gustafson, Scott Matthew","PHYS 1CL - Waves,Optics&Modrn Phys Lab (0)",S116,47,9,50.00%,50.00%,8.25,B (3.13),B- (2.83)
+"Meill, Alexander Warren",PHYS 2A - Physics-Mechanics (A),S116,71,29,96.00%,100.00%,8.26,B+ (3.32),B (3.11)
+"Conger, Casey J",PHYS 2B - Phys-Electricity and Magnetism (A),S116,98,30,82.10%,89.30%,9.19,B+ (3.32),B- (2.96)
+"Anderson, Michael G.",PHYS 2BL - Phys Lab-Mechanics&Electrostat (A),S116,40,12,58.30%,66.70%,11.59,B (3.18),B (3.23)
+"Shirman, Aleksandra","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",S116,81,19,94.40%,88.90%,8.03,B (3.06),C+ (2.55)
+"Barreiro Guerrero, Julio",PHYS 100C - Electromagnetism III (A),SP16,17,12,100.00%,100.00%,8.83,B+ (3.50),N/A
+"Kleinfeld, David",PHYS 120 - Circuits and Electronics (A),SP16,77,62,86.00%,91.20%,7.92,B+ (3.45),B (3.12)
+"Branson, James G",PHYS 130A - Quantum Physics I (A),SP16,63,21,84.20%,26.30%,7.17,B (3.06),B- (2.71)
+"Averitt, Richard Douglas",PHYS 133 - Condensed Matter/MATL Sci. Lab (A),SP16,20,9,100.00%,100.00%,10.06,B+ (3.67),A- (3.72)
+"Kuti, Julius",PHYS 142 - Comp Phys II:PDE & Matrix Modl (A),SP16,5,1,0.00%,0.00%,8.5,C (2.00),N/A
+"Sinha, Sunil K",PHYS 152B - Electronic Materials (A),SP16,6,2,100.00%,100.00%,12.5,C+ (2.50),N/A
+"Intriligator, Kenneth Arthur",PHYS 154 - Elementary Particle Physics (A),SP16,6,2,100.00%,100.00%,4.5,C+ (2.50),N/A
+"Fuller, George Michael",PHYS 161 - Black Holes (A),SP16,63,20,94.40%,100.00%,5.5,B+ (3.38),B+ (3.60)
+"Griest, Kim",PHYS 162 - Cosmology (A),SP16,33,7,85.70%,100.00%,6.21,B+ (3.43),B+ (3.31)
+"Palacci, Jeremie",PHYS 173 - Modern Physics Lab:Bio&Quantum (A),SP16,10,4,100.00%,100.00%,14.5,B (3.00),N/A
+"Jun, Suckjoon",PHYS 177 - Physics of the Cell (A),SP16,5,3,100.00%,100.00%,9.17,B+ (3.67),N/A
+"Smith, Douglas E",PHYS 1A - Mechanics (A),SP16,237,74,63.40%,63.40%,4.88,B (3.29),B (3.06)
+"Diaz Santiago, Sebastian Alejandro",PHYS 1AL - Mechanics Laboratory (0),SP16,216,75,57.40%,66.20%,3.96,B+ (3.37),B+ (3.31)
+"Ni, Kaixuan",PHYS 1B - Electricity and Magnetism (A),SP16,185,71,77.50%,97.20%,5.63,B+ (3.53),B+ (3.35)
+"Diaz Santiago, Sebastian Alejandro",PHYS 1BL - Electricity & Magnetism Lab (0),SP16,192,61,63.80%,79.30%,3.5,B+ (3.54),B+ (3.39)
+"Paddock, Mark","PHYS 1C - Waves, Optics & Modern Physics (A)",SP16,406,336,75.30%,92.30%,5.69,B+ (3.40),B+ (3.31)
+"Coil, Alison","PHYS 1C - Waves, Optics & Modern Physics (B)",SP16,325,238,66.70%,57.40%,5.8,B+ (3.35),B (3.11)
+"Diaz Santiago, Sebastian Alejandro","PHYS 1CL - Waves,Optics&Modrn Phys Lab (0)",SP16,727,289,74.70%,80.80%,3.2,B+ (3.53),B+ (3.33)
+"Dudko, Olga",PHYS 2A - Physics-Mechanics (A),SP16,283,119,86.30%,95.70%,6.89,B (3.02),B- (2.86)
+"Dudko, Olga",PHYS 2A - Physics-Mechanics (B),SP16,241,108,80.40%,92.20%,6.84,B (3.10),B- (2.86)
+"Schuller, Ivan K",PHYS 2B - Phys-Electricity and Magnetism (A),SP16,259,112,66.40%,29.90%,6.25,B- (2.91),B- (2.71)
+"Schuller, Ivan K",PHYS 2B - Phys-Electricity and Magnetism (B),SP16,199,73,63.80%,26.10%,6.14,B- (2.99),B- (2.71)
+"Groisman, Alexander",PHYS 2B - Phys-Electricity and Magnetism (C),SP16,257,103,79.60%,56.10%,5.69,B (3.09),B- (2.88)
+"Anderson, Michael G.",PHYS 2BL - Phys Lab-Mechanics&Electrostat (A),SP16,133,52,76.00%,82.00%,7.18,B+ (3.35),B+ (3.31)
+"Jun, Suckjoon","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",SP16,277,111,75.00%,65.40%,6.36,B- (2.99),B- (2.75)
+"Keating, Brian","PHYS 2CL - Phys Lab-Elec,Magnetsm,Wav,Opt (A)",SP16,304,100,54.60%,77.30%,6.86,B (3.30),B (3.24)
+"Branson, James G",PHYS 2D - Phys-Relativity&Quantm Physics (A),SP16,185,62,78.90%,59.60%,6.07,B (3.23),B (3.16)
+"Butov, Leonid",PHYS 2DL - Physics Lab-Modern Physics (A),SP16,102,25,95.80%,91.70%,5.37,B+ (3.39),B (3.27)
+"Paar, Hans Peter","PHYS 4B - Phys Majrs-Mech,Fluid,Wav,Heat (A)",SP16,69,26,88.50%,65.40%,6.42,B (3.21),C+ (2.64)
+"Hirsch, Jorge Eduardo",PHYS 4E - Physics Majors-Quantum Physics (A),SP16,38,15,84.60%,84.60%,9.5,B- (2.92),B- (2.91)
+"Grinstein, Benjamin",PHYS 87 - Freshman Seminar (A),SP16,16,9,100.00%,100.00%,1.39,A (4.00),N/A
+"Konopacky, Quinn Morgan",PHYS 9 - The Solar System (A),SP16,38,27,100.00%,100.00%,3.94,B (3.29),B (3.11)
+"Song, Jaewon",PHYS 10 - Concepts In Physics (A),WI16,182,68,76.60%,75.00%,3.87,B (3.10),B+ (3.35)
+"Michelsen, Eric Leonard",PHYS 100B - Electromagnetism II (A),WI16,69,30,100.00%,96.70%,6.64,B (3.10),B- (2.72)
+"Dubin, Daniel Herschel",PHYS 105B - Mathematical&Computatnl Phy II (A),WI16,17,7,100.00%,100.00%,10.5,B+ (3.50),N/A
+"Wu, Congjun",PHYS 110B - Mechanics II (A),WI16,67,27,84.60%,69.20%,7.78,B (3.15),B+ (3.33)
+"Salmon, Richard L.",PHYS 111 - Introduction to Ocean Waves (A),WI16,11,5,100.00%,100.00%,7,B+ (3.50),N/A
+"Murphy, Thomas",PHYS 124 - Laboratory Projects (A),WI16,33,11,100.00%,100.00%,8.32,A- (3.73),B+ (3.45)
+"Branson, James G",PHYS 130C - Quantum Physics III (A),WI16,19,7,100.00%,50.00%,10.83,B- (2.83),N/A
+"Fogler, Michael M.",PHYS 140B - Statistical & Thermal Phys II (A),WI16,12,6,100.00%,80.00%,10.5,C+ (2.50),N/A
+"Kuti, Julius",PHYS 141 - Comp Phys I:Prob Models & Simu (A),WI16,13,4,100.00%,100.00%,8.5,B+ (3.67),N/A
+"Butov, Leonid",PHYS 152A - Condensed Matter Physics (A),WI16,7,2,100.00%,100.00%,5.5,A (4.00),N/A
+"Konopacky, Quinn Morgan",PHYS 160 - Stellar Astrophysics (A),WI16,36,34,97.10%,97.10%,6.38,B+ (3.47),B (3.13)
+"Wright, Shelley Adams",PHYS 164 - Observational Astrophysics Lab (A),WI16,12,10,100.00%,100.00%,12.9,B (3.20),N/A
+"Kleinfeld, David",PHYS 178 - Biophysics/Neurons & Networks (A),WI16,13,5,100.00%,100.00%,7.7,A- (3.75),N/A
+"Collins, Eva-Maria Schoetz",PHYS 1A - Mechanics (A),WI16,275,239,69.80%,67.20%,6.97,B (3.09),B- (2.89)
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (0),WI16,278,141,82.90%,74.80%,3.72,B+ (3.53),B+ (3.39)
+"Ni, Kaixuan",PHYS 1B - Electricity and Magnetism (A),WI16,402,190,74.30%,92.30%,5.61,B (3.27),B+ (3.40)
+"Allen, Grant",PHYS 1B - Electricity and Magnetism (B),WI16,185,180,87.80%,98.90%,5.04,B+ (3.64),B+ (3.48)
+"Markowitz, Alex Gary",PHYS 1B - Electricity and Magnetism (C),WI16,155,77,62.20%,23.00%,5.28,B (3.03),B- (2.85)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (0),WI16,735,316,70.00%,72.80%,3.46,B+ (3.52),B+ (3.37)
+"Paddock, Mark","PHYS 1C - Waves, Optics & Modern Physics (A)",WI16,287,239,78.50%,87.80%,6.36,B+ (3.31),B (3.24)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (0)",WI16,268,140,78.90%,82.00%,3.8,B+ (3.57),B+ (3.49)
+"Sharma, Vivek A.",PHYS 2A - Physics-Mechanics (A),WI16,339,316,87.00%,65.50%,6.76,B+ (3.33),B (3.06)
+"Sharma, Vivek A.",PHYS 2A - Physics-Mechanics (B),WI16,251,232,81.50%,61.60%,6.78,B (3.22),B (3.06)
+"Sharma, Vivek A.",PHYS 2A - Physics-Mechanics (C),WI16,166,153,84.30%,62.70%,6.83,B+ (3.32),B (3.06)
+"Groisman, Alexander",PHYS 2B - Phys-Electricity and Magnetism (B),WI16,319,156,82.20%,72.60%,7,B (3.11),B- (2.86)
+"Anderson, Michael G.",PHYS 2BL - Phys Lab-Mechanics&Electrostat (A),WI16,89,42,78.00%,87.80%,6.65,B+ (3.63),B+ (3.41)
+"Palacci, Jeremie","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",WI16,379,138,88.60%,66.70%,6.18,B (3.26),C+ (2.58)
+"Schuller, Ivan K","PHYS 2CL - Phys Lab-Elec,Magnetsm,Wav,Opt (A)",WI16,324,130,47.50%,58.30%,7.89,B (3.28),B (3.10)
+"Hirsch, Jorge Eduardo",PHYS 2D - Phys-Relativity&Quantm Physics (A),WI16,141,56,81.10%,43.40%,7.01,B- (2.78),C+ (2.67)
+"Paar, Hans Peter",PHYS 4A - Physics/Physics Majrs-Mechancs (A),WI16,74,33,81.30%,75.00%,6.5,B (3.00),B- (2.72)
+"Averitt, Richard Douglas","PHYS 4D - Phys Majrs-EM Wav,Opt,Spec Rel (A)",WI16,42,17,100.00%,100.00%,6.5,B (3.29),B (3.04)
+"Sandstrom, Karin Marie",PHYS 7 - Galaxies and Cosmology (A),WI16,35,22,100.00%,100.00%,4.5,B+ (3.59),B+ (3.34)
+"Grinstein, Benjamin",PHYS 87 - Freshman Seminar (A),WI16,15,11,100.00%,100.00%,1.05,A (4.00),N/A
+"Fuller, George Michael",PHYS 87 - Freshman Seminar (B),WI16,17,8,87.50%,100.00%,0.5,N/A,N/A
+"Diamond, Patrick H",PHYS 87 - Freshman Seminar (C),WI16,13,5,80.00%,80.00%,1.3,N/A,N/A
+"Barreiro Guerrero, Julio",PHYS 100A - Electromagnetism I (A),FA15,92,24,72.70%,40.90%,8.5,C+ (2.55),C+ (2.36)
+"Dubin, Daniel Herschel",PHYS 105A - Mathematical&Computatnl Phy I (A),FA15,91,22,90.00%,95.00%,9.94,B- (2.95),C+ (2.52)
+"Tytler, David Robert",PHYS 11 - Survey of Physics (A),FA15,150,44,79.10%,76.70%,5.79,B+ (3.33),B+ (3.44)
+"Averitt, Richard Douglas",PHYS 110A - Mechanics I (A),FA15,93,19,94.40%,94.40%,7.21,B (3.17),B- (2.71)
+"Smith, Douglas E",PHYS 122 - Experimental Techniques (A),FA15,16,3,100.00%,100.00%,4.5,B+ (3.50),N/A
+"Wright, Shelley Adams",PHYS 13 - Life in the Universe (A),FA15,25,14,92.90%,100.00%,6.5,B (3.21),B+ (3.33)
+"Surko, Clifford M",PHYS 130B - Quantum Physics II (A),FA15,45,8,100.00%,57.10%,8.5,C+ (2.67),C+ (2.56)
+"Fogler, Michael M.",PHYS 140A - Statistical & Thermal Phys I (A),FA15,52,14,84.60%,69.20%,12.67,B- (2.73),B- (2.95)
+"Keres, Dusan",PHYS 163 - Galaxies and Quasars (A),FA15,17,8,87.50%,100.00%,4.75,B+ (3.38),N/A
+"Dudko, Olga",PHYS 175 - Fundamentls/Biological Physics (A),FA15,10,6,100.00%,100.00%,9.5,B+ (3.60),N/A
+"Murphy, Thomas",PHYS 191 - Undergraduate Seminar/Physics (A),FA15,22,8,87.50%,100.00%,1.5,B+ (3.33),N/A
+"Burgasser, Adam Jonathan",PHYS 1A - Mechanics (A),FA15,53,24,66.70%,62.50%,8.33,B+ (3.33),B (3.20)
+"Burgasser, Adam Jonathan",PHYS 1A - Mechanics (B),FA15,50,25,76.00%,80.00%,8.26,B (3.12),B (3.20)
+"Burgasser, Adam Jonathan",PHYS 1A - Mechanics (C),FA15,55,26,60.00%,76.00%,9.42,B+ (3.36),B (3.20)
+"Burgasser, Adam Jonathan",PHYS 1A - Mechanics (D),FA15,52,23,76.20%,85.70%,7.26,B (3.25),B (3.20)
+"Burgasser, Adam Jonathan",PHYS 1A - Mechanics (E),FA15,49,18,58.80%,47.10%,10.97,B (3.29),B (3.20)
+"Burgasser, Adam Jonathan",PHYS 1A - Mechanics (F),FA15,44,15,80.00%,66.70%,9.83,B+ (3.33),B (3.20)
+"Burgasser, Adam Jonathan",PHYS 1A - Mechanics (G),FA15,52,25,56.00%,60.00%,8.9,B (3.12),B (3.20)
+"Burgasser, Adam Jonathan",PHYS 1A - Mechanics (H),FA15,50,20,42.10%,57.90%,6.71,B+ (3.32),B (3.20)
+"Burgasser, Adam Jonathan",PHYS 1A - Mechanics (I),FA15,50,22,76.20%,66.70%,8.98,B (3.11),B (3.20)
+"Burgasser, Adam Jonathan",PHYS 1A - Mechanics (J),FA15,343,127,70.30%,73.70%,7.94,B+ (3.32),B (3.20)
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (0),FA15,795,275,71.70%,74.00%,3.21,B+ (3.37),B+ (3.40)
+"Groisman, Alexander",PHYS 1B - Electricity and Magnetism (A),FA15,188,60,64.90%,63.20%,5.13,B (3.18),B- (2.90)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (0),FA15,177,54,72.50%,66.70%,3.3,B+ (3.31),B+ (3.37)
+"Conger, Casey J","PHYS 1C - Waves, Optics & Modern Physics (A)",FA15,188,67,74.60%,73.00%,7.25,B (3.13),B- (2.88)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (0)",FA15,197,61,75.40%,80.70%,4.06,B+ (3.53),B+ (3.37)
+"Rappel, Wouter Jan",PHYS 2A - Physics-Mechanics (A),FA15,326,132,93.70%,93.70%,5.7,B+ (3.37),B- (2.75)
+"Sinha, Sunil K",PHYS 2B - Phys-Electricity and Magnetism (A),FA15,313,134,77.10%,74.80%,6.88,B (3.20),B (3.07)
+"Anderson, Michael G.",PHYS 2BL - Phys Lab-Mechanics&Electrostat (A),FA15,62,22,78.90%,94.70%,7.87,B+ (3.58),B+ (3.40)
+"Shpyrko, Oleg","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",FA15,352,153,93.80%,98.60%,6.09,B+ (3.32),B- (2.96)
+"Shpyrko, Oleg","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (B)",FA15,357,122,89.70%,97.40%,5.52,B+ (3.41),B- (2.96)
+"Keating, Brian","PHYS 2CL - Phys Lab-Elec,Magnetsm,Wav,Opt (A)",FA15,269,90,41.20%,64.70%,7.97,B (3.23),B (3.05)
+"Paar, Hans Peter",PHYS 4C - Phys Majrs-Elect & Magnetism (A),FA15,46,20,72.20%,61.10%,8.28,C+ (2.50),B- (2.73)
+"Coil, Alison",PHYS 5 - Stars and Black Holes (A),FA15,56,23,91.30%,100.00%,4.14,B+ (3.38),B+ (3.54)
+"Grinstein, Benjamin",PHYS 87 - Freshman Seminar (A),FA15,15,10,100.00%,100.00%,1.17,A (4.00),N/A
+"Murphy, Thomas",PHYS 87 - Freshman Seminar (B),FA15,13,5,100.00%,100.00%,0.5,N/A,N/A
+"Fuller, George Michael",PHYS 87 - Freshman Seminar (C),FA15,21,17,100.00%,100.00%,2.25,A (4.00),N/A
+"Kiselev, Yury",PHYS 1A - Mechanics (A),S215,37,16,62.50%,6.30%,11.25,B (3.00),B- (2.79)
+"Gustafson, Scott Matthew",PHYS 1AL - Mechanics Laboratory (0),S215,33,10,88.90%,88.90%,5.61,B+ (3.44),B- (3.00)
+"Allen, Grant",PHYS 1B - Electricity and Magnetism (A),S215,39,38,97.40%,100.00%,8.61,B+ (3.54),B+ (3.69)
+"Gustafson, Scott Matthew",PHYS 1BL - Electricity & Magnetism Lab (0),S215,36,14,75.00%,83.30%,5.1,B+ (3.40),B (3.04)
+"Markowitz, Alex Gary","PHYS 1C - Waves, Optics & Modern Physics (A)",S215,45,12,81.80%,81.80%,8.7,B+ (3.30),B- (2.99)
+"Gustafson, Scott Matthew","PHYS 1CL - Waves,Optics&Modrn Phys Lab (0)",S215,45,9,83.30%,83.30%,4.17,B+ (3.50),B- (2.97)
+"Eldridge, Michael James",PHYS 2B - Phys-Electricity and Magnetism (A),S215,99,29,88.50%,76.90%,8.5,B+ (3.63),B- (2.72)
+"Allen, Grant","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",S215,116,113,89.40%,85.80%,7.62,B+ (3.30),B+ (3.64)
+"Paddock, Mark","PHYS 2CL - Phys Lab-Elec,Magnetsm,Wav,Opt (A)",S215,76,22,57.90%,94.70%,9.97,B+ (3.42),B (3.25)
+"Michelsen, Eric Leonard",PHYS 2D - Phys-Relativity&Quantm Physics (A),S215,82,21,95.00%,75.00%,10.7,B (3.10),B- (2.96)
+"Kishimoto, Chad T.",PHYS 1A - Mechanics (A),S115,45,14,72.70%,90.90%,7.59,B (3.00),C+ (2.65)
+"Schanning, Ian Lennon",PHYS 1AL - Mechanics Laboratory (0),S115,43,9,62.50%,75.00%,3.25,A (4.00),B+ (3.41)
+"Allen, Grant",PHYS 1B - Electricity and Magnetism (A),S115,46,44,75.00%,90.90%,8.59,B+ (3.37),B+ (3.50)
+"Schanning, Ian Lennon",PHYS 1BL - Electricity & Magnetism Lab (0),S115,42,21,70.00%,85.00%,6.85,B (3.06),B+ (3.41)
+"Skibba, Ramin Adrian","PHYS 1C - Waves, Optics & Modern Physics (A)",S115,47,7,71.40%,85.70%,7.64,B- (2.86),B- (2.93)
+"Schanning, Ian Lennon","PHYS 1CL - Waves,Optics&Modrn Phys Lab (0)",S115,43,5,60.00%,80.00%,6.9,B (3.20),B+ (3.30)
+"Boucheron, Leandra Susan",PHYS 2A - Physics-Mechanics (A),S115,92,85,86.90%,91.70%,8.72,B (3.12),B- (2.91)
+"Kadakia, Nirag Shailesh",PHYS 2B - Phys-Electricity and Magnetism (A),S115,109,103,82.20%,98.00%,9.05,B (3.05),C+ (2.51)
+"Paddock, Mark",PHYS 2BL - Phys Lab-Mechanics&Electrostat (A),S115,33,11,70.00%,70.00%,7.1,B+ (3.30),B+ (3.35)
+"Shotwell, Brian","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",S115,91,47,97.90%,100.00%,7.39,B+ (3.36),B (3.29)
+"Barreiro Guerrero, Julio",PHYS 100C - Electromagnetism III (A),SP15,30,23,76.20%,66.70%,8.2,B- (2.95),B (3.27)
+"Kleinfeld, David",PHYS 120 - Circuits and Electronics (A),SP15,66,48,87.20%,91.50%,9.73,B+ (3.46),B+ (3.35)
+"Burgasser, Adam Jonathan",PHYS 13 - Life in the Universe (A),SP15,23,10,100.00%,90.00%,6.1,B (3.00),B (3.25)
+"Branson, James G",PHYS 130A - Quantum Physics I (A),SP15,62,30,85.70%,50.00%,9.64,B- (2.88),B (3.08)
+"Averitt, Richard Douglas",PHYS 133 - Condensed Matter/MATL Sci. Lab (A),SP15,14,7,100.00%,100.00%,6.9,B (3.20),N/A
+"Kuti, Julius",PHYS 142 - Comp Phys II:PDE & Matrix Modl (A),SP15,8,2,100.00%,50.00%,6.5,B+ (3.50),N/A
+"Dubin, Daniel Herschel",PHYS 151 - Elementary Plasma Physics (A),SP15,19,8,87.50%,100.00%,6.5,B (3.14),N/A
+"Sinha, Sunil K",PHYS 152B - Electronic Materials (A),SP15,3,2,100.00%,100.00%,6.5,B (3.00),N/A
+"Jenkins, Elizabeth",PHYS 154 - Elementary Particle Physics (A),SP15,8,2,100.00%,100.00%,5.5,B (3.00),N/A
+"Keating, Brian",PHYS 162 - Cosmology (A),SP15,39,14,84.60%,61.50%,4.83,B (3.25),B (3.26)
+"Wright, Shelly Adams",PHYS 164 - Observational Astrophysics Lab (A),SP15,15,9,100.00%,100.00%,11.25,B (3.25),N/A
+"Palacci, Jeremie",PHYS 173 - Modern Physics Lab:Bio&Quantum (A),SP15,6,3,100.00%,100.00%,11.17,A (4.00),N/A
+"Jun, Suckjoon",PHYS 177 - Physics of the Cell (A),SP15,1,1,100.00%,100.00%,8.5,A (4.00),N/A
+"Anderson, Michael G.",PHYS 1A - Mechanics (A),SP15,269,100,71.60%,37.90%,5.99,B (3.03),B- (2.97)
+"Groisman, Alexander",PHYS 1AL - Mechanics Laboratory (0),SP15,256,92,72.10%,62.80%,3.49,B+ (3.33),B (3.22)
+"Markowitz, Alex Gary",PHYS 1B - Electricity and Magnetism (A),SP15,308,104,71.30%,49.50%,5.8,B (3.01),B- (2.79)
+"Groisman, Alexander",PHYS 1BL - Electricity & Magnetism Lab (0),SP15,294,83,75.00%,66.30%,3.9,B+ (3.51),B (3.27)
+"Anderson, Michael G.","PHYS 1C - Waves, Optics & Modern Physics (A)",SP15,140,42,67.50%,60.00%,5.3,B (3.16),B (3.01)
+"Skibba, Ramin Adrian","PHYS 1C - Waves, Optics & Modern Physics (B)",SP15,182,67,65.60%,46.90%,5.38,B (3.06),B- (2.91)
+"Paddock, Mark","PHYS 1C - Waves, Optics & Modern Physics (C)",SP15,412,342,85.10%,96.20%,5.5,B+ (3.52),B+ (3.48)
+"Groisman, Alexander","PHYS 1CL - Waves,Optics&Modrn Phys Lab (0)",SP15,734,280,71.30%,68.20%,3.53,B+ (3.46),B+ (3.31)
+"Dudko, Olga",PHYS 2A - Physics-Mechanics (A),SP15,278,103,85.90%,94.90%,7.13,B (3.01),C+ (2.62)
+"Dudko, Olga",PHYS 2A - Physics-Mechanics (B),SP15,165,74,91.80%,98.60%,7.18,B- (2.84),C+ (2.62)
+"Schuller, Ivan K",PHYS 2B - Phys-Electricity and Magnetism (A),SP15,224,93,80.00%,42.20%,5.91,B (3.19),C+ (2.65)
+"Shpyrko, Oleg",PHYS 2B - Phys-Electricity and Magnetism (B),SP15,409,153,91.90%,99.30%,5.65,B+ (3.36),B- (2.86)
+"Shpyrko, Oleg",PHYS 2B - Phys-Electricity and Magnetism (C),SP15,384,150,91.70%,98.60%,5.54,B+ (3.32),B- (2.86)
+"Yagil, Avi",PHYS 2BL - Phys Lab-Mechanics&Electrostat (A),SP15,164,61,80.00%,80.00%,5.22,B+ (3.40),B- (2.94)
+"Michelsen, Eric Leonard","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",SP15,353,141,83.20%,75.90%,6.54,B (3.23),B- (2.95)
+"Keating, Brian","PHYS 2CL - Phys Lab-Elec,Magnetsm,Wav,Opt (A)",SP15,260,88,45.10%,65.90%,7.13,B (3.28),B (3.09)
+"Collins, Eva-Maria Schoetz",PHYS 2D - Phys-Relativity&Quantm Physics (A),SP15,134,111,96.40%,95.50%,6.33,B (3.23),B- (2.92)
+"Butov, Leonid",PHYS 2DL - Physics Lab-Modern Physics (A),SP15,50,23,90.90%,81.80%,5.07,A- (3.71),B+ (3.30)
+"Paar, Hans Peter","PHYS 4B - Phys Majrs-Mech,Fluid,Wav,Heat (A)",SP15,80,35,82.90%,54.30%,6.97,B (3.26),C+ (2.59)
+"Hirsch, Jorge Eduardo",PHYS 4E - Physics Majors-Quantum Physics (A),SP15,30,14,85.70%,57.10%,6.64,B- (2.77),B (3.04)
+"Grinstein, Benjamin",PHYS 87 - Freshman Seminar (A),SP15,12,9,88.90%,88.90%,1.39,B (3.00),N/A
+"Tytler, David Robert",PHYS 9 - The Solar System (A),SP15,37,8,62.50%,75.00%,3.25,B+ (3.38),B (3.12)
+"Tytler, David Robert",PHYS 10 - Concepts In Physics (A),WI15,185,61,68.30%,70.00%,4.81,B (3.20),B (3.18)
+"Surko, Clifford M",PHYS 100B - Electromagnetism II (A),WI15,60,18,94.40%,94.40%,6.83,B (3.22),B- (2.79)
+"Dubin, Daniel Herschel",PHYS 105B - Mathematical&Computatnl Phy II (A),WI15,20,8,100.00%,100.00%,14.25,B (3.13),B (3.11)
+"Wu, Congjun",PHYS 110B - Mechanics II (A),WI15,40,11,100.00%,100.00%,9.77,B+ (3.60),B+ (3.44)
+"Murphy, Thomas",PHYS 124 - Laboratory Projects (A),WI15,21,7,100.00%,100.00%,10.17,A- (3.83),B+ (3.32)
+"McGreevy, John A.",PHYS 130C - Quantum Physics III (A),WI15,24,10,70.00%,100.00%,10.5,B (3.00),B (3.01)
+"Fogler, Michael M.",PHYS 140B - Statistical & Thermal Phys II (A),WI15,4,2,100.00%,100.00%,2.5,A (4.00),N/A
+"Manohar, Aneesh Vasant",PHYS 140B - Statistical & Thermal Phys II (B),WI15,1,1,100.00%,100.00%,0,N/A,N/A
+"Kuti, Julius",PHYS 141 - Comp Phys I:Prob Models & Simu (A),WI15,8,3,66.70%,66.70%,8.5,A (4.00),N/A
+"Maple, M. Brian",PHYS 152A - Condensed Matter Physics (A),WI15,11,4,50.00%,50.00%,6.5,B (3.00),N/A
+"Konopacky, Quinn Morgan",PHYS 160 - Stellar Astrophysics (A),WI15,23,20,95.00%,95.00%,5.66,B+ (3.39),B- (2.87)
+"Fuller, George Michael",PHYS 161 - Black Holes (A),WI15,26,7,85.70%,100.00%,4.5,A- (3.71),A- (3.78)
+"Hwa, Terence T.",PHYS 176 - Quantitative Molecular Biology (A),WI15,3,1,100.00%,100.00%,20.5,C (2.00),N/A
+"Sharpee, Tatyana",PHYS 178 - Biophysics/Neurons & Networks (A),WI15,12,5,80.00%,80.00%,8.5,B (3.25),N/A
+"Yagil, Avi",PHYS 1A - Mechanics (A),WI15,280,109,77.60%,72.90%,6.48,B (3.08),C+ (2.58)
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (0),WI15,271,93,82.60%,78.30%,4.07,B+ (3.56),B+ (3.45)
+"Groisman, Alexander",PHYS 1B - Electricity and Magnetism (A),WI15,142,43,73.80%,71.40%,5.21,B (3.17),B- (2.80)
+"Wuerthwein, Frank",PHYS 1B - Electricity and Magnetism (B),WI15,338,126,78.30%,86.10%,5.92,B (3.19),B (3.15)
+"Wuerthwein, Frank",PHYS 1B - Electricity and Magnetism (C),WI15,341,140,74.40%,85.00%,5.16,B (3.20),B (3.15)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (0),WI15,805,271,73.20%,73.60%,3.74,B+ (3.46),B+ (3.42)
+"Burgasser, Adam Jonathan","PHYS 1C - Waves, Optics & Modern Physics (A)",WI15,187,73,80.60%,84.70%,5.83,B+ (3.38),B (3.28)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (0)",WI15,174,52,71.40%,71.40%,3.93,A- (3.71),B+ (3.56)
+"Sharma, Vivek A.",PHYS 2A - Physics-Mechanics (A),WI15,338,199,81.40%,43.80%,7.12,B (3.11),B- (2.96)
+"Sharma, Vivek A.",PHYS 2A - Physics-Mechanics (B),WI15,323,185,84.00%,43.40%,7.23,B (3.06),B- (2.96)
+"Sharma, Vivek A.",PHYS 2A - Physics-Mechanics (C),WI15,303,157,81.70%,50.30%,7.23,B (3.24),B- (2.96)
+"Shotwell, Brian",PHYS 2B - Phys-Electricity and Magnetism (A),WI15,311,115,81.50%,87.00%,7.98,B (3.06),C+ (2.67)
+"Butov, Leonid",PHYS 2BL - Phys Lab-Mechanics&Electrostat (A),WI15,108,36,82.90%,88.60%,3.36,A- (3.71),B+ (3.65)
+"Michelsen, Eric Leonard","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",WI15,328,127,76.50%,48.70%,5.86,B (3.03),B- (2.79)
+"Maple, M. Brian","PHYS 2CL - Phys Lab-Elec,Magnetsm,Wav,Opt (A)",WI15,293,99,43.00%,66.70%,6.83,B+ (3.36),B- (2.96)
+"Branson, James G",PHYS 2D - Phys-Relativity&Quantm Physics (A),WI15,189,53,78.40%,80.40%,5.75,B+ (3.43),B+ (3.42)
+"Sinha, Sunil K",PHYS 4A - Physics/Physics Majrs-Mechancs (A),WI15,79,41,87.80%,73.20%,5.99,B+ (3.46),B+ (3.51)
+"Intriligator, Kenneth Arthur","PHYS 4D - Phys Majrs-EM Wav,Opt,Spec Rel (A)",WI15,36,17,100.00%,94.10%,6.85,B (3.25),B+ (3.41)
+"Keres, Dusan",PHYS 7 - Galaxies and Cosmology (A),WI15,41,23,100.00%,100.00%,4.12,B+ (3.58),B+ (3.39)
+"Fuller, George Michael",PHYS 87 - Freshman Seminar (A),WI15,19,13,100.00%,100.00%,0.5,N/A,N/A
+"Grinstein, Benjamin",PHYS 87 - Freshman Seminar (B),WI15,16,13,100.00%,100.00%,1.17,A (4.00),N/A
+"Murphy, Thomas",PHYS 87 - Freshman Seminar (C),WI15,18,9,100.00%,100.00%,1.39,A (4.00),N/A
+"Surko, Clifford M",PHYS 100A - Electromagnetism I (A),FA14,82,16,100.00%,76.90%,9,B (3.17),C+ (2.57)
+"Dubin, Daniel Herschel",PHYS 105A - Mathematical&Computatnl Phy I (A),FA14,72,16,71.40%,78.60%,14.96,B- (2.75),B- (2.76)
+"Tytler, David Robert",PHYS 11 - Survey of Physics (A),FA14,141,43,62.80%,55.80%,4.6,B+ (3.41),B+ (3.30)
+"Branson, James G",PHYS 110A - Mechanics I (A),FA14,81,15,100.00%,25.00%,10.33,B (3.00),B- (2.94)
+"Smith, Douglas E",PHYS 122 - Experimental Techniques (A),FA14,12,3,66.70%,66.70%,7.83,B+ (3.33),N/A
+"Keating, Brian",PHYS 130B - Quantum Physics II (A),FA14,38,11,90.90%,63.60%,6.68,B+ (3.30),B- (2.98)
+"Fogler, Michael M.",PHYS 140A - Statistical & Thermal Phys I (A),FA14,42,12,91.70%,83.30%,7.5,B (3.09),C+ (2.59)
+"Manohar, Aneesh Vasant",PHYS 140A - Statistical & Thermal Phys I (B),FA14,1,1,100.00%,100.00%,0,N/A,N/A
+"Keres, Dusan",PHYS 163 - Galaxies and Quasars (A),FA14,22,6,100.00%,100.00%,4.83,B+ (3.67),B- (2.72)
+"Dudko, Olga",PHYS 175 - Fundamentls/Biological Physics (A),FA14,12,7,85.70%,100.00%,7.93,B+ (3.33),N/A
+"Murphy, Thomas",PHYS 191 - Undergraduate Seminar/Physics (A),FA14,28,10,100.00%,100.00%,0.5,N/A,N/A
+"Smith, Douglas E",PHYS 1A - Mechanics (A),FA14,178,73,78.30%,72.50%,4.88,B (3.24),B (3.10)
+"Smith, Douglas E",PHYS 1A - Mechanics (B),FA14,344,114,77.10%,66.10%,5.42,B (3.17),B (3.10)
+"Yagil, Avi",PHYS 1A - Mechanics (C),FA14,329,130,78.70%,74.00%,5.78,B (3.14),C+ (2.62)
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (0),FA14,840,321,74.50%,78.30%,4.2,B+ (3.44),B+ (3.40)
+"Groisman, Alexander",PHYS 1B - Electricity and Magnetism (A),FA14,180,54,68.60%,43.10%,5.88,B (3.02),B- (2.92)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (0),FA14,173,47,76.20%,81.00%,4.06,B (3.23),B+ (3.35)
+"Anderson, Michael G.","PHYS 1C - Waves, Optics & Modern Physics (A)",FA14,174,46,79.50%,61.40%,5.31,B (3.21),B (3.01)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (0)",FA14,176,37,87.50%,81.30%,3.73,A- (3.71),B+ (3.50)
+"Shpyrko, Oleg",PHYS 2A - Physics-Mechanics (A),FA14,344,145,90.20%,94.70%,6.12,B (3.09),B- (2.79)
+"Schuller, Ivan K",PHYS 2B - Phys-Electricity and Magnetism (A),FA14,332,120,67.60%,40.50%,6.94,B- (2.88),B- (2.99)
+"Butov, Leonid",PHYS 2BL - Phys Lab-Mechanics&Electrostat (A),FA14,115,42,73.00%,70.30%,4.34,B+ (3.51),B+ (3.52)
+"Intriligator, Kenneth Arthur","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",FA14,330,109,78.20%,69.30%,5.9,B+ (3.40),B (3.09)
+"Intriligator, Kenneth Arthur","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (B)",FA14,347,118,83.30%,54.60%,6.08,B+ (3.39),B (3.09)
+"Schuller, Ivan K","PHYS 2CL - Phys Lab-Elec,Magnetsm,Wav,Opt (A)",FA14,224,94,28.90%,37.80%,7.7,B (3.20),B- (2.99)
+"Murphy, Thomas",PHYS 2D - Phys-Relativity&Quantm Physics (A),FA14,1,1,100.00%,100.00%,0,N/A,N/A
+"Paar, Hans Peter",PHYS 4C - Phys Majrs-Elect & Magnetism (A),FA14,41,21,85.70%,85.70%,7.07,B (3.20),B- (2.95)
+"Coil, Alison",PHYS 5 - Stars and Black Holes (A),FA14,54,21,90.00%,95.00%,3.83,B+ (3.36),B+ (3.30)
+"Fuller, George Michael",PHYS 87 - Freshman Seminar (A),FA14,21,18,88.20%,94.10%,0.75,A (4.00),N/A
+"Affolter, Matthew J",PHYS 1A - Mechanics (A),S214,51,16,83.30%,100.00%,10.33,B (3.09),B- (2.77)
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (0),S214,55,10,100.00%,88.90%,5.5,B+ (3.50),B+ (3.35)
+"Agarwal, Prarit",PHYS 1B - Electricity and Magnetism (A),S214,57,10,80.00%,30.00%,9.7,B (3.00),B- (2.76)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (0),S214,49,7,100.00%,100.00%,8.5,B+ (3.50),B+ (3.30)
+"Schanning, Ian Lennon","PHYS 1C - Waves, Optics & Modern Physics (A)",S214,82,16,71.40%,71.40%,9.79,B+ (3.50),B- (2.94)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (0)",S214,76,10,88.90%,55.60%,5.25,A- (3.89),B+ (3.45)
+"Shotwell, Brian",PHYS 2B - Phys-Electricity and Magnetism (A),S214,82,16,68.80%,81.30%,11.25,B (3.00),B- (2.86)
+"Stanley, Jacob T","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",S214,136,33,78.10%,87.50%,8.25,C+ (2.69),B- (2.93)
+"Briggs, Andrew T","PHYS 2CL - Phys Lab-Elec,Magnetsm,Wav,Opt (A)",S214,79,17,40.00%,80.00%,11.7,B (3.27),B (3.11)
+"Salamon, Joe Peter",PHYS 2D - Phys-Relativity&Quantm Physics (A),S214,61,43,83.70%,97.70%,10.13,B (3.26),B (3.03)
+"Stanley, Jacob T",PHYS 1A - Mechanics (A),S114,70,36,85.30%,85.30%,8.5,B (3.22),B- (2.86)
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (0),S114,70,26,73.90%,78.30%,5.41,B+ (3.59),B+ (3.32)
+"Lee, Christopher Jaesung",PHYS 1B - Electricity and Magnetism (A),S114,61,16,80.00%,80.00%,10.1,B (3.07),B (3.14)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (0),S114,48,10,88.90%,88.90%,6.06,B (3.22),B (3.21)
+"Schanning, Ian Lennon","PHYS 1C - Waves, Optics & Modern Physics (A)",S114,50,8,87.50%,87.50%,9.75,B+ (3.38),B- (3.00)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (0)",S114,47,6,100.00%,100.00%,10.1,A (4.00),B+ (3.54)
+"Boucheron, Leandra Susan",PHYS 2A - Physics-Mechanics (A),S114,69,44,92.90%,97.60%,8.64,B- (2.98),B- (2.86)
+"Shotwell, Brian",PHYS 2B - Phys-Electricity and Magnetism (A),S114,110,19,73.70%,100.00%,10.92,B- (2.95),C+ (2.54)
+"Briggs, Andrew T",PHYS 2BL - Phys Lab-Mechanics&Electrostat (A),S114,23,7,85.70%,100.00%,7.36,B+ (3.57),B- (2.98)
+"Stone, David Curtis","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",S114,107,52,78.40%,86.30%,9.98,B- (2.90),B- (2.70)
+"Sinha, Sunil K",PHYS 100C - Electromagnetism III (A),SP14,22,12,63.60%,72.70%,8.7,B+ (3.60),B (3.29)
+"Kleinfeld, David",PHYS 120A - Physical Measurements (A),SP14,53,43,83.70%,88.40%,9.85,B+ (3.43),B+ (3.31)
+"Surko, Clifford M",PHYS 130A - Quantum Physics I (A),SP14,46,23,85.70%,81.00%,8.6,B (3.22),B- (2.73)
+"Maple, M. Brian",PHYS 133 - Condensed Matter/MATL Sci. Lab (A),SP14,14,2,100.00%,100.00%,11.5,A (4.00),N/A
+"Kuti, Julius",PHYS 142 - Comp Phys II:PDE & Matrix Modl (A),SP14,5,2,100.00%,100.00%,8.5,A (4.00),N/A
+"Dubin, Daniel Herschel",PHYS 151 - Elementary Plasma Physics (A),SP14,11,4,100.00%,100.00%,3.83,B+ (3.67),N/A
+"Jenkins, Elizabeth",PHYS 154 - Elementary Particle Physics (A),SP14,9,4,100.00%,75.00%,7.5,B (3.25),N/A
+"Griest, Kim",PHYS 161 - Black Holes (A),SP14,21,6,100.00%,100.00%,6.9,B+ (3.60),B (3.10)
+"Keating, Brian",PHYS 162 - Cosmology (A),SP14,30,6,100.00%,100.00%,5.17,B+ (3.33),B+ (3.41)
+"Tsai, Philbert S",PHYS 173 - Modern Physics Lab:Bio&Quantum (A),SP14,12,9,100.00%,100.00%,6.5,A- (3.78),N/A
+"Jun, Suckjoon",PHYS 177 - Physics of the Cell (A),SP14,2,1,100.00%,100.00%,8.5,A (4.00),N/A
+"Paar, Hans Peter",PHYS 192 - Senior Seminar in Physics (A),SP14,5,1,100.00%,100.00%,2.5,N/A,N/A
+"Sutterley, Christel Johanna",PHYS 1A - Mechanics (A),SP14,323,125,88.60%,95.10%,5.28,B (3.26),B- (2.84)
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (0),SP14,331,116,76.10%,80.50%,4.29,B (3.28),B (3.28)
+"Anderson, Michael G.",PHYS 1B - Electricity and Magnetism (A),SP14,290,104,63.70%,40.20%,7.73,B (3.00),B- (2.86)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (0),SP14,287,79,89.00%,71.20%,4.19,B+ (3.61),B+ (3.37)
+"Coil, Alison","PHYS 1C - Waves, Optics & Modern Physics (A)",SP14,305,90,72.90%,74.10%,4.88,B+ (3.56),B (3.13)
+"Wuerthwein, Frank","PHYS 1C - Waves, Optics & Modern Physics (B)",SP14,339,91,82.80%,79.30%,4.96,B+ (3.30),B- (2.98)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (0)",SP14,622,156,74.30%,83.30%,3.81,B+ (3.66),B+ (3.42)
+"Dudko, Olga",PHYS 2A - Physics-Mechanics (A),SP14,302,112,89.90%,91.70%,6.9,B (3.07),B- (2.80)
+"Dudko, Olga",PHYS 2A - Physics-Mechanics (B),SP14,253,79,88.60%,96.20%,6.02,B (3.25),B- (2.80)
+"Shpyrko, Oleg",PHYS 2B - Phys-Electricity and Magnetism (A),SP14,285,93,84.30%,88.80%,5.89,B (3.11),B- (2.75)
+"Shpyrko, Oleg",PHYS 2B - Phys-Electricity and Magnetism (B),SP14,347,114,81.30%,90.20%,6.5,B (3.21),B- (2.75)
+"Shpyrko, Oleg",PHYS 2B - Phys-Electricity and Magnetism (C),SP14,323,110,90.60%,95.30%,5.99,B (3.29),B- (2.75)
+"Yagil, Avi",PHYS 2BL - Phys Lab-Mechanics&Electrostat (A),SP14,270,82,52.60%,48.70%,5.34,B (3.16),B- (2.73)
+"Jun, Suckjoon","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",SP14,289,88,66.70%,34.50%,5.88,B- (2.84),C+ (2.48)
+"Sharpee, Tatyana","PHYS 2CL - Phys Lab-Elec,Magnetsm,Wav,Opt (A)",SP14,190,60,56.90%,50.00%,8,B (3.18),B (3.01)
+"Branson, James G",PHYS 2D - Phys-Relativity&Quantm Physics (A),SP14,171,37,73.00%,64.90%,5.72,B+ (3.38),B (3.17)
+"Butov, Leonid",PHYS 2DL - Physics Lab-Modern Physics (A),SP14,41,14,78.60%,92.90%,4.5,B (3.23),B (3.02)
+"Armantrout, Rae",No CAPEs submitted,SP14,3,0,N/A,N/A,N/A,N/A,N/A
+"Keating, Brian",No CAPEs submitted,SP14,3,0,N/A,N/A,N/A,N/A,N/A
+"Hirsch, Jorge Eduardo","PHYS 4B - Phys Majrs-Mech,Fluid,Wav,Heat (A)",SP14,62,27,88.00%,32.00%,7.5,B (3.00),C+ (2.68)
+"Manohar, Aneesh Vasant",PHYS 4E - Physics Majors-Quantum Physics (A),SP14,28,8,100.00%,100.00%,7.25,B+ (3.38),B+ (3.31)
+"Fuller, George Michael",PHYS 87 - Freshman Seminar (A),SP14,18,7,100.00%,100.00%,0.5,A (4.00),N/A
+"Burgasser, Adam Jonathan",PHYS 87 - Freshman Seminar (B),SP14,5,2,100.00%,100.00%,0.5,N/A,N/A
+"Tytler, David Robert",PHYS 9 - The Solar System (A),SP14,33,14,64.30%,57.10%,4.93,B (3.22),B (3.25)
+"Tytler, David Robert",PHYS 10 - Concepts In Physics (A),WI14,177,74,52.10%,57.50%,4.42,B (3.23),B (3.23)
+"Surko, Clifford M",PHYS 100B - Electromagnetism II (A),WI14,44,18,94.10%,76.50%,5.83,B (3.07),B- (2.90)
+"Dubin, Daniel Herschel",PHYS 105B - Mathematical&Computatnl Phy II (A),WI14,19,10,100.00%,100.00%,15.83,B+ (3.50),B (3.11)
+"Branson, James G",PHYS 110B - Mechanics II (A),WI14,28,11,100.00%,54.50%,6.5,B+ (3.30),B (3.07)
+"Salmon, Richard L.",PHYS 111 - Introduction to Ocean Waves (A),WI14,3,1,100.00%,100.00%,2.5,A (4.00),N/A
+"Murphy, Thomas",PHYS 120B - Physical Measurements (A),WI14,16,11,100.00%,100.00%,8.5,B+ (3.55),B+ (3.58)
+"Burgasser, Adam Jonathan",PHYS 13 - Life in the Universe (A),WI14,14,8,87.50%,100.00%,4.75,B+ (3.43),B (3.16)
+"McGreevy, John A.",PHYS 130C - Quantum Physics III (A),WI14,22,9,100.00%,100.00%,8.5,B (3.22),B+ (3.33)
+"Fogler, Michael M.",PHYS 140B - Statistical & Thermal Phys II (A),WI14,13,6,100.00%,100.00%,13.5,B+ (3.33),C+ (2.54)
+"Kuti, Julius",PHYS 141 - Comp Phys I:Prob Models & Simu (A),WI14,9,3,66.70%,100.00%,7.83,B+ (3.33),N/A
+"Butov, Leonid",PHYS 152A - Condensed Matter Physics (A),WI14,10,8,100.00%,100.00%,8.17,A (4.00),A- (3.80)
+"Keres, Dusan",PHYS 163 - Galaxies and Quasars (A),WI14,21,7,100.00%,100.00%,8.5,B+ (3.57),C+ (2.64)
+"Melis, Carl Anthony",PHYS 164 - Observational Astrophysics Lab (A),WI14,11,4,100.00%,100.00%,10.5,B (3.25),B+ (3.55)
+"Kleinfeld, David",PHYS 178 - Biophysics/Neurons & Networks (A),WI14,18,6,100.00%,100.00%,7.7,B+ (3.40),B (3.21)
+"Anderson, Michael G.",PHYS 1A - Mechanics (A),WI14,312,123,87.00%,81.70%,6.36,B (3.21),B- (2.88)
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (0),WI14,313,111,76.70%,79.60%,4.4,B+ (3.36),B+ (3.31)
+"Groisman, Alexander",PHYS 1B - Electricity and Magnetism (A),WI14,358,126,74.00%,54.50%,5.42,B (3.18),B- (2.73)
+"Groisman, Alexander",PHYS 1B - Electricity and Magnetism (B),WI14,138,56,75.00%,58.90%,5.24,B (3.25),B- (2.73)
+"Kishimoto, Chad T.",PHYS 1B - Electricity and Magnetism (C),WI14,207,81,93.80%,97.50%,6.92,B+ (3.49),B (3.23)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (0),WI14,685,234,80.20%,84.10%,3.43,B+ (3.52),B+ (3.39)
+"Anderson, Michael G.","PHYS 1C - Waves, Optics & Modern Physics (A)",WI14,182,55,65.40%,65.40%,6.54,B (3.26),B- (2.94)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (0)",WI14,178,53,52.90%,66.70%,4.26,B+ (3.47),B+ (3.32)
+"Sharma, Vivek A.",PHYS 2A - Physics-Mechanics (A),WI14,349,296,86.30%,81.60%,6.46,B (3.21),B- (2.87)
+"Sharma, Vivek A.",PHYS 2A - Physics-Mechanics (B),WI14,343,297,85.20%,81.10%,6.25,B (3.07),B- (2.87)
+"Sharma, Vivek A.",PHYS 2A - Physics-Mechanics (C),WI14,338,280,86.60%,81.20%,6.17,B (3.18),B- (2.87)
+"Michelsen, Eric Leonard",PHYS 2B - Phys-Electricity and Magnetism (A),WI14,338,142,83.70%,80.70%,6.07,B (3.14),B- (2.79)
+"Yagil, Avi",PHYS 2BL - Phys Lab-Mechanics&Electrostat (A),WI14,118,51,66.00%,66.00%,5.32,B+ (3.39),B (3.02)
+"Di Ventra, Massimiliano","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",WI14,288,92,86.50%,86.50%,5.21,B+ (3.35),B (3.20)
+"Maple, M. Brian","PHYS 2CL - Phys Lab-Elec,Magnetsm,Wav,Opt (A)",WI14,252,90,31.60%,60.80%,9.01,B (3.04),B- (2.98)
+"Branson, James G",PHYS 2D - Phys-Relativity&Quantm Physics (A),WI14,174,62,78.30%,51.70%,6.78,B (3.28),B+ (3.41)
+"Griest, Kim",PHYS 4A - Physics/Physics Majrs-Mechancs (A),WI14,80,39,100.00%,94.90%,5.97,B+ (3.50),B- (2.83)
+"Manohar, Aneesh Vasant","PHYS 4D - Phys Majrs-EM Wav,Opt,Spec Rel (A)",WI14,28,11,100.00%,100.00%,7.9,B+ (3.50),B+ (3.32)
+"Coil, Alison",PHYS 5 - Stars and Black Holes (A),WI14,39,15,93.30%,100.00%,4.23,A- (3.92),B (3.12)
+"Fuller, George Michael",PHYS 87 - Freshman Seminar (A),WI14,18,12,100.00%,100.00%,0.5,A (4.00),N/A
+"Surko, Clifford M",PHYS 100A - Electromagnetism I (A),FA13,54,16,78.60%,71.40%,7.88,B (3.08),C+ (2.62)
+"Dubin, Daniel Herschel",PHYS 105A - Mathematical&Computatnl Phy I (A),FA13,49,14,71.40%,50.00%,14.81,B (3.08),B- (2.71)
+"Tytler, David Robert",PHYS 11 - Survey of Physics (A),FA13,157,52,42.30%,44.20%,3.98,B+ (3.34),B (3.24)
+"Michelsen, Eric Leonard",PHYS 110A - Mechanics I (A),FA13,49,14,92.90%,92.90%,8.81,B (3.08),C+ (2.42)
+"Smith, Douglas E",PHYS 121 - Experimental Techniques (A),FA13,13,5,100.00%,100.00%,6.1,A- (3.80),N/A
+"Keating, Brian",PHYS 130B - Quantum Physics II (A),FA13,42,19,100.00%,89.50%,7.45,B+ (3.32),B (3.16)
+"Fogler, Michael M.",PHYS 140A - Statistical & Thermal Phys I (A),FA13,56,24,75.00%,95.80%,9.67,B- (2.92),B- (2.77)
+"Burgasser, Adam Jonathan",PHYS 160 - Stellar Astrophysics (A),FA13,16,14,100.00%,100.00%,9.79,B (3.15),N/A
+"Dudko, Olga",PHYS 175 - Fundamentls/Biological Physics (A),FA13,16,6,80.00%,80.00%,4.9,A (4.00),N/A
+"Murphy, Thomas",PHYS 191 - Undergraduate Seminar/Physics (A),FA13,27,10,90.00%,90.00%,0.5,A (4.00),N/A
+"Kritsuk, Alexei",PHYS 1A - Mechanics (A),FA13,166,133,67.70%,33.10%,6.42,B- (2.98),B (3.19)
+"Kishimoto, Chad T.",PHYS 1A - Mechanics (B),FA13,276,128,87.00%,91.90%,6.77,B (3.27),B (3.05)
+"Paddock, Mark",PHYS 1A - Mechanics (C),FA13,343,239,78.20%,85.90%,6.53,B (3.04),B (3.10)
+"Groisman, Alexander",PHYS 1AL - Mechanics Laboratory (A),FA13,803,365,74.80%,70.50%,4.08,B+ (3.31),B (3.27)
+"Anderson, Michael G.",PHYS 1B - Electricity and Magnetism (A),FA13,182,67,77.80%,76.20%,6.75,B+ (3.31),B- (2.85)
+"Groisman, Alexander",PHYS 1BL - Electricity & Magnetism Lab (A),FA13,22,9,66.70%,66.70%,5.83,B+ (3.67),B (3.20)
+"Groisman, Alexander",PHYS 1BL - Electricity & Magnetism Lab (C),FA13,24,4,100.00%,100.00%,2.5,A- (3.75),B (3.20)
+"Groisman, Alexander",PHYS 1BL - Electricity & Magnetism Lab (D),FA13,25,7,71.40%,71.40%,3.93,B+ (3.57),B (3.20)
+"Groisman, Alexander",PHYS 1BL - Electricity & Magnetism Lab (E),FA13,25,8,57.10%,57.10%,4.79,B (3.00),B (3.20)
+"Groisman, Alexander",PHYS 1BL - Electricity & Magnetism Lab (F),FA13,24,12,58.30%,75.00%,3.95,A- (3.73),B (3.20)
+"Groisman, Alexander",PHYS 1BL - Electricity & Magnetism Lab (G),FA13,25,6,100.00%,100.00%,2.9,B (3.00),B (3.20)
+"Groisman, Alexander",PHYS 1BL - Electricity & Magnetism Lab (H),FA13,25,6,66.70%,66.70%,3.17,B+ (3.67),B (3.20)
+"Branson, James G","PHYS 1C - Waves, Optics & Modern Physics (A)",FA13,92,23,69.60%,39.10%,5.98,B (3.09),B (3.01)
+"Groisman, Alexander","PHYS 1CL - Waves,Optics&Modrn Phys Lab (A)",FA13,94,18,82.40%,94.10%,4.03,B (3.24),B (3.25)
+"Paar, Hans Peter",PHYS 2A - Physics-Mechanics (A),FA13,334,162,84.30%,56.60%,7.86,B (3.12),B- (2.75)
+"Rappel, Wouter Jan",PHYS 2B - Phys-Electricity and Magnetism (A),FA13,347,129,90.50%,88.90%,6.14,B (3.18),C+ (2.57)
+"Yagil, Avi",PHYS 2BL - Phys Lab-Mechanics&Electrostat (A),FA13,148,47,53.20%,70.20%,6.46,B (3.02),B- (2.90)
+"Intriligator, Kenneth Arthur","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",FA13,188,63,85.00%,63.30%,5.26,B+ (3.37),B- (2.96)
+"Intriligator, Kenneth Arthur","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (B)",FA13,347,138,87.40%,66.90%,5.72,B (3.20),B- (2.96)
+"Anderson, Michael G.","PHYS 2CL - Phys Lab-Elec,Magnetsm,Wav,Opt (A)",FA13,261,88,52.30%,75.00%,8.66,B (3.27),B- (2.99)
+"Manohar, Aneesh Vasant",PHYS 4C - Phys Majrs-Elect & Magnetism (A),FA13,27,12,72.70%,63.60%,9.77,B- (2.80),B (3.12)
+"Keres, Dusan",PHYS 7 - Galaxies and Cosmology (A),FA13,46,19,100.00%,94.70%,4.08,B+ (3.59),B (3.01)
+"Murphy, Christopher W",PHYS 1A - Mechanics (A),S213,39,8,62.50%,25.00%,7.25,C+ (2.63),B (3.10)
+"Schanning, Ian Lennon",PHYS 1AL - Mechanics Laboratory (0),S213,41,6,100.00%,100.00%,7,A- (3.75),B+ (3.34)
+"Shotwell, Brian",PHYS 1B - Electricity and Magnetism (A),S213,51,9,44.40%,55.60%,9.39,B+ (3.33),B- (2.89)
+"Schanning, Ian Lennon",PHYS 1BL - Electricity & Magnetism Lab (0),S213,47,9,66.70%,77.80%,6.06,B+ (3.67),B (3.24)
+"Anderson, Michael G.","PHYS 1C - Waves, Optics & Modern Physics (A)",S213,57,9,88.90%,100.00%,6.5,B- (2.89),B- (2.92)
+"Schanning, Ian Lennon","PHYS 1CL - Waves,Optics&Modrn Phys Lab (0)",S213,59,10,80.00%,100.00%,4.3,B+ (3.60),B (3.29)
+"Palmer, Christopher A",PHYS 2B - Phys-Electricity and Magnetism (A),S213,71,26,87.50%,79.20%,9.58,B (3.21),B- (2.80)
+"Shotwell, Brian","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",S213,87,19,72.20%,83.30%,7.44,B+ (3.39),B- (2.81)
+"Anderson, Michael G.","PHYS 2CL - Phys Lab-Elec,Magnetsm,Wav,Opt (A)",S213,118,29,39.30%,78.60%,11.07,B (3.21),B (3.02)
+"Stone, David Curtis",PHYS 2D - Phys-Relativity&Quantm Physics (A),S213,141,41,82.90%,95.10%,8.45,B (3.02),B- (2.85)
+"Conger, Casey J",PHYS 1A - Mechanics (A),S113,77,10,88.90%,100.00%,8.72,B (3.00),B- (2.95)
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (0),S113,73,6,83.30%,83.30%,6.5,B+ (3.50),B+ (3.44)
+"Palmer, Christopher A",PHYS 1B - Electricity and Magnetism (A),S113,57,12,66.70%,66.70%,9,B (3.27),B- (2.72)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (0),S113,49,13,72.70%,90.90%,4.86,B+ (3.64),B+ (3.33)
+"Agarwal, Prarit","PHYS 1C - Waves, Optics & Modern Physics (A)",S113,43,9,77.80%,55.60%,5.83,B+ (3.67),B (3.13)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (0)",S113,36,8,100.00%,100.00%,5.64,B+ (3.50),B+ (3.40)
+"Grohs, Evan B",PHYS 2A - Physics-Mechanics (A),S113,81,15,80.00%,73.30%,13.57,B- (2.73),B- (2.79)
+"Stergiou, Andreas",PHYS 2B - Phys-Electricity and Magnetism (A),S113,93,19,87.50%,87.50%,8.5,B+ (3.31),C+ (2.59)
+"Lee, Christopher Jaesung",PHYS 2BL - Phys Lab-Mechanics&Electrostat (A),S113,44,9,55.60%,88.90%,6.94,B+ (3.44),B- (2.95)
+"Stanley, Jacob T","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",S113,85,24,82.60%,91.30%,9.32,B (3.10),B- (2.89)
+"Shpyrko, Oleg",PHYS 100C - Electromagnetism (A),SP13,31,10,88.90%,88.90%,6.28,A- (3.89),B+ (3.54)
+"Murphy, Thomas",PHYS 12 - Energy and the Environment (A),SP13,44,22,68.20%,86.40%,3.77,B+ (3.44),B (3.15)
+"Kleinfeld, David",PHYS 120A - Physical Measurements (A),SP13,44,16,50.00%,12.50%,12.9,B+ (3.53),B+ (3.33)
+"Anderson, Michael G.",PHYS 130A - Quantum Physics I (A),SP13,56,22,95.50%,59.10%,9.14,B+ (3.43),B- (2.89)
+"Maple, M. Brian",PHYS 133 - Condensed Matter/Material Sci (A),SP13,14,4,75.00%,100.00%,6,B (3.25),N/A
+"Intriligator, Kenneth Arthur",PHYS 137 - String Theory (A),SP13,9,5,100.00%,100.00%,6,A (4.00),N/A
+"Kuti, Julius",PHYS 142 - Comp Phys II:PDE & Matrix Modl (A),SP13,5,3,100.00%,100.00%,6.5,B+ (3.67),N/A
+"Dubin, Daniel Herschel",PHYS 151 - Elementary Plasma Physics (A),SP13,6,3,100.00%,100.00%,10.5,B (3.00),N/A
+"Branson, James G",PHYS 154 - Elementary Particle Physics (A),SP13,10,4,75.00%,100.00%,10.5,B+ (3.33),N/A
+"Keating, Brian",PHYS 162 - Galaxies and Cosmology (A),SP13,18,13,84.60%,61.50%,4.67,B (3.08),N/A
+"Tsai, Philbert S",PHYS 173 - Modern Physics Lab:Bio&Quantum (A),SP13,8,14,100.00%,100.00%,3.88,B+ (3.58),N/A
+"Jun, Suckjoon",PHYS 177 - Physics of the Cell (A),SP13,1,1,0.00%,0.00%,0,N/A,N/A
+"Kritsuk, Alexei",PHYS 1A - Mechanics (A),SP13,254,79,66.70%,44.90%,5.89,B- (2.99),B- (2.97)
+"Yagil, Avi",PHYS 1AL - Mechanics Laboratory (A),SP13,261,75,74.30%,68.90%,3.81,B+ (3.55),B+ (3.39)
+"Sinha, Sunil K",PHYS 1B - Electricity and Magnetism (A),SP13,138,44,58.10%,74.40%,5.9,B (3.26),B- (2.90)
+"Yagil, Avi",PHYS 1BL - Electricity & Magnetism Lab (A),SP13,126,38,78.90%,89.50%,3.89,B+ (3.53),B+ (3.34)
+"Kishimoto, Chad T.","PHYS 1C - Waves, Optics & Modern Physics (A)",SP13,192,101,75.20%,64.40%,5.82,B (3.24),B (3.10)
+"Kishimoto, Chad T.","PHYS 1C - Waves, Optics & Modern Physics (B)",SP13,78,40,77.50%,72.50%,6.15,B (3.13),B (3.10)
+"Paddock, Mark","PHYS 1C - Waves, Optics & Modern Physics (C)",SP13,189,125,85.40%,97.60%,4.78,B+ (3.52),B (3.18)
+"Yagil, Avi","PHYS 1CL - Waves,Optics&Modrn Phys Lab (0)",SP13,446,161,71.10%,76.10%,3.52,B+ (3.50),B+ (3.42)
+"Dudko, Olga",PHYS 2A - Physics-Mechanics (A),SP13,324,120,89.90%,93.30%,6.88,B (3.17),B- (2.92)
+"Lin, Shiowhwa",PHYS 2A - Physics-Mechanics (B),SP13,128,36,85.70%,54.30%,5.17,B (3.00),C+ (2.63)
+"Anderson, Michael G.",PHYS 2B - Phys-Electricity and Magnetism (A),SP13,340,118,93.10%,96.60%,6.29,B (3.11),B- (2.76)
+"Michelsen, Eric Leonard",PHYS 2B - Phys-Electricity and Magnetism (B),SP13,354,149,91.90%,89.20%,5.5,B (3.28),B- (2.95)
+"Sharma, Vivek A.",PHYS 2BL - Phys Lab-Mechanics&Electrostat (A),SP13,243,88,56.80%,81.80%,6.25,B (3.24),B- (2.96)
+"Wuerthwein, Frank","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",SP13,295,94,89.40%,90.40%,6.05,B+ (3.47),B (3.17)
+"Shpyrko, Oleg","PHYS 2CL - Phys Lab-Elec,Magnetsm,Wav,Opt (A)",SP13,292,95,45.30%,88.40%,7.46,B+ (3.39),B (3.16)
+"Schoetz, Eva-Maria",PHYS 2D - Phys-Relativity&Quantm Physics (A),SP13,194,56,42.90%,46.40%,9.63,C+ (2.59),C+ (2.54)
+"Butov, Leonid",PHYS 2DL - Physics Lab-Modern Physics (A),SP13,44,13,84.60%,84.60%,5.5,A- (3.75),B+ (3.33)
+"Hirsch, Jorge Eduardo","PHYS 4B - Phys Majrs-Mech,Fluid,Wav,Heat (A)",SP13,35,15,92.90%,35.70%,9.36,B- (2.83),B (3.22)
+"Manohar, Aneesh Vasant",PHYS 4E - Physics Majors-Quantum Physics (A),SP13,15,8,100.00%,100.00%,6.17,B+ (3.50),N/A
+"Tytler, David Robert",PHYS 9 - The Solar System (A),SP13,34,12,50.00%,33.30%,3.17,A- (3.80),A- (3.70)
+"Tytler, David Robert",PHYS 10 - Concepts In Physics (A),WI13,193,90,58.00%,58.00%,4.69,B (3.29),B (3.08)
+"Surko, Clifford M",PHYS 100B - Electromagnetism (A),WI13,61,23,91.30%,65.20%,8.5,B (3.04),B- (2.88)
+"Dubin, Daniel Herschel",PHYS 105B - Mathematical&Computational Phy (A),WI13,23,11,90.90%,100.00%,14.9,B+ (3.40),B- (2.82)
+"Wu, Congjun",PHYS 110B - Mechanics (A),WI13,36,17,94.10%,76.50%,6.62,B+ (3.67),B (3.15)
+"Murphy, Thomas",PHYS 120B - Physical Measurements (A),WI13,18,15,93.30%,86.70%,9.7,A- (3.79),N/A
+"Burgasser, Adam Jonathan",PHYS 13 - Life in the Universe (A),WI13,16,10,100.00%,100.00%,4.7,A- (3.88),N/A
+"McGreevy, John A.",PHYS 130C - Quantum Physics III (A),WI13,22,20,95.00%,95.00%,8.92,B+ (3.41),B+ (3.35)
+"Burgasser, Adam Jonathan",PHYS 139 - Special Topics (B),WI13,6,2,100.00%,100.00%,5.5,A (4.00),N/A
+"Melis, Carl Anthony",PHYS 139 - Special Topics (B),WI13,6,4,100.00%,100.00%,8,B+ (3.67),N/A
+"Fogler, Michael M.",PHYS 140B - Statistical & Thermal Physics (A),WI13,15,10,70.00%,70.00%,7.39,B (3.11),N/A
+"Kuti, Julius",PHYS 141 - Comp Phys I:Prob Models & Simu (A),WI13,7,2,100.00%,100.00%,6.5,B+ (3.50),N/A
+"Butov, Leonid",PHYS 152A - Condensed Matter Physics (A),WI13,14,6,100.00%,100.00%,3.17,B+ (3.50),N/A
+"Griest, Kim",PHYS 161 - Black Holes & Milky Way Galaxy (A),WI13,28,17,100.00%,100.00%,6.97,B (3.29),B (3.22)
+"Hwa, Terence T.",PHYS 176 - Quantitative Molecular Biology (A),WI13,2,1,100.00%,100.00%,0,N/A,N/A
+"Abarbanel, Henry Don Isaac",PHYS 178 - Biophysics/Neurons & Networks (A),WI13,10,4,100.00%,75.00%,6.5,B+ (3.50),N/A
+"Kleinfeld, David",PHYS 178 - Biophysics/Neurons & Networks (A),WI13,10,4,100.00%,100.00%,7.83,B+ (3.50),N/A
+"Smith, Douglas E",PHYS 1A - Mechanics (A),WI13,172,76,70.70%,66.70%,5.69,B (3.11),B- (2.92)
+"Yagil, Avi",PHYS 1AL - Mechanics Laboratory (0),WI13,171,75,68.60%,80.00%,4.2,B (3.27),B (3.24)
+"Groisman, Alexander",PHYS 1B - Electricity and Magnetism (A),WI13,341,137,65.90%,59.30%,5.74,B (3.03),B- (2.75)
+"Groisman, Alexander",PHYS 1B - Electricity and Magnetism (B),WI13,142,59,60.30%,56.90%,5.48,B (3.14),B- (2.75)
+"Kishimoto, Chad T.",PHYS 1B - Electricity and Magnetism (C),WI13,90,55,72.20%,83.30%,7.73,B (3.21),B (3.05)
+"Yagil, Avi",PHYS 1BL - Electricity & Magnetism Lab (0),WI13,547,216,73.40%,79.00%,3.63,B+ (3.46),B (3.28)
+"Branson, James G","PHYS 1C - Waves, Optics & Modern Physics (A)",WI13,121,48,55.30%,29.80%,5.39,B (3.15),B- (2.72)
+"Yagil, Avi","PHYS 1CL - Waves,Optics&Modrn Phys Lab (0)",WI13,121,46,65.90%,68.20%,3.88,B+ (3.51),B+ (3.35)
+"Grinstein, Benjamin",PHYS 2A - Physics-Mechanics (A),WI13,193,97,74.70%,30.50%,6.91,B- (2.82),B- (2.82)
+"Grinstein, Benjamin",PHYS 2A - Physics-Mechanics (B),WI13,346,147,80.70%,35.90%,6.6,B (3.13),B- (2.82)
+"Grinstein, Benjamin",PHYS 2A - Physics-Mechanics (C),WI13,338,137,74.10%,43.70%,6.74,B (3.02),B- (2.82)
+"Sinha, Sunil K",PHYS 2B - Phys-Electricity and Magnetism (A),WI13,342,148,80.10%,82.20%,6.92,B+ (3.35),B (3.10)
+"Yagil, Avi",PHYS 2BL - Phys Lab-Mechanics&Electrostat (A),WI13,106,45,44.40%,62.20%,6.37,B (3.04),B- (2.91)
+"Lin, Shiowhwa","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",WI13,266,110,66.10%,29.40%,5.69,B (3.00),B- (2.83)
+"Maple, M. Brian","PHYS 2CL - Phys Lab-Elec,Magnetsm,Wav,Opt (A)",WI13,223,91,32.20%,63.30%,8.34,B (3.15),B (3.04)
+"Branson, James G",PHYS 2D - Phys-Relativity&Quantm Physics (A),WI13,138,51,68.00%,40.00%,6.08,B (3.04),B- (2.72)
+"Griest, Kim",PHYS 4A - Physics/Physics Majrs-Mechancs (A),WI13,48,17,94.10%,94.10%,5.68,B (3.18),B- (2.98)
+"Manohar, Aneesh Vasant","PHYS 4D - Phys Majrs-EM Wav,Opt,Spec Rel (A)",WI13,15,10,90.00%,90.00%,8.3,B (3.25),N/A
+"Keres, Dusan",PHYS 7 - Galaxies and Cosmology (A),WI13,21,15,86.70%,93.30%,4.5,B+ (3.36),B (3.11)
+"Surko, Clifford M",PHYS 100A - Electromagnetism (A),FA12,71,29,92.60%,66.70%,7.69,B- (2.96),B- (2.78)
+"Dubin, Daniel Herschel",PHYS 105A - Mathematical&Computational Phy (A),FA12,66,25,68.20%,90.90%,12.21,B- (2.95),C+ (2.67)
+"Tytler, David Robert",PHYS 11 - Survey of Physics (A),FA12,167,54,84.60%,80.80%,4.54,B+ (3.64),B (3.06)
+"Murphy, Thomas",PHYS 110A - Mechanics (A),FA12,70,32,96.60%,86.20%,8.84,B (3.22),B- (2.85)
+"Smith, Douglas E",PHYS 121 - Experimental Techniques (A),FA12,21,14,100.00%,100.00%,4.83,B+ (3.67),B+ (3.65)
+"Keating, Brian",PHYS 130B - Quantum Physics II (A),FA12,48,46,95.60%,77.80%,6.36,B (3.09),B (3.08)
+"Arovas, Daniel P",PHYS 140A - Statistical & Thermal Physics (A),FA12,48,28,91.30%,82.60%,7.68,B (3.09),B (3.01)
+"Wolfe, Arthur Michael",PHYS 160 - Stellar Astrophysics (A),FA12,22,11,90.90%,81.80%,6.86,B (3.27),B- (2.88)
+"Dudko, Olga",PHYS 175 - Fundamentls/Biological Physics (A),FA12,9,4,100.00%,100.00%,5.5,B+ (3.50),N/A
+"Paar, Hans Peter",PHYS 191 - Undergraduate Seminar/Physics (A),FA12,22,12,100.00%,100.00%,2.5,A (4.00),N/A
+"Sutterley, Christel Johanna",PHYS 1A - Mechanics (C),FA12,319,116,83.00%,83.00%,5.83,B (3.17),B- (2.99)
+"Burgasser, Adam Jonathan",PHYS 1A - Mechanics (D),FA12,172,137,82.20%,88.10%,6.47,B (3.14),B (3.14)
+"Burgasser, Adam Jonathan",PHYS 1A - Mechanics (E),FA12,228,192,81.80%,89.30%,7.66,B (3.15),B (3.14)
+"Groisman, Alexander",PHYS 1AL - Mechanics Laboratory (0),FA12,694,311,71.00%,69.60%,4.14,B (3.25),B (3.20)
+"Maple, M. Brian",PHYS 1B - Electricity and Magnetism (A),FA12,174,65,81.40%,57.60%,5.82,B+ (3.40),B- (2.89)
+"Groisman, Alexander",PHYS 1BL - Electricity & Magnetism Lab (A),FA12,22,11,100.00%,77.80%,4.5,B+ (3.56),B (3.15)
+"Groisman, Alexander",PHYS 1BL - Electricity & Magnetism Lab (B),FA12,20,7,85.70%,57.10%,2.79,B+ (3.57),B (3.15)
+"Groisman, Alexander",PHYS 1BL - Electricity & Magnetism Lab (C),FA12,21,7,66.70%,83.30%,4.1,A- (3.83),B (3.15)
+"Groisman, Alexander",PHYS 1BL - Electricity & Magnetism Lab (D),FA12,20,7,57.10%,71.40%,3.36,B (3.29),B (3.15)
+"Groisman, Alexander",PHYS 1BL - Electricity & Magnetism Lab (F),FA12,25,7,71.40%,57.10%,3.36,A- (3.71),B (3.15)
+"Groisman, Alexander",PHYS 1BL - Electricity & Magnetism Lab (G),FA12,12,3,66.70%,0.00%,1.83,A (4.00),B (3.15)
+"Groisman, Alexander",PHYS 1BL - Electricity & Magnetism Lab (H),FA12,20,5,100.00%,100.00%,3.7,A- (3.80),B (3.15)
+"Groisman, Alexander",PHYS 1BL - Electricity & Magnetism Lab (I),FA12,15,3,66.70%,66.70%,6.5,C+ (2.33),B (3.15)
+"Smith, Douglas E","PHYS 1C - Waves, Optics & Modern Physics (A)",FA12,175,65,73.30%,86.70%,5.52,B+ (3.56),B- (2.94)
+"Groisman, Alexander","PHYS 1CL - Waves,Optics&Modrn Phys Lab (0)",FA12,163,55,67.30%,53.10%,4.24,B+ (3.50),B (3.21)
+"Sinha, Sunil K",PHYS 2A - Physics-Mechanics (A),FA12,344,162,80.30%,71.80%,7.26,B (3.21),B (3.28)
+"Rappel, Wouter Jan",PHYS 2B - Phys-Electricity and Magnetism (A),FA12,342,126,75.60%,84.00%,6.69,B (3.24),C+ (2.48)
+"Wuerthwein, Frank",PHYS 2BL - Phys Lab-Mechanics&Electrostat (A),FA12,161,60,62.10%,56.90%,6.09,B+ (3.37),B- (2.95)
+"Griest, Kim","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",FA12,210,74,83.30%,88.90%,5.74,B (3.29),C+ (2.67)
+"Anderson, Michael G.","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (B)",FA12,295,127,86.80%,95.00%,5.57,B+ (3.34),B- (2.95)
+"Anderson, Michael G.","PHYS 2CL - Phys Lab-Elec,Magnetsm,Wav,Opt (A)",FA12,221,92,26.40%,68.90%,8.61,B- (2.99),B (3.03)
+"Manohar, Aneesh Vasant",PHYS 4C - Phys Majrs-Elect & Magnetism (A),FA12,17,13,72.70%,72.70%,11.23,C+ (2.33),N/A
+"Coil, Alison",PHYS 5 - The Universe (A),FA12,52,20,85.00%,85.00%,4.9,B+ (3.44),B (3.16)
+"Fuller, George Michael",PHYS 87 - Freshman Seminar (A),FA12,18,10,88.90%,88.90%,0.5,A (4.00),N/A
+"Hicks, J. Charles",PHYS 1A - Mechanics (A),S212,48,6,40.00%,33.30%,8.5,B (3.00),C+ (2.52)
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (A),S212,24,1,N/A,N/A,N/A,N/A,B (3.13)
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (B),S212,14,1,100.00%,0.00%,6.5,B (3.00),B (3.13)
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (C),S212,7,4,75.00%,66.70%,4,A- (3.75),B (3.13)
+"Conger, Casey J",PHYS 1B - Electricity and Magnetism (A),S212,54,12,66.70%,25.00%,9,B (3.00),B- (2.81)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (A),S212,17,3,100.00%,100.00%,3.83,B+ (3.33),N/A
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (B),S212,15,2,100.00%,100.00%,3.5,A (4.00),N/A
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (C),S212,13,2,100.00%,100.00%,7.5,B (3.00),N/A
+"Agarwal, Prarit","PHYS 1C - Waves, Optics & Modern Physics (A)",S212,79,18,77.80%,76.50%,8.06,B+ (3.47),B+ (3.32)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (A)",S212,25,5,60.00%,100.00%,6.5,B+ (3.60),B+ (3.39)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (B)",S212,24,7,85.70%,100.00%,6.21,A- (3.71),B+ (3.39)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (C)",S212,23,3,66.70%,33.30%,6.5,B+ (3.67),B+ (3.39)
+"Uttayarat, Patipan",PHYS 2B - Phys-Electricity and Magnetism (A),S212,81,25,72.00%,52.00%,12.74,B- (2.75),B (3.03)
+"Stone, David Curtis","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",S212,86,20,80.00%,80.00%,10.6,B (3.21),B- (2.78)
+"Anderson, Michael G.","PHYS 2CL - Phys Lab-Elec,Magnetsm,Wav,Opt (A)",S212,89,26,30.80%,57.70%,13.38,B (3.04),B- (2.96)
+"Murphy, Christopher W",PHYS 2D - Phys-Relativity&Quantm Physics (A),S212,154,58,61.40%,21.10%,10.26,B- (2.85),B- (2.93)
+"Diamond-Stanic, Aleksandar",PHYS 1A - Mechanics (A),S112,66,29,86.20%,96.60%,10.22,B+ (3.34),B (3.19)
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (A),S112,17,10,70.00%,90.00%,6.94,B+ (3.50),B+ (3.41)
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (B),S112,14,3,100.00%,100.00%,5.17,B+ (3.67),B+ (3.41)
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (C),S112,17,6,83.30%,83.30%,4.5,B (3.17),B+ (3.41)
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (D),S112,9,4,100.00%,100.00%,8.5,A- (3.75),B+ (3.41)
+"Agarwal, Prarit",PHYS 1B - Electricity and Magnetism (A),S112,58,14,85.70%,64.30%,7.93,B+ (3.36),B (3.16)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (A),S112,21,5,100.00%,60.00%,6.9,A- (3.80),B (3.23)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (B),S112,18,4,75.00%,75.00%,9.5,B+ (3.50),B (3.23)
+"Aslanyan, Grigor","PHYS 1C - Waves, Optics & Modern Physics (A)",S112,48,14,78.60%,92.90%,9.64,B- (2.92),B- (2.72)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (A)",S112,12,6,83.30%,100.00%,7.5,B+ (3.50),N/A
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (B)",S112,11,1,100.00%,100.00%,6.5,A (4.00),N/A
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (C)",S112,17,3,66.70%,66.70%,4.5,B+ (3.67),N/A
+"Uttayarat, Patipan",PHYS 2A - Physics-Mechanics (A),S112,77,18,27.80%,33.30%,10.39,C+ (2.59),C+ (2.41)
+"Stergiou, Andreas",PHYS 2B - Phys-Electricity and Magnetism (A),S112,99,26,92.30%,69.20%,7.73,B (3.16),C+ (2.49)
+"Austrum, Tera Lyn",PHYS 2BL - Phys Lab-Mechanics&Electrostat (A),S112,64,24,87.50%,87.50%,10.15,A- (3.75),B (3.01)
+"Conger, Casey J","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",S112,69,30,90.00%,80.00%,8.36,B+ (3.37),B- (2.78)
+"Shpyrko, Oleg",PHYS 100C - Electromagnetism (A),SP12,32,12,100.00%,90.90%,5.05,B+ (3.50),B+ (3.37)
+"Driscoll, Charles F.",PHYS 120A - Physical Measurements (A),SP12,41,18,94.10%,100.00%,12.39,B+ (3.50),B+ (3.51)
+"Branson, James G",PHYS 130A - Quantum Physics I (A),SP12,56,23,87.00%,69.60%,9.02,B (3.09),B- (2.86)
+"Maple, M. Brian",PHYS 133 - Condensed Matter/Material Sci (A),SP12,7,2,50.00%,100.00%,9.5,B+ (3.50),N/A
+"Intriligator, Kenneth Arthur",PHYS 137 - String Theory (A),SP12,11,5,100.00%,100.00%,5.7,B (3.00),N/A
+"Kuti, Julius",PHYS 142 - Comp Phys II:PDE & Matrix Modl (A),SP12,5,4,100.00%,100.00%,7.5,A (4.00),N/A
+"Manohar, Aneesh Vasant",PHYS 154 - Elementary Particle Physics (A),SP12,13,6,100.00%,83.30%,5.83,B+ (3.33),N/A
+"Coil, Alison",PHYS 162 - Galaxies and Cosmology (A),SP12,28,12,91.70%,100.00%,7.33,B+ (3.33),B+ (3.35)
+"Kleinfeld, David",PHYS 173 - Modern Physics Lab:Bio&Quantum (A),SP12,11,4,75.00%,50.00%,5,A- (3.75),N/A
+"Kishimoto, Chad T.",PHYS 1A - Mechanics (A),SP12,197,97,77.30%,70.10%,7.81,B (3.16),B (3.01)
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (01),SP12,24,9,77.80%,66.70%,3.61,B+ (3.67),B+ (3.34)
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (02),SP12,20,10,100.00%,90.00%,4.3,B+ (3.40),B+ (3.34)
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (03),SP12,26,15,86.70%,86.70%,3.64,B+ (3.64),B+ (3.34)
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (04),SP12,16,5,60.00%,80.00%,4.9,B (3.25),B+ (3.34)
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (05),SP12,23,9,66.70%,66.70%,5.61,B+ (3.38),B+ (3.34)
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (06),SP12,10,7,85.70%,71.40%,3.64,A- (3.71),B+ (3.34)
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (07),SP12,12,6,83.30%,83.30%,5.17,B+ (3.67),B+ (3.34)
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (08),SP12,11,6,83.30%,66.70%,3.7,B+ (3.60),B+ (3.34)
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (09),SP12,17,6,83.30%,66.70%,3.5,B+ (3.33),B+ (3.34)
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (10),SP12,15,9,100.00%,100.00%,6,A- (3.78),B+ (3.34)
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (11),SP12,8,5,60.00%,60.00%,4.5,A- (3.75),B+ (3.34)
+"Michelsen, Eric Leonard",PHYS 1B - Electricity and Magnetism (A),SP12,184,86,65.50%,66.30%,7.67,B (3.01),B- (2.85)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (01),SP12,8,2,0.00%,50.00%,3.5,B+ (3.50),B (3.29)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (02),SP12,20,9,55.60%,55.60%,3.39,B+ (3.50),B (3.29)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (03),SP12,21,9,44.40%,33.30%,3.61,B+ (3.50),B (3.29)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (04),SP12,16,9,71.40%,85.70%,4.79,B+ (3.67),B (3.29)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (05),SP12,25,13,92.30%,84.60%,5.58,B+ (3.46),B (3.29)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (06),SP12,23,5,40.00%,20.00%,6.9,C+ (2.40),B (3.29)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (07),SP12,21,9,77.80%,87.50%,3.17,B (3.22),B (3.29)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (08),SP12,11,8,62.50%,87.50%,4.5,A- (3.75),B (3.29)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (09),SP12,24,6,66.70%,66.70%,5.17,B+ (3.67),B (3.29)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (10),SP12,10,2,100.00%,100.00%,4.5,A (4.00),B (3.29)
+"Smith, Douglas E","PHYS 1C - Waves, Optics & Modern Physics (A)",SP12,338,118,82.90%,82.80%,4.67,B+ (3.45),B (3.16)
+"Smith, Douglas E","PHYS 1C - Waves, Optics & Modern Physics (B)",SP12,161,59,82.80%,79.30%,5.84,B+ (3.46),B (3.16)
+"Hicks, J. Charles","PHYS 1C - Waves, Optics & Modern Physics (C)",SP12,119,50,70.00%,52.00%,5.62,B (3.19),C+ (2.70)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (01)",SP12,5,2,50.00%,50.00%,2.5,B (3.00),B+ (3.45)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (02)",SP12,3,1,100.00%,100.00%,2.5,A (4.00),B+ (3.45)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (03)",SP12,21,11,81.80%,80.00%,4.14,A- (3.73),B+ (3.45)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (04)",SP12,19,6,83.30%,66.70%,4.5,B+ (3.67),B+ (3.45)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (05)",SP12,23,7,71.40%,85.70%,2.21,A (4.00),B+ (3.45)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (06)",SP12,19,7,85.70%,100.00%,3.07,B (3.14),B+ (3.45)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (07)",SP12,19,6,50.00%,16.70%,2.83,B+ (3.67),B+ (3.45)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (08)",SP12,11,2,100.00%,100.00%,1.5,B+ (3.50),B+ (3.45)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (09)",SP12,19,9,55.60%,55.60%,3.83,B+ (3.67),B+ (3.45)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (11)",SP12,21,9,77.80%,88.90%,3.39,B+ (3.67),B+ (3.45)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (12)",SP12,24,12,91.70%,91.70%,2.17,A- (3.92),B+ (3.45)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (13)",SP12,26,11,90.90%,90.90%,3.05,A- (3.73),B+ (3.45)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (14)",SP12,26,6,20.00%,40.00%,2.17,B+ (3.50),B+ (3.45)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (15)",SP12,26,8,87.50%,100.00%,4.75,B+ (3.57),B+ (3.45)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (16)",SP12,22,10,90.00%,90.00%,4.3,B+ (3.50),B+ (3.45)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (17)",SP12,3,1,100.00%,100.00%,2.5,B (3.00),B+ (3.45)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (19)",SP12,23,8,85.70%,100.00%,4.21,A (4.00),B+ (3.45)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (20)",SP12,8,3,100.00%,66.70%,3.17,B+ (3.67),B+ (3.45)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (21)",SP12,17,7,85.70%,85.70%,2.79,A (4.00),B+ (3.45)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (22)",SP12,11,2,100.00%,100.00%,2.5,B+ (3.50),B+ (3.45)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (23)",SP12,24,10,50.00%,80.00%,4.1,B+ (3.50),B+ (3.45)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (24)",SP12,23,11,80.00%,100.00%,3.77,B+ (3.45),B+ (3.45)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (25)",SP12,26,13,76.90%,84.60%,3.73,B+ (3.58),B+ (3.45)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (26)",SP12,24,8,87.50%,87.50%,4.21,A- (3.75),B+ (3.45)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (27)",SP12,24,4,75.00%,75.00%,2,A (4.00),B+ (3.45)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (28)",SP12,10,2,100.00%,100.00%,3.5,A (4.00),B+ (3.45)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (29)",SP12,4,1,100.00%,100.00%,4.5,A (4.00),B+ (3.45)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (30)",SP12,3,1,0.00%,0.00%,2.5,B (3.00),B+ (3.45)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (31)",SP12,16,5,80.00%,100.00%,4.1,B+ (3.60),B+ (3.45)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (32)",SP12,4,1,0.00%,100.00%,2.5,B (3.00),B+ (3.45)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (33)",SP12,25,6,100.00%,80.00%,5.5,A- (3.83),B+ (3.45)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (34)",SP12,24,9,77.80%,77.80%,3.83,B (3.00),B+ (3.45)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (35)",SP12,25,6,83.30%,80.00%,4.17,B (3.00),B+ (3.45)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (36)",SP12,14,5,100.00%,100.00%,3.5,A (4.00),B+ (3.45)
+"Dudko, Olga",PHYS 2A - Physics-Mechanics (A),SP12,325,127,83.20%,90.40%,8.23,B (3.08),B- (2.81)
+"Anderson, Michael G.",PHYS 2B - Phys-Electricity and Magnetism (A),SP12,345,157,81.70%,90.30%,6.65,B (3.13),B- (2.84)
+"Anderson, Michael G.",PHYS 2B - Phys-Electricity and Magnetism (B),SP12,352,152,82.00%,87.30%,7.41,B (3.09),B- (2.84)
+"Paddock, Mark",PHYS 2BL - Phys Lab-Mechanics&Electrostat (A),SP12,234,119,72.00%,66.90%,6.64,B+ (3.42),B+ (3.37)
+"Wuerthwein, Frank","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",SP12,254,114,89.40%,90.20%,6.59,B+ (3.43),B (3.09)
+"Shpyrko, Oleg","PHYS 2CL - Phys Lab-Elec,Magnetsm,Wav,Opt (A)",SP12,217,95,45.20%,91.50%,7.9,B (3.24),B (3.03)
+"Sutterley, Christel Johanna",PHYS 2D - Phys-Relativity&Quantm Physics (A),SP12,288,135,82.80%,94.00%,6.74,B+ (3.39),B (3.30)
+"Butov, Leonid",PHYS 2DL - Physics Lab-Modern Physics (A),SP12,48,13,92.30%,84.60%,7.58,B+ (3.62),B (3.18)
+"Surko, Clifford M","PHYS 4B - Phys Majrs-Mech,Fluid,Wav,Heat (A)",SP12,19,7,100.00%,28.60%,5.64,B (3.17),N/A
+"Hirsch, Jorge Eduardo",PHYS 4E - Physics Majors-Quantum Physics (A),SP12,32,7,100.00%,71.40%,12.21,B (3.29),B- (2.98)
+"Tytler, David Robert",PHYS 5 - The Universe (A),SP12,15,2,100.00%,100.00%,10.5,A (4.00),N/A
+"Coil, Alison",PHYS 87 - Freshman Seminar (A),SP12,14,9,100.00%,100.00%,1.61,A (4.00),N/A
+"Burgasser, Adam Jonathan",PHYS 9 - The Solar System (A),SP12,64,24,91.70%,95.80%,5.42,B+ (3.47),B+ (3.52)
+"Anderson, Michael G.",PHYS 10 - Concepts In Physics (A),WI12,187,81,87.70%,91.40%,4.77,B+ (3.53),B (3.21)
+"Wu, Congjun",PHYS 100B - Electromagnetism (A),WI12,46,19,89.50%,47.40%,6.06,B (3.17),B (3.18)
+"Dubin, Daniel Herschel",PHYS 105B - Mathematical&Computational Phy (A),WI12,18,8,100.00%,100.00%,13.5,B+ (3.43),B (3.07)
+"Hicks, J. Charles",PHYS 110B - Mechanics (A),WI12,39,17,94.10%,52.90%,7.32,B (3.12),B- (2.80)
+"Salmon, Richard L.",PHYS 111 - Introduction to Ocean Waves (A),WI12,8,6,100.00%,100.00%,6.83,B+ (3.50),N/A
+"Salmon, Richard L.",PHYS 111 - Introduction to Ocean Waves (A),WI12,10,5,80.00%,100.00%,8.1,B (3.00),N/A
+"Murphy, Thomas",PHYS 121 - Experimental Techniques (A),WI12,22,8,100.00%,100.00%,7.25,A- (3.75),B (3.25)
+"Sham, Lu Jeu",PHYS 130C - Quantum Physics III (A),WI12,15,9,87.50%,55.60%,6.06,B+ (3.44),N/A
+"Arovas, Daniel P",PHYS 140B - Statistical & Thermal Physics (A),WI12,18,8,100.00%,100.00%,9.5,A- (3.75),N/A
+"Kuti, Julius",PHYS 141 - Comp Phys I:Prob Models & Simu (A),WI12,9,5,100.00%,75.00%,11,B+ (3.50),N/A
+"Butov, Leonid",PHYS 152A - Condensed Matter Physics (A),WI12,10,6,100.00%,100.00%,4.83,B (3.17),N/A
+"Wolfe, Arthur Michael",PHYS 161 - Black Holes & Milky Way Galaxy (A),WI12,15,7,71.40%,71.40%,6.21,B+ (3.33),N/A
+"Hwa, Terence T.",PHYS 176 - Quantitative Molecular Biology (A),WI12,2,1,0.00%,0.00%,8.5,C (2.00),N/A
+"Kleinfeld, David",PHYS 178 - Biophysics/Neurons & Networks (A),WI12,10,4,75.00%,66.70%,8.5,B+ (3.50),N/A
+"Sutterley, Christel Johanna",PHYS 1A - Mechanics (A),WI12,186,78,78.20%,94.90%,5.96,B (3.22),B (3.06)
+"Yagil, Avi",PHYS 1AL - Mechanics Laboratory (01),WI12,166,63,74.60%,75.80%,4.56,B+ (3.35),B+ (3.41)
+"Levine, Herbert",PHYS 1B - Electricity and Magnetism (A),WI12,57,26,79.20%,68.00%,5.38,B+ (3.48),B (3.05)
+"Groisman, Alexander",PHYS 1B - Electricity and Magnetism (B),WI12,295,125,64.00%,67.70%,5.68,B (3.24),B- (2.95)
+"Wuerthwein, Frank",PHYS 1B - Electricity and Magnetism (C),WI12,296,140,81.20%,90.40%,5.87,B+ (3.32),B (3.23)
+"Yagil, Avi",PHYS 1BL - Electricity & Magnetism Lab (01),WI12,618,275,73.20%,81.30%,3.64,B+ (3.58),B+ (3.36)
+"Branson, James G","PHYS 1C - Waves, Optics & Modern Physics (A)",WI12,186,89,65.50%,49.40%,5.37,B+ (3.32),B- (2.90)
+"Yagil, Avi","PHYS 1CL - Waves,Optics&Modrn Phys Lab (01)",WI12,175,72,73.20%,70.00%,3.16,B+ (3.55),B+ (3.42)
+"Grinstein, Benjamin",PHYS 2A - Physics-Mechanics (A),WI12,162,89,80.20%,39.50%,7.51,B (3.09),B- (2.77)
+"Grinstein, Benjamin",PHYS 2A - Physics-Mechanics (B),WI12,333,153,72.40%,50.30%,6.73,B (3.07),B- (2.77)
+"Grinstein, Benjamin",PHYS 2A - Physics-Mechanics (C),WI12,331,146,74.50%,45.80%,8.04,B- (2.96),B- (2.77)
+"Uttayarat, Patipan",PHYS 2B - Phys-Electricity and Magnetism (A),WI12,336,178,64.40%,29.80%,7.11,B- (2.98),C+ (2.54)
+"Yagil, Avi",PHYS 2BL - Phys Lab-Mechanics&Electrostat (A),WI12,101,54,63.00%,77.80%,5.94,B (3.27),B (3.06)
+"Surko, Clifford M","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",WI12,202,85,82.40%,40.50%,6.43,B (3.28),B- (2.82)
+"Anderson, Michael G.","PHYS 2CL - Phys Lab-Elec,Magnetsm,Wav,Opt (A)",WI12,210,82,38.30%,61.70%,8.89,B (3.09),B (3.07)
+"Hirsch, Jorge Eduardo",PHYS 2D - Phys-Relativity&Quantm Physics (B),WI12,168,83,64.20%,40.50%,8.45,C+ (2.67),C+ (2.64)
+"Griest, Kim",PHYS 4A - Physics/Physics Majrs-Mechancs (A),WI12,22,9,100.00%,100.00%,5.75,B+ (3.63),B (3.06)
+"Wu, Congjun","PHYS 4D - Phys Majrs-EM Wav,Opt,Spec Rel (A)",WI12,29,13,92.30%,23.10%,4.35,B+ (3.62),B (3.25)
+"Tytler, David Robert",PHYS 7 - Introductory Astronomy (A),WI12,41,15,53.30%,66.70%,4.5,B (3.10),B (3.17)
+"Wu, Congjun",PHYS 100A - Electromagnetism (A),FA11,67,27,88.90%,48.10%,7.17,B (3.19),B- (2.81)
+"Dubin, Daniel Herschel",PHYS 105A - Mathematical&Computational Phy (A),FA11,65,31,87.10%,87.10%,10.89,B+ (3.43),B- (2.80)
+"Hicks, J. Charles",PHYS 11 - Survey of Physics (A),FA11,80,26,44.00%,36.00%,5.62,B (3.00),B- (2.89)
+"Intriligator, Kenneth Arthur",PHYS 110A - Mechanics (A),FA11,71,33,100.00%,97.00%,8.26,B+ (3.38),B- (2.83)
+"Driscoll, Charles F.",PHYS 120B - Physical Measurements (A),FA11,30,17,100.00%,100.00%,10.62,B+ (3.63),B+ (3.58)
+"Michelsen, Eric Leonard",PHYS 130B - Quantum Physics II (A),FA11,41,28,85.20%,96.30%,6.43,B (3.23),B- (2.98)
+"Arovas, Daniel P",PHYS 140A - Statistical & Thermal Physics (A),FA11,53,34,79.40%,82.40%,8.74,B (3.18),B (3.03)
+"Burgasser, Adam Jonathan",PHYS 160 - Stellar Astrophysics (A),FA11,21,11,100.00%,81.80%,7.41,B (3.27),B+ (3.31)
+"Dudko, Olga",PHYS 175 - Fundamentls/Biological Physics (A),FA11,6,5,100.00%,80.00%,6.5,B (3.00),N/A
+"Paar, Hans Peter",PHYS 191 - Undergraduate Seminar/Physics (A),FA11,21,15,85.70%,92.90%,0.5,A (4.00),N/A
+"Kishimoto, Chad T.",PHYS 1A - Mechanics (A),FA11,203,107,64.20%,66.00%,7.53,B- (2.98),B (3.02)
+"Kishimoto, Chad T.",PHYS 1A - Mechanics (B),FA11,283,136,75.00%,72.60%,7.72,B (3.05),B (3.02)
+"Rappel, Wouter Jan",PHYS 1A - Mechanics (C),FA11,260,111,76.60%,81.50%,5.64,B (3.13),B- (2.75)
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (01),FA11,734,329,81.70%,83.10%,3.6,B+ (3.53),B+ (3.38)
+"Levine, Herbert",PHYS 1B - Electricity and Magnetism (A),FA11,210,80,65.80%,53.80%,6.23,B (3.06),B- (2.99)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (A),FA11,25,12,45.50%,72.70%,4.5,B+ (3.42),B (3.26)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (B),FA11,24,9,66.70%,66.70%,4.5,B+ (3.56),B (3.26)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (C),FA11,26,8,87.50%,100.00%,2.75,B+ (3.63),B (3.26)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (D),FA11,23,9,66.70%,88.90%,4.72,B (3.22),B (3.26)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (E),FA11,22,5,60.00%,80.00%,2.1,B+ (3.60),B (3.26)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (F),FA11,23,10,90.00%,90.00%,3.5,A- (3.70),B (3.26)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (G),FA11,24,10,60.00%,80.00%,4.1,B (3.20),B (3.26)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (H),FA11,24,7,71.40%,100.00%,3.5,B (3.29),B (3.26)
+"Paddock, Mark","PHYS 1C - Waves, Optics & Modern Physics (A)",FA11,220,134,88.10%,96.20%,6.32,B+ (3.38),B (3.07)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (01)",FA11,201,91,91.10%,86.50%,3.63,B+ (3.53),B+ (3.39)
+"Griest, Kim",PHYS 2A - Physics-Mechanics (A),FA11,346,171,89.50%,92.90%,6.24,B+ (3.31),C+ (2.69)
+"Surko, Clifford M",PHYS 2B - Phys-Electricity and Magnetism (A),FA11,267,139,63.30%,20.90%,7.82,B- (2.99),B- (2.73)
+"Wuerthwein, Frank",PHYS 2BL - Phys Lab-Mechanics&Electrostat (A),FA11,142,67,64.20%,65.20%,5.44,B+ (3.30),B- (2.86)
+"Groisman, Alexander","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",FA11,248,124,76.20%,54.50%,6.21,B (3.25),B- (2.89)
+"Groisman, Alexander","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (B)",FA11,221,97,82.30%,56.30%,6.31,B (3.17),B- (2.89)
+"Anderson, Michael G.","PHYS 2CL - Phys Lab-Elec,Magnetsm,Wav,Opt (A)",FA11,268,127,31.70%,54.00%,7.66,B- (2.98),B (3.07)
+"Hirsch, Jorge Eduardo",PHYS 4C - Phys Majrs-Elect & Magnetism (A),FA11,34,15,80.00%,66.70%,10.63,B (3.07),B- (2.82)
+"Coil, Alison",PHYS 5 - The Universe (A),FA11,37,28,89.30%,96.40%,5.02,B+ (3.40),B+ (3.30)
+"Fuller, George Michael",PHYS 87 - Freshman Seminar (A),FA11,16,11,100.00%,100.00%,0.86,A (4.00),N/A
+"Conger, Casey J",PHYS 1A - Mechanics (A),S211,58,17,64.70%,82.40%,8.85,C+ (2.56),B (3.19)
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (A),S211,22,5,100.00%,80.00%,6,B (3.20),B+ (3.41)
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (B),S211,21,5,60.00%,100.00%,7.7,B (3.00),B+ (3.41)
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (C),S211,11,3,100.00%,100.00%,5.83,B+ (3.67),B+ (3.41)
+"Stergiou, Andreas",PHYS 1B - Electricity and Magnetism (A),S211,74,26,42.30%,36.00%,11.12,B (3.00),C (2.22)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (A),S211,24,10,100.00%,100.00%,4.9,B+ (3.40),B+ (3.48)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (B),S211,24,5,100.00%,100.00%,8.5,B+ (3.40),B+ (3.48)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (C),S211,14,4,75.00%,50.00%,3.5,B+ (3.50),B+ (3.48)
+"Farsian, Reza","PHYS 1C - Waves, Optics & Modern Physics (A)",S211,61,16,75.00%,56.30%,9.88,B (3.20),B- (2.82)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (B)",S211,24,4,100.00%,75.00%,4,A- (3.75),B+ (3.53)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (C)",S211,24,6,66.70%,66.70%,8.5,B+ (3.67),B+ (3.53)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (D)",S211,11,3,100.00%,100.00%,3.83,B+ (3.67),B+ (3.53)
+"Uttayarat, Patipan",PHYS 2B - Phys-Electricity and Magnetism (A),S211,73,41,78.00%,68.30%,9.72,B- (2.95),C+ (2.64)
+"Deris, John B","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",S211,66,27,85.20%,66.70%,8.04,B (3.19),B- (2.79)
+"Paddock, Mark","PHYS 2CL - Phys Lab-Elec,Magnetsm,Wav,Opt (A)",S211,101,37,59.50%,73.00%,9.64,B (3.12),B (3.21)
+"Aslanyan, Grigor",PHYS 2D - Phys-Relativity&Quantm Physics (A),S211,124,49,83.70%,100.00%,9.96,B (3.28),B- (2.74)
+"Burger, Anat",PHYS 1A - Mechanics (A),S111,97,60,66.10%,55.90%,10.53,B (3.16),B- (2.93)
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (A),S111,24,15,86.70%,86.70%,7.03,B+ (3.67),B+ (3.39)
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (B),S111,25,10,70.00%,33.30%,7.9,B+ (3.56),B+ (3.39)
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (C),S111,25,12,66.70%,75.00%,6.17,B (3.25),B+ (3.39)
+"Stergiou, Andreas",PHYS 1B - Electricity and Magnetism (A),S111,60,13,30.80%,38.50%,9.42,B (3.00),C+ (2.32)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (A),S111,21,1,0.00%,100.00%,2.5,A (4.00),B+ (3.46)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (B),S111,22,5,60.00%,100.00%,6.1,A- (3.75),B+ (3.46)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (C),S111,13,6,33.30%,33.30%,6.83,B+ (3.33),B+ (3.46)
+"Vlasenko, Alexey","PHYS 1C - Waves, Optics & Modern Physics (A)",S111,62,27,63.00%,18.50%,13.14,B (3.30),B (3.04)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (A)",S111,11,3,100.00%,66.70%,4.5,B (3.00),B+ (3.55)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (B)",S111,12,5,40.00%,60.00%,4.9,B+ (3.40),B+ (3.55)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (C)",S111,19,7,57.10%,42.90%,5.93,A- (3.71),B+ (3.55)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (D)",S111,15,4,100.00%,100.00%,8.5,A (4.00),B+ (3.55)
+"Conger, Casey J",PHYS 2A - Physics-Mechanics (A),S111,103,42,82.90%,75.60%,10.89,B- (2.90),C+ (2.64)
+"Uttayarat, Patipan",PHYS 2B - Phys-Electricity and Magnetism (A),S111,79,54,66.70%,66.70%,10.61,B- (2.88),B- (2.97)
+"Paddock, Mark",PHYS 2BL - Phys Lab-Mechanics&Electrostat (A),S111,49,21,81.00%,90.50%,6.88,B (3.10),B+ (3.40)
+"Austrum, Tera Lyn","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",S111,62,34,91.20%,50.00%,9.85,B (3.15),B (3.12)
+"Anderson, Michael G.",PHYS 100C - Electromagnetism (A),SP11,35,19,100.00%,94.70%,5.66,B+ (3.39),B (3.16)
+"Griest, Kim",PHYS 12 - Energy and the Environment (A),SP11,28,16,93.80%,100.00%,3.17,B+ (3.60),B (3.14)
+"Driscoll, Charles F.",PHYS 120A - Physical Measurements (A),SP11,58,27,96.20%,96.20%,9.42,B+ (3.59),B (3.25)
+"Abarbanel, Henry Don Isaac",PHYS 130A - Quantum Physics I (A),SP11,58,30,86.70%,66.70%,8.43,B (3.11),C+ (2.55)
+"Maple, M. Brian",PHYS 133 - Condensed Matter/Material Sci (A),SP11,6,3,100.00%,100.00%,9.83,A (4.00),N/A
+"Kuti, Julius",PHYS 142 - Comp Phys II:PDE & Matrix Modl (A),SP11,3,2,100.00%,100.00%,8.5,A (4.00),N/A
+"Dubin, Daniel Herschel",PHYS 151 - Elementary Plasma Physics (A),SP11,15,5,80.00%,80.00%,6.9,B (3.00),N/A
+"Manohar, Aneesh Vasant",PHYS 154 - Elementary Particle Physics (A),SP11,16,5,100.00%,80.00%,5.3,C+ (2.67),N/A
+"Coil, Alison",PHYS 162 - Galaxies and Cosmology (A),SP11,36,25,92.00%,92.00%,7.3,B+ (3.57),B+ (3.40)
+"Kleinfeld, David",PHYS 173 - Modern Physics Lab:Bio&Quantum (A),SP11,4,1,100.00%,100.00%,12.5,B (3.00),N/A
+"Wolfe, Arthur Michael",PHYS 1A - Mechanics (A),SP11,221,86,74.10%,52.90%,5.91,B (3.23),B- (2.73)
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (01),SP11,23,8,87.50%,100.00%,4.5,A- (3.88),B+ (3.46)
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (02),SP11,22,9,88.90%,62.50%,3.61,B+ (3.44),B+ (3.46)
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (03),SP11,22,5,40.00%,80.00%,2.9,A- (3.80),B+ (3.46)
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (04),SP11,24,7,57.10%,85.70%,3.64,B (3.29),B+ (3.46)
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (05),SP11,19,8,100.00%,87.50%,3.25,B (3.00),B+ (3.46)
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (06),SP11,18,6,83.30%,83.30%,3.5,B+ (3.50),B+ (3.46)
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (07),SP11,23,10,80.00%,70.00%,4.1,B+ (3.60),B+ (3.46)
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (08),SP11,15,3,100.00%,100.00%,4.5,B+ (3.33),B+ (3.46)
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (09),SP11,23,6,80.00%,80.00%,2.9,B (3.20),B+ (3.46)
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (10),SP11,16,8,87.50%,75.00%,3.5,B (3.25),B+ (3.46)
+"Fogler, Michael M.",PHYS 1B - Electricity and Magnetism (A),SP11,187,68,56.10%,36.90%,5.66,B (3.05),B- (2.77)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (01),SP11,10,5,80.00%,80.00%,2.9,B+ (3.60),B+ (3.44)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (02),SP11,21,6,83.30%,66.70%,3.17,A- (3.80),B+ (3.44)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (04),SP11,13,6,100.00%,100.00%,2.83,B+ (3.33),B+ (3.44)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (05),SP11,21,7,71.40%,85.70%,1.93,B+ (3.57),B+ (3.44)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (06),SP11,22,8,75.00%,87.50%,3.07,B (3.29),B+ (3.44)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (07),SP11,25,10,60.00%,90.00%,3.61,B+ (3.40),B+ (3.44)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (08),SP11,19,4,50.00%,75.00%,6.5,B+ (3.50),B+ (3.44)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (09),SP11,5,1,100.00%,100.00%,2.5,A (4.00),B+ (3.44)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (10),SP11,21,10,88.90%,88.90%,2.5,A- (3.70),B+ (3.44)
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (12),SP11,11,3,100.00%,100.00%,1.17,A (4.00),B+ (3.44)
+"Wuerthwein, Frank","PHYS 1C - Waves, Optics & Modern Physics (A)",SP11,329,157,74.50%,86.80%,5.15,B+ (3.38),B (3.03)
+"Paddock, Mark","PHYS 1C - Waves, Optics & Modern Physics (B)",SP11,344,268,84.90%,95.80%,5.19,B+ (3.44),B (3.19)
+"Levine, Herbert","PHYS 1C - Waves, Optics & Modern Physics (C)",SP11,139,57,69.60%,51.80%,4.93,B (3.20),B- (2.89)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (01)",SP11,22,12,58.30%,58.30%,5,A- (3.83),B+ (3.52)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (02)",SP11,25,15,86.70%,86.70%,3.3,B+ (3.47),B+ (3.52)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (03)",SP11,25,16,25.00%,62.50%,4.5,B+ (3.56),B+ (3.52)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (04)",SP11,26,16,62.50%,87.50%,3.25,B+ (3.69),B+ (3.52)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (05)",SP11,23,12,81.80%,90.90%,3.33,B+ (3.58),B+ (3.52)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (06)",SP11,25,14,50.00%,71.40%,2.79,A- (3.79),B+ (3.52)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (07)",SP11,23,10,70.00%,90.00%,2.1,B+ (3.60),B+ (3.52)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (08)",SP11,26,13,76.90%,84.60%,4.04,B (3.23),B+ (3.52)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (09)",SP11,25,15,60.00%,80.00%,4.63,B+ (3.53),B+ (3.52)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (10)",SP11,26,16,81.30%,93.80%,2.79,A- (3.80),B+ (3.52)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (11)",SP11,12,3,100.00%,100.00%,2.5,C+ (2.67),B+ (3.52)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (12)",SP11,26,13,81.80%,100.00%,3.67,A- (3.77),B+ (3.52)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (13)",SP11,26,7,71.40%,85.70%,3.64,A- (3.71),B+ (3.52)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (14)",SP11,25,14,85.70%,100.00%,3.93,B+ (3.43),B+ (3.52)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (15)",SP11,24,10,77.80%,88.90%,2.72,A- (3.89),B+ (3.52)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (16)",SP11,2,1,0.00%,100.00%,8.5,A (4.00),B+ (3.52)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (17)",SP11,24,15,73.30%,86.70%,3.97,B+ (3.40),B+ (3.52)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (18)",SP11,24,10,66.70%,88.90%,3.61,B+ (3.56),B+ (3.52)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (19)",SP11,26,17,82.40%,87.50%,3.32,B+ (3.56),B+ (3.52)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (20)",SP11,25,7,100.00%,100.00%,4.21,B+ (3.43),B+ (3.52)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (21)",SP11,26,16,100.00%,100.00%,3.03,A- (3.75),B+ (3.52)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (22)",SP11,26,10,100.00%,90.00%,3.5,B+ (3.60),B+ (3.52)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (23)",SP11,25,13,69.20%,58.30%,2.96,A- (3.77),B+ (3.52)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (24)",SP11,24,7,71.40%,85.70%,4.21,A- (3.71),B+ (3.52)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (25)",SP11,26,13,76.90%,84.60%,3.12,A- (3.92),B+ (3.52)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (26)",SP11,21,11,100.00%,100.00%,2.5,B+ (3.55),B+ (3.52)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (27)",SP11,23,12,72.70%,90.90%,3.41,B+ (3.40),B+ (3.52)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (28)",SP11,23,12,58.30%,100.00%,3.83,A- (3.73),B+ (3.52)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (29)",SP11,22,12,66.70%,83.30%,4.17,B+ (3.42),B+ (3.52)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (30)",SP11,24,13,84.60%,84.60%,3.73,B+ (3.69),B+ (3.52)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (31)",SP11,25,11,100.00%,100.00%,3.41,A- (3.73),B+ (3.52)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (32)",SP11,18,9,44.40%,66.70%,4.5,B+ (3.56),B+ (3.52)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (33)",SP11,26,16,73.30%,86.70%,4.25,B+ (3.60),B+ (3.52)
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (34)",SP11,24,15,78.60%,71.40%,4.23,A- (3.73),B+ (3.52)
+"Dudko, Olga",PHYS 2A - Physics-Mechanics (A),SP11,340,143,85.20%,97.20%,7.34,B (3.01),B- (2.74)
+"Sinha, Sunil K",PHYS 2B - Phys-Electricity and Magnetism (A),SP11,338,150,88.70%,87.30%,6.71,B+ (3.40),B (3.18)
+"Sinha, Sunil K",PHYS 2B - Phys-Electricity and Magnetism (B),SP11,328,145,69.70%,66.90%,7.24,B (3.11),B (3.18)
+"Butov, Leonid",PHYS 2BL - Phys Lab-Mechanics&Electrostat (A),SP11,262,104,65.70%,51.00%,4.46,B+ (3.54),B+ (3.32)
+"Michelsen, Eric Leonard","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",SP11,219,107,88.60%,93.30%,6.21,B (3.21),B- (2.73)
+"Shpyrko, Oleg","PHYS 2CL - Phys Lab-Elec,Magnetsm,Wav,Opt (A)",SP11,266,119,61.90%,89.80%,5.33,B+ (3.56),B+ (3.58)
+"Hwa, Terence T.",PHYS 2D - Phys-Relativity&Quantm Physics (B),SP11,171,86,63.10%,84.50%,8.19,B (3.02),B- (2.84)
+"Branson, James G",PHYS 2DL - Physics Lab-Modern Physics (A),SP11,38,16,62.50%,43.80%,7.3,B+ (3.57),B+ (3.62)
+"Smith, Douglas E","PHYS 4B - Phys Majrs-Mech,Fluid,Wav,Heat (A)",SP11,41,20,95.00%,80.00%,4.5,A- (3.70),B+ (3.54)
+"Hirsch, Jorge Eduardo",PHYS 4E - Physics Majors-Quantum Physics (A),SP11,30,10,90.00%,90.00%,7.9,B+ (3.60),B- (2.76)
+"Coil, Alison",PHYS 5 - The Universe (A),SP11,60,30,83.30%,76.70%,5.37,B+ (3.39),B+ (3.39)
+"Tytler, David Robert",PHYS 9 - The Solar System (A),SP11,53,19,68.40%,66.70%,4.39,B (3.00),B (3.06)
+"Smith, Douglas E",PHYS 10 - Concepts In Physics (A),WI11,187,82,79.00%,90.10%,4.3,B+ (3.41),B+ (3.40)
+"Wu, Congjun",PHYS 100B - Electromagnetism (A),WI11,51,29,85.70%,60.70%,6.07,B (3.28),B (3.29)
+"Dubin, Daniel Herschel",PHYS 105B - Mathematical&Computational Phy (A),WI11,10,2,100.00%,100.00%,8.5,B+ (3.50),N/A
+"Branson, James G",PHYS 110B - Mechanics (A),WI11,48,31,90.30%,41.90%,7.53,B (3.13),B (3.05)
+"Salmon, Richard L.",PHYS 111 - Introduction to Ocean Waves (A),WI11,15,7,100.00%,100.00%,7.93,B+ (3.67),N/A
+"Murphy, Thomas",PHYS 121 - Experimental Techniques (A),WI11,19,16,100.00%,100.00%,8.88,B+ (3.56),N/A
+"Sham, Lu Jeu",PHYS 130C - Quantum Physics (A),WI11,12,6,83.30%,100.00%,8.17,B+ (3.33),N/A
+"Di Ventra, Massimiliano",PHYS 140B - Statistical & Thermal Physics (A),WI11,17,6,100.00%,83.30%,4.17,B (3.17),N/A
+"Kuti, Julius",PHYS 141 - Comp Phys I:Prob Models & Simu (A),WI11,5,3,100.00%,66.70%,11.83,B+ (3.67),N/A
+"Wu, Congjun",PHYS 152A - Condensed Matter Physics (A),WI11,15,8,100.00%,87.50%,9.5,B+ (3.57),N/A
+"Griest, Kim",PHYS 161 - Black Holes & Milky Way Galaxy (A),WI11,34,24,100.00%,100.00%,6.83,A- (3.71),B+ (3.49)
+"Kleinfeld, David",PHYS 171 - Biophysics/Neurons & Networks (A),WI11,8,6,83.30%,83.30%,9.17,B+ (3.50),N/A
+"Kleinfeld, David",PHYS 178 - Biophysics/Neurons & Networks (A),WI11,8,6,83.30%,83.30%,9.17,B+ (3.50),N/A
+"Hicks, J. Charles",PHYS 1A - Mechanics (A),WI11,173,79,64.10%,28.20%,6.42,B- (2.95),C+ (2.53)
+"Groisman, Alexander",PHYS 1B - Electricity and Magnetism (A),WI11,239,97,62.90%,59.80%,5.52,B (3.13),B- (2.73)
+"Levine, Herbert",PHYS 1B - Electricity and Magnetism (B),WI11,278,144,65.30%,48.60%,6.63,B (3.04),B- (2.83)
+"Smith, Christel Johanna",PHYS 1B - Electricity and Magnetism (C),WI11,293,160,85.30%,93.60%,4.84,B+ (3.62),B+ (3.54)
+"Kritsuk, Alexei","PHYS 1C - Waves, Optics & Modern Physics (A)",WI11,185,75,81.30%,81.30%,5.41,B+ (3.41),B (3.05)
+"Grinstein, Benjamin",PHYS 2A - Physics-Mechanics (A),WI11,258,142,62.00%,33.80%,8.46,B- (2.83),C+ (2.60)
+"Grinstein, Benjamin",PHYS 2A - Physics-Mechanics (B),WI11,264,144,73.40%,46.80%,7.74,B- (2.94),C+ (2.60)
+"Grinstein, Benjamin",PHYS 2A - Physics-Mechanics (C),WI11,237,112,75.90%,40.20%,7.4,B- (2.99),C+ (2.60)
+"Sinha, Sunil K",PHYS 2B - Phys-Electricity and Magnetism (A),WI11,335,155,68.60%,82.50%,7.1,B (3.15),B- (2.80)
+"Paddock, Mark",PHYS 2BL - Phys Lab-Mechanics&Electrostat (A),WI11,103,42,66.70%,78.60%,5.52,B+ (3.43),B (3.07)
+"Michelsen, Eric Leonard","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",WI11,214,136,84.40%,87.40%,6.92,B (3.12),C+ (2.63)
+"Butov, Leonid","PHYS 2CL - Phys Lab-Elec,Magnetsm,Wav,Opt (A)",WI11,223,108,66.40%,66.40%,5.55,B+ (3.47),B+ (3.34)
+"Hirsch, Jorge Eduardo",PHYS 2D - Phys-Relativity&Quantm Physics (A),WI11,150,69,69.10%,66.20%,8.77,B (3.05),B- (2.82)
+"Surko, Clifford M",PHYS 4A - Physics/Physics Majrs-Mechancs (A),WI11,49,34,76.50%,47.10%,6.79,B (3.13),B- (2.91)
+"Shevchenko, Valentin I","PHYS 4D - Phys Majrs-EM Wav,Opt,Spec Rel (A)",WI11,31,15,80.00%,100.00%,4.37,A- (3.87),B+ (3.39)
+"Tytler, David Robert",PHYS 7 - Introductory Astronomy (A),WI11,31,13,69.20%,61.50%,5.73,B (3.11),B+ (3.47)
+"Dubin, Daniel Herschel",PHYS 87 - Freshman Seminar (A),WI11,19,11,100.00%,100.00%,0.5,A (4.00),N/A
+"Surko, Clifford M",PHYS 100A - Electromagnetism (A),FA10,64,38,100.00%,84.20%,6.61,B+ (3.32),B- (2.88)
+"Dubin, Daniel Herschel",PHYS 105A - Mathematical&Computational Phy (A),FA10,61,25,76.00%,88.00%,10.74,B (3.04),C+ (2.50)
+"Anderson, Michael G.",PHYS 11 - Survey of Physics (A),FA10,138,46,69.60%,89.10%,5.41,B (3.29),B- (2.96)
+"Arovas, Daniel P",PHYS 110A - Mechanics (A),FA10,70,36,94.40%,94.40%,7.89,B+ (3.40),B- (2.90)
+"Driscoll, Charles F.",PHYS 120B - Physical Measurements (A),FA10,16,11,100.00%,100.00%,11.23,A- (3.80),N/A
+"Sham, Lu Jeu",PHYS 130B - Quantum Physics (A),FA10,39,19,89.50%,89.50%,7.87,B (3.11),B- (2.97)
+"Hirsch, Jorge Eduardo",PHYS 140A - Statistical & Thermal Physics (A),FA10,38,19,100.00%,57.90%,8.08,B- (2.89),B (3.10)
+"Burgasser, Adam Jonathan",PHYS 160 - Stellar Astrophysics (A),FA10,22,8,87.50%,100.00%,6.75,B (3.25),B (3.28)
+"Dudko, Olga",PHYS 172 - Biophysics of Molecules (A),FA10,4,4,100.00%,100.00%,6.5,B (3.25),N/A
+"Paar, Hans Peter",PHYS 191 - Undergraduate Seminar/Physics (A),FA10,16,8,100.00%,100.00%,0.5,A (4.00),N/A
+"Onuchic, Jose N",PHYS 1A - Mechanics (A),FA10,272,132,76.90%,63.10%,6.73,B (3.09),B- (2.86)
+"Onuchic, Jose N",PHYS 1A - Mechanics (B),FA10,289,138,74.30%,63.00%,6.49,B (3.14),B- (2.86)
+"Onuchic, Jose N",PHYS 1A - Mechanics (C),FA10,302,142,69.30%,74.10%,6.37,B (3.19),B- (2.86)
+"Markowitz, Alex Gary",PHYS 1B - Electricity and Magnetism (A),FA10,196,94,67.00%,45.70%,5.92,B (3.21),B- (2.93)
+"Kritsuk, Alexei","PHYS 1C - Waves, Optics & Modern Physics (A)",FA10,279,114,77.90%,65.20%,4.85,B+ (3.39),B (3.06)
+"Intriligator, Kenneth Arthur",PHYS 2A - Physics-Mechanics (A),FA10,334,158,81.20%,70.80%,7.09,B (3.27),B (3.03)
+"Hicks, J. Charles",PHYS 2B - Phys-Electricity and Magnetism (A),FA10,253,123,53.70%,32.50%,8.98,B- (2.84),C+ (2.46)
+"Butov, Leonid",PHYS 2BL - Phys Lab-Mechanics&Electrostat (A),FA10,164,87,79.10%,72.90%,4.75,B+ (3.40),B (3.29)
+"Groisman, Alexander","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",FA10,285,136,83.70%,61.20%,5.63,B (3.18),B- (2.93)
+"Groisman, Alexander","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (B)",FA10,221,105,79.80%,63.10%,6.03,B+ (3.32),B- (2.93)
+"Keating, Brian","PHYS 2CL - Phys Lab-Elec,Magnetsm,Wav,Opt (A)",FA10,254,123,47.20%,52.50%,6.68,B (3.05),B- (2.99)
+"Jenkins, Elizabeth",PHYS 4C - Phys Majrs-Elect & Magnetism (A),FA10,30,13,92.30%,100.00%,5.88,B+ (3.54),B (3.21)
+"Tytler, David Robert",PHYS 5 - The Universe (A),FA10,53,25,88.00%,76.00%,5,B+ (3.32),B (3.11)
+"Fuller, George Michael",PHYS 87 - Freshman Seminar (A),FA10,17,9,88.90%,88.90%,0.5,A (4.00),N/A
+"Burgasser, Adam Jonathan",PHYS 9 - The Solar System (A),FA10,52,30,86.20%,89.70%,3.81,A- (3.80),A- (3.74)
+"Kishimoto, Chad T.",PHYS 1A - Mechanics (A),SU10,72,26,92.30%,92.30%,8.66,B+ (3.64),N/A
+"Rafelski, Marc A",PHYS 1A - Mechanics (A),SU10,54,26,84.60%,88.50%,8.35,B (3.19),N/A
+"Markowitz, Alex Gary",PHYS 1B - Electricity and Magnetism (A),SU10,47,23,95.50%,72.70%,8.05,B (3.27),N/A
+"Whitmore, Jonathan Bradley",PHYS 1B - Electricity and Magnetism (A),SU10,69,38,94.60%,89.20%,8.08,B+ (3.68),N/A
+"Tucker, Laura Jane","PHYS 1C - Waves, Optics & Modern Physics (A)",SU10,82,30,86.70%,86.20%,8.63,B+ (3.38),N/A
+"Tucker, Laura Jane","PHYS 1C - Waves, Optics & Modern Physics (A)",SU10,53,20,75.00%,73.70%,6.6,B (3.20),N/A
+"Kostuk, Mark",PHYS 2A - Physics-Mechanics (A),SU10,83,30,73.30%,56.70%,7.7,B (3.17),N/A
+"Sharpee, Brian",PHYS 2B - Phys-Electricity and Magnetism (A),SU10,109,38,73.70%,73.70%,8.99,B (3.14),N/A
+"Uttayarat, Patipan",PHYS 2B - Phys-Electricity and Magnetism (A),SU10,77,28,50.00%,25.00%,9.64,B (3.00),N/A
+"Paddock, Mark",PHYS 2BL - Phys Lab-Mechanics&Electrostat (A),SU10,42,18,83.30%,94.40%,6.74,B+ (3.41),N/A
+"Hicks, J. Charles","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",SU10,66,20,85.00%,50.00%,8.6,B (3.05),N/A
+"Hicks, J. Charles","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",SU10,79,21,76.20%,71.40%,9.07,B (3.00),N/A
+"Paddock, Mark","PHYS 2CL - Phys Lab-Elec,Magnetsm,Wav,Opt (A)",SU10,102,45,55.60%,80.00%,8.23,B (3.21),N/A
+"Pathria, Raj K.",PHYS 2D - Phys-Relativity&Quantm Physics (A),SU10,94,39,59.00%,44.70%,8.96,B (3.00),N/A
+"Shpyrko, Oleg",PHYS 100C - Electromagnetism (A),SP10,37,18,88.90%,100.00%,7.5,B (3.28),B+ (3.49)
+"Murphy, Thomas",PHYS 12 - Energy and the Environment (A),SP10,36,31,93.50%,96.80%,4.1,B+ (3.48),B+ (3.42)
+"Driscoll, Charles F.",PHYS 120A - Physical Measurements (A),SP10,39,24,87.00%,95.70%,11.63,B+ (3.61),B (3.17)
+"Abarbanel, Henry Don Isaac",PHYS 130A - Quantum Physics (A),SP10,51,28,84.60%,92.00%,10.13,B (3.04),B- (2.93)
+"Maple, M. Brian",PHYS 133 - Condensed Matter/Material Sci (A),SP10,6,3,100.00%,100.00%,10.5,B+ (3.67),N/A
+"Kuti, Julius",PHYS 142 - Comp Phys II:PDE & Matrix Modl (A),SP10,6,2,100.00%,100.00%,8.5,B (3.00),N/A
+"Driscoll, Charles F.",PHYS 151 - Elementary Plasma Physics (A),SP10,20,9,88.90%,100.00%,5.17,A- (3.71),B- (2.76)
+"Jenkins, Elizabeth",PHYS 154 - Elementary Particle Physics (A),SP10,7,3,100.00%,100.00%,5.17,B+ (3.33),N/A
+"Coil, Alison",PHYS 162 - Galaxies and Cosmology (A),SP10,22,11,100.00%,81.80%,6.32,B+ (3.55),B- (2.99)
+"Kleinfeld, David",PHYS 173 - Modern Physics Lab:Bio&Quantum (A),SP10,11,5,80.00%,100.00%,8,A- (3.75),N/A
+"Wolfe, Arthur Michael",PHYS 1A - Mechanics (A),SP10,232,96,68.80%,35.80%,5.91,B (3.09),B- (2.77)
+"Onuchic, Jose N",PHYS 1B - Electricity and Magnetism (A),SP10,310,127,69.80%,54.00%,4.93,B (3.26),B- (2.96)
+"Okamura, Melvin Y.","PHYS 1C - Waves, Optics & Modern Physics (A)",SP10,340,138,73.00%,70.10%,4.41,B+ (3.34),B- (2.84)
+"Levine, Herbert","PHYS 1C - Waves, Optics & Modern Physics (B)",SP10,352,169,76.00%,82.60%,4.13,B+ (3.46),B- (2.96)
+"Anderson, Michael G.","PHYS 1C - Waves, Optics & Modern Physics (C)",SP10,180,78,90.80%,98.70%,4.66,B+ (3.41),B- (2.93)
+"Dudko, Olga",PHYS 2A - Physics-Mechanics (A),SP10,297,121,86.00%,91.70%,6.95,B (3.16),B- (2.84)
+"Onuchic, Jose N",PHYS 2B - Phys-Electricity and Magnetism (A),SP10,311,171,65.70%,71.20%,6.21,B (3.03),B- (2.87)
+"Sinha, Sunil K",PHYS 2B - Phys-Electricity and Magnetism (B),SP10,341,143,77.10%,70.30%,5.77,B (3.26),B- (2.94)
+"Butov, Leonid",PHYS 2BL - Phys Lab-Mechanics&Electrostat (A),SP10,243,96,82.10%,69.50%,4.31,B+ (3.66),B+ (3.43)
+"Groisman, Alexander","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",SP10,190,65,79.70%,81.00%,4.97,B (3.22),B- (2.88)
+"HICKS, JAY C","PHYS 2CL - Phys Lab-Elec,Magnetsm,Wav,Opt (A)",SP10,159,72,51.50%,52.90%,6.53,B (3.18),B- (2.87)
+"Hwa, Terence T.",PHYS 2D - Phys-Relativity&Quantm Physics (A),SP10,90,46,65.10%,90.90%,6.77,B (3.05),B- (2.91)
+"Keating, Brian",PHYS 2DL - Physics Lab-Modern Physics (A),SP10,43,17,82.40%,76.50%,5.91,B+ (3.65),B+ (3.33)
+"Surko, Clifford M","PHYS 4B - Phys Majrs-Mech,Fluid,Wav,Heat (A)",SP10,37,19,78.90%,52.60%,5.94,B (3.26),B- (2.86)
+"Hirsch, Jorge Eduardo",PHYS 4E - Physics Majors-Quantum Physics (A),SP10,28,12,100.00%,25.00%,6.83,B- (2.75),B- (3.00)
+"Burgasser, Adam Jonathan",PHYS 9 - The Solar System (A),SP10,95,48,95.70%,87.00%,3.41,A- (3.72),A- (3.93)
+"Anderson, Michael G.",PHYS 10 - Concepts In Physics (A),WI10,181,81,84.80%,87.30%,4.63,B+ (3.33),B (3.05)
+"Surko, Clifford M",PHYS 100B - Electromagnetism (A),WI10,43,25,92.00%,80.00%,7.06,B (3.13),B- (2.88)
+"Dubin, Daniel Herschel",PHYS 105B - Mathematical&Computational Phy (A),WI10,8,4,100.00%,100.00%,13.5,B (3.25),N/A
+"Wu, Congjun",PHYS 110B - Mechanics (A),WI10,34,13,92.30%,92.30%,7.42,B+ (3.69),B (3.22)
+"Murphy, Thomas",PHYS 121 - Experimental Techniques (A),WI10,22,10,100.00%,100.00%,6.3,B+ (3.50),B+ (3.44)
+"Sham, Lu Jeu",PHYS 130C - Quantum Physics (A),WI10,8,2,100.00%,50.00%,7.5,B+ (3.50),N/A
+"Pathria, Raj K.",PHYS 140B - Statistical & Thermal Physics (A),WI10,21,5,100.00%,100.00%,8.9,B+ (3.40),B (3.02)
+"Kuti, Julius",PHYS 141 - Comp Phys I:Prob Models & Simu (A),WI10,4,1,100.00%,100.00%,4.5,B (3.00),N/A
+"Butov, Leonid",PHYS 152A - Condensed Matter Physics (A),WI10,11,2,100.00%,50.00%,3.5,A (4.00),N/A
+"Griest, Kim",PHYS 161 - Black Holes & Milky Way Galaxy (A),WI10,28,13,92.30%,92.30%,9.27,A- (3.75),B- (2.91)
+"Dudko, Olga",PHYS 172 - Biophysics of Molecules (A),WI10,8,4,100.00%,75.00%,3.5,B+ (3.67),N/A
+"Burgasser, Adam Jonathan",PHYS 1A - Mechanics (A),WI10,259,132,84.00%,93.10%,5.44,B (3.27),B+ (3.47)
+"Levine, Herbert",PHYS 1B - Electricity and Magnetism (A),WI10,299,107,85.00%,96.30%,4.33,B+ (3.34),B- (2.97)
+"Dynes, Robert C.",PHYS 1B - Electricity and Magnetism (B),WI10,292,111,66.70%,86.50%,4.5,B+ (3.35),B (3.03)
+"Groisman, Alexander",PHYS 1B - Electricity and Magnetism (C),WI10,282,105,80.80%,84.60%,4.98,B+ (3.40),B- (2.93)
+"Okamura, Melvin Y.","PHYS 1C - Waves, Optics & Modern Physics (A)",WI10,182,60,76.30%,61.00%,4.33,B (3.29),B- (2.81)
+"Schuller, Ivan K",PHYS 2A - Physics-Mechanics (A),WI10,245,113,77.70%,51.80%,5.79,B- (2.94),B- (2.90)
+"Schuller, Ivan K",PHYS 2A - Physics-Mechanics (B),WI10,254,103,83.50%,49.00%,5.56,B (3.08),B- (2.90)
+"Schuller, Ivan K",PHYS 2A - Physics-Mechanics (C),WI10,262,112,84.70%,55.00%,6.12,B (3.18),B- (2.90)
+"Hirsch, Jorge Eduardo",PHYS 2B - Phys-Electricity and Magnetism (A),WI10,204,85,58.80%,44.70%,7.4,C+ (2.69),C (2.26)
+"Yagil, Avi",PHYS 2BL - Phys Lab-Mechanics&Electrostat (A),WI10,129,48,79.20%,83.30%,5.75,B+ (3.34),B- (2.80)
+"Fogler, Michael M.","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",WI10,187,64,73.00%,34.90%,5.34,B (3.29),B- (2.82)
+"Sharpee, Tatyana","PHYS 2CL - Phys Lab-Elec,Magnetsm,Wav,Opt (A)",WI10,167,69,52.30%,47.00%,6.41,B (3.27),B (3.08)
+"Sinha, Sunil K",PHYS 2D - Phys-Relativity&Quantm Physics (A),WI10,124,44,84.10%,88.60%,4.77,B+ (3.40),B+ (3.33)
+"Keating, Brian",PHYS 4A - Physics/Physics Majrs-Mechancs (A),WI10,41,20,89.50%,60.00%,6.1,B+ (3.45),B (3.17)
+"Jenkins, Elizabeth","PHYS 4D - Phys Majrs-EM Wav,Opt,Spec Rel (A)",WI10,30,9,100.00%,55.60%,4.28,B+ (3.44),B (3.17)
+"Tytler, David Robert",PHYS 7 - Introductory Astronomy (A),WI10,62,25,60.00%,52.00%,4.1,B+ (3.31),B (3.09)
+"Dubin, Daniel Herschel",PHYS 87 - Freshman Seminar (A),WI10,17,9,100.00%,100.00%,0.5,N/A,N/A
+"Surko, Clifford M",PHYS 100A - Electromagnetism (A),FA09,51,39,91.90%,73.00%,6.14,B (3.11),C+ (2.58)
+"Dubin, Daniel Herschel",PHYS 105A - Mathematical&Computational Phy (A),FA09,33,19,73.70%,94.70%,11.03,B (3.22),B- (2.81)
+"Anderson, Michael G.",PHYS 11 - Survey of Physics (A),FA09,131,64,77.80%,90.50%,3.39,B (3.20),B (3.20)
+"Hicks, J. Charles",PHYS 110A - Mechanics (A),FA09,45,30,86.70%,100.00%,10.17,B- (2.92),C+ (2.57)
+"Driscoll, Charles F.",PHYS 120B - Physical Measurements (A),FA09,27,11,100.00%,90.90%,11.77,B+ (3.55),B+ (3.58)
+"Broida, Joel Gary",PHYS 130B - Quantum Physics (A),FA09,41,30,69.00%,67.90%,15.88,B (3.21),C+ (2.55)
+"Jenkins, Elizabeth",PHYS 140A - Statistical & Thermal Physics (A),FA09,48,30,75.00%,39.30%,4.02,B (3.25),B+ (3.30)
+"Wolfe, Arthur Michael",PHYS 160 - Stellar Astrophysics (A),FA09,19,13,100.00%,92.30%,5.42,B+ (3.38),B+ (3.31)
+"Smith, Douglas E",PHYS 1A - Mechanics (A),FA09,300,121,45.40%,4.20%,3.98,B (3.13),B- (2.94)
+"Smith, Douglas E",PHYS 1A - Mechanics (B),FA09,299,125,45.60%,8.00%,4.66,B (3.20),B- (2.94)
+"Smith, Douglas E",PHYS 1A - Mechanics (C),FA09,287,108,44.80%,11.30%,4.13,B (3.28),B- (2.94)
+"Keating, Brian",PHYS 1B - Electricity and Magnetism (A),FA09,187,135,62.20%,42.20%,4.84,B (3.15),B- (2.84)
+"Okamura, Melvin Y.","PHYS 1C - Waves, Optics & Modern Physics (A)",FA09,243,89,65.50%,43.50%,3.57,B+ (3.36),B- (2.87)
+"Sharma, Vivek A.",PHYS 2A - Physics-Mechanics (A),FA09,135,62,82.30%,93.40%,6.92,B (3.08),C+ (2.41)
+"Sharma, Vivek A.",PHYS 2A - Physics-Mechanics (B),FA09,139,67,86.60%,98.50%,6.44,B (3.11),C+ (2.41)
+"Sinha, Sunil K",PHYS 2B - Phys-Electricity and Magnetism (A),FA09,263,123,85.40%,74.00%,5.23,B (3.27),B- (2.82)
+"Yagil, Avi",PHYS 2BL - Phys Lab-Mechanics&Electrostat (A),FA09,146,55,72.70%,96.40%,4.79,B+ (3.34),B- (2.71)
+"Fogler, Michael M.","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",FA09,231,17,81.30%,75.00%,5.44,B (3.00),B- (2.86)
+"Fogler, Michael M.","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (B)",FA09,186,57,70.20%,64.30%,4.25,B (3.16),B- (2.86)
+"Butov, Leonid","PHYS 2CL - Phys Lab-Elec,Magnetsm,Wav,Opt (A)",FA09,262,80,70.50%,64.10%,4.8,B+ (3.59),B+ (3.35)
+"Hirsch, Jorge Eduardo",PHYS 2D - Phys-Relativity&Quantm Physics (A),FA09,64,33,72.70%,69.70%,6.38,B- (2.78),C+ (2.70)
+"Groisman, Alexander",PHYS 4C - Phys Majrs-Elect & Magnetism (A),FA09,30,20,100.00%,94.70%,4.9,B (3.20),B (3.22)
+"Coil, Alison",PHYS 5 - The Universe (A),FA09,68,40,90.00%,95.00%,4.1,B+ (3.46),B- (2.98)
+"Fuller, George Michael",PHYS 87 - Freshman Seminar (A),FA09,19,15,100.00%,100.00%,0.5,A (4.00),N/A
+"Wong, David Y.",PHYS 12 - Energy and the Environment (A),SU09,11,3,100.00%,100.00%,4.5,A (4.00),N/A
+"Tucker, Laura Jane",PHYS 1A - Mechanics (A),SU09,65,28,82.10%,82.10%,7.07,B+ (3.33),N/A
+"Wong, David Y.",PHYS 1A - Mechanics (A),SU09,60,21,85.00%,100.00%,6.6,B+ (3.52),N/A
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (A),SU09,23,9,88.90%,100.00%,3.83,B+ (3.67),N/A
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (A),SU09,23,8,85.70%,85.70%,3.36,A (4.00),N/A
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (B),SU09,13,4,75.00%,100.00%,6,B+ (3.33),N/A
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (B),SU09,16,6,100.00%,100.00%,4.83,A (4.00),N/A
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (C),SU09,19,5,80.00%,100.00%,4,A (4.00),N/A
+"Anderson, Michael G.",PHYS 1AL - Mechanics Laboratory (C),SU09,19,7,85.70%,100.00%,2.21,B+ (3.57),N/A
+"Anderson, Michael Wesley",PHYS 1B - Electricity and Magnetism (A),SU09,74,36,80.60%,91.70%,6.06,B+ (3.40),N/A
+"Meyertholen, Andrew D.",PHYS 1B - Electricity and Magnetism (A),SU09,59,29,86.20%,100.00%,8.5,B+ (3.52),N/A
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (A),SU09,21,7,57.10%,100.00%,7.93,B+ (3.43),N/A
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (A),SU09,22,8,87.50%,87.50%,4.75,A- (3.75),N/A
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (B),SU09,20,9,44.40%,77.80%,4.72,B+ (3.33),N/A
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (B),SU09,20,4,25.00%,75.00%,4,A (4.00),N/A
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (C),SU09,20,8,75.00%,100.00%,7.25,B+ (3.63),N/A
+"Anderson, Michael G.",PHYS 1BL - Electricity & Magnetism Lab (C),SU09,23,14,53.80%,30.80%,5.5,B+ (3.46),N/A
+"Alvarez-Cabanillas, Miguel","PHYS 1C - Waves, Optics & Modern Physics (A)",SU09,91,42,81.00%,41.50%,6.79,B+ (3.51),N/A
+"Chiu, Jui-Yu","PHYS 1C - Waves, Optics & Modern Physics (A)",SU09,71,21,85.70%,57.10%,7.83,B+ (3.42),N/A
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (A)",SU09,25,7,100.00%,100.00%,6.5,A- (3.71),N/A
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (A)",SU09,27,10,90.00%,90.00%,5.5,A (4.00),N/A
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (B)",SU09,21,7,85.70%,71.40%,4.83,A- (3.86),N/A
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (B)",SU09,21,5,100.00%,100.00%,6.5,A (4.00),N/A
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (C)",SU09,18,4,100.00%,100.00%,3.5,A (4.00),N/A
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (C)",SU09,21,7,85.70%,100.00%,3.36,A- (3.86),N/A
+"Anderson, Michael G.","PHYS 1CL - Waves,Optics&Modrn Phys Lab (D)",SU09,16,7,100.00%,100.00%,3.64,B+ (3.57),N/A
+"Kelley, Randall Scott",PHYS 2A - Physics-Mechanics (A),SU09,44,17,88.20%,88.20%,9.21,B+ (3.35),N/A
+"Lever, Edward Lawrence",PHYS 2B - Phys-Electricity and Magnetism (A),SU09,95,57,94.70%,96.40%,5.83,B+ (3.65),N/A
+"Zhang, Lingfeng Matthew",PHYS 2B - Phys-Electricity and Magnetism (A),SU09,66,16,68.80%,50.00%,9.63,B- (2.94),N/A
+"Paddock, Mark",PHYS 2BL - Phys Lab-Mechanics&Electrostat (A),SU09,52,13,69.20%,92.30%,5.42,B+ (3.58),N/A
+"Hicks, J. Charles","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",SU09,36,10,88.90%,62.50%,12.5,B (3.11),N/A
+"Hicks, J. Charles","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",SU09,51,19,78.90%,94.70%,8.18,B (3.26),N/A
+"Paddock, Mark","PHYS 2CL - Phys Lab-Elec,Magnetsm,Wav,Opt (A)",SU09,64,23,69.60%,78.30%,4.33,B+ (3.35),N/A
+"Pathria, Raj K.",PHYS 2D - Phys-Relativity&Quantm Physics (A),SU09,73,27,70.40%,55.60%,9.69,B (3.04),N/A
+"Shpyrko, Oleg",PHYS 100C - Electromagnetism (A),SP09,28,16,100.00%,100.00%,6.1,B (3.27),B+ (3.41)
+"Murphy, Thomas",PHYS 12 - Energy and the Environment (A),SP09,79,42,75.60%,90.20%,2.7,B+ (3.32),B (3.30)
+"Driscoll, Charles F.",PHYS 120A - Physical Measurements (A),SP09,42,33,81.80%,93.90%,10.8,B+ (3.59),B+ (3.31)
+"Sham, Lu Jeu",PHYS 130A - Quantum Physics (A),SP09,53,35,76.50%,23.50%,8.26,B- (2.85),C+ (2.52)
+"Intriligator, Kenneth Arthur",PHYS 137 - String Theory (A),SP09,18,14,69.20%,100.00%,7.07,B+ (3.50),N/A
+"Driscoll, Charles F.",PHYS 151 - Elementary Plasma Physics (A),SP09,16,8,100.00%,100.00%,6.25,B- (2.83),N/A
+"Keating, Brian",PHYS 162 - Galaxies and Cosmology (A),SP09,15,10,90.00%,100.00%,4.9,B- (2.90),N/A
+"Paar, Hans Peter",PHYS 192 - Senior Seminar in Physics (A),SP09,10,7,100.00%,100.00%,0.5,A (4.00),N/A
+"Yagil, Avi",PHYS 1A - Mechanics (A),SP09,229,42,72.50%,79.50%,5.52,B+ (3.39),C+ (2.46)
+"Anderson, Michael G.",PHYS 1B - Electricity and Magnetism (A),SP09,340,173,77.30%,87.80%,4.63,B+ (3.37),B- (2.85)
+"Smith, Douglas E","PHYS 1C - Waves, Optics & Modern Physics (A)",SP09,161,88,62.40%,44.00%,3.31,B+ (3.63),B- (2.78)
+"Smith, Douglas E","PHYS 1C - Waves, Optics & Modern Physics (B)",SP09,343,210,60.30%,48.80%,3.54,B+ (3.55),B- (2.78)
+"Smith, Douglas E","PHYS 1C - Waves, Optics & Modern Physics (C)",SP09,360,194,61.30%,49.70%,2.9,B+ (3.59),B- (2.78)
+"Dudko, Olga",PHYS 2A - Physics-Mechanics (A),SP09,223,111,84.70%,87.40%,5.45,B (3.18),B- (2.75)
+"Grinstein, Benjamin",PHYS 2B - Phys-Electricity and Magnetism (A),SP09,205,113,72.10%,61.30%,6.23,B (3.07),C (2.17)
+"Griest, Kim",PHYS 2B - Phys-Electricity and Magnetism (B),SP09,339,224,80.50%,91.30%,5.1,B (3.24),B- (2.70)
+"Yagil, Avi",PHYS 2BL - Phys Lab-Mechanics&Electrostat (A),SP09,265,93,54.90%,78.00%,4.91,B (3.18),B- (2.85)
+"Okamura, Melvin Y.","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",SP09,237,53,84.30%,58.80%,4.54,B+ (3.44),C+ (2.68)
+"Shpyrko, Oleg","PHYS 2CL - Phys Lab-Elec,Magnetsm,Wav,Opt (A)",SP09,174,42,73.80%,100.00%,4.26,B+ (3.65),B+ (3.35)
+"Sinha, Sunil K",PHYS 2D - Phys-Relativity&Quantm Physics (A),SP09,138,62,60.00%,85.00%,5.58,B+ (3.40),B- (2.82)
+"Butov, Leonid",PHYS 2DL - Physics Lab-Modern Physics (A),SP09,43,9,100.00%,100.00%,5.17,A- (3.75),B (3.21)
+"Fogler, Michael M.","PHYS 4B - Phys Majrs-Mech,Fluid,Wav,Heat (A)",SP09,37,15,86.70%,80.00%,4.5,B+ (3.53),B- (2.81)
+"Hirsch, Jorge Eduardo",PHYS 4E - Physics Majors-Quantum Physics (A),SP09,20,15,73.30%,73.30%,5.43,B (3.07),C+ (2.44)
+"Coil, Alison",PHYS 5 - The Universe (A),SP09,75,49,91.70%,95.80%,4.58,B+ (3.36),B (3.05)
+"Anderson, Michael G.",PHYS 10 - Concepts In Physics (A),WI09,129,70,92.90%,92.90%,2.64,B+ (3.47),B (3.24)
+"Surko, Clifford M",PHYS 100B - Electromagnetism (A),WI09,38,26,100.00%,96.00%,6.19,B+ (3.48),B- (2.90)
+"Padoan, Paolo",PHYS 105B - Mathematical&Computational Phy (A),WI09,15,4,75.00%,100.00%,11,B (3.25),N/A
+"Branson, James G",PHYS 110B - Mechanics (A),WI09,34,23,90.90%,85.00%,6.59,B (3.15),B (3.04)
+"Murphy, Thomas",PHYS 121 - Experimental Techniques (A),WI09,15,11,100.00%,100.00%,5.41,B+ (3.60),N/A
+"Sham, Lu Jeu",PHYS 130C - Quantum Physics (A),WI09,12,10,90.00%,80.00%,7.3,B (3.22),N/A
+"Arovas, Daniel P",PHYS 140B - Statistical & Thermal Physics (A),WI09,19,14,92.90%,92.90%,7.64,B (3.29),B+ (3.38)
+"Butov, Leonid",PHYS 152A - Condensed Matter Physics (A),WI09,18,17,94.10%,88.20%,5.91,A- (3.71),N/A
+"Wolfe, Arthur Michael",PHYS 161 - Black Holes & Milky Way Galaxy (A),WI09,26,15,93.30%,66.70%,4.9,B+ (3.50),B- (2.95)
+"Diamond, Patrick H",PHYS 192 - Senior Seminar in Physics (A),WI09,7,6,100.00%,100.00%,0.5,N/A,N/A
+"Wuerthwein, Frank",PHYS 1A - Mechanics (A),WI09,254,140,71.60%,77.50%,5.32,B (3.17),B- (2.87)
+"Bassov, Dmitri N.",PHYS 1B - Electricity and Magnetism (A),WI09,346,80,61.10%,46.10%,5.24,B (3.28),B (3.29)
+"Bassov, Dmitri N.",PHYS 1B - Electricity and Magnetism (B),WI09,316,58,54.50%,25.90%,4.82,B+ (3.36),B (3.29)
+"Levine, Herbert",PHYS 1B - Electricity and Magnetism (C),WI09,190,96,83.00%,94.70%,5.17,B+ (3.40),B- (2.97)
+"Okamura, Melvin Y.","PHYS 1C - Waves, Optics & Modern Physics (A)",WI09,174,60,73.70%,66.10%,4.4,B+ (3.39),B- (2.76)
+"Schuller, Ivan K",PHYS 2A - Physics-Mechanics (A),WI09,205,86,92.90%,75.30%,4.43,B (3.20),B- (2.86)
+"Schuller, Ivan K",PHYS 2A - Physics-Mechanics (B),WI09,216,89,80.90%,78.70%,5.23,B- (2.91),B- (2.86)
+"Schuller, Ivan K",PHYS 2A - Physics-Mechanics (C),WI09,226,90,79.50%,71.30%,4.68,B (3.15),B- (2.86)
+"Grinstein, Benjamin",PHYS 2B - Phys-Electricity and Magnetism (A),WI09,175,121,86.30%,86.40%,6.82,B (3.08),C (2.29)
+"Sinha, Sunil K",PHYS 2B - Phys-Electricity and Magnetism (B),WI09,182,97,80.40%,82.60%,4.88,B+ (3.62),B (3.19)
+"Yagil, Avi",PHYS 2BL - Phys Lab-Mechanics&Electrostat (A),WI09,169,59,75.90%,92.60%,4.47,B+ (3.39),B- (2.96)
+"Groisman, Alexander","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",WI09,155,46,84.10%,81.80%,5.02,B+ (3.35),B (3.01)
+"Shpyrko, Oleg","PHYS 2CL - Phys Lab-Elec,Magnetsm,Wav,Opt (A)",WI09,196,118,75.70%,97.30%,4.84,B+ (3.58),B+ (3.50)
+"Hirsch, Jorge Eduardo",PHYS 2D - Phys-Relativity&Quantm Physics (A),WI09,49,22,72.70%,68.20%,6.05,B (3.00),C+ (2.55)
+"Sharma, Vivek A.",PHYS 4A - Physics/Physics Majrs-Mechancs (A),WI09,31,19,100.00%,100.00%,3.97,B+ (3.42),B+ (3.36)
+"Jenkins, Elizabeth","PHYS 4D - Phys Majrs-EM Wav,Opt,Spec Rel (A)",WI09,21,14,100.00%,71.40%,4.5,B+ (3.31),B (3.16)
+"Tytler, David Robert",PHYS 7 - Introductory Astronomy (A),WI09,68,33,63.60%,69.70%,3.23,B+ (3.32),B- (2.81)
+"Tytler, David Robert",PHYS 8 - Physics of Everyday Life (A),WI09,67,26,72.00%,76.00%,2.74,B (3.29),B+ (3.32)
+"Fuller, George Michael",PHYS 87 - Freshman Seminar (A),WI09,13,14,92.30%,100.00%,0.5,N/A,N/A
+"Surko, Clifford M",PHYS 100A - Electromagnetism (A),FA08,52,43,97.70%,90.70%,6.26,B (3.22),C+ (2.57)
+"Padoan, Paolo",PHYS 105A - Mathematical&Computational Phy (A),FA08,45,22,81.80%,95.50%,8.32,B (3.18),B (3.14)
+"Hicks, J. Charles",PHYS 11 - Survey of Physics (A),FA08,134,45,42.20%,40.00%,3.21,B+ (3.38),B (3.06)
+"Intriligator, Kenneth Arthur",PHYS 110A - Mechanics (A),FA08,53,29,96.60%,93.10%,6.78,B (3.14),B- (2.77)
+"Driscoll, Charles F.",PHYS 120B - Physical Measurements (A),FA08,28,11,100.00%,100.00%,8.32,A- (3.73),B+ (3.48)
+"Branson, James G",PHYS 130B - Quantum Physics (A),FA08,32,25,84.00%,88.00%,8.25,B (3.26),B (3.05)
+"Arovas, Daniel P",PHYS 140A - Statistical & Thermal Physics (A),FA08,37,25,91.30%,81.00%,8.18,B- (2.96),B (3.14)
+"Wolfe, Arthur Michael",PHYS 160 - Stellar Astrophysics (A),FA08,20,15,80.00%,60.00%,4.1,B+ (3.47),B (3.16)
+"Onuchic, Jose N",PHYS 1A - Mechanics (A),FA08,286,52,84.30%,82.40%,5.13,B (3.12),B- (2.91)
+"Onuchic, Jose N",PHYS 1A - Mechanics (B),FA08,321,175,81.40%,89.80%,4.65,B+ (3.36),B- (2.91)
+"Onuchic, Jose N",PHYS 1A - Mechanics (C),FA08,321,181,80.00%,86.90%,5.39,B (3.27),B- (2.91)
+"Keating, Brian",PHYS 1B - Electricity and Magnetism (A),FA08,187,56,81.50%,74.50%,4.97,B+ (3.35),B- (2.78)
+"Levine, Herbert","PHYS 1C - Waves, Optics & Modern Physics (A)",FA08,244,71,80.60%,54.50%,3.8,B+ (3.53),B- (2.96)
+"Sharma, Vivek A.",PHYS 2A - Physics-Mechanics (A),FA08,164,82,80.20%,87.80%,6.35,B (3.26),B- (2.73)
+"Sharma, Vivek A.",PHYS 2A - Physics-Mechanics (B),FA08,158,88,79.30%,91.80%,5.85,B (3.28),B- (2.73)
+"Grinstein, Benjamin",PHYS 2B - Phys-Electricity and Magnetism (A),FA08,222,110,70.00%,67.30%,7.5,B (3.01),C (2.03)
+"Yagil, Avi",PHYS 2BL - Phys Lab-Mechanics&Electrostat (A),FA08,159,42,73.80%,90.50%,4.93,B+ (3.50),B- (2.88)
+"Fogler, Michael M.","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",FA08,191,63,82.50%,79.00%,5.21,B+ (3.48),B- (2.81)
+"Wuerthwein, Frank","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (B)",FA08,243,85,91.50%,89.00%,5.44,B+ (3.51),B (3.18)
+"Goodkind, John M.","PHYS 2CL - Phys Lab-Elec,Magnetsm,Wav,Opt (A)",FA08,219,146,55.40%,36.70%,4.5,B (3.24),B (3.00)
+"Hirsch, Jorge Eduardo",PHYS 2D - Phys-Relativity&Quantm Physics (A),FA08,60,27,55.60%,74.10%,6.2,B- (2.96),C+ (2.58)
+"Groisman, Alexander",PHYS 4C - Phys Majrs-Elect & Magnetism (A),FA08,28,12,91.70%,66.70%,4.67,B+ (3.33),B (3.01)
+"Shu, Frank H.",PHYS 5 - The Universe (A),FA08,35,23,65.20%,69.60%,2.33,B (3.20),B- (2.82)
+"Griest, Kim",PHYS 9 - The Solar System (A),FA08,166,114,91.00%,98.20%,3.24,B+ (3.40),B- (2.90)
+"Robertson, Rae Marie",PHYS 1A - Mechanics (A),SU08,76,59,93.10%,93.00%,7.21,B+ (3.65),N/A
+"Wong, David Y.",PHYS 1A - Mechanics (A),SU08,62,36,82.90%,85.70%,5.99,B+ (3.35),N/A
+"Dinh, Vincent",PHYS 1B - Electricity and Magnetism (A),SU08,51,42,68.40%,52.50%,3.9,A- (3.86),N/A
+"Wylie, Christopher Scott",PHYS 1B - Electricity and Magnetism (A),SU08,57,45,86.40%,100.00%,6.37,B+ (3.36),N/A
+"Alvarez-Cabanillas, Miguel","PHYS 1C - Waves, Optics & Modern Physics (A)",SU08,56,18,94.40%,72.20%,7.17,B+ (3.50),N/A
+"Sten, Lin","PHYS 1C - Waves, Optics & Modern Physics (A)",SU08,37,36,57.10%,41.20%,7.59,B+ (3.31),N/A
+"Kelley, Randall Scott",PHYS 2A - Physics-Mechanics (A),SU08,49,36,91.70%,100.00%,11.61,B (3.03),N/A
+"Lever, Edward Lawrence",PHYS 2B - Phys-Electricity and Magnetism (A),SU08,71,17,100.00%,100.00%,7.79,B+ (3.38),N/A
+"Lever, Edward Lawrence",PHYS 2B - Phys-Electricity and Magnetism (A),SU08,80,42,81.00%,97.60%,6.4,B+ (3.60),N/A
+"Riley, Pete",PHYS 2BL - Phys Lab-Mechanics&Electrostat (A),SU08,36,26,73.10%,96.20%,5.12,B+ (3.52),N/A
+"Hicks, J. Charles","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",SU08,45,18,77.80%,77.80%,7.94,B (3.29),N/A
+"Hicks, J. Charles","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",SU08,41,25,80.00%,84.00%,7.54,B- (2.92),N/A
+"Zhang, Lingfeng Matthew",PHYS 2D - Phys-Relativity&Quantm Physics (A),SU08,93,61,55.90%,62.10%,7.8,B (3.04),N/A
+"Kishimoto, Chad T.",PHYS 7 - Introductory Astronomy (A),SU08,10,10,80.00%,70.00%,3.5,B (3.25),N/A
+"Murphy, Thomas",PHYS 10 - Concepts In Physics (A),SP08,153,66,90.80%,93.80%,3.15,B+ (3.43),B (3.13)
+"Sinha, Sunil K",PHYS 100C - Electromagnetism (A),SP08,31,16,46.70%,62.50%,7.13,B- (2.93),B (3.16)
+"Griest, Kim",PHYS 12 - Energy and the Environment (A),SP08,106,61,71.70%,91.70%,3.16,B+ (3.45),B (3.01)
+"Driscoll, Charles F.",PHYS 120A - Physical Measurements (A),SP08,50,36,97.10%,97.10%,8.85,B+ (3.61),B+ (3.44)
+"Intriligator, Kenneth Arthur",PHYS 130A - Quantum Physics (A),SP08,47,32,87.10%,96.80%,9.5,B (3.03),B (3.04)
+"Paar, Hans Peter",PHYS 154 - Elementary Particle Physics (A),SP08,18,12,100.00%,100.00%,4.83,A- (3.73),N/A
+"Keating, Brian",PHYS 162 - Galaxies and Cosmology (A),SP08,23,18,88.90%,94.40%,5.17,B+ (3.33),B+ (3.46)
+"Paar, Hans Peter",PHYS 192 - Senior Seminar in Physics (A),SP08,15,14,100.00%,100.00%,1.36,A (4.00),N/A
+"Padoan, Paolo",PHYS 1A - Mechanics (A),SP08,201,38,77.80%,78.40%,4.82,B+ (3.51),B (3.22)
+"Anderson, Michael G.",PHYS 1B - Electricity and Magnetism (A),SP08,301,168,83.20%,91.40%,4.7,B+ (3.40),B- (2.95)
+"Smith, Douglas E","PHYS 1C - Waves, Optics & Modern Physics (A)",SP08,394,266,69.90%,71.70%,3.46,B+ (3.55),B- (2.89)
+"Smith, Douglas E","PHYS 1C - Waves, Optics & Modern Physics (B)",SP08,387,197,78.30%,80.90%,3.39,B+ (3.55),B- (2.89)
+"Dudko, Olga",PHYS 2A - Physics-Mechanics (A),SP08,214,96,88.00%,84.90%,5.07,B (3.24),B (3.07)
+"Schuller, Ivan K",PHYS 2B - Phys-Electricity and Magnetism (A),SP08,118,61,83.30%,86.70%,6.37,B+ (3.34),B- (2.97)
+"Schuller, Ivan K",PHYS 2B - Phys-Electricity and Magnetism (B),SP08,205,35,88.60%,97.10%,6.33,B (3.29),B- (2.97)
+"Bassov, Dmitri N.",PHYS 2B - Phys-Electricity and Magnetism (C),SP08,167,58,72.40%,62.10%,4.81,B (3.02),C (2.27)
+"Yagil, Avi",PHYS 2BL - Phys Lab-Mechanics&Electrostat (A),SP08,241,51,65.20%,82.60%,5.36,B+ (3.66),C+ (2.69)
+"Wuerthwein, Frank","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",SP08,196,73,81.90%,91.70%,5,B (3.30),B- (2.79)
+"Shpyrko, Oleg","PHYS 2CL - Phys Lab-Elec,Magnetsm,Wav,Opt (A)",SP08,219,33,69.70%,96.90%,4.68,B+ (3.57),B+ (3.49)
+"Hirsch, Jorge Eduardo",PHYS 2D - Phys-Relativity&Quantm Physics (A),SP08,89,51,44.00%,36.00%,7.38,B- (2.96),C+ (2.32)
+"Butov, Leonid",PHYS 2DL - Physics Lab-Modern Physics (A),SP08,42,14,78.60%,85.70%,4.21,B+ (3.67),B+ (3.33)
+"Surko, Clifford M","PHYS 4B - Phys Majrs-Mech,Fluid,Wav,Heat (A)",SP08,35,12,75.00%,91.70%,4.67,B+ (3.33),B- (2.72)
+"Jenkins, Elizabeth",PHYS 4E - Physics Majors-Quantum Physics (A),SP08,21,14,100.00%,92.90%,5.5,B+ (3.64),B (3.24)
+"Tytler, David Robert",PHYS 5 - The Universe (A),SP08,61,29,55.20%,64.30%,3.33,B (3.10),B (3.19)
+"Wuerthwein, Frank",PHYS 100B - Electromagnetism (A),WI08,43,26,96.20%,96.20%,6.19,B+ (3.36),B- (2.98)
+"Padoan, Paolo",PHYS 105B - Mathematical&Computational Phy (A),WI08,11,5,100.00%,100.00%,12.1,B+ (3.40),N/A
+"Arovas, Daniel P",PHYS 110B - Mechanics (A),WI08,36,23,86.40%,95.50%,6.67,B (3.11),B- (2.94)
+"Salmon, Richard L.",PHYS 111 - Intro to Ocean Waves & Tides (A),WI08,12,11,90.90%,100.00%,5.41,B+ (3.30),N/A
+"Murphy, Thomas",PHYS 121 - Experimental Techniques (A),WI08,26,11,100.00%,100.00%,9.23,A (4.00),B+ (3.48)
+"Branson, James G",PHYS 130C - Quantum Physics (A),WI08,23,8,100.00%,87.50%,7.75,A- (3.86),A- (3.70)
+"Pathria, Raj K.",PHYS 140B - Statistical & Thermal Physics (A),WI08,25,15,100.00%,100.00%,7.83,B (3.08),B- (2.84)
+"Griest, Kim",PHYS 161 - Black Holes & Milky Way Galaxy (A),WI08,25,15,100.00%,100.00%,4.5,B+ (3.33),B (3.29)
+"Anderson, Michael G.",PHYS 1A - Mechanics (A),WI08,179,108,86.80%,86.70%,5.04,B (3.29),B- (2.88)
+"Anderson, Michael G.",PHYS 1A - Mechanics (B),WI08,74,33,96.90%,97.00%,4.63,B (3.20),B- (2.88)
+"Levine, Herbert",PHYS 1B - Electricity and Magnetism (A),WI08,265,51,67.30%,83.70%,4.7,B+ (3.55),B (3.02)
+"Levine, Herbert",PHYS 1B - Electricity and Magnetism (B),WI08,278,135,74.00%,79.20%,3.83,B+ (3.46),B (3.02)
+"Bassov, Dmitri N.",PHYS 1B - Electricity and Magnetism (C),WI08,256,75,72.90%,68.10%,4.12,B+ (3.48),B (3.14)
+"Okamura, Melvin Y.","PHYS 1C - Waves, Optics & Modern Physics (A)",WI08,171,76,68.40%,52.60%,3.87,B+ (3.56),B- (2.77)
+"Sharma, Vivek A.",PHYS 2A - Physics-Mechanics (A),WI08,123,50,76.00%,80.00%,5.64,B (3.17),B- (2.73)
+"Sharma, Vivek A.",PHYS 2A - Physics-Mechanics (B),WI08,197,81,82.10%,91.00%,6.09,B (3.29),B- (2.73)
+"Sharma, Vivek A.",PHYS 2A - Physics-Mechanics (C),WI08,229,103,94.20%,95.10%,5.22,B (3.28),B- (2.73)
+"Grinstein, Benjamin",PHYS 2B - Phys-Electricity and Magnetism (A),WI08,150,110,70.50%,84.60%,6.63,B (3.11),C (2.02)
+"Grinstein, Benjamin",PHYS 2B - Phys-Electricity and Magnetism (B),WI08,161,90,66.70%,75.90%,6.92,B (3.11),C (2.02)
+"Fogler, Michael M.","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",WI08,242,29,89.30%,85.70%,5.88,B+ (3.52),B- (2.92)
+"Shpyrko, Oleg","PHYS 2CL - Phys Lab-Elec,Magnetsm,Wav,Opt (A)",WI08,226,51,72.50%,92.20%,5.68,B+ (3.48),B+ (3.42)
+"Sinha, Sunil K",PHYS 2D - Phys-Relativity&Quantm Physics (A),WI08,114,52,57.70%,76.90%,5.92,B+ (3.32),B (3.24)
+"Surko, Clifford M",PHYS 4A - Physics/Physics Majrs-Mechancs (A),WI08,39,20,95.00%,95.00%,4.2,B (3.26),B- (2.86)
+"Hirsch, Jorge Eduardo","PHYS 4D - Phys Majrs-EM Wav,Opt,Spec Rel (A)",WI08,23,15,100.00%,80.00%,5.5,B+ (3.33),B (3.22)
+"Norman, Michael L",PHYS 7 - Introductory Astronomy (A),WI08,154,41,95.00%,92.50%,3.23,B+ (3.62),B+ (3.43)
+"Tytler, David Robert",PHYS 8 - Physics of Everyday Life (A),WI08,91,48,57.40%,51.10%,2.24,B+ (3.37),B (3.01)
+"Surko, Clifford M",PHYS 100A - Electromagnetism (A),FA07,53,35,88.20%,85.30%,7.41,B (3.00),C+ (2.59)
+"Padoan, Paolo",PHYS 105A - Mathematical&Computational Phy (A),FA07,53,24,75.00%,95.80%,9.25,B (3.18),B (3.20)
+"Branson, James G",PHYS 11 - Survey of Physics (A),FA07,205,146,51.70%,56.90%,2.03,B+ (3.38),B (3.22)
+"Arovas, Daniel P",PHYS 110A - Mechanics (A),FA07,54,43,93.00%,95.30%,7.45,B (3.23),B- (2.96)
+"Driscoll, Charles F.",PHYS 120B - Physical Measurements (A),FA07,27,9,100.00%,100.00%,10.5,A- (3.75),B+ (3.64)
+"Sham, Lu Jeu",PHYS 130B - Quantum Physics (A),FA07,53,28,92.60%,64.00%,9.21,B (3.13),B- (2.80)
+"Intriligator, Kenneth Arthur",PHYS 140A - Statistical & Thermal Physics (A),FA07,56,39,88.90%,97.30%,7.13,B (3.26),B (3.06)
+"Wolfe, Arthur Michael",PHYS 160 - Stellar Astrophysics (A),FA07,19,14,92.90%,78.60%,4.21,A- (3.85),B (3.22)
+"Onuchic, Jose N",PHYS 1A - Mechanics (A),FA07,270,81,79.20%,89.70%,5.05,B (3.19),B- (2.93)
+"Onuchic, Jose N",PHYS 1A - Mechanics (B),FA07,301,152,84.60%,91.30%,4.59,B+ (3.38),B- (2.93)
+"Onuchic, Jose N",PHYS 1A - Mechanics (C),FA07,288,159,84.90%,89.70%,4.25,B+ (3.39),B- (2.93)
+"Keating, Brian",PHYS 1B - Electricity and Magnetism (A),FA07,179,80,79.50%,69.20%,4.15,B+ (3.58),B+ (3.34)
+"Okamura, Melvin Y.","PHYS 1C - Waves, Optics & Modern Physics (A)",FA07,231,108,68.00%,34.30%,4.06,B+ (3.47),B- (2.96)
+"Hicks, J. Charles",PHYS 2A - Physics-Mechanics (A),FA07,132,51,66.70%,45.10%,7.3,B- (2.94),C+ (2.42)
+"Anderson, Michael G.",PHYS 2A - Physics-Mechanics (B),FA07,178,95,87.00%,93.50%,5.74,B (3.26),B- (2.93)
+"Chalmers, Joseph S.",PHYS 2B - Phys-Electricity and Magnetism (A),FA07,235,110,66.70%,51.90%,4.67,B (3.05),B- (2.80)
+"Yagil, Avi",PHYS 2BL - Phys Lab-Mechanics&Electrostat (A),FA07,165,69,71.60%,77.30%,3.74,B+ (3.51),B (3.25)
+"Groisman, Alexander","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",FA07,230,114,81.10%,72.20%,5.15,B (3.17),B- (2.95)
+"Groisman, Alexander","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (B)",FA07,206,71,76.80%,62.30%,5.03,B (3.24),B- (2.95)
+"Goodkind, John M.","PHYS 2CL - Phys Lab-Elec,Magnetsm,Wav,Opt (A)",FA07,230,85,48.80%,32.50%,3.46,B+ (3.34),B- (2.89)
+"Pathria, Raj K.",PHYS 2D - Phys-Relativity&Quantm Physics (A),FA07,90,60,75.00%,67.80%,5.53,B (3.25),B- (2.83)
+"Hirsch, Jorge Eduardo",PHYS 4C - Phys Majrs-Elect & Magnetism (A),FA07,34,21,75.00%,66.70%,6.2,B (3.05),C+ (2.35)
+"Shu, Frank H.",PHYS 5 - The Universe (A),FA07,50,29,75.90%,89.70%,3.05,B+ (3.30),B (3.13)
+"Norman, Michael L",PHYS 9 - The Solar System (A),FA07,167,44,76.70%,92.90%,3.77,B+ (3.32),B- (2.84)
+"Wong, David Y.",PHYS 1A - Mechanics (A),SU07,70,41,75.00%,87.50%,6.01,B+ (3.38),N/A
+"Orin, Adam Edward",PHYS 1AL - Mechanics Laboratory (A),SU07,23,21,65.00%,78.90%,4.8,B+ (3.60),N/A
+"Orin, Adam Edward",PHYS 1AL - Mechanics Laboratory (B),SU07,23,22,76.20%,83.30%,4.8,A- (3.82),N/A
+"Orin, Adam Edward",PHYS 1AL - Mechanics Laboratory (C),SU07,18,19,75.00%,85.70%,3.76,B+ (3.46),N/A
+"Orin, Adam Edward",PHYS 1AL - Mechanics Laboratory (C),SU07,14,16,86.70%,83.30%,4.5,B+ (3.69),N/A
+"Orin, Adam Edward",PHYS 1AL - Mechanics Laboratory (D),SU07,5,4,75.00%,75.00%,5,A- (3.75),N/A
+"Schoenes, Joachim",PHYS 1B - Electricity and Magnetism (A),SU07,41,33,86.20%,96.60%,5.9,B+ (3.52),N/A
+"Wright, Jason D.",PHYS 1B - Electricity and Magnetism (A),SU07,36,28,85.20%,100.00%,6,B+ (3.56),N/A
+"Orin, Adam Edward",PHYS 1BL - Electricity & Magnetism Lab (A),SU07,21,19,75.00%,85.70%,3.83,B+ (3.53),N/A
+"Orin, Adam Edward",PHYS 1BL - Electricity & Magnetism Lab (A),SU07,19,19,75.00%,86.70%,3.83,B+ (3.53),N/A
+"Orin, Adam Edward",PHYS 1BL - Electricity & Magnetism Lab (B),SU07,20,16,92.30%,91.70%,4.5,A- (3.87),N/A
+"Alvarez-Cabanillas, Miguel","PHYS 1C - Waves, Optics & Modern Physics (A)",SU07,36,15,64.30%,78.60%,5.36,B+ (3.53),N/A
+"Alvarez-Cabanillas, Miguel","PHYS 1C - Waves, Optics & Modern Physics (A)",SU07,61,28,76.90%,64.00%,7.69,A- (3.79),N/A
+"Lever, Edward Lawrence",PHYS 2A - Physics-Mechanics (A),SU07,58,28,89.30%,100.00%,6,A- (3.71),N/A
+"Chalmers, Joseph S.",PHYS 2B - Phys-Electricity and Magnetism (A),SU07,60,35,77.10%,88.60%,9.59,B+ (3.36),N/A
+"Lever, Edward Lawrence",PHYS 2B - Phys-Electricity and Magnetism (A),SU07,74,34,94.10%,100.00%,5.74,B+ (3.67),N/A
+"Bodde, Sara Gail",PHYS 2BL - Phys Lab-Mechanics&Electrostat (A),SU07,54,24,47.60%,61.90%,5.8,B+ (3.35),N/A
+"Hicks, J. Charles","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",SU07,44,22,86.40%,90.90%,6.5,B (3.05),N/A
+"Hicks, J. Charles","PHYS 2C - Physics-Flu,Wav,Thrmdyn,Optics (A)",SU07,50,23,100.00%,100.00%,7.72,B+ (3.30),N/A
+"Bodde, Sara Gail","PHYS 2CL - Phys Lab-Elec,Magnetsm,Wav,Opt (A)",SU07,66,43,48.80%,58.50%,8.55,B (3.08),N/A
+"Sudano, Matthew C.",PHYS 2D - Phys-Relativity&Quantm Physics (A),SU07,94,56,60.00%,87.30%,7.91,B (3.19),N/A

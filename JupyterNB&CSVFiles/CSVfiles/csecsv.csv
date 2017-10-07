@@ -1,0 +1,1625 @@
+Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received
+"Alvarado, Christine J.",CSE 100 - Advanced Data Structures (A),WI17,224,186,95.70%,97.80%,11.7,B+ (3.44),B- (2.86)
+"Alvarado, Christine J.",CSE 100 - Advanced Data Structures (B),WI17,225,199,94.40%,96.00%,13.13,B (3.29),B- (2.86)
+"Jones, Miles E",CSE 101 - Design & Analysis of Algorithm (A),WI17,165,76,95.60%,92.60%,6.44,B+ (3.48),B+ (3.49)
+"Jones, Miles E",CSE 101 - Design & Analysis of Algorithm (B),WI17,186,80,94.70%,96.00%,6.36,B+ (3.49),B+ (3.49)
+"Tiefenbruck, Janine LoBue",CSE 105 - Intro/Theory of Computation (A),WI17,140,118,93.20%,97.50%,8.31,B (3.20),B- (2.84)
+"Tiefenbruck, Janine LoBue",CSE 105 - Intro/Theory of Computation (B),WI17,242,206,88.80%,97.60%,8.31,B (3.19),B- (2.84)
+"Bellare, Mihir",CSE 107 - Intro to Modern Cryptography (A),WI17,51,19,100.00%,100.00%,7.87,B+ (3.32),B+ (3.33)
+"Papadopoulos, Philip Micha",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),WI17,118,42,87.50%,80.00%,10.65,B (3.26),B- (2.80)
+"Politz, Joseph Gibbs",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (B),WI17,117,50,81.30%,93.80%,10.75,B+ (3.38),B- (2.71)
+"Politz, Joseph Gibbs",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (C),WI17,92,48,87.20%,100.00%,11.82,B (3.09),B- (2.71)
+"Gillespie, Gary N",CSE 110 - Software Engineering (A),WI17,388,175,84.00%,59.50%,10.02,B+ (3.47),B (3.19)
+"Langlois, Marina",CSE 12 - Basic Data Struct & OO Design (A),WI17,149,72,97.00%,95.50%,11.91,B+ (3.56),B- (2.97)
+"Langlois, Marina",CSE 12 - Basic Data Struct & OO Design (B),WI17,155,68,96.60%,94.90%,10.87,B+ (3.50),B- (2.97)
+"Langlois, Marina",CSE 12 - Basic Data Struct & OO Design (C),WI17,149,77,95.80%,94.40%,10.64,B+ (3.56),B- (2.97)
+"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A),WI17,175,58,90.20%,94.10%,11.05,B (3.24),B- (2.97)
+"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (B),WI17,164,66,96.80%,96.80%,10.73,B (3.09),B- (2.97)
+"Snoeren, Alex C.",CSE 123 - Computer Networks (A),WI17,97,35,93.80%,100.00%,9.21,B+ (3.30),B (3.23)
+"Porter, George M",CSE 124 - Networked Services (A),WI17,173,50,100.00%,97.90%,7.61,B+ (3.53),B+ (3.49)
+"Stefan, Deian",CSE 130 - Progrmng Lang:Princpl&Paradigm (A),WI17,181,73,75.40%,62.30%,10.23,B- (2.97),B- (2.88)
+"Chu, Isaac Y",CSE 131 - Compiler Construction (A),WI17,267,84,53.80%,70.50%,12.12,B+ (3.33),B (3.03)
+"Vianu, Victor Dan",CSE 132A - Database System Principles (B),WI17,186,62,84.50%,62.10%,5.76,B+ (3.33),B (3.11)
+"Powell, Thomas Allan",CSE 134B - Web Client Languages (A),WI17,144,44,93.00%,81.40%,8.3,B (3.13),B (3.19)
+"Rosing, Tajana Simunic",CSE 140 - Component&Desgn Tech/Digtl Sys (C),WI17,101,92,80.40%,84.80%,7.58,B (3.03),B (3.13)
+"Rosing, Tajana Simunic",CSE 140 - Component&Desgn Tech/Digtl Sys (D),WI17,99,92,85.70%,84.60%,7.9,B (3.06),B (3.13)
+"Gupta, Rajesh K.",CSE 140L - Digital Systems Laboratory (A),WI17,125,108,69.20%,66.40%,5.36,B+ (3.54),B+ (3.63)
+"Gupta, Rajesh K.",CSE 140L - Digital Systems Laboratory (C),WI17,70,62,74.20%,67.70%,6.37,B+ (3.68),B+ (3.63)
+"Tullsen, Dean Michael",CSE 141 - Intro/Computer Architecture (A),WI17,110,31,83.30%,73.30%,6.02,B (3.24),B- (2.75)
+"Eldon, John",CSE 141L - Project/Computer Architecture (A),WI17,85,26,76.90%,96.20%,6.74,B+ (3.44),B+ (3.45)
+"Eldon, John",CSE 141L - Project/Computer Architecture (C),WI17,81,21,65.00%,95.00%,7.7,B+ (3.55),B+ (3.45)
+"Chaudhuri, Kamalika",CSE 151 - Intro to A.I. Stats Approach (A),WI17,144,41,89.70%,89.70%,9.61,B (3.28),B+ (3.65)
+"Chaudhuri, Kamalika",CSE 151 - Intro to A.I. Stats Approach (B),WI17,138,48,89.10%,91.30%,7.83,B (3.30),B+ (3.65)
+"McAuley, Julian John",CSE 158 - Recommender Sys&Web Mining (A),WI17,114,34,96.90%,87.50%,6.56,B+ (3.34),B+ (3.33)
+"Gillespie, Gary N",CSE 15L - Software Tools&Techniques Lab (A),WI17,139,68,80.00%,70.00%,4.28,B+ (3.56),B+ (3.36)
+"Altintas De Callaf, Ilkay",CSE 15L - Software Tools&Techniques Lab (B),WI17,183,99,72.80%,72.80%,4.24,B+ (3.63),B+ (3.50)
+"Altintas De Callaf, Ilkay",CSE 15L - Software Tools&Techniques Lab (C),WI17,136,72,75.00%,79.40%,5.26,B+ (3.64),B+ (3.50)
+"Kesden, Gregory M",CSE 160 - Intro to Parallel Computing (A),WI17,108,39,89.20%,81.10%,8.02,B+ (3.65),B+ (3.67)
+"Schulze, Jurgen P.",CSE 165 - 3D User Interaction (A),WI17,64,17,94.10%,100.00%,9.43,A- (3.94),A- (3.79)
+"Ramamoorthi, Ravi",CSE 167 - Computer Graphics (A),WI17,120,62,96.70%,93.40%,9.39,B+ (3.32),B (3.26)
+"Rotenberg, Steven Paul",CSE 169 - Computer Animation (A),WI17,42,14,100.00%,100.00%,8.86,A- (3.73),B+ (3.49)
+"Klemmer, Scott R",CSE 170 - Interaction Design (A),WI17,79,32,89.70%,89.70%,11.39,B+ (3.50),B+ (3.39)
+"Pevzner, Pavel Arkadjevich",CSE 181 - Molecular Sequence Analysis (A),WI17,21,15,84.60%,53.80%,15.42,B- (2.92),B- (2.90)
+"Shacham, Hovav",CSE 190 - Topics/Computer Sci & Engineer (A),WI17,31,13,84.60%,100.00%,7.27,B+ (3.62),A- (3.93)
+"Weibel, Nadir",CSE 190 - Topics/Computer Sci & Engineer (B),WI17,12,4,100.00%,100.00%,6.5,B+ (3.67),N/A
+"Kumar, Rakesh",CSE 190 - Topics/Computer Sci & Engineer (C),WI17,58,44,93.20%,93.20%,3.29,A- (3.79),B+ (3.68)
+"Kumar, Rakesh",CSE 190 - Topics/Computer Sci & Engineer (D),WI17,58,47,93.60%,93.60%,4.37,A- (3.76),B+ (3.68)
+"Halicioglu, Daniel T",CSE 191 - Semnr/Computer Sci & Engineer (A),WI17,35,17,100.00%,100.00%,0.5,A (4.00),A (4.00)
+"Minnes Kemp, Mor Mia",CSE 191 - Semnr/Computer Sci & Engineer (B),WI17,5,1,100.00%,100.00%,10.5,N/A,N/A
+"Minnes Kemp, Mor Mia",CSE 20 - Intro/Discrete Mathematics (A),WI17,267,210,89.70%,97.50%,6.69,B+ (3.68),B (3.16)
+"Minnes Kemp, Mor Mia",CSE 20 - Intro/Discrete Mathematics (B),WI17,101,83,90.40%,97.60%,7.28,B+ (3.65),B (3.16)
+"Kahng, Andrew Byun",CSE 21 - Math/Algorithm&Systems Analys (A),WI17,151,54,94.10%,92.20%,7.06,B+ (3.50),B (3.20)
+"Jones, Miles E",CSE 21 - Math/Algorithm&Systems Analys (B),WI17,145,48,90.50%,69.00%,6.26,B+ (3.30),B- (2.99)
+"Marx, Susan S",CSE 3 - Fluency/Information Technology (A),WI17,149,65,85.50%,67.70%,3.66,B+ (3.65),B (3.30)
+"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),WI17,266,97,90.80%,83.90%,13.2,B (3.23),B- (2.81)
+"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (B),WI17,108,38,91.70%,91.70%,12.74,B (3.22),B- (2.81)
+"Marx, Susan S",CSE 7 - Intro Programming MATLAB (A),WI17,130,55,83.00%,73.60%,3.65,B+ (3.42),B (3.24)
+"Cottrell, Garrison W",CSE 87 - Freshman Seminar (A),WI17,14,6,66.70%,100.00%,1.3,A (4.00),N/A
+"Loksa, Dastyni Craig",CSE 8A - Intro/Computer Sci: Java (I) (A),WI17,162,146,87.60%,83.40%,8.47,B (3.28),B (3.07)
+"Loksa, Dastyni Craig",CSE 8A - Intro/Computer Sci: Java (I) (B),WI17,166,153,90.80%,79.60%,7.89,B+ (3.48),B (3.07)
+"Cao, Yingjun",CSE 8B - Intro/Computer Sci. Java (II) (A),WI17,161,144,94.40%,98.60%,10.84,B+ (3.64),B+ (3.51)
+"Cao, Yingjun",CSE 8B - Intro/Computer Sci. Java (II) (B),WI17,110,90,93.20%,97.70%,10.9,B+ (3.57),B+ (3.51)
+"Cao, Yingjun",CSE 8B - Intro/Computer Sci. Java (II) (C),WI17,116,101,96.00%,99.00%,11.01,B+ (3.62),B+ (3.51)
+"Swanson, Steven James",CSE 91 - Perspectives in CSE (A),WI17,16,7,100.00%,100.00%,1.07,A (4.00),N/A
+"Swanson, Steven James",CSE 91 - Perspectives in CSE (B),WI17,6,3,100.00%,100.00%,1.17,A (4.00),N/A
+"Swanson, Steven James",CSE 91 - Perspectives in CSE (C),WI17,12,6,100.00%,100.00%,2.5,A (4.00),N/A
+"Swanson, Steven James",CSE 91 - Perspectives in CSE (D),WI17,7,2,100.00%,100.00%,0.5,A (4.00),N/A
+"Gillespie, Gary N",CSE 95 - Tutor Apprentice (A),WI17,31,17,87.50%,87.50%,2.38,B+ (3.50),N/A
+"Gillespie, Gary N",CSE 95 - Tutor Apprentice (B),WI17,37,25,82.60%,87.00%,1.83,A (4.00),N/A
+"Alvarado, Christine J.",CSE 100 - Advanced Data Structures (A),FA16,193,175,96.50%,96.50%,11.84,B+ (3.54),B (3.19)
+"Alvarado, Christine J.",CSE 100 - Advanced Data Structures (B),FA16,128,117,98.30%,96.60%,11.08,B+ (3.48),B (3.19)
+"Sahoo, Debashis",CSE 100 - Advanced Data Structures (C),FA16,137,117,88.80%,71.60%,10.95,B+ (3.31),C+ (2.55)
+"Jones, Miles E",CSE 101 - Design & Analysis of Algorithm (A),FA16,148,54,88.20%,86.30%,7.64,B (3.14),B+ (3.39)
+"Jones, Miles E",CSE 101 - Design & Analysis of Algorithm (B),FA16,145,75,91.70%,97.20%,7.88,B (3.13),B+ (3.39)
+"Jones, Miles E",CSE 101 - Design & Analysis of Algorithm (C),FA16,109,60,96.60%,93.20%,7.92,B (3.27),B+ (3.39)
+"Freund, Yoav",CSE 103 - Practical Intro/Prob & Stats (A),FA16,264,121,65.50%,59.50%,5.4,B+ (3.34),B+ (3.55)
+"Micciancio, Daniele",CSE 105 - Intro/Theory of Computation (A),FA16,118,50,83.30%,62.50%,8.5,B (3.04),B- (2.99)
+"Minnes Kemp, Mor Mia",CSE 105 - Intro/Theory of Computation (B),FA16,209,87,76.70%,97.70%,8.81,B- (2.94),B- (2.84)
+"Micciancio, Daniele",CSE 105 - Intro/Theory of Computation (C),FA16,140,64,74.60%,52.50%,9,B- (2.98),B- (2.99)
+"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (B),FA16,275,135,91.90%,96.00%,11.98,B+ (3.65),B+ (3.52)
+"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (D),FA16,258,140,92.10%,97.60%,12.34,A- (3.71),B+ (3.52)
+"Kesden, Gregory M",CSE 110 - Software Engineering (A),FA16,176,79,90.50%,73.00%,7.9,B+ (3.68),A- (3.84)
+"Weibel, Nadir",CSE 118 - Ubiquitous Computing (A),FA16,33,8,85.70%,85.70%,6.21,B+ (3.57),B+ (3.53)
+"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),FA16,131,71,97.00%,92.40%,14.25,B+ (3.44),B- (3.00)
+"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (B),FA16,112,53,95.70%,97.90%,14.29,B+ (3.40),B- (3.00)
+"Langlois, Marina",CSE 12 - Basic Data Struct & OO Design (C),FA16,118,58,94.30%,94.30%,12.58,B+ (3.42),B- (2.83)
+"Voelker, Geoffrey M.",CSE 120 - Princ/Computer Operating Systm (A),FA16,242,96,92.10%,96.60%,10.11,B (3.27),B (3.08)
+"Zhou, Yuan-Yuan",CSE 120 - Princ/Computer Operating Systm (B),FA16,137,64,82.30%,83.90%,10.87,B (3.12),B- (2.84)
+"Savage, Stefan",CSE 123 - Computer Networks (B),FA16,103,34,89.70%,89.70%,10.09,B (3.23),B- (2.77)
+"Shacham, Hovav",CSE 127 - Intro to Computer Security (B),FA16,48,16,93.30%,86.70%,11.97,C+ (2.40),B- (2.91)
+"Lerner, Sorin",CSE 130 - Progrmng Lang:Princpl&Paradigm (A),FA16,198,151,98.00%,98.70%,8.24,B+ (3.56),B (3.23)
+"Lerner, Sorin",CSE 130 - Progrmng Lang:Princpl&Paradigm (B),FA16,110,90,95.60%,97.80%,7.28,B+ (3.63),B (3.23)
+"Jhala, Ranjit",CSE 131 - Compiler Construction (A),FA16,155,64,86.90%,98.40%,8.91,B+ (3.33),B- (2.90)
+"Vianu, Victor Dan",CSE 132A - Database System Principles (A),FA16,239,81,69.60%,46.80%,6.24,B- (2.75),B- (2.73)
+"Orailoglu, Alex",CSE 140 - Component&Desgn Tech/Digtl Sys (A),FA16,43,26,64.00%,32.00%,12.42,C+ (2.52),C+ (2.49)
+"Orailoglu, Alex",CSE 140L - Digital Systems Laboratory (A),FA16,44,18,81.30%,62.50%,13,B+ (3.56),C+ (2.53)
+"Porter, Leonard Emerson",CSE 141 - Intro/Computer Architecture (A),FA16,271,214,88.30%,96.70%,6.77,B+ (3.36),B- (2.94)
+"Eldon, John",CSE 141L - Project/Computer Architecture (A),FA16,120,50,62.50%,93.80%,8.31,B+ (3.50),B+ (3.32)
+"Eldon, John",CSE 141L - Project/Computer Architecture (B),FA16,117,64,68.30%,88.90%,8,B+ (3.51),B+ (3.32)
+"Cottrell, Garrison W",CSE 150 - Int Artif Intell:Search&Reason (A),FA16,165,66,96.80%,84.10%,8.6,B+ (3.38),B (3.22)
+"Altintas De Callaf, Ilkay",CSE 15L - Software Tools&Techniques Lab (A),FA16,161,80,76.00%,77.30%,4.25,B+ (3.54),B+ (3.41)
+"Gillespie, Gary N",CSE 15L - Software Tools&Techniques Lab (A),FA16,162,80,76.00%,79.70%,4.23,B+ (3.53),B+ (3.41)
+"Altintas De Callaf, Ilkay",CSE 15L - Software Tools&Techniques Lab (C),FA16,132,76,76.50%,84.80%,5.59,B+ (3.34),B+ (3.41)
+"Gillespie, Gary N",CSE 15L - Software Tools&Techniques Lab (C),FA16,137,76,77.60%,87.70%,5.48,B+ (3.33),B+ (3.41)
+"Altintas De Callaf, Ilkay",CSE 15L - Software Tools&Techniques Lab (D),FA16,105,55,79.60%,79.20%,5.71,B+ (3.52),B+ (3.41)
+"Gillespie, Gary N",CSE 15L - Software Tools&Techniques Lab (D),FA16,109,55,79.60%,91.70%,5.71,B+ (3.52),B+ (3.41)
+"Ochoa, Benjamin Lawrence",CSE 166 - Image Processing (A),FA16,58,23,77.30%,81.80%,8.79,B+ (3.50),B (3.00)
+"Schulze, Jurgen P.",CSE 167 - Computer Graphics (A),FA16,88,24,90.50%,100.00%,14.5,B+ (3.55),B+ (3.34)
+"Guo, Philip J",CSE 170 - Interaction Design (A),FA16,136,61,98.20%,94.50%,8.43,A- (3.74),A- (3.74)
+"Raiko, Mikhail P.",CSE 180 - Biology Meets Computing (A),FA16,38,16,92.30%,84.60%,5.5,A- (3.80),A- (3.71)
+"Cottrell, Garrison W",CSE 190 - Topics/Computer Sci & Engineer (A),FA16,71,24,95.70%,78.30%,11.64,B+ (3.35),B (3.16)
+"Paturi, Ramamohan",CSE 190 - Topics/Computer Sci & Engineer (B),FA16,65,26,92.30%,96.20%,6.83,A- (3.83),B+ (3.63)
+"Deutsch, Alin Bernard",CSE 190 - Topics/Computer Sci & Engineer (D),FA16,52,20,63.20%,63.20%,4.62,B+ (3.37),B+ (3.64)
+"Kumar, Rakesh",CSE 190 - Topics/Computer Sci & Engineer (E),FA16,51,35,90.90%,93.90%,4.44,A- (3.79),B+ (3.62)
+"Alvarado, Christine J.",CSE 191 - Semnr/Computer Sci & Engineer (B),FA16,39,18,94.40%,88.90%,8.25,A (4.00),B (3.15)
+"Minnes Kemp, Mor Mia",CSE 191 - Semnr/Computer Sci & Engineer (C),FA16,8,3,100.00%,100.00%,5.5,N/A,N/A
+"Halicioglu, Daniel T",CSE 191 - Semnr/Computer Sci & Engineer (D),FA16,36,13,75.00%,91.70%,0.7,A (4.00),A- (3.93)
+"Lovett, Shachar",CSE 20 - Intro/Discrete Mathematics (A),FA16,143,112,91.70%,91.70%,6.19,B+ (3.56),B+ (3.60)
+"Lovett, Shachar",CSE 20 - Intro/Discrete Mathematics (B),FA16,190,136,91.80%,85.80%,6.64,B+ (3.60),B+ (3.60)
+"Tiefenbruck, Janine LoBue",CSE 21 - Math/Algorithm&Systems Analys (A),FA16,181,89,89.30%,91.70%,7.76,B (3.16),B (3.00)
+"Tiefenbruck, Janine LoBue",CSE 21 - Math/Algorithm&Systems Analys (B),FA16,190,85,85.40%,95.10%,7.6,B (3.16),B (3.00)
+"Marx, Susan S",CSE 3 - Fluency/Information Technology (A),FA16,185,89,94.10%,70.60%,3.83,B+ (3.54),B (3.28)
+"Marx, Susan S",CSE 3 - Fluency/Information Technology (B),FA16,183,97,91.60%,84.20%,3.7,B+ (3.60),B (3.28)
+"Mirza, Diba",CSE 30 - Computer Organiz&Systms Progrm (B),FA16,133,52,94.00%,94.00%,10.42,B (3.24),B (3.16)
+"Mirza, Diba",CSE 30 - Computer Organiz&Systms Progrm (C),FA16,183,85,95.10%,85.20%,10.33,B (3.28),B (3.16)
+"Marx, Susan S",CSE 5A - Introduction to Programming I (A),FA16,100,52,91.50%,87.20%,5.95,B+ (3.30),B- (2.88)
+"Papakonstantinou, Yannis",CSE 87 - Freshman Seminar (B),FA16,14,13,91.70%,100.00%,0.67,A (4.00),N/A
+"Cao, Yingjun",CSE 8A - Intro/Computer Sci: Java (I) (A),FA16,365,349,97.70%,98.60%,8.05,B+ (3.67),B (3.29)
+"Langlois, Marina",CSE 8A - Intro/Computer Sci: Java (I) (C),FA16,181,165,94.50%,87.80%,7.58,B+ (3.36),B+ (3.36)
+"Langlois, Marina",CSE 8A - Intro/Computer Sci: Java (I) (D),FA16,144,136,95.50%,96.30%,7.81,B+ (3.48),B+ (3.36)
+"Cao, Yingjun",CSE 8B - Intro/Computer Sci. Java (II) (A),FA16,88,77,89.60%,98.70%,11.67,B+ (3.32),B- (2.90)
+"Swanson, Steven James",CSE 91 - Perspectives in CSE (A),FA16,20,13,90.90%,90.90%,1.59,N/A,N/A
+"Swanson, Steven James",CSE 91 - Perspectives in CSE (B),FA16,20,10,100.00%,100.00%,2.06,A (4.00),N/A
+"Swanson, Steven James",CSE 91 - Perspectives in CSE (C),FA16,17,10,90.00%,90.00%,2.9,A (4.00),N/A
+"Swanson, Steven James",CSE 91 - Perspectives in CSE (D),FA16,18,10,90.00%,90.00%,2.3,A (4.00),N/A
+"Gillespie, Gary N",CSE 95 - Tutor Apprentice (A),FA16,69,58,85.70%,98.20%,1.48,A (4.00),N/A
+"Cao, Yingjun",CSE 95 - Tutor Apprentice (B),FA16,64,55,87.30%,98.20%,1.38,A- (3.88),N/A
+"Cao, Yingjun",CSE 100 - Advanced Data Structures (A),S216,61,53,94.20%,94.20%,14.29,B+ (3.37),B (3.01)
+"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),S216,39,17,68.80%,50.00%,11.38,B+ (3.44),B- (2.99)
+"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (B),S216,32,29,92.90%,85.70%,16,B+ (3.67),B (3.17)
+"Powell, Thomas Allan",CSE 135 - Server-side Web Applications (A),S216,35,8,100.00%,100.00%,10.75,B (3.25),B (3.29)
+"Chu, Isaac Y",CSE 136 - Enterprise-class Web Applcatns (A),S216,29,10,100.00%,100.00%,6.5,B+ (3.50),B+ (3.56)
+"Mercati, Pietro",CSE 140 - Component&Desgn Tech/Digtl Sys (A),S216,69,38,100.00%,100.00%,8.28,A- (3.70),A- (3.72)
+"Mercati, Pietro",CSE 140L - Digital Systems Laboratory (A),S216,56,31,90.30%,100.00%,7.34,A- (3.81),A- (3.71)
+"Gillespie, Gary N",CSE 15L - Software Tools&Techniques Lab (A),S216,32,30,96.70%,86.70%,7.03,B+ (3.50),B+ (3.61)
+"Braun, Oliver",CSE 21 - Math/Algorithm&Systems Analys (A),S216,66,40,89.50%,94.70%,6.61,B+ (3.56),N/A
+"Jones, Miles E",CSE 21 - Math/Algorithm&Systems Analys (B),S216,26,19,100.00%,88.20%,8.63,B+ (3.35),B+ (3.52)
+"Marx, Susan S",CSE 5A - Introduction to Programming I (A),S216,51,23,89.50%,52.60%,8.82,B+ (3.65),B (3.27)
+"Gupta, Anjum",CSE 7 - Intro Programming MATLAB (A),S216,45,27,88.00%,88.00%,7.92,A- (3.76),B+ (3.47)
+"Paturi, Ramamohan",CSE 101 - Design & Analysis of Algorithm (A),S116,43,16,100.00%,93.80%,10.88,B (3.19),B- (2.84)
+"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),S116,36,14,91.70%,91.70%,6.17,A- (3.80),B- (3.00)
+"Yen, Dorothy",CSE 12 - Basic Data Struct & OO Design (A),S116,46,37,97.30%,86.50%,11.53,B+ (3.58),B- (2.76)
+"Chu, Isaac Y",CSE 132A - Database System Principles (A),S116,90,18,100.00%,100.00%,6.38,B+ (3.65),B+ (3.40)
+"Powell, Thomas Allan",CSE 134B - Web Client Languages (A),S116,34,8,100.00%,100.00%,12.25,B- (2.75),B (3.26)
+"Tseng, Hung-Wei",CSE 141 - Intro/Computer Architecture (A),S116,93,28,92.60%,96.30%,8.5,B (3.30),B+ (3.37)
+"Tseng, Hung-Wei",CSE 141L - Project/Computer Architecture (A),S116,95,23,73.70%,94.70%,13.17,B+ (3.68),B+ (3.57)
+"Saul, Lawrence",CSE 150 - Int Artif Intell:Search&Reason (A),S116,58,40,97.50%,97.50%,10.14,B (3.25),B (3.06)
+"Altintas De Callaf, Ilkay",CSE 15L - Software Tools&Techniques Lab (A),S116,45,20,77.80%,70.60%,6.26,A- (3.72),B+ (3.33)
+"Gillespie, Gary N",CSE 15L - Software Tools&Techniques Lab (A),S116,56,18,77.80%,88.20%,6.26,A- (3.72),B+ (3.33)
+"Cao, Yingjun",CSE 30 - Computer Organiz&Systms Progrm (A),S116,70,58,100.00%,93.10%,11.43,B+ (3.69),B+ (3.40)
+"Marx, Susan S",CSE 5A - Introduction to Programming I (A),S116,44,15,90.00%,70.00%,7.3,B+ (3.44),B (3.20)
+"Alvarado, Christine J.",CSE 100 - Advanced Data Structures (A),SP16,192,165,92.10%,86.60%,10.79,B (3.23),B- (2.70)
+"Alvarado, Christine J.",CSE 100 - Advanced Data Structures (B),SP16,194,160,97.50%,97.50%,11.34,B (3.10),B- (2.70)
+"Kane, Daniel Mertz",CSE 101 - Design & Analysis of Algorithm (A),SP16,53,33,90.60%,90.60%,8.7,B (3.21),B (3.13)
+"Jones, Miles E",CSE 101 - Design & Analysis of Algorithm (B),SP16,196,71,94.10%,82.40%,7.17,B (3.21),B (3.15)
+"Jones, Miles E",CSE 101 - Design & Analysis of Algorithm (C),SP16,196,78,83.10%,85.90%,7.18,B (3.17),B (3.15)
+"Ferrante, Jeanne",CSE 105 - Intro/Theory of Computation (A),SP16,215,86,82.70%,96.30%,9.03,B (3.11),B- (2.82)
+"Minnes Kemp, Mor Mia",CSE 105 - Intro/Theory of Computation (B),SP16,213,85,82.10%,97.40%,9.29,B (3.10),B- (2.76)
+"Papadopoulos, Philip Micha",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),SP16,123,36,93.30%,90.00%,9.12,B (3.27),B (3.01)
+"Gillespie, Gary N",CSE 110 - Software Engineering (A),SP16,199,71,87.00%,87.00%,10.38,B+ (3.67),B+ (3.36)
+"Griswold, William G.",CSE 110 - Software Engineering (B),SP16,301,204,84.10%,60.70%,9.13,B+ (3.36),B- (2.94)
+"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),SP16,183,96,92.20%,86.70%,12.66,B+ (3.56),B (3.17)
+"Langlois, Marina",CSE 12 - Basic Data Struct & OO Design (B),SP16,157,75,95.70%,91.30%,11.57,B+ (3.42),B (3.05)
+"Langlois, Marina",CSE 12 - Basic Data Struct & OO Design (C),SP16,241,116,95.70%,87.80%,11.08,B+ (3.41),B (3.05)
+"Kesden, Gregory M",CSE 120 - Princ/Computer Operating Systm (A),SP16,189,69,78.00%,55.90%,10.25,B- (2.86),C+ (2.64)
+"Snoeren, Alex C.",CSE 123 - Computer Networks (A),SP16,129,41,90.00%,100.00%,9.42,B- (2.72),C+ (2.63)
+"Voelker, Geoffrey M.",CSE 125 - Software Sys Design & Implemnt (A),SP16,33,9,100.00%,100.00%,14.5,A (4.00),A (4.00)
+"Shacham, Hovav",CSE 127 - Intro to Computer Security (A),SP16,58,25,95.70%,95.70%,11.05,B (3.10),B- (2.95)
+"Jhala, Ranjit",CSE 130 - Progrmng Lang:Princpl&Paradigm (A),SP16,125,49,89.40%,89.40%,8.54,B (3.20),B (3.25)
+"Zhang, Weifeng",CSE 131 - Compiler Construction (A),SP16,265,81,68.00%,52.00%,15.38,B- (2.79),B- (2.86)
+"Papakonstantinou, Yannis",CSE 135 - Server-side Web Applications (A),SP16,155,41,71.80%,33.30%,9.32,B- (2.84),B (3.20)
+"Powell, Thomas Allan",CSE 136 - Enterprise-class Web Applcatns (A),SP16,52,18,100.00%,100.00%,10.74,B+ (3.53),B+ (3.38)
+"Mirza, Diba",CSE 140 - Component&Desgn Tech/Digtl Sys (A),SP16,192,127,89.00%,98.40%,7.05,B+ (3.34),B- (2.91)
+"Orailoglu, Alex",CSE 140 - Component&Desgn Tech/Digtl Sys (B),SP16,25,11,70.00%,40.00%,7.7,C+ (2.38),C (2.29)
+"Chu, Isaac Y",CSE 140L - Digital Systems Laboratory (A),SP16,158,52,81.30%,95.80%,4.95,B+ (3.62),B (3.14)
+"Chu, Isaac Y",CSE 140L - Digital Systems Laboratory (B),SP16,92,41,89.20%,94.60%,4.69,B+ (3.70),B (3.14)
+"Tseng, Hung-Wei",CSE 141 - Intro/Computer Architecture (A),SP16,276,182,75.40%,89.40%,7.47,B- (2.94),B+ (3.31)
+"Tullsen, Dean Michael",CSE 141 - Intro/Computer Architecture (B),SP16,158,58,76.80%,69.60%,7.54,B (3.00),B- (2.82)
+"Eldon, John",CSE 141L - Project/Computer Architecture (A),SP16,168,51,74.50%,91.50%,8.09,B+ (3.51),B+ (3.36)
+"Eldon, John",CSE 141L - Project/Computer Architecture (B),SP16,169,60,71.40%,91.10%,7.26,B+ (3.38),B+ (3.36)
+"Kastner, Ryan Charles",CSE 145 - Embedded System Design Project (A),SP16,28,18,88.20%,94.10%,10,A- (3.82),A (4.00)
+"Tullsen, Dean Michael",CSE 148 - Adv Processor Arch Design Proj (A),SP16,11,4,100.00%,100.00%,13,B (3.25),N/A
+"Cottrell, Garrison W",CSE 150 - Int Artif Intell:Search&Reason (A),SP16,190,58,84.90%,66.00%,8.7,B (3.06),B (3.26)
+"Mangione-Tran, Carmine",CSE 151 - Intro to A.I. Stats Approach (A),SP16,113,41,84.20%,55.30%,7.85,B+ (3.56),B+ (3.66)
+"Ochoa, Benjamin Lawrence",CSE 152 - Intro to Computer Vision (A),SP16,52,18,94.10%,94.10%,10.62,B+ (3.38),B+ (3.35)
+"Altintas De Callaf, Ilkay",CSE 15L - Software Tools&Techniques Lab (A),SP16,233,120,60.30%,68.10%,4.38,B (3.16),B (3.15)
+"Altintas De Callaf, Ilkay",CSE 15L - Software Tools&Techniques Lab (B),SP16,200,108,66.40%,68.20%,4.68,B+ (3.42),B (3.15)
+"Gillespie, Gary N",CSE 15L - Software Tools&Techniques Lab (C),SP16,136,65,68.30%,77.80%,3.71,B (3.16),B (3.04)
+"Schulze, Jurgen P.",CSE 167 - Computer Graphics (A),SP16,122,45,95.20%,92.90%,13.85,B+ (3.66),B+ (3.36)
+"Jensen, Henrik",CSE 168 - Computer Graphics II:Rendering (A),SP16,23,9,100.00%,66.70%,12.5,B+ (3.67),B+ (3.35)
+"Rotenberg, Steven Paul",CSE 169 - Computer Animation (A),SP16,35,13,100.00%,100.00%,9.12,B+ (3.45),B (3.18)
+"Bafna, Vineet",CSE 182 - Biological Databases (A),SP16,18,7,57.10%,14.30%,14.5,C+ (2.50),N/A
+"Mirza, Diba",CSE 190 - Topics/Computer Sci & Engineer (A),SP16,112,71,80.90%,95.60%,9.73,B+ (3.44),B+ (3.61)
+"Swanson, Steven James",CSE 190 - Topics/Computer Sci & Engineer (B),SP16,9,1,100.00%,100.00%,8.5,A (4.00),N/A
+"Kumar, Rakesh",CSE 190 - Topics/Computer Sci & Engineer (C),SP16,74,58,93.10%,89.70%,3.55,A- (3.72),B+ (3.50)
+"Hoover, Gregory William",CSE 190 - Topics/Computer Sci & Engineer (E),SP16,25,22,72.70%,63.60%,9.86,B+ (3.41),A- (3.79)
+"Kumar, Rakesh",CSE 190 - Topics/Computer Sci & Engineer (F),SP16,70,53,94.30%,94.30%,4.69,B+ (3.63),B+ (3.50)
+"Aksanli, Baris",CSE 190 - Topics/Computer Sci & Engineer (G),SP16,36,11,100.00%,100.00%,6.68,B (3.18),B- (2.84)
+"Taylor, Michael",CSE 190 - Topics/Computer Sci & Engineer (H),SP16,15,12,100.00%,83.30%,12,A (4.00),N/A
+"Bellare, Mihir",CSE 191 - Semnr/Computer Sci & Engineer (A),SP16,8,2,100.00%,100.00%,7.5,A (4.00),N/A
+"Halicioglu, Daniel T",CSE 191 - Semnr/Computer Sci & Engineer (B),SP16,14,5,100.00%,100.00%,1.7,N/A,N/A
+"Gaasterland, Theresa",CSE 191 - Semnr/Computer Sci & Engineer (C),SP16,61,28,100.00%,100.00%,1.83,A- (3.96),A- (3.93)
+"Minnes Kemp, Mor Mia",CSE 191 - Semnr/Computer Sci & Engineer (D),SP16,10,2,100.00%,100.00%,2.5,N/A,N/A
+"Micciancio, Daniele",CSE 191 - Semnr/Computer Sci & Engineer (E),SP16,15,8,100.00%,100.00%,1.17,N/A,N/A
+"Minnes Kemp, Mor Mia",CSE 20 - Intro/Discrete Mathematics (A),SP16,211,77,76.50%,92.60%,6.79,B+ (3.30),B- (2.95)
+"Grady, Daniel Carl",CSE 20 - Intro/Discrete Mathematics (C),SP16,156,64,68.90%,62.30%,6.81,B+ (3.35),B- (2.90)
+"Jones, Miles E",CSE 21 - Math/Algorithm&Systems Analys (B),SP16,183,75,76.10%,83.10%,6.53,B+ (3.38),B (3.10)
+"Impagliazzo, Russell",CSE 21 - Math/Algorithm&Systems Analys (D),SP16,265,119,73.00%,35.10%,6.59,B+ (3.44),B (3.13)
+"Marx, Susan S",CSE 3 - Fluency/Information Technology (A),SP16,134,50,85.70%,77.60%,4.29,B+ (3.52),B (3.21)
+"Marx, Susan S",CSE 3 - Fluency/Information Technology (B),SP16,149,51,93.80%,75.00%,3.33,B+ (3.66),B (3.21)
+"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),SP16,98,47,95.50%,86.40%,11.86,B+ (3.58),B (3.14)
+"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (C),SP16,359,152,88.30%,91.00%,12.9,B+ (3.48),B (3.14)
+"Marx, Susan S",CSE 7 - Intro Programming MATLAB (A),SP16,133,57,84.60%,76.90%,4.85,B+ (3.51),B (3.22)
+"Cottrell, Garrison W",CSE 87 - Freshman Seminar (A),SP16,15,8,71.40%,71.40%,0.5,A (4.00),N/A
+"Papakonstantinou, Yannis",CSE 87 - Freshman Seminar (B),SP16,14,4,100.00%,100.00%,1.5,N/A,N/A
+"Howden, William E.",CSE 87 - Freshman Seminar (C),SP16,9,4,100.00%,100.00%,0.5,N/A,N/A
+"Cao, Yingjun",CSE 8A - Intro/Computer Sci: Java (I) (A),SP16,188,170,94.70%,98.80%,8.35,B+ (3.48),B (3.06)
+"Cao, Yingjun",CSE 8B - Intro/Computer Sci. Java (II) (A),SP16,112,88,92.00%,97.70%,10.64,B+ (3.52),B (3.17)
+"Cao, Yingjun",CSE 8B - Intro/Computer Sci. Java (II) (B),SP16,155,129,96.10%,97.70%,9.64,B+ (3.52),B (3.17)
+"Alvarado, Christine J.",CSE 90 - Undergraduate Seminar (A),SP16,57,33,96.70%,96.70%,1.39,A (4.00),N/A
+"Swanson, Steven James",CSE 91 - Perspectives in CSE (C),SP16,14,4,100.00%,100.00%,0.5,B (3.00),N/A
+"Mirza, Diba",CSE 100 - Advanced Data Structures (A),WI16,131,105,93.30%,98.10%,10.83,B (3.22),C+ (2.56)
+"Alvarado, Christine J.",CSE 100 - Advanced Data Structures (B),WI16,141,129,96.80%,96.00%,11.32,B+ (3.31),B- (2.89)
+"Alvarado, Christine J.",CSE 100 - Advanced Data Structures (C),WI16,283,235,95.70%,94.90%,10.42,B+ (3.39),B- (2.89)
+"Kahng, Andrew Byun",CSE 101 - Design & Analysis of Algorithm (A),WI16,126,58,86.80%,77.40%,12.12,B (3.11),B- (2.95)
+"Jaiswal, Ragesh",CSE 101 - Design & Analysis of Algorithm (B),WI16,139,72,91.40%,75.70%,7.68,B+ (3.45),B- (2.95)
+"Jaiswal, Ragesh",CSE 101 - Design & Analysis of Algorithm (C),WI16,50,23,85.00%,65.00%,7.8,B- (2.88),B- (2.95)
+"Shacham, Hovav",CSE 105 - Intro/Theory of Computation (A),WI16,122,52,73.50%,81.60%,7.23,C+ (2.47),C (2.02)
+"Bellare, Mihir",CSE 107 - Intro to Modern Cryptography (A),WI16,45,17,92.90%,100.00%,8.96,B (3.08),B+ (3.54)
+"Papadopoulos, Philip Micha",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),WI16,123,54,90.40%,80.80%,10.42,B+ (3.37),B- (2.72)
+"Jundt, Adam H",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (B),WI16,161,76,94.30%,94.30%,10.96,A- (3.70),B+ (3.41)
+"Jundt, Adam H",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (C),WI16,118,57,88.90%,92.60%,11.17,B+ (3.59),B+ (3.41)
+"Kesden, Gregory M",CSE 110 - Software Engineering (A),WI16,169,78,82.90%,57.90%,6.77,B+ (3.58),B+ (3.34)
+"Kesden, Gregory M",CSE 110 - Software Engineering (B),WI16,156,65,85.70%,66.70%,7.7,B+ (3.65),B+ (3.34)
+"Powell, Thomas Allan",CSE 112 - Advanced Software Engineering (A),WI16,115,37,88.60%,94.30%,8.03,B+ (3.32),B (3.24)
+"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),WI16,168,104,99.00%,92.80%,11.39,B+ (3.58),B (3.08)
+"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (B),WI16,111,68,98.40%,92.20%,12.63,B+ (3.62),B (3.08)
+"Langlois, Marina",CSE 12 - Basic Data Struct & OO Design (C),WI16,126,55,90.40%,80.80%,9.35,B+ (3.38),B- (2.93)
+"Langlois, Marina",CSE 12 - Basic Data Struct & OO Design (D),WI16,126,66,96.80%,83.90%,8.63,B+ (3.42),B- (2.93)
+"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A),WI16,275,154,95.40%,96.70%,9.47,B+ (3.32),B- (2.92)
+"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (B),WI16,141,71,97.10%,98.50%,9.38,B (3.25),B- (2.92)
+"Porter, George M",CSE 124 - Networked Services (A),WI16,135,57,94.60%,98.20%,7.85,B+ (3.55),B+ (3.39)
+"Lerner, Sorin",CSE 130 - Progrmng Lang:Princpl&Paradigm (A),WI16,184,159,95.60%,95.60%,7.93,B+ (3.35),B+ (3.49)
+"Zhang, Weifeng",CSE 131 - Compiler Construction (A),WI16,190,66,71.40%,63.50%,13.69,B- (2.80),B- (2.82)
+"Vianu, Victor Dan",CSE 132A - Database System Principles (A),WI16,331,130,80.60%,69.40%,6.22,B+ (3.34),B- (2.71)
+"Deutsch, Alin Bernard",CSE 132B - Database System Applications (A),WI16,66,26,76.00%,68.00%,9.42,B (3.13),B+ (3.41)
+"Cheng, Chung Kuan",CSE 140 - Component&Desgn Tech/Digtl Sys (A),WI16,387,316,82.50%,78.00%,6.76,B+ (3.51),B (3.26)
+"Chu, Isaac Y",CSE 140L - Digital Systems Laboratory (A),WI16,188,95,84.80%,95.70%,5.14,A- (3.70),B+ (3.59)
+"Chu, Isaac Y",CSE 140L - Digital Systems Laboratory (B),WI16,175,97,77.70%,94.70%,6.06,A- (3.71),B+ (3.59)
+"Yang, Shengqi",CSE 141 - Intro/Computer Architecture (B),WI16,278,130,77.50%,75.20%,7.19,B (3.07),B (3.06)
+"Eldon, John",CSE 141L - Project/Computer Architecture (A),WI16,150,59,64.80%,87.00%,7.99,B+ (3.43),B+ (3.41)
+"Eldon, John",CSE 141L - Project/Computer Architecture (B),WI16,133,49,78.30%,97.80%,7.79,B (3.28),B+ (3.41)
+"Gupta, Rajesh K.",CSE 143 - Microelectronic System Design (A),WI16,31,13,83.30%,83.30%,7.83,B (3.08),B+ (3.32)
+"Langlois, Marina",CSE 150 - Int Artif Intell:Search&Reason (A),WI16,148,63,93.40%,70.50%,8.84,B (3.24),B- (2.90)
+"Chaudhuri, Kamalika",CSE 151 - Intro to A.I. Stats Approach (A),WI16,163,65,82.80%,90.60%,7.18,B (3.29),B+ (3.62)
+"Gillespie, Gary N",CSE 15L - Software Tools&Techniques Lab (B),WI16,146,88,76.50%,81.20%,3.27,B+ (3.47),B- (2.97)
+"Altintas De Callaf, Ilkay",CSE 15L - Software Tools&Techniques Lab (C),WI16,197,113,66.30%,58.70%,3.46,B+ (3.45),B (3.02)
+"Altintas De Callaf, Ilkay",CSE 15L - Software Tools&Techniques Lab (D),WI16,175,100,59.60%,63.80%,3.51,B+ (3.48),B (3.02)
+"Baden, Scott B.",CSE 160 - Intro to Parallel Computing (A),WI16,105,48,89.40%,85.10%,7.95,B+ (3.30),B- (2.96)
+"Schulze, Jurgen P.",CSE 165 - 3D User Interaction (A),WI16,35,20,94.40%,100.00%,9.94,A- (3.83),A- (3.73)
+"Klemmer, Scott R",CSE 170 - Interaction Design (A),WI16,124,42,87.80%,92.70%,10.15,B+ (3.44),B+ (3.41)
+"Pevzner, Pavel Arkadjevich",CSE 181 - Molecular Sequence Analysis (A),WI16,10,5,80.00%,60.00%,13.3,B (3.00),N/A
+"Paturi, Ramamohan",CSE 190 - Topics/Computer Sci & Engineer (A),WI16,45,14,83.30%,91.70%,5.83,B+ (3.58),B+ (3.58)
+"Ramamoorthi, Ravi",CSE 190 - Topics/Computer Sci & Engineer (B),WI16,35,30,96.70%,100.00%,11.3,B+ (3.33),B+ (3.70)
+"Weibel, Nadir",CSE 190 - Topics/Computer Sci & Engineer (C),WI16,18,8,87.50%,87.50%,5.5,B+ (3.63),N/A
+"Kumar, Rakesh",CSE 190 - Topics/Computer Sci & Engineer (D),WI16,75,22,95.50%,90.90%,3.64,A- (3.76),B+ (3.55)
+"Taylor, Michael",CSE 190 - Topics/Computer Sci & Engineer (E),WI16,14,10,100.00%,100.00%,9.5,A- (3.75),N/A
+"Halicioglu, Daniel T",CSE 191 - Semnr/Computer Sci & Engineer (A),WI16,26,11,90.00%,90.00%,1.5,A (4.00),B (3.00)
+"Minnes Kemp, Mor Mia",CSE 191 - Semnr/Computer Sci & Engineer (B),WI16,8,3,100.00%,100.00%,6.5,N/A,N/A
+"Minnes Kemp, Mor Mia",CSE 20 - Intro/Discrete Mathematics (A),WI16,354,183,75.10%,88.40%,7.08,B (3.24),B (3.04)
+"Minnes Kemp, Mor Mia",CSE 20 - Intro/Discrete Mathematics (B),WI16,157,65,77.80%,82.50%,6.47,B (3.27),B (3.04)
+"Tiefenbruck, Janine LoBue",CSE 21 - Math/Algorithm&Systems Analys (A),WI16,116,44,85.00%,87.50%,7.13,B+ (3.39),B (3.10)
+"Jones, Miles E",CSE 21 - Math/Algorithm&Systems Analys (B),WI16,129,51,91.80%,87.80%,6.59,B+ (3.50),B (3.02)
+"Tiefenbruck, Janine LoBue",CSE 21 - Math/Algorithm&Systems Analys (C),WI16,141,65,85.50%,91.90%,6.93,B+ (3.41),B (3.10)
+"Marx, Susan S",CSE 3 - Fluency/Information Technology (A),WI16,172,86,91.40%,72.80%,4.18,B+ (3.62),B (3.21)
+"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),WI16,92,42,92.10%,89.50%,14.61,B (3.22),B- (2.93)
+"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (C),WI16,166,60,94.70%,93.00%,13.86,B+ (3.40),B- (2.93)
+"Marx, Susan S",CSE 7 - Intro Programming MATLAB (A),WI16,130,62,84.70%,67.80%,4.03,B+ (3.44),B (3.21)
+"Cottrell, Garrison W",CSE 87 - Freshman Seminar (A),WI16,14,9,100.00%,100.00%,3.61,N/A,N/A
+"Gillespie, Gary N",CSE 8A - Intro/Computer Sci: Java (I) (B),WI16,187,175,94.20%,66.90%,6.92,B+ (3.51),B (3.21)
+"Kesden, Gregory M",CSE 8A - Intro/Computer Sci: Java (I) (D),WI16,174,169,92.90%,65.10%,6.79,B+ (3.64),B (3.17)
+"Cao, Yingjun",CSE 8B - Intro/Computer Sci. Java (II) (A),WI16,250,208,97.60%,96.60%,9.69,B+ (3.52),B (3.20)
+"Cao, Yingjun",CSE 8B - Intro/Computer Sci. Java (II) (B),WI16,238,207,96.10%,97.10%,9.79,B+ (3.52),B (3.20)
+"Alvarado, Christine J.",CSE 90 - Undergraduate Seminar (B),WI16,81,45,97.70%,100.00%,1.04,A (4.00),N/A
+"Bandeira, Nuno Filipe Cabrita",CSE 100 - Advanced Data Structures (A),FA15,148,69,92.20%,84.40%,10.06,B (3.11),B (3.14)
+"Bandeira, Nuno Filipe Cabrita",CSE 100 - Advanced Data Structures (B),FA15,148,54,94.10%,92.20%,9.6,B+ (3.31),B (3.14)
+"Sahoo, Debashis",CSE 100 - Advanced Data Structures (C),FA15,79,42,90.20%,65.90%,9,B+ (3.50),B (3.17)
+"Dasgupta, Sanjoy",CSE 101 - Design & Analysis of Algorithm (A),FA15,175,70,98.50%,97.10%,7.27,B+ (3.39),B (3.07)
+"Jaiswal, Ragesh",CSE 101 - Design & Analysis of Algorithm (B),FA15,110,53,90.00%,40.00%,6.74,B- (2.73),B- (2.95)
+"Jones, Miles E",CSE 101 - Design & Analysis of Algorithm (C),FA15,136,65,92.10%,96.80%,6.5,B+ (3.48),B+ (3.41)
+"Freund, Yoav",CSE 103 - Practical Intro/Prob & Stats (A),FA15,271,102,67.70%,61.60%,5.14,B+ (3.46),B+ (3.34)
+"Micciancio, Daniele",CSE 105 - Intro/Theory of Computation (A),FA15,83,21,68.40%,36.80%,8.63,B- (2.75),B- (2.84)
+"Micciancio, Daniele",CSE 105 - Intro/Theory of Computation (B),FA15,62,23,78.30%,69.60%,8.33,B (3.09),B- (2.84)
+"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),FA15,167,81,100.00%,97.30%,10.34,A- (3.76),B+ (3.45)
+"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (B),FA15,169,95,93.10%,98.90%,10.5,B+ (3.69),B+ (3.45)
+"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (C),FA15,162,85,91.30%,93.80%,12.37,B+ (3.55),B+ (3.45)
+"Kesden, Gregory M",CSE 110 - Software Engineering (A),FA15,146,65,95.00%,63.30%,7.57,B+ (3.62),A- (3.80)
+"Kesden, Gregory M",CSE 110 - Software Engineering (B),FA15,146,77,88.90%,54.20%,7.35,B+ (3.51),A- (3.80)
+"Weibel, Nadir",CSE 118 - Ubiquitous Computing (A),FA15,32,14,85.70%,100.00%,7.36,B+ (3.64),B+ (3.64)
+"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),FA15,63,25,95.70%,95.70%,15.8,B+ (3.57),B (3.06)
+"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (B),FA15,85,49,95.30%,93.00%,15.4,B+ (3.32),B (3.06)
+"Langlois, Marina",CSE 12 - Basic Data Struct & OO Design (C),FA15,50,19,94.10%,88.20%,10.63,B- (2.88),B- (2.79)
+"Langlois, Marina",CSE 12 - Basic Data Struct & OO Design (D),FA15,71,30,96.40%,89.30%,10.43,B (3.29),B- (2.79)
+"Voelker, Geoffrey M.",CSE 120 - Princ/Computer Operating Systm (A),FA15,185,72,91.20%,98.50%,11.68,B+ (3.34),B (3.03)
+"Zhou, Yuan-Yuan",CSE 120 - Princ/Computer Operating Systm (B),FA15,128,54,84.30%,62.70%,11.15,B- (2.81),B- (2.84)
+"Snoeren, Alex C.",CSE 123 - Computer Networks (A),FA15,87,23,80.00%,95.00%,10.82,B- (2.79),B- (2.74)
+"Savage, Stefan Roberts",CSE 127 - Intro to Computer Security (A),FA15,152,54,96.20%,94.30%,5.78,B (3.06),B- (2.82)
+"Jhala, Ranjit",CSE 130 - Progrmng Lang:Princpl&Paradigm (A),FA15,193,84,97.40%,97.40%,8.42,B (3.29),B (3.03)
+"Bournoutian, Garo",CSE 131 - Compiler Construction (A),FA15,169,142,66.20%,90.80%,16.7,B- (2.83),C+ (2.61)
+"Deutsch, Alin Bernard",CSE 132A - Database System Principles (A),FA15,175,65,88.50%,68.90%,6.33,B (3.21),B- (2.73)
+"Powell, Thomas Allan",CSE 134B - Web Client Languages (A),FA15,113,44,62.50%,55.00%,8.2,B- (2.95),B- (2.93)
+"Rosing, Tajana Simunic",CSE 140 - Component&Desgn Tech/Digtl Sys (A),FA15,183,169,86.90%,83.30%,7.72,B (3.11),B (3.12)
+"Rosing, Tajana Simunic",CSE 140 - Component&Desgn Tech/Digtl Sys (B),FA15,154,141,85.60%,77.70%,8.43,B (3.15),B (3.12)
+"Gayles, Eric S",CSE 140L - Digital Systems Laboratory (A),FA15,182,76,77.00%,66.20%,4.09,B+ (3.53),B+ (3.67)
+"Gayles, Eric S",CSE 140L - Digital Systems Laboratory (B),FA15,171,75,76.40%,68.10%,4.5,A- (3.79),B+ (3.67)
+"Porter, Leonard Emerson",CSE 141 - Intro/Computer Architecture (A),FA15,346,255,84.30%,96.50%,7.12,B (3.12),B- (2.90)
+"Eldon, John",CSE 141L - Project/Computer Architecture (A),FA15,126,33,72.40%,86.20%,10.12,B (3.11),B (3.27)
+"Eldon, John",CSE 141L - Project/Computer Architecture (B),FA15,123,52,60.40%,91.70%,9.72,B (3.11),B (3.27)
+"Altintas De Callaf, Ilkay",CSE 15L - Software Tools&Techniques Lab (A),FA15,144,88,77.30%,72.70%,4.41,B (3.25),B (3.08)
+"Altintas De Callaf, Ilkay",CSE 15L - Software Tools&Techniques Lab (B),FA15,112,68,81.30%,76.60%,4.69,B+ (3.45),B (3.08)
+"Gillespie, Gary N",CSE 15L - Software Tools&Techniques Lab (C),FA15,83,54,83.00%,79.20%,4.76,B (3.25),B- (2.81)
+"Schulze, Jurgen P.",CSE 167 - Computer Graphics (A),FA15,89,35,93.80%,96.90%,12.9,B+ (3.34),B (3.20)
+"McAuley, Julian John",CSE 190 - Topics/Computer Sci & Engineer (A),FA15,84,31,85.70%,92.90%,8.42,B+ (3.46),B+ (3.48)
+"Chockalingam, Ganapathy",CSE 190 - Topics/Computer Sci & Engineer (B),FA15,50,13,90.90%,90.90%,7.77,B+ (3.64),B+ (3.40)
+"Cottrell, Garrison W",CSE 190 - Topics/Computer Sci & Engineer (C),FA15,40,16,92.90%,92.90%,11.5,B (3.21),B (3.04)
+"Kumar, Rakesh",CSE 190 - Topics/Computer Sci & Engineer (D),FA15,65,22,90.00%,90.00%,4,B+ (3.65),B+ (3.42)
+"Kunin, Jay Stuart",CSE 190 - Topics/Computer Sci & Engineer (E),FA15,37,10,80.00%,80.00%,5.9,B+ (3.60),B+ (3.53)
+"Alvarado, Christine J.",CSE 191 - Semnr/Computer Sci & Engineer (A),FA15,15,9,100.00%,100.00%,4.5,A (4.00),N/A
+"Alvarado, Christine J.",CSE 191 - Semnr/Computer Sci & Engineer (B),FA15,15,8,100.00%,100.00%,4,A (4.00),N/A
+"Halicioglu, Daniel T",CSE 191 - Semnr/Computer Sci & Engineer (C),FA15,11,4,100.00%,100.00%,0.5,N/A,N/A
+"Minnes Kemp, Mor Mia",CSE 191 - Semnr/Computer Sci & Engineer (D),FA15,13,4,100.00%,100.00%,9,A (4.00),N/A
+"Lovett, Shachar",CSE 20 - Intro/Discrete Mathematics (A),FA15,140,73,88.70%,81.70%,5.5,B+ (3.62),B+ (3.48)
+"Lovett, Shachar",CSE 20 - Intro/Discrete Mathematics (B),FA15,137,58,88.70%,86.80%,5.87,B+ (3.61),B+ (3.48)
+"Jones, Miles E",CSE 20 - Intro/Discrete Mathematics (C),FA15,93,56,92.60%,83.30%,6,B+ (3.62),B+ (3.59)
+"Tiefenbruck, Janine LoBue",CSE 21 - Math/Algorithm&Systems Analys (A),FA15,164,83,82.30%,89.90%,6.88,B+ (3.35),B (3.21)
+"Tiefenbruck, Janine LoBue",CSE 21 - Math/Algorithm&Systems Analys (B),FA15,143,72,92.30%,98.50%,7.53,B+ (3.60),B (3.21)
+"Minnes Kemp, Mor Mia",CSE 21 - Math/Algorithm&Systems Analys (C),FA15,173,84,86.30%,97.50%,7.59,B (3.25),B- (2.99)
+"Marx, Susan S",CSE 3 - Fluency/Information Technology (A),FA15,162,65,91.90%,71.00%,4.07,B+ (3.61),B+ (3.31)
+"Marx, Susan S",CSE 3 - Fluency/Information Technology (B),FA15,109,56,87.80%,81.60%,3.64,B+ (3.66),B+ (3.31)
+"Mirza, Diba",CSE 30 - Computer Organiz&Systms Progrm (A),FA15,150,110,96.20%,94.30%,10.16,B+ (3.37),B- (2.99)
+"Mirza, Diba",CSE 30 - Computer Organiz&Systms Progrm (B),FA15,178,118,91.50%,91.50%,10.74,B (3.26),B- (2.99)
+"Mirza, Diba",CSE 30 - Computer Organiz&Systms Progrm (C),FA15,130,91,94.50%,95.60%,9.33,B (3.30),B- (2.99)
+"Marx, Susan S",CSE 5A - Introduction to Programming I (A),FA15,73,34,87.50%,71.90%,6.31,B+ (3.44),B- (2.85)
+"Cottrell, Garrison W",CSE 87 - Freshman Seminar (A),FA15,17,12,90.90%,100.00%,1.77,A (4.00),N/A
+"Papakonstantinou, Yannis",CSE 87 - Freshman Seminar (B),FA15,17,9,100.00%,88.90%,0.5,N/A,N/A
+"Alvarado, Christine J.",CSE 8A - Intro/Computer Sci: Java (I) (A),FA15,374,313,96.80%,98.10%,7.02,B+ (3.52),B (3.26)
+"Cao, Yingjun",CSE 8A - Intro/Computer Sci: Java (I) (C),FA15,143,122,96.70%,96.70%,5.82,B+ (3.65),B+ (3.30)
+"Cao, Yingjun",CSE 8A - Intro/Computer Sci: Java (I) (D),FA15,145,126,96.80%,100.00%,6.24,A- (3.75),B+ (3.30)
+"Jundt, Adam H",CSE 8B - Intro/Computer Sci. Java (II) (A),FA15,100,53,96.20%,100.00%,10.12,B+ (3.59),B+ (3.62)
+"Gillespie, Gary N",CSE 90 - Undergraduate Seminar (A),FA15,70,53,98.00%,96.00%,1.43,A- (3.82),N/A
+"Cao, Yingjun",CSE 90 - Undergraduate Seminar (B),FA15,59,46,91.30%,97.80%,0.81,A (4.00),N/A
+"Swanson, Steven James",CSE 91 - Perspectives in CSE (B),FA15,12,9,100.00%,100.00%,0.5,A (4.00),N/A
+"Swanson, Steven James",CSE 91 - Perspectives in CSE (C),FA15,14,8,100.00%,100.00%,0.5,A (4.00),N/A
+"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),S215,40,15,85.70%,71.40%,10.19,B+ (3.50),B (3.01)
+"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),S215,26,6,100.00%,100.00%,15.7,B+ (3.33),B (3.27)
+"Shonle, Macneil Charles",CSE 130 - Progrmng Lang:Princpl&Paradigm (A),S215,73,27,85.20%,66.70%,6.88,B+ (3.41),B+ (3.65)
+"Chu, Isaac Y",CSE 136 - Enterprise-class Web Applcatns (A),S215,48,5,100.00%,100.00%,11.7,A (4.00),B (3.29)
+"Gillespie, Gary N",CSE 15L - Software Tools&Techniques Lab (A),S215,26,5,40.00%,100.00%,2.9,B+ (3.60),B (3.15)
+"Hoover, Gregory William",CSE 190 - Topics/Computer Sci & Engineer (B),S215,31,25,100.00%,100.00%,15.67,B+ (3.58),A- (3.78)
+"Minnes Kemp, Mor Mia",No CAPEs submitted,S215,7,0,N/A,N/A,N/A,N/A,N/A
+"Rhodes, Neil Campbell",CSE 20 - Intro/Discrete Mathematics (A),S215,9,3,50.00%,100.00%,6.5,B (3.00),N/A
+"Tiefenbruck, Janine LoBue",CSE 21 - Math/Algorithm&Systems Analys (A),S215,18,3,100.00%,100.00%,7.17,B+ (3.67),N/A
+"Marx, Susan S",CSE 5A - Introduction to Programming I (A),S215,49,28,88.50%,57.70%,8.65,A- (3.73),B+ (3.44)
+"Paturi, Ramamohan",CSE 101 - Design & Analysis of Algorithm (A),S115,35,11,100.00%,72.70%,9.41,B+ (3.30),B+ (3.51)
+"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),S115,42,7,85.70%,57.10%,13.36,B (3.20),B (3.12)
+"Shonle, Macneil Charles",CSE 12 - Basic Data Struct & OO Design (A),S115,95,31,93.10%,86.20%,8.65,B+ (3.64),B+ (3.32)
+"Powell, Thomas Allan",CSE 134B - Web Client Languages (A),S115,90,29,96.30%,92.60%,9.31,B (3.00),B (3.26)
+"Mirza, Diba",CSE 140 - Component&Desgn Tech/Digtl Sys (A),S115,99,86,97.70%,97.70%,8.66,B+ (3.62),B+ (3.44)
+"Chu, Isaac Y",CSE 140L - Digital Systems Laboratory (A),S115,95,44,93.00%,86.00%,7.55,A- (3.75),B+ (3.54)
+"Altintas De Callaf, Ilkay",CSE 15L - Software Tools&Techniques Lab (A),S115,59,15,100.00%,85.70%,7.41,A- (3.75),B (3.24)
+"Frankie, Tasha Christine",CSE 3 - Fluency/Information Technology (A),S115,22,10,90.00%,90.00%,5.83,A- (3.78),A- (3.72)
+"Mirza, Diba",CSE 30 - Computer Organiz&Systms Progrm (A),S115,50,36,97.20%,97.20%,9.67,B+ (3.33),B- (2.99)
+"Pasquale, Joseph",CSE 4GS - Mathematical Beauty in Rome (A),S115,14,2,100.00%,100.00%,4.5,A (4.00),N/A
+"Marx, Susan S",CSE 5A - Introduction to Programming I (A),S115,36,12,100.00%,66.70%,7.61,B+ (3.60),B+ (3.33)
+"Pasquale, Joseph",CSE 6GS - Mathematicl Beauty in Rome-Lab (A),S115,14,1,100.00%,100.00%,2.5,A (4.00),N/A
+"Gupta, Anjum",CSE 7 - Intro Programming MATLAB (A),S115,26,10,100.00%,80.00%,6.3,B+ (3.67),B (3.16)
+"Mirza, Diba",CSE 100 - Advanced Data Structures (A),SP15,194,149,96.60%,97.30%,10.73,B (3.18),B (3.17)
+"Sahoo, Debashis",CSE 100 - Advanced Data Structures (B),SP15,192,160,91.90%,55.00%,10.14,B (3.28),B (3.25)
+"Glick, John H",CSE 101 - Design & Analysis of Algorithm (A),SP15,138,60,82.10%,82.10%,7.69,B (3.08),B (3.04)
+"Glick, John H",CSE 101 - Design & Analysis of Algorithm (B),SP15,139,54,94.40%,90.70%,8.65,B+ (3.48),B (3.04)
+"Kulikov, Alexander",CSE 101 - Design & Analysis of Algorithm (C),SP15,80,37,85.70%,77.10%,11.56,B (3.26),B- (2.95)
+"Ferrante, Jeanne",CSE 105 - Intro/Theory of Computation (A),SP15,189,168,76.20%,95.20%,7.6,B (3.08),B- (2.80)
+"Ferrante, Jeanne",CSE 105 - Intro/Theory of Computation (B),SP15,188,160,74.80%,96.20%,8.05,B- (2.99),B- (2.80)
+"Papadopoulos, Philip Micha",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),SP15,147,48,95.30%,86.00%,11.06,B+ (3.44),B- (2.92)
+"Gillespie, Gary N",CSE 110 - Software Engineering (A),SP15,191,94,85.40%,79.80%,11.03,B+ (3.38),B (3.28)
+"Menarini, Massimiliano",CSE 110 - Software Engineering (B),SP15,139,93,78.30%,65.20%,8.34,B+ (3.38),B (3.19)
+"Alvarado, Christine J.",CSE 12 - Basic Data Struct & OO Design (A),SP15,176,160,94.90%,95.60%,10.79,B (3.30),B- (2.75)
+"Alvarado, Christine J.",CSE 12 - Basic Data Struct & OO Design (B),SP15,183,157,97.40%,96.80%,11.34,B+ (3.38),B- (2.75)
+"Shonle, Macneil Charles",CSE 12 - Basic Data Struct & OO Design (C),SP15,141,63,90.50%,50.80%,5.33,B+ (3.68),B+ (3.62)
+"Shonle, Macneil Charles",CSE 12 - Basic Data Struct & OO Design (D),SP15,135,58,91.40%,55.20%,5.18,A- (3.80),B+ (3.62)
+"Klemperer, Peter Friedrich",CSE 120 - Princ/Computer Operating Systm (B),SP15,136,50,85.70%,69.40%,9.69,B (3.21),B- (2.86)
+"Savage, Stefan Roberts",CSE 123 - Computer Networks (A),SP15,102,63,88.10%,91.50%,8.05,B- (2.78),B- (2.98)
+"Voelker, Geoffrey M.",CSE 125 - Software Sys Design & Implemnt (A),SP15,34,11,100.00%,100.00%,17.1,A (4.00),A (4.00)
+"Shacham, Hovav",CSE 127 - Intro to Computer Security (A),SP15,94,31,93.50%,96.80%,10.9,B- (2.97),C (2.02)
+"Jhala, Ranjit",CSE 130 - Progrmng Lang:Princpl&Paradigm (A),SP15,174,55,86.50%,80.80%,8.34,B- (2.96),B (3.09)
+"Bournoutian, Garo",CSE 131 - Compiler Construction (A),SP15,142,116,63.50%,80.00%,16.71,B- (2.89),C+ (2.49)
+"Powell, Thomas Allan",CSE 134B - Web Client Languages (A),SP15,113,35,87.50%,81.30%,8.56,B- (2.93),B- (3.00)
+"Papakonstantinou, Yannis",CSE 135 - Server-side Web Applications (A),SP15,137,39,83.80%,70.30%,11.15,B+ (3.31),B- (2.95)
+"Rosing, Tajana Simunic",CSE 140 - Component&Desgn Tech/Digtl Sys (A),SP15,177,155,86.90%,86.30%,6.7,B (3.24),C+ (2.66)
+"Rosing, Tajana Simunic",CSE 140 - Component&Desgn Tech/Digtl Sys (B),SP15,135,112,90.10%,92.80%,6.69,B (3.12),C+ (2.66)
+"Gayles, Eric S",CSE 140L - Digital Systems Laboratory (A),SP15,183,82,74.70%,74.70%,5.65,A- (3.78),B+ (3.66)
+"Chu, Isaac Y",CSE 140L - Digital Systems Laboratory (B),SP15,190,89,72.30%,95.20%,5.13,B+ (3.60),B+ (3.56)
+"Taylor, Michael",CSE 141 - Intro/Computer Architecture (A),SP15,146,47,57.40%,57.40%,8.68,B- (2.78),B (3.00)
+"Mirza, Diba",CSE 141 - Intro/Computer Architecture (B),SP15,140,107,88.80%,98.10%,6.17,B (3.09),B- (2.97)
+"Eldon, John",CSE 141L - Project/Computer Architecture (A),SP15,116,28,50.00%,89.30%,11.54,B (3.19),B+ (3.41)
+"Eldon, John",CSE 141L - Project/Computer Architecture (B),SP15,137,43,50.00%,92.10%,10.32,B- (2.88),B+ (3.41)
+"Gupta, Rajesh K.",CSE 143 - Microelectronic System Design (A),SP15,20,10,77.80%,77.80%,6.5,B (3.11),B+ (3.55)
+"Kastner, Ryan Charles",CSE 145 - Embedded System Design Project (A),SP15,24,19,100.00%,100.00%,13.87,B+ (3.68),A (4.00)
+"Tullsen, Dean Michael",CSE 148 - Adv Processor Arch Design Proj (A),SP15,9,8,100.00%,100.00%,12.5,B+ (3.38),N/A
+"Cottrell, Garrison W",CSE 150 - Int Artif Intell:Search&Reason (A),SP15,130,39,97.30%,75.70%,6.5,B (3.18),B (3.27)
+"Chaudhuri, Kamalika",CSE 151 - Intro to A.I. Stats Approach (A),SP15,168,51,88.00%,82.00%,7.77,B (3.26),B+ (3.57)
+"Ochoa, Benjamin Lawrence",CSE 152 - Intro to Computer Vision (A),SP15,51,15,78.60%,64.30%,9.58,B- (2.92),B (3.12)
+"Altintas De Callaf, Ilkay",CSE 15L - Software Tools&Techniques Lab (A),SP15,190,96,72.00%,78.50%,3.75,B+ (3.53),B (3.12)
+"Altintas De Callaf, Ilkay",CSE 15L - Software Tools&Techniques Lab (B),SP15,198,91,74.40%,81.10%,4.06,B+ (3.64),B (3.12)
+"Gillespie, Gary N",CSE 15L - Software Tools&Techniques Lab (C),SP15,134,63,66.10%,74.20%,3.64,B+ (3.34),B- (2.97)
+"Baden, Scott B.",CSE 160 - Intro to Parallel Computing (A),SP15,59,16,71.40%,57.10%,9.21,B (3.07),B- (2.82)
+"Schulze, Jurgen P.",CSE 167 - Computer Graphics (A),SP15,54,17,88.20%,100.00%,15.79,B+ (3.47),B+ (3.30)
+"Jensen, Henrik",CSE 168 - Computer Graphics II:Rendering (A),SP15,30,7,100.00%,100.00%,10.83,B+ (3.33),C+ (2.61)
+"Lovett, Shachar",CSE 190 - Topics/Computer Sci & Engineer (A),SP15,25,7,57.10%,57.10%,10.79,B+ (3.50),B+ (3.54)
+"Ramamoorthi, Ravi",CSE 190 - Topics/Computer Sci & Engineer (B),SP15,33,25,100.00%,100.00%,10.42,A- (3.90),B+ (3.67)
+"McAuley, Julian John",CSE 190 - Topics/Computer Sci & Engineer (C),SP15,126,41,92.30%,94.90%,6.82,B+ (3.35),B+ (3.55)
+"Kumar, Rakesh",CSE 190 - Topics/Computer Sci & Engineer (D),SP15,73,28,88.50%,88.50%,4.67,B+ (3.68),B+ (3.49)
+"Gaasterland, Theresa",CSE 190 - Topics/Computer Sci & Engineer (E),SP15,44,17,93.30%,100.00%,7.3,A (4.00),A- (3.97)
+"Swanson, Steven James",CSE 190 - Topics/Computer Sci & Engineer (F),SP15,10,4,100.00%,100.00%,7,A (4.00),N/A
+"Bellare, Mihir",CSE 191 - Semnr/Computer Sci & Engineer (A),SP15,8,6,100.00%,100.00%,5.7,A (4.00),N/A
+"Gaasterland, Theresa",CSE 191 - Semnr/Computer Sci & Engineer (B),SP15,98,43,87.80%,97.60%,1.04,A- (3.97),A- (3.92)
+"Halicioglu, Daniel T",CSE 191 - Semnr/Computer Sci & Engineer (C),SP15,23,8,100.00%,100.00%,0.5,N/A,A (4.00)
+"Minnes Kemp, Mor Mia",CSE 191 - Semnr/Computer Sci & Engineer (D),SP15,5,3,100.00%,100.00%,7.17,N/A,N/A
+"Micciancio, Daniele",CSE 191 - Semnr/Computer Sci & Engineer (E),SP15,14,3,100.00%,100.00%,2.5,N/A,N/A
+"Langlois, Marina",CSE 20 - Intro/Discrete Mathematics (A),SP15,171,94,88.90%,74.40%,7.22,B+ (3.33),B+ (3.45)
+"Kim, Yeon Kyung",CSE 20 - Intro/Discrete Mathematics (B),SP15,180,78,84.60%,64.10%,5.4,B+ (3.54),B (3.04)
+"Tiefenbruck, Janine LoBue",CSE 21 - Math/Algorithm&Systems Analys (A),SP15,187,159,91.70%,95.50%,7.44,B+ (3.44),B (3.29)
+"Impagliazzo, Russell",CSE 21 - Math/Algorithm&Systems Analys (B),SP15,180,149,87.20%,66.90%,6.99,B+ (3.36),B (3.19)
+"Marx, Susan S",CSE 3 - Fluency/Information Technology (A),SP15,132,51,89.80%,71.40%,3.75,B+ (3.43),B (3.09)
+"Marx, Susan S",CSE 3 - Fluency/Information Technology (B),SP15,124,42,87.50%,62.50%,4.29,B+ (3.44),B (3.09)
+"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),SP15,161,77,100.00%,100.00%,11.04,B+ (3.50),B (3.09)
+"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (B),SP15,160,72,92.60%,95.60%,10.38,B+ (3.53),B (3.09)
+"Marx, Susan S",CSE 7 - Intro Programming MATLAB (A),SP15,116,42,85.00%,80.00%,4.75,B+ (3.61),B+ (3.34)
+"Cottrell, Garrison W",CSE 87 - Freshman Seminar (A),SP15,8,7,100.00%,71.40%,0.5,A (4.00),N/A
+"Papakonstantinou, Yannis",CSE 87 - Freshman Seminar (B),SP15,18,9,100.00%,100.00%,0.72,A (4.00),N/A
+"Klemperer, Peter Friedrich",CSE 8A - Intro/Computer Sci: Java (I) (A),SP15,168,120,94.00%,93.20%,6.43,B+ (3.39),B (3.16)
+"Porter, Leonard Emerson",CSE 8B - Intro/Computer Sci. Java (II) (A),SP15,127,94,91.50%,93.60%,11.43,B+ (3.40),B (3.07)
+"Ord, Richard",CSE 8B - Intro/Computer Sci. Java (II) (B),SP15,119,77,97.40%,98.70%,11.2,B+ (3.51),B (3.16)
+"Gillespie, Gary N",CSE 90 - Undergraduate Seminar (A),SP15,59,31,89.30%,92.90%,1.39,A (4.00),N/A
+"Alvarado, Christine J.",CSE 91 - Perspectives in CSE (A),SP15,35,22,90.90%,95.50%,3.86,A (4.00),N/A
+"Porter, Leonard Emerson",CSE 100 - Advanced Data Structures (A),WI15,193,148,94.60%,94.60%,10.46,B+ (3.43),B (3.07)
+"Alvarado, Christine J.",CSE 100 - Advanced Data Structures (B),WI15,196,139,96.40%,94.90%,12.5,B (3.14),C+ (2.51)
+"Kane, Daniel Mertz",CSE 101 - Design & Analysis of Algorithm (A),WI15,159,68,89.20%,76.90%,9.97,B (3.12),B (3.19)
+"Kahng, Andrew Byun",CSE 101 - Design & Analysis of Algorithm (B),WI15,137,40,87.50%,77.50%,9.3,B- (2.98),B+ (3.41)
+"Shacham, Hovav",CSE 105 - Intro/Theory of Computation (A),WI15,115,42,61.00%,73.20%,9.91,C+ (2.66),C- (2.00)
+"Micciancio, Daniele",CSE 105 - Intro/Theory of Computation (B),WI15,110,47,52.40%,50.00%,8.26,C+ (2.59),C- (1.97)
+"Bellare, Mihir",CSE 107 - Intro to Modern Cryptography (A),WI15,45,17,80.00%,73.30%,7.57,C+ (2.67),B- (2.85)
+"Papadopoulos, Philip Micha",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),WI15,151,101,94.90%,78.60%,10.56,B+ (3.52),B (3.13)
+"Jundt, Adam H",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (B),WI15,174,80,94.70%,90.80%,7.98,A- (3.73),B+ (3.52)
+"Arsanjani, Ali Paul",CSE 110 - Software Engineering (A),WI15,115,49,76.60%,25.50%,7.8,B+ (3.33),B (3.02)
+"Menarini, Massimiliano",CSE 110 - Software Engineering (B),WI15,109,59,54.50%,43.60%,6.35,B (3.25),B- (2.97)
+"Powell, Thomas Allan",CSE 112 - Advanced Software Engineering (A),WI15,116,59,90.40%,96.20%,6.7,B+ (3.42),B+ (3.33)
+"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),WI15,231,144,94.20%,84.80%,12.97,B+ (3.39),B (3.03)
+"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (B),WI15,158,99,96.80%,74.70%,11.85,B+ (3.40),B (3.03)
+"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A),WI15,144,86,91.60%,97.60%,9.99,B (3.20),B- (2.99)
+"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (B),WI15,144,73,98.60%,100.00%,9.38,B+ (3.41),B- (2.99)
+"Porter, George M",CSE 124 - Networked Services (A),WI15,102,39,88.20%,97.10%,7.65,B (3.24),B (3.11)
+"Lerner, Sorin",CSE 130 - Progrmng Lang:Princpl&Paradigm (A),WI15,163,133,96.20%,97.00%,7.94,B (3.29),B+ (3.43)
+"Bournoutian, Garo",CSE 131 - Compiler Construction (A),WI15,153,133,69.50%,88.50%,16.25,B- (2.75),C (2.27)
+"Vianu, Victor Dan",CSE 132A - Database System Principles (A),WI15,186,71,77.30%,65.20%,6.82,B (3.24),B (3.02)
+"Deutsch, Alin Bernard",CSE 132B - Database System Applications (A),WI15,69,22,76.20%,76.20%,7.2,B+ (3.42),B+ (3.31)
+"Mirza, Diba",CSE 140 - Component&Desgn Tech/Digtl Sys (A),WI15,141,111,88.90%,98.10%,6.43,B (3.20),B (3.12)
+"Mirza, Diba",CSE 140 - Component&Desgn Tech/Digtl Sys (B),WI15,144,113,90.00%,99.10%,6.37,B+ (3.31),B (3.12)
+"Gayles, Eric S",CSE 140L - Digital Systems Laboratory (A),WI15,142,57,69.80%,67.90%,8.11,B+ (3.55),A- (3.70)
+"Chu, Isaac Y",CSE 140L - Digital Systems Laboratory (B),WI15,139,62,88.30%,86.70%,5.76,A- (3.71),B+ (3.51)
+"Tullsen, Dean Michael",CSE 141 - Intro/Computer Architecture (A),WI15,66,17,88.20%,94.10%,7.56,B (3.18),B- (2.93)
+"Swanson, Steven James",CSE 141 - Intro/Computer Architecture (B),WI15,153,51,83.30%,79.20%,6.71,B (3.04),B (3.13)
+"Tullsen, Dean Michael",CSE 141L - Project/Computer Architecture (A),WI15,73,20,63.20%,78.90%,12.5,B+ (3.33),B+ (3.50)
+"Eldon, John",CSE 141L - Project/Computer Architecture (B),WI15,95,29,70.40%,88.90%,9.24,B (3.19),B (3.29)
+"Saul, Lawrence",CSE 150 - Int Artif Intell:Search&Reason (A),WI15,199,102,91.10%,94.10%,8.38,B (3.20),B- (2.92)
+"Gillespie, Gary N",CSE 15L - Software Tools&Techniques Lab (A),WI15,185,108,84.90%,85.80%,3.1,A- (3.75),B+ (3.41)
+"Altintas De Callaf, Ilkay",CSE 15L - Software Tools&Techniques Lab (B),WI15,183,94,76.90%,76.90%,3.1,A- (3.75),B (3.23)
+"Schulze, Jurgen P.",CSE 165 - 3D User Interaction (A),WI15,35,18,94.40%,100.00%,10.5,B+ (3.61),A- (3.90)
+"Rotenberg, Steven Paul",CSE 169 - Computer Animation (A),WI15,37,16,100.00%,100.00%,7.03,A- (3.73),B+ (3.35)
+"Klemmer, Scott R",CSE 170 - Introduction to HCI Design (A),WI15,95,38,90.60%,87.50%,8.89,B+ (3.32),B+ (3.37)
+"Pevzner, Pavel Arkadjevich",CSE 181 - Molecular Sequence Analysis (A),WI15,10,5,80.00%,60.00%,16.9,B (3.00),N/A
+"Cottrell, Garrison W",CSE 190 - Topics/Computer Sci & Engineer (A),WI15,28,11,100.00%,90.00%,6.06,A- (3.89),B+ (3.40)
+"Barngrover, Christopher M",CSE 190 - Topics/Computer Sci & Engineer (C),WI15,39,37,83.30%,94.40%,8.15,B+ (3.60),A- (3.78)
+"Weibel, Nadir",CSE 190 - Topics/Computer Sci & Engineer (D),WI15,11,4,100.00%,100.00%,11.5,A (4.00),N/A
+"Chockalingam, Ganapathy",CSE 190 - Topics/Computer Sci & Engineer (E),WI15,45,11,100.00%,90.90%,12.1,B+ (3.45),B+ (3.46)
+"Hoover, Gregory William",CSE 190 - Topics/Computer Sci & Engineer (F),WI15,31,17,100.00%,100.00%,11.25,B (3.00),B+ (3.59)
+"Kunin, Jay Stuart",CSE 190 - Topics/Computer Sci & Engineer (G),WI15,21,4,100.00%,100.00%,9.5,A (4.00),A- (3.74)
+"Halicioglu, Daniel T",CSE 191 - Semnr/Computer Sci & Engineer (A),WI15,27,16,71.40%,78.60%,0.68,A (4.00),B+ (3.55)
+"Minnes Kemp, Mor Mia",CSE 191 - Semnr/Computer Sci & Engineer (B),WI15,7,4,100.00%,100.00%,10.5,N/A,N/A
+"Pasquale, Joseph",CSE 192 - Senior Seminar in CSE (A),WI15,23,16,100.00%,100.00%,0.5,N/A,N/A
+"Lovett, Shachar",CSE 20 - Intro/Discrete Mathematics (A),WI15,200,93,80.00%,52.20%,5.87,B+ (3.34),B+ (3.34)
+"Tiefenbruck, Janine LoBue",CSE 21 - Math/Algorithm&Systems Analys (A),WI15,138,107,77.10%,80.00%,6.93,B (3.14),B (3.04)
+"Impagliazzo, Russell",CSE 21 - Math/Algorithm&Systems Analys (B),WI15,192,160,81.80%,55.30%,7.35,B+ (3.31),B (3.06)
+"Marx, Susan S",CSE 3 - Fluency/Information Technology (A),WI15,191,75,77.50%,54.90%,3.37,B+ (3.49),B+ (3.44)
+"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),WI15,173,64,96.60%,98.30%,11.64,B+ (3.44),B (3.17)
+"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (B),WI15,125,53,93.60%,93.60%,11.35,B+ (3.62),B (3.17)
+"Marx, Susan S",CSE 7 - Intro Programming MATLAB (A),WI15,120,48,77.80%,71.10%,3.73,B+ (3.47),B+ (3.37)
+"Papakonstantinou, Yannis",CSE 87 - Freshman Seminar (A),WI15,12,8,87.50%,100.00%,1.83,A (4.00),N/A
+"Cottrell, Garrison W",CSE 87 - Freshman Seminar (B),WI15,9,3,66.70%,66.70%,0.5,N/A,N/A
+"Pasquale, Joseph",CSE 87 - Freshman Seminar (C),WI15,14,12,100.00%,100.00%,0.7,N/A,N/A
+"Klemperer, Peter Friedrich",CSE 8A - Intro/Computer Sci: Java (I) (A),WI15,182,131,95.30%,92.20%,7.14,B+ (3.56),B+ (3.38)
+"Klemperer, Peter Friedrich",CSE 8A - Intro/Computer Sci: Java (I) (B),WI15,175,118,98.30%,88.80%,6.85,B+ (3.65),B+ (3.38)
+"Ord, Richard",CSE 8B - Intro/Computer Sci. Java (II) (A),WI15,163,116,97.40%,95.70%,11.73,B+ (3.52),B (3.19)
+"Porter, Leonard Emerson",CSE 8B - Intro/Computer Sci. Java (II) (B),WI15,244,202,97.50%,97.00%,9.74,B+ (3.57),B+ (3.40)
+"Alvarado, Christine J.",CSE 90 - Undergraduate Seminar (A),WI15,48,26,88.00%,96.00%,2.75,A (4.00),N/A
+"Mirza, Diba",CSE 100 - Advanced Data Structures (A),FA14,197,138,94.70%,93.10%,11.75,B (3.26),B (3.02)
+"Mirza, Diba",CSE 100 - Advanced Data Structures (B),FA14,183,131,92.90%,89.80%,10.75,B (3.13),B (3.02)
+"Dasgupta, Sanjoy",CSE 101 - Design & Analysis of Algorithm (A),FA14,265,120,92.80%,95.50%,7.78,B (3.04),B- (2.95)
+"Freund, Yoav",CSE 103 - Practical Intro/Prob & Stats (A),FA14,195,77,65.30%,59.70%,5.17,B+ (3.33),B+ (3.48)
+"Shacham, Hovav",CSE 105 - Intro/Theory of Computation (A),FA14,185,70,47.70%,67.70%,9.04,B- (2.80),C (2.19)
+"Porter, Jesse D",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),FA14,173,80,94.40%,73.60%,8.14,A- (3.75),B+ (3.68)
+"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (B),FA14,185,94,98.70%,100.00%,10.34,A- (3.82),A- (3.73)
+"Allos, Haytham Issa",CSE 110 - Software Engineering (A),FA14,165,69,76.60%,54.70%,8.44,B (3.23),B (3.26)
+"Arsanjani, Ali Paul",CSE 110 - Software Engineering (C),FA14,79,44,89.70%,76.90%,7.26,B (3.18),B (3.09)
+"Weibel, Nadir",CSE 118 - Ubiquitous Computing (A),FA14,46,14,92.90%,100.00%,8.79,B+ (3.46),B+ (3.60)
+"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),FA14,174,71,88.50%,80.30%,15.7,B (3.13),B- (2.82)
+"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (B),FA14,174,71,89.10%,74.50%,15.37,B+ (3.37),B- (2.82)
+"Voelker, Geoffrey M.",CSE 120 - Princ/Computer Operating Systm (B),FA14,184,76,86.60%,97.00%,11.21,B (3.08),B (3.05)
+"Snoeren, Alex C.",CSE 123 - Computer Networks (A),FA14,113,50,89.60%,97.90%,10.13,B (3.04),C+ (2.39)
+"Levchenko, Kirill I.",CSE 127 - Intro to Computer Security (A),FA14,87,46,78.60%,90.50%,11.15,B- (2.89),B- (2.75)
+"Lerner, Sorin",CSE 130 - Progrmng Lang:Princpl&Paradigm (A),FA14,190,147,92.50%,96.60%,8.4,B+ (3.38),B+ (3.52)
+"Bournoutian, Garo",CSE 131 - Compiler Construction (A),FA14,75,17,84.60%,84.60%,17.42,B (3.08),C+ (2.45)
+"Vianu, Victor Dan",CSE 132A - Database System Principles (A),FA14,189,65,83.10%,67.80%,6.67,B (3.22),B- (2.84)
+"Orailoglu, Alex",CSE 140 - Component&Desgn Tech/Digtl Sys (A),FA14,47,18,64.30%,50.00%,10.5,C+ (2.50),B- (2.75)
+"Cheng, Chung Kuan",CSE 140 - Component&Desgn Tech/Digtl Sys (B),FA14,181,135,81.30%,80.50%,5.66,B+ (3.31),B (3.21)
+"Orailoglu, Alex",CSE 140L - Digital Systems Laboratory (A),FA14,45,12,58.30%,33.30%,16.5,B (3.17),B- (2.75)
+"Kim, Choon",CSE 140L - Digital Systems Laboratory (B),FA14,180,91,68.60%,50.00%,7.57,B+ (3.40),B (3.30)
+"Porter, Leonard Emerson",CSE 141 - Intro/Computer Architecture (A),FA14,89,79,86.80%,98.70%,7.89,B (3.22),B- (2.96)
+"Porter, Leonard Emerson",CSE 141 - Intro/Computer Architecture (B),FA14,110,94,91.50%,94.70%,7.53,B (3.13),B- (2.96)
+"Eldon, John",CSE 141L - Project/Computer Architecture (A),FA14,88,47,68.90%,86.70%,11.68,B (3.05),B (3.13)
+"Eldon, John",CSE 141L - Project/Computer Architecture (B),FA14,63,31,61.50%,84.60%,11.3,B- (2.80),B (3.13)
+"Gillespie, Gary N",CSE 15L - Software Tools&Techniques Lab (A),FA14,159,65,82.50%,82.50%,3.52,B+ (3.48),B (3.14)
+"Altintas De Callaf, Ilkay",CSE 15L - Software Tools&Techniques Lab (B),FA14,172,54,80.80%,76.90%,3.54,B+ (3.68),B+ (3.32)
+"Schulze, Jurgen P.",CSE 167 - Computer Graphics (A),FA14,104,47,87.80%,95.10%,14.79,B+ (3.43),B+ (3.31)
+"Bafna, Vineet",CSE 182 - Biological Databases (A),FA14,12,6,60.00%,60.00%,11.3,B+ (3.60),N/A
+"Deutsch, Alin Bernard",CSE 190 - Topics/Computer Sci & Engineer (A),FA14,44,10,87.50%,87.50%,5.5,A- (3.75),B+ (3.45)
+"Paturi, Ramamohan",CSE 190 - Topics/Computer Sci & Engineer (B),FA14,58,17,94.10%,88.20%,7.79,B+ (3.35),B- (2.95)
+"Chockalingam, Ganapathy",CSE 190 - Topics/Computer Sci & Engineer (C),FA14,42,17,94.10%,94.10%,10.64,B+ (3.38),B+ (3.67)
+"Kumar, Rakesh",CSE 190 - Topics/Computer Sci & Engineer (D),FA14,38,18,93.80%,93.80%,4.64,B+ (3.44),B+ (3.46)
+"Kunin, Jay Stuart",CSE 190 - Topics/Computer Sci & Engineer (E),FA14,16,5,100.00%,100.00%,13.7,A (4.00),N/A
+"Alvarado, Christine J.",CSE 191 - Semnr/Computer Sci & Engineer (A),FA14,22,9,100.00%,100.00%,5.25,A (4.00),N/A
+"Minnes Kemp, Mor Mia",CSE 191 - Semnr/Computer Sci & Engineer (B),FA14,5,2,100.00%,100.00%,4.5,A (4.00),N/A
+"Minnes Kemp, Mor Mia",CSE 20 - Intro/Discrete Mathematics (A),FA14,151,76,81.90%,87.50%,9.28,B (3.17),B (3.07)
+"Minnes Kemp, Mor Mia",CSE 20 - Intro/Discrete Mathematics (B),FA14,160,80,83.10%,90.10%,7.68,B (3.08),B (3.07)
+"Graham, Ronald L",CSE 21 - Math/Algorithm&Systems Analys (A),FA14,195,89,97.50%,97.50%,4.9,B+ (3.60),B+ (3.47)
+"Graham, Ronald L",CSE 21 - Math/Algorithm&Systems Analys (B),FA14,196,63,94.60%,96.40%,5.6,B+ (3.57),B+ (3.47)
+"Graham, Ronald L",CSE 21 - Math/Algorithm&Systems Analys (D),FA14,77,31,96.70%,96.70%,6.5,B+ (3.45),B+ (3.47)
+"Marx, Susan S",CSE 3 - Fluency/Information Technology (A),FA14,159,70,86.90%,80.30%,3.91,B+ (3.43),B+ (3.44)
+"Marx, Susan S",CSE 3 - Fluency/Information Technology (B),FA14,160,70,85.70%,69.80%,4.37,B+ (3.54),B+ (3.44)
+"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),FA14,112,44,89.70%,94.90%,12.86,B+ (3.32),B (3.08)
+"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (B),FA14,135,48,85.00%,82.50%,13.55,B (3.30),B (3.08)
+"Marx, Susan S",CSE 5A - Introduction to Programming I (A),FA14,81,36,91.20%,85.30%,5.88,B+ (3.58),B- (2.89)
+"Cottrell, Garrison W",CSE 87 - Freshman Seminar (A),FA14,15,10,80.00%,60.00%,0.7,A (4.00),N/A
+"Kastner, Ryan Charles",CSE 87 - Freshman Seminar (B),FA14,19,12,100.00%,100.00%,0.5,A (4.00),N/A
+"Alvarado, Christine J.",CSE 8A - Intro/Computer Sci: Java (I) (A),FA14,191,152,99.30%,98.60%,6.92,B+ (3.62),B- (2.91)
+"Alvarado, Christine J.",CSE 8A - Intro/Computer Sci: Java (I) (B),FA14,200,163,94.40%,98.80%,8.35,B+ (3.56),B- (2.91)
+"Klemperer, Peter Friedrich",CSE 8A - Intro/Computer Sci: Java (I) (C),FA14,197,165,95.10%,80.20%,7.18,B+ (3.62),B (3.14)
+"Gillespie, Gary N",CSE 90 - Undergraduate Seminar (A),FA14,82,42,92.10%,97.40%,1.17,A (4.00),N/A
+"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),S214,36,9,77.80%,77.80%,9.39,B+ (3.63),B (3.01)
+"Powell, Thomas Allan",CSE 135 - Server-side Web Applications (A),S214,83,10,100.00%,100.00%,14.7,B+ (3.50),B (3.18)
+"Chu, Isaac Y",CSE 136 - Enterprise-class Web Applcatns (A),S214,45,6,100.00%,83.30%,7.5,B+ (3.33),B+ (3.42)
+"Orailoglu, Alex",CSE 140 - Component&Desgn Tech/Digtl Sys (A),S214,24,2,50.00%,50.00%,16.5,C+ (2.50),C (2.20)
+"Orailoglu, Alex",CSE 140L - Digital Systems Laboratory (A),S214,25,2,50.00%,50.00%,14.5,C+ (2.50),B- (2.85)
+"Tseng, Hung-Wei",CSE 141 - Intro/Computer Architecture (A),S214,66,21,81.00%,95.20%,10.79,B+ (3.67),B+ (3.35)
+"Tseng, Hung-Wei",CSE 141L - Project/Computer Architecture (A),S214,57,12,81.80%,100.00%,14.7,A- (3.82),B+ (3.70)
+"Der, Matthew Francis",CSE 150 - Int Artif Intell:Search&Reason (A),S214,41,10,100.00%,100.00%,10.75,B (3.13),B (3.07)
+"Mirza, Diba",CSE 30 - Computer Organiz&Systms Progrm (B),S214,49,22,95.50%,100.00%,10.4,B (3.24),B- (2.99)
+"Marx, Susan S",CSE 5A - Introduction to Programming I (A),S214,35,6,100.00%,66.70%,10.83,A- (3.80),B- (2.95)
+"Mirza, Diba",CSE 100 - Advanced Data Structures (B),S114,75,28,100.00%,92.90%,12.5,B+ (3.67),B (3.13)
+"Paturi, Ramamohan",CSE 101 - Design & Analysis of Algorithm (A),S114,39,6,100.00%,100.00%,9.3,B (3.00),B (3.17)
+"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),S114,30,5,100.00%,100.00%,9.3,B+ (3.60),B- (2.95)
+"Powell, Thomas Allan",CSE 134B - Web Client Languages (A),S114,112,20,90.00%,95.00%,10.4,B (3.15),B- (2.94)
+"Altintas De Callaf, Ilkay",CSE 15L - Software Tools&Techniques Lab (A),S114,18,9,100.00%,85.70%,4.79,A- (3.86),N/A
+"Hoover, Gregory William",CSE 190 - Topics/Computer Sci & Engineer (A),S114,35,10,100.00%,100.00%,18.9,B+ (3.44),B+ (3.57)
+"Rubalcaba, Robert Ramon",CSE 20 - Intro/Discrete Mathematics (A),S114,65,39,97.40%,97.40%,6.82,A- (3.78),B+ (3.43)
+"Frankie, Tasha Christine",CSE 3 - Fluency/Information Technology (A),S114,19,7,100.00%,85.70%,5.93,A- (3.80),N/A
+"Pasquale, Joseph",CSE 4GS - Mathematical Beauty in Rome (A),S114,15,6,100.00%,100.00%,5.83,A (4.00),N/A
+"Marx, Susan S",CSE 5A - Introduction to Programming I (A),S114,38,8,75.00%,75.00%,9,B (3.17),B+ (3.31)
+"Pasquale, Joseph",CSE 6GS - Mathematicl Beauty in Rome-Lab (A),S114,15,5,100.00%,100.00%,5.3,A- (3.80),N/A
+"Gupta, Anjum",CSE 7 - Intro Programming MATLAB (A),S114,29,5,75.00%,100.00%,6,B+ (3.67),B (3.05)
+"Baden, Scott B.",CSE 100 - Advanced Data Structures (A),SP14,178,79,93.00%,22.50%,12.95,B (3.07),C+ (2.40)
+"Impagliazzo, Russell",CSE 101 - Design & Analysis of Algorithm (A),SP14,148,40,87.50%,57.50%,7.34,B (3.23),B+ (3.54)
+"Ferrante, Jeanne",CSE 105 - Intro/Theory of Computation (A),SP14,187,70,77.60%,88.10%,8.28,B (3.14),C+ (2.66)
+"Minnes Kemp, Mor Mia",CSE 105 - Intro/Theory of Computation (B),SP14,114,47,84.40%,100.00%,7.9,B (3.23),B- (2.84)
+"Miranda, Gregory Joseph",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),SP14,138,57,83.00%,60.40%,12.62,B+ (3.59),B (3.08)
+"Gillespie, Gary N",CSE 110 - Software Engineering (A),SP14,193,55,88.50%,88.50%,10.5,B+ (3.51),B+ (3.41)
+"Menarini, Massimiliano",CSE 110 - Software Engineering (B),SP14,143,57,73.60%,52.80%,8.31,B+ (3.54),B+ (3.36)
+"Alvarado, Christine J.",CSE 12 - Basic Data Struct & OO Design (A),SP14,176,134,97.00%,99.20%,12.08,B+ (3.32),B- (2.91)
+"Papadopoulos, Philip Micha",CSE 12 - Basic Data Struct & OO Design (B),SP14,186,157,96.80%,80.10%,10.64,B (3.28),B- (2.84)
+"Zhou, Yuan-Yuan",CSE 120 - Princ/Computer Operating Systm (A),SP14,69,24,100.00%,86.40%,11.41,B- (2.90),C+ (2.58)
+"Voelker, Geoffrey M.",CSE 125 - Software Sys Design & Implemnt (A),SP14,32,14,100.00%,100.00%,15.93,A- (3.93),A (4.00)
+"Shacham, Hovav",CSE 127 - Intro to Computer Security (A),SP14,176,76,87.50%,90.30%,10.5,B (3.04),C+ (2.30)
+"Jhala, Ranjit",CSE 130 - Progrmng Lang:Princpl&Paradigm (A),SP14,109,42,88.10%,88.10%,7.25,B (3.10),B (3.10)
+"Ord, Richard",CSE 131 - Compiler Construction (A),SP14,115,39,78.90%,89.50%,16.72,B (3.14),C+ (2.61)
+"Papakonstantinou, Yannis",CSE 135 - Server-side Web Applications (A),SP14,175,61,72.40%,51.70%,9.34,B (3.24),B (3.01)
+"Cheng, Chung Kuan",CSE 140 - Component&Desgn Tech/Digtl Sys (A),SP14,266,196,85.50%,79.30%,7.02,B+ (3.40),B+ (3.32)
+"Mirza, Diba",CSE 140 - Component&Desgn Tech/Digtl Sys (B),SP14,199,158,90.90%,92.90%,6.38,B+ (3.48),B+ (3.43)
+"Kim, Choon",CSE 140L - Digital Systems Laboratory (A),SP14,214,101,78.30%,42.40%,8.77,B (3.13),B- (2.77)
+"Kim, Choon",CSE 140L - Digital Systems Laboratory (B),SP14,176,82,65.00%,38.80%,9.01,B (3.16),B- (2.77)
+"Swanson, Steven James",CSE 141 - Intro/Computer Architecture (A),SP14,143,37,71.40%,82.90%,6.84,B- (2.97),B (3.19)
+"Eldon, John",CSE 141L - Project/Computer Architecture (A),SP14,133,31,53.60%,78.60%,11.39,B- (2.88),B+ (3.33)
+"Kastner, Ryan Charles",CSE 145 - Embedded System Design Project (A),SP14,22,12,100.00%,100.00%,12.68,A- (3.82),A- (3.81)
+"Tullsen, Dean Michael",CSE 148 - Adv Processor Arch Design Proj (A),SP14,7,5,80.00%,80.00%,14,B+ (3.50),N/A
+"Chaudhuri, Kamalika",CSE 151 - Intro to A.I. Stats Approach (A),SP14,170,52,83.70%,81.60%,8,B- (2.84),B (3.30)
+"Altintas De Callaf, Ilkay",CSE 15L - Software Tools&Techniques Lab (A),SP14,165,78,80.00%,84.00%,3.05,B+ (3.42),B+ (3.31)
+"Altintas De Callaf, Ilkay",CSE 15L - Software Tools&Techniques Lab (B),SP14,147,74,84.70%,80.60%,3.26,B+ (3.47),B+ (3.31)
+"Rotenberg, Steven Paul",CSE 168 - Computer Graphics II:Rendering (A),SP14,26,12,100.00%,100.00%,10.83,B+ (3.50),B (3.05)
+"Wang, Wei",CSE 184 - Computational Molecular Biol. (A),SP14,7,2,100.00%,100.00%,0.5,A (4.00),N/A
+"Kriegman, David J",CSE 190 - Topics/Computer Sci & Engineer (B),SP14,22,7,71.40%,85.70%,9.07,B+ (3.50),B+ (3.36)
+"Kumar, Rakesh",CSE 190 - Topics/Computer Sci & Engineer (C),SP14,66,19,89.50%,89.50%,4.08,B (3.22),B+ (3.55)
+"Chockalingam, Ganapathy",CSE 190 - Topics/Computer Sci & Engineer (D),SP14,46,10,100.00%,100.00%,8.5,A- (3.80),B+ (3.60)
+"Hoover, Gregory William",CSE 190 - Topics/Computer Sci & Engineer (E),SP14,27,13,100.00%,92.30%,10.81,B+ (3.62),B+ (3.56)
+"Bellare, Mihir",CSE 191 - Semnr/Computer Sci & Engineer (A),SP14,3,1,100.00%,100.00%,6.5,A (4.00),N/A
+"Kunin, Jay Stuart",CSE 191 - Semnr/Computer Sci & Engineer (B),SP14,11,2,100.00%,100.00%,0,A (4.00),N/A
+"Gaasterland, Theresa",CSE 191 - Semnr/Computer Sci & Engineer (C),SP14,66,24,100.00%,100.00%,1.11,A (4.00),A- (3.94)
+"Halicioglu, Daniel T",CSE 191 - Semnr/Computer Sci & Engineer (D),SP14,26,8,100.00%,100.00%,0.5,A (4.00),B+ (3.56)
+"Alvarado, Christine J.",CSE 191 - Semnr/Computer Sci & Engineer (E),SP14,23,10,100.00%,100.00%,5.5,N/A,A- (3.81)
+"Chakraboty, Sourav",CSE 20 - Intro/Discrete Mathematics (A),SP14,155,73,84.70%,50.00%,4.24,B+ (3.57),B+ (3.42)
+"Chakraboty, Sourav",CSE 20 - Intro/Discrete Mathematics (B),SP14,166,73,78.60%,65.70%,4.56,B+ (3.55),B+ (3.42)
+"Rubalcaba, Robert Ramon",CSE 21 - Math/Algorithm&Systems Analys (A),SP14,197,89,97.70%,95.40%,5.83,A- (3.78),A- (3.83)
+"Kahng, Andrew Byun",CSE 21 - Math/Algorithm&Systems Analys (B),SP14,182,81,90.80%,89.50%,6.05,B+ (3.45),B+ (3.47)
+"Marx, Susan S",CSE 3 - Fluency/Information Technology (A),SP14,127,45,86.00%,72.10%,3.96,B+ (3.59),B+ (3.36)
+"Marx, Susan S",CSE 3 - Fluency/Information Technology (B),SP14,132,54,88.20%,70.60%,3.78,B+ (3.64),B+ (3.36)
+"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),SP14,169,63,94.80%,93.10%,12.54,B+ (3.41),B (3.26)
+"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (B),SP14,137,47,95.60%,97.80%,11.34,B+ (3.61),B (3.26)
+"Marx, Susan S",CSE 7 - Intro Programming MATLAB (A),SP14,108,42,87.20%,66.70%,4.09,B+ (3.50),B+ (3.31)
+"Papakonstantinou, Yannis",CSE 87 - Freshman Seminar (A),SP14,14,4,100.00%,100.00%,0.5,B (3.00),N/A
+"Howden, William E.",No CAPEs submitted,SP14,5,0,N/A,N/A,N/A,N/A,N/A
+"Murillo Arnal, Ana Cristin",CSE 8B - Intro/Computer Sci. Java (II) (A),SP14,140,111,96.40%,84.50%,7.14,B+ (3.58),B (3.29)
+"Murillo Arnal, Ana Cristin",CSE 8B - Intro/Computer Sci. Java (II) (B),SP14,111,91,94.40%,91.10%,8.41,B+ (3.59),B (3.29)
+"Gillespie, Gary N",CSE 90 - Undergraduate Seminar (A),SP14,87,36,87.90%,97.00%,1.19,A (4.00),N/A
+"Kube, Paul Richard",CSE 100 - Advanced Data Structures (A),WI14,164,77,97.10%,81.40%,10.01,B+ (3.48),B (3.27)
+"Bandeira, Nuno Filipe Cabrita",CSE 100 - Advanced Data Structures (B),WI14,135,59,98.20%,89.30%,9.63,B (3.02),B (3.29)
+"Kahng, Andrew Byun",CSE 101 - Design & Analysis of Algorithm (A),WI14,136,59,84.50%,60.30%,10.15,B (3.10),B- (2.92)
+"Micciancio, Daniele",CSE 105 - Intro/Theory of Computation (A),WI14,127,74,51.40%,43.20%,9.57,C+ (2.63),C (2.04)
+"Bellare, Mihir",CSE 107 - Intro to Modern Cryptography (A),WI14,49,33,97.00%,87.90%,6.13,B (3.25),B (3.14)
+"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),WI14,151,66,96.80%,96.80%,13.6,B+ (3.69),B+ (3.34)
+"Griswold, William G.",CSE 110 - Software Engineering (A),WI14,194,95,94.60%,84.80%,10.36,B+ (3.41),B (3.07)
+"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),WI14,181,85,94.00%,84.30%,13.14,B+ (3.55),B- (2.77)
+"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (B),WI14,139,51,91.30%,78.30%,14.28,B+ (3.39),B- (2.77)
+"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A),WI14,134,95,94.70%,96.80%,8.15,B+ (3.39),B- (2.90)
+"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (B),WI14,136,86,100.00%,100.00%,9.79,B+ (3.45),B- (2.90)
+"Chugh, Ravi K",CSE 130 - Progrmng Lang:Princpl&Paradigm (A),WI14,105,69,93.90%,93.90%,7.97,B (3.28),B (3.08)
+"Ord, Richard",CSE 131 - Compiler Construction (A),WI14,107,36,75.80%,100.00%,16.32,B- (2.94),C+ (2.53)
+"Vianu, Victor Dan",CSE 132A - Database System Principles (A),WI14,175,66,81.00%,69.80%,6.34,B (3.13),B- (2.96)
+"Deutsch, Alin Bernard",CSE 132B - Database System Applications (A),WI14,65,22,90.90%,86.40%,10.23,A- (3.71),B (3.27)
+"Orailoglu, Alex",CSE 140 - Component&Desgn Tech/Digtl Sys (A),WI14,51,21,57.90%,31.60%,12.17,C (2.11),C (2.23)
+"Orailoglu, Alex",CSE 140L - Digital Systems Laboratory (A),WI14,43,16,46.70%,26.70%,15.5,C+ (2.47),C+ (2.38)
+"Taylor, Michael",CSE 141 - Intro/Computer Architecture (A),WI14,130,48,60.90%,67.40%,6.99,B- (2.73),B (3.21)
+"Eldon, John",CSE 141L - Project/Computer Architecture (A),WI14,53,18,52.90%,88.20%,11.5,B+ (3.31),B+ (3.49)
+"Eldon, John",CSE 141L - Project/Computer Architecture (B),WI14,77,29,75.90%,86.20%,9.09,B+ (3.52),B+ (3.49)
+"Gupta, Rajesh K.",CSE 143 - Microelectronic System Design (A),WI14,35,16,68.80%,68.80%,7,B- (2.94),B (3.26)
+"Saul, Lawrence",CSE 150 - Int Artif Intell:Search&Reason (A),WI14,167,97,86.00%,92.50%,8.15,B (3.19),B (3.07)
+"Kriegman, David J",CSE 152 - Intro to Computer Vision (A),WI14,34,12,81.80%,72.70%,7.95,B (3.27),B- (2.97)
+"Gillespie, Gary N",CSE 15L - Software Tools&Techniques Lab (A),WI14,163,66,73.80%,78.50%,3.81,B+ (3.60),B (3.30)
+"Kube, Paul Richard",CSE 15L - Software Tools&Techniques Lab (B),WI14,171,58,68.60%,74.50%,3.54,B+ (3.50),B (3.14)
+"Schulze, Jurgen P.",CSE 165 - 3D User Interaction (A),WI14,17,8,100.00%,100.00%,12.25,A- (3.88),A- (3.84)
+"Rotenberg, Steven Paul",CSE 169 - Computer Animation (A),WI14,26,13,100.00%,100.00%,8.96,B+ (3.42),B (3.21)
+"Klemmer, Scott R",CSE 170 - Introduction to HCI Design (A),WI14,95,44,66.70%,76.20%,11.52,B (3.23),B+ (3.36)
+"Pevzner, Pavel Arkadjevich",CSE 181 - Molecular Sequence Analysis (A),WI14,14,5,100.00%,100.00%,14.1,A- (3.80),B (3.16)
+"Papakonstantinou, Yannis",CSE 190 - Topics/Computer Sci & Engineer (A),WI14,14,6,66.70%,83.30%,3.5,B+ (3.67),B+ (3.63)
+"Engel, Wolfgang F.",CSE 190 - Topics/Computer Sci & Engineer (C),WI14,6,3,100.00%,66.70%,8.5,B+ (3.67),N/A
+"Chockalingam, Ganapathy",CSE 190 - Topics/Computer Sci & Engineer (D),WI14,48,17,100.00%,93.30%,8.77,A- (3.80),A- (3.70)
+"Kunin, Jay Stuart",CSE 191 - Semnr/Computer Sci & Engineer (A),WI14,14,6,83.30%,100.00%,7.3,B+ (3.50),A- (3.73)
+"Halicioglu, Daniel T",CSE 191 - Semnr/Computer Sci & Engineer (B),WI14,28,13,100.00%,100.00%,0.67,A (4.00),A (4.00)
+"Pasquale, Joseph",CSE 192 - Senior Seminar in CSE (A),WI14,19,16,100.00%,100.00%,0.63,N/A,N/A
+"Chakraboty, Sourav",CSE 20 - Intro/Discrete Mathematics (A),WI14,212,71,81.30%,42.20%,5,B+ (3.49),B+ (3.45)
+"Chakraboty, Sourav",CSE 21 - Math/Algorithm&Systems Analys (A),WI14,193,85,79.70%,46.80%,5.76,B+ (3.42),B+ (3.42)
+"Marx, Susan S",CSE 3 - Fluency/Information Technology (A),WI14,179,74,77.80%,54.20%,3.75,B+ (3.61),B+ (3.46)
+"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),WI14,174,59,96.50%,98.20%,12.85,B (3.25),B- (2.90)
+"Mirza, Diba",CSE 30 - Computer Organiz&Systms Progrm (C),WI14,68,59,94.70%,89.50%,8.99,B (3.24),B (3.13)
+"Marx, Susan S",CSE 7 - Intro Programming MATLAB (A),WI14,100,41,76.30%,63.20%,3.66,B+ (3.43),B+ (3.50)
+"Papakonstantinou, Yannis",CSE 87 - Freshman Seminar (A),WI14,11,6,100.00%,100.00%,0.5,N/A,N/A
+"Pasquale, Joseph",CSE 87 - Freshman Seminar (B),WI14,17,11,100.00%,100.00%,0.5,A (4.00),N/A
+"Murillo Arnal, Ana Cristin",CSE 8A - Intro/Computer Science: Java A (A),WI14,178,122,95.00%,85.80%,6.53,B+ (3.69),B (3.26)
+"Murillo Arnal, Ana Cristin",CSE 8A - Intro/Computer Science: Java A (B),WI14,177,124,93.40%,81.10%,6.95,B+ (3.59),B (3.26)
+"Murillo Arnal, Ana Cristin",CSE 8AL - Intro/Computer Science:JavaLab (A),WI14,63,35,87.90%,87.90%,5.19,A- (3.71),B (3.10)
+"Murillo Arnal, Ana Cristin",CSE 8AL - Intro/Computer Science:JavaLab (B),WI14,62,35,91.40%,85.70%,4.75,A- (3.74),B (3.10)
+"Elkan, Charles Peter",CSE 8AL - Intro/Computer Science:JavaLab (C),WI14,59,31,100.00%,96.80%,3.9,A- (3.72),B (3.20)
+"Murillo Arnal, Ana Cristin",CSE 8AL - Intro/Computer Science:JavaLab (D),WI14,61,37,100.00%,90.60%,4.06,A- (3.84),B (3.10)
+"Murillo Arnal, Ana Cristin",CSE 8AL - Intro/Computer Science:JavaLab (E),WI14,59,42,97.60%,88.10%,4.55,B+ (3.68),B (3.10)
+"Murillo Arnal, Ana Cristin",CSE 8AL - Intro/Computer Science:JavaLab (F),WI14,50,23,95.70%,91.30%,4.33,B+ (3.59),B (3.10)
+"Alvarado, Christine J.",CSE 8B - Intro/Computer Sci. Java (II) (A),WI14,183,137,97.00%,99.30%,7.26,B+ (3.58),B (3.13)
+"Alvarado, Christine J.",CSE 8B - Intro/Computer Sci. Java (II) (B),WI14,168,131,99.20%,100.00%,7.02,A- (3.80),B (3.13)
+"Alvarado, Christine J.",CSE 100 - Advanced Data Structures (A),FA13,205,161,98.10%,93.50%,9.87,B+ (3.34),C+ (2.64)
+"Dasgupta, Sanjoy",CSE 101 - Design & Analysis of Algorithm (A),FA13,175,72,93.80%,98.50%,7.71,B (3.05),B- (2.90)
+"Dasgupta, Sanjoy",CSE 101 - Design & Analysis of Algorithm (B),FA13,187,66,95.10%,100.00%,6.73,B (3.20),B- (2.90)
+"Freund, Yoav",CSE 103 - Practical Intro/Prob & Stats (A),FA13,181,61,62.50%,62.50%,5.55,B+ (3.53),B (3.22)
+"Shacham, Hovav",CSE 105 - Intro/Theory of Computation (A),FA13,141,53,71.40%,89.80%,9.95,B- (2.94),C+ (2.31)
+"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (B),FA13,179,103,93.90%,92.90%,11.17,A- (3.71),B+ (3.63)
+"Papadopoulos, Philip Micha",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (C),FA13,152,98,94.70%,74.70%,9.84,B+ (3.40),B- (2.76)
+"Menarini, Massimiliano",CSE 110 - Software Engineering (A),FA13,173,158,69.40%,47.80%,7.02,B (3.15),B (3.03)
+"Powell, Thomas Allan",CSE 112 - Advanced Software Engineering (B),FA13,54,24,90.90%,86.40%,9.77,B (3.20),B+ (3.46)
+"Weibel, Nadir",CSE 118 - Ubiquitous Computing (B),FA13,46,17,100.00%,100.00%,7.38,A- (3.81),B+ (3.61)
+"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),FA13,155,52,90.20%,80.40%,16.85,B (3.04),C+ (2.47)
+"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (B),FA13,89,26,90.50%,61.90%,15.17,B (3.05),C+ (2.47)
+"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A),FA13,134,60,98.30%,96.70%,8.57,B (3.17),B- (2.71)
+"Snoeren, Alex C.",CSE 123 - Computer Networks (A),FA13,79,35,93.80%,96.90%,11.94,B (3.00),C+ (2.66)
+"Lerner, Sorin",CSE 130 - Progrmng Lang:Princpl&Paradigm (A),FA13,83,34,93.30%,90.00%,9.66,B+ (3.30),B+ (3.46)
+"Bournoutian, Garo",CSE 131 - Compiler Construction (B),FA13,35,10,77.80%,100.00%,16.72,B- (2.78),C+ (2.56)
+"Deutsch, Alin Bernard",CSE 132A - Database System Principles (A),FA13,66,24,77.30%,50.00%,6.32,B- (2.90),B (3.15)
+"Gupta, Rajesh K.",CSE 140 - Component&Desgn Tech/Digtl Sys (A),FA13,190,89,76.50%,52.90%,7.44,B (3.09),B (3.10)
+"Kim, Choon",CSE 140L - Digital Systems Laboratory (A),FA13,186,79,81.80%,68.80%,8.1,B+ (3.38),B- (2.91)
+"Tullsen, Dean Michael",CSE 141 - Intro/Computer Architecture (A),FA13,120,36,85.70%,88.60%,6.84,B (3.26),B- (2.75)
+"Tullsen, Dean Michael",CSE 141L - Project/Computer Architecture (B),FA13,90,25,95.80%,95.80%,11.5,B+ (3.63),B (3.25)
+"Gillespie, Gary N",CSE 15L - Software Tools&Techniques Lab (A),FA13,168,49,59.20%,75.50%,3.42,B+ (3.36),B (3.21)
+"Altintas De Callaf, Ilkay",CSE 15L - Software Tools&Techniques Lab (B),FA13,110,40,64.10%,76.90%,2.96,B+ (3.56),B (3.20)
+"Baden, Scott B.",CSE 160 - Intro to Parallel Computing (A),FA13,78,41,83.30%,63.90%,8.67,B (3.19),C+ (2.61)
+"Belongie, Serge J.",CSE 166 - Image Processing (A),FA13,78,28,88.90%,96.30%,8.28,B+ (3.44),B+ (3.58)
+"Schulze, Jurgen P.",CSE 167 - Computer Graphics (A),FA13,95,33,96.80%,80.60%,15.21,B+ (3.32),B (3.28)
+"Bafna, Vineet",CSE 182 - Biological Databases (A),FA13,18,5,80.00%,100.00%,7.3,B+ (3.60),N/A
+"Paturi, Ramamohan",CSE 190 - Topics/Computer Sci & Engineer (A),FA13,36,17,94.10%,94.10%,6.74,B+ (3.59),B+ (3.62)
+"Halicioglu, Daniel T",CSE 191 - Semnr/Computer Sci & Engineer (B),FA13,11,3,100.00%,100.00%,0.5,N/A,N/A
+"Pasquale, Joseph",CSE 192 - Senior Seminar in CSE (A),FA13,14,11,100.00%,100.00%,1.41,N/A,N/A
+"Minnes Kemp, Mor Mia",CSE 20 - Intro/Discrete Mathematics (A),FA13,195,67,86.20%,95.40%,5.88,B+ (3.40),B (3.06)
+"Graham, Ronald L",CSE 21 - Math/Algorithm&Systems Analys (A),FA13,190,56,94.50%,94.50%,4.72,B+ (3.68),B+ (3.61)
+"Minnes Kemp, Mor Mia",CSE 21 - Math/Algorithm&Systems Analys (B),FA13,182,71,93.00%,100.00%,5.09,B+ (3.53),B (3.23)
+"Marx, Susan S",CSE 3 - Fluency/Information Technology (A),FA13,185,131,85.90%,75.80%,4.18,B+ (3.53),B+ (3.34)
+"Marx, Susan S",CSE 3 - Fluency/Information Technology (B),FA13,175,121,86.30%,55.60%,4.21,B+ (3.52),B+ (3.34)
+"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),FA13,124,47,93.50%,95.70%,13.03,B+ (3.33),B- (2.91)
+"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (B),FA13,183,54,83.00%,94.30%,11.41,B+ (3.32),B- (2.91)
+"Marx, Susan S",CSE 5A - Introduction to Programming I (A),FA13,54,33,90.60%,78.10%,5.98,B (3.19),B- (2.95)
+"Pasquale, Joseph",CSE 87 - Freshman Seminar (A),FA13,16,11,81.80%,90.90%,1.59,A (4.00),N/A
+"Papakonstantinou, Yannis",CSE 87 - Freshman Seminar (B),FA13,15,12,91.70%,91.70%,0.67,B (3.00),N/A
+"Alvarado, Christine J.",CSE 8A - Intro/Computer Science: Java A (A),FA13,94,72,91.50%,98.60%,6.36,A- (3.76),B+ (3.43)
+"Murillo Arnal, Ana Cristin",CSE 8A - Intro/Computer Science: Java A (B),FA13,80,63,98.40%,83.90%,6.47,A- (3.78),B+ (3.33)
+"Murillo Arnal, Ana Cristin",CSE 8A - Intro/Computer Science: Java A (C),FA13,135,109,99.10%,73.80%,6.22,B+ (3.69),B+ (3.33)
+"Allos, Haytham Issa",CSE 8A - Intro/Computer Science: Java A (D),FA13,90,77,97.40%,78.90%,6.03,A- (3.77),B+ (3.44)
+"Shacham, Hovav",CSE 8AL - Intro/Computer Science:JavaLab (A),FA13,54,30,92.90%,89.30%,2.07,B+ (3.65),B+ (3.36)
+"Alvarado, Christine J.",CSE 8AL - Intro/Computer Science:JavaLab (B),FA13,58,46,97.70%,100.00%,3.64,A- (3.78),B+ (3.40)
+"Murillo Arnal, Ana Cristin",CSE 8AL - Intro/Computer Science:JavaLab (C),FA13,55,45,93.00%,95.30%,3.8,B+ (3.58),B (3.21)
+"Graham, Ronald L",CSE 8AL - Intro/Computer Science:JavaLab (D),FA13,66,48,91.50%,95.70%,3.38,A- (3.86),B+ (3.54)
+"Kastner, Ryan Charles",CSE 8AL - Intro/Computer Science:JavaLab (E),FA13,60,52,100.00%,93.90%,2.8,A- (3.76),B+ (3.46)
+"Allos, Haytham Issa",CSE 8AL - Intro/Computer Science:JavaLab (F),FA13,67,47,97.80%,95.70%,3.17,A- (3.87),B+ (3.47)
+"Lerner, Sorin",CSE 8AL - Intro/Computer Science:JavaLab (G),FA13,39,31,96.70%,90.00%,2.77,A- (3.82),B+ (3.37)
+"Gillespie, Gary N",CSE 90 - Undergraduate Seminar (A),FA13,96,47,79.50%,86.40%,1.69,A (4.00),N/A
+"Griswold, William G.",CSE 91 - Perspectives in CSE (A),FA13,187,119,87.70%,99.10%,1.34,A (4.00),N/A
+"Hofri, Matan",CSE 100 - Advanced Data Structures (A),S213,74,12,91.70%,50.00%,14.83,B (3.08),C+ (2.62)
+"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),S213,33,6,100.00%,83.30%,14.17,B (3.17),B- (2.83)
+"Powell, Thomas Allan",CSE 135 - Server-side Web Applications (A),S213,86,12,100.00%,83.30%,11,B (3.25),B- (2.93)
+"Chu, Isaac Y",CSE 136 - Enterprise-class Web Applcatns (A),S213,43,5,100.00%,100.00%,8,A- (3.75),B+ (3.43)
+"Orailoglu, Alex",CSE 140 - Component&Desgn Tech/Digtl Sys (A),S213,32,4,100.00%,50.00%,16.5,B+ (3.50),C (2.18)
+"Orailoglu, Alex",CSE 140L - Digital Systems Laboratory (B),S213,15,4,66.70%,66.70%,15.17,B (3.00),N/A
+"Hoover, Gregory William",CSE 190 - Topics/Computer Sci & Engineer (A),S213,23,14,100.00%,100.00%,15.67,B+ (3.33),A- (3.73)
+"Wang, Jianwu",CSE 21 - Math/Algorithm&Systems Analys (B),S213,75,17,66.70%,60.00%,9.5,B+ (3.43),B+ (3.32)
+"Mirza, Diba",CSE 30 - Computer Organiz&Systms Progrm (B),S213,31,7,85.70%,71.40%,11.64,A- (3.71),B (3.26)
+"Marx, Susan S",CSE 5A - Introduction to Programming I (A),S213,30,5,100.00%,100.00%,14,A (4.00),B (3.07)
+"Paturi, Ramamohan",CSE 101 - Design & Analysis of Algorithm (A),S113,31,8,100.00%,100.00%,9.25,B (3.13),B+ (3.32)
+"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),S113,37,6,100.00%,80.00%,8.9,B+ (3.50),C+ (2.64)
+"Chandrashekhar, Roshni",CSE 12 - Basic Data Struct & OO Design (A),S113,83,64,96.70%,80.00%,12.1,B (3.10),B- (2.82)
+"Varna, Rakesh Laxmisha",CSE 12 - Basic Data Struct & OO Design (A),S113,84,62,96.70%,93.40%,12.04,B (3.08),B- (2.82)
+"Katsis, Ioannis",CSE 132A - Database System Principles (A),S113,73,13,91.70%,91.70%,8.33,B (3.17),B (3.13)
+"Powell, Thomas Allan",CSE 134B - Web Client Languages (A),S113,112,29,92.90%,85.70%,12.14,B (3.00),B (3.24)
+"Ord, Richard",CSE 15L - Software Tools&Techniques Lab (A),S113,56,24,90.90%,95.50%,5.74,A- (3.85),A- (3.73)
+"Cicotti, Pietro",CSE 20 - Intro/Discrete Mathematics (A),S113,71,28,69.20%,57.70%,8.98,B (3.00),B- (2.72)
+"Frankie, Tasha Christine",CSE 3 - Fluency/Information Technology (A),S113,28,13,100.00%,100.00%,6.67,B+ (3.55),B (3.18)
+"Pasquale, Joseph",CSE 4GS - Mathematical Beauty in Rome (A),S113,12,7,100.00%,100.00%,3.64,A (4.00),N/A
+"Marx, Susan S",CSE 5A - Introduction to Programming I (A),S113,30,5,100.00%,75.00%,6.5,B+ (3.50),B+ (3.38)
+"Pasquale, Joseph",CSE 6GS - Mathematicl Beauty in Rome-Lab (A),S113,12,7,100.00%,100.00%,3.36,A (4.00),N/A
+"Gupta, Anjum",CSE 7 - Intro Programming MATLAB (A),S113,20,5,80.00%,100.00%,6.1,B (3.20),B (3.28)
+"Simon, Elizabeth A",CSE 90 - Undergraduate Seminar (A),S113,3,2,100.00%,100.00%,2.5,N/A,N/A
+"Baden, Scott B.",CSE 100 - Advanced Data Structures (A),SP13,139,37,78.40%,45.90%,10.39,B (3.30),C+ (2.60)
+"Freund, Yoav",CSE 100 - Advanced Data Structures (B),SP13,98,35,97.10%,82.40%,10.09,B+ (3.39),B (3.26)
+"Impagliazzo, Russell",CSE 101 - Design & Analysis of Algorithm (A),SP13,102,34,87.90%,75.80%,9.17,B+ (3.31),B (3.28)
+"Micciancio, Daniele",CSE 105 - Intro/Theory of Computation (B),SP13,108,23,56.50%,47.80%,7.59,B- (2.95),C (2.01)
+"Papadopoulos, Philip Micha",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),SP13,100,32,93.80%,62.50%,9.98,B+ (3.56),B- (2.94)
+"Gillespie, Gary N",CSE 110 - Software Engineering (A),SP13,200,50,95.80%,89.60%,10.17,B+ (3.67),B (3.16)
+"Krueger, Ingolf",CSE 112 - Advanced Software Engineering (A),SP13,31,10,100.00%,100.00%,7.3,B+ (3.40),B- (2.83)
+"Lee, Cynthia Bailey",CSE 12 - Basic Data Struct & OO Design (A),SP13,193,97,95.90%,94.80%,9.3,B (3.28),B (3.10)
+"Kube, Paul Richard",CSE 12 - Basic Data Struct & OO Design (B),SP13,180,58,94.60%,73.20%,8.29,B (3.27),B (3.03)
+"Zhou, Yuan-Yuan",CSE 120 - Princ/Computer Operating Systm (A),SP13,69,21,85.70%,61.90%,12.98,B (3.10),B- (2.78)
+"Polyzos, George C",CSE 123 - Computer Networks (A),SP13,58,19,84.20%,52.60%,6.94,B+ (3.32),B- (2.74)
+"Voelker, Geoffrey M.",CSE 125 - Software Sys Design & Implemnt (A),SP13,36,10,100.00%,100.00%,16.9,A- (3.90),A- (3.94)
+"Shacham, Hovav",CSE 127 - Intro to Computer Security (A),SP13,80,37,97.30%,100.00%,7.67,B+ (3.49),B (3.00)
+"Lerner, Sorin",CSE 130 - Progrmng Lang:Princpl&Paradigm (A),SP13,157,56,98.20%,98.20%,7.8,B+ (3.40),B (3.25)
+"Ord, Richard",CSE 131 - Compiler Construction (A),SP13,103,27,80.80%,84.60%,16.5,B (3.20),C+ (2.66)
+"Tang, Lingjia",CSE 131 - Compiler Construction (B),SP13,60,23,91.30%,95.70%,11.8,A- (3.74),B (3.14)
+"Papakonstantinou, Yannis",CSE 135 - Server-side Web Applications (A),SP13,124,43,67.40%,41.90%,8.64,B (3.14),B (3.15)
+"Rosing, Tajana Simunic",CSE 140 - Component&Desgn Tech/Digtl Sys (A),SP13,146,113,85.80%,92.00%,7.55,B- (2.97),C (2.11)
+"Kim, Choon",CSE 140L - Digital Systems Laboratory (A),SP13,157,69,80.60%,50.70%,9.15,B+ (3.47),B (3.02)
+"Swanson, Steven James",CSE 141 - Intro/Computer Architecture (A),SP13,73,26,100.00%,96.20%,6.5,B+ (3.42),B+ (3.38)
+"Swanson, Steven James",CSE 141L - Project/Computer Architecture (A),SP13,71,22,90.50%,100.00%,11.45,A- (3.71),A- (3.72)
+"Kastner, Ryan Charles",CSE 145 - Embedded System Design Project (A),SP13,18,5,100.00%,100.00%,10.9,B+ (3.60),N/A
+"Tullsen, Dean Michael",CSE 148 - Adv Processor Arch Design Proj (A),SP13,6,6,100.00%,100.00%,13.7,B (3.25),N/A
+"Chaudhuri, Kamalika",CSE 151 - Intro to A.I. Stats Approach (A),SP13,149,43,79.10%,76.70%,8.31,B (3.21),B (3.12)
+"Kube, Paul Richard",CSE 15L - Software Tools&Techniques Lab (A),SP13,171,51,84.00%,82.00%,3.15,B+ (3.48),B (3.29)
+"Gillespie, Gary N",CSE 15L - Software Tools&Techniques Lab (B),SP13,167,74,80.80%,68.50%,2.97,B+ (3.55),B+ (3.42)
+"Jensen, Henrik",CSE 168 - Computer Graphics II:Rendering (A),SP13,16,7,100.00%,100.00%,14.79,B (3.17),N/A
+"Chockalingam, Ganapathy",CSE 190 - Topics/Computer Sci & Engineer (A),SP13,35,11,100.00%,90.90%,7.41,A- (3.80),B+ (3.60)
+"Jensen, Henrik",No CAPEs submitted,SP13,2,0,N/A,N/A,N/A,N/A,N/A
+"Bellare, Mihir",CSE 191 - Semnr/Computer Sci & Engineer (A),SP13,2,1,100.00%,100.00%,6.5,N/A,N/A
+"Halicioglu, Daniel T",CSE 191 - Semnr/Computer Sci & Engineer (B),SP13,17,7,100.00%,100.00%,0.79,A (4.00),N/A
+"Gaasterland, Theresa",CSE 191 - Semnr/Computer Sci & Engineer (C),SP13,52,22,100.00%,100.00%,1.5,A- (3.95),A- (3.97)
+"Lee, Cynthia Bailey",CSE 191 - Semnr/Computer Sci & Engineer (D),SP13,11,9,100.00%,100.00%,1.83,N/A,N/A
+"Lee, Cynthia Bailey",CSE 20 - Intro/Discrete Mathematics (C),SP13,179,68,88.10%,92.50%,4.38,B (3.28),B- (2.92)
+"Minnes Kemp, Mor Mia",CSE 20 - Intro/Discrete Mathematics (D),SP13,182,59,87.90%,87.90%,5.45,B (3.04),B (3.05)
+"Ord, Richard",CSE 21 - Math/Algorithm&Systems Analys (A),SP13,239,86,90.10%,93.80%,4.03,A- (3.83),B+ (3.36)
+"Marx, Susan S",CSE 3 - Fluency/Information Technology (A),SP13,158,55,74.50%,60.00%,3.94,B+ (3.50),B (3.17)
+"Marx, Susan S",CSE 3 - Fluency/Information Technology (B),SP13,188,59,89.70%,74.10%,3.26,B+ (3.67),B (3.17)
+"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),SP13,194,40,89.70%,94.90%,11.97,B+ (3.43),C+ (2.70)
+"Marx, Susan S",CSE 5A - Introduction to Programming I (A),SP13,74,26,88.00%,88.00%,6.1,B+ (3.32),B- (2.74)
+"Altintas De Callaf, Ilkay",CSE 7 - Intro Programming MATLAB (A),SP13,148,57,78.90%,68.40%,5.44,B (3.25),B (3.02)
+"Gillespie, Gary N",CSE 86 - C++ for Java Programmers (A),SP13,44,14,92.90%,92.90%,6.64,N/A,N/A
+"Papakonstantinou, Yannis",CSE 87 - Freshman Seminar (A),SP13,15,7,85.70%,100.00%,1.07,N/A,N/A
+"Cottrell, Garrison W",CSE 87 - Freshman Seminar (B),SP13,9,3,100.00%,100.00%,0.5,A (4.00),N/A
+"Howden, William E.",CSE 87 - Freshman Seminar (C),SP13,14,1,100.00%,100.00%,0.5,N/A,N/A
+"Alvarado, Christine J.",CSE 8B - Intro/Computer Science: Java B (A),SP13,142,104,97.10%,98.10%,8.24,B+ (3.62),B- (2.84)
+"Alvarado, Christine J.",CSE 8B - Intro/Computer Science: Java B (B),SP13,185,109,95.40%,98.10%,7.6,B+ (3.47),B- (2.84)
+"Kube, Paul Richard",CSE 100 - Advanced Data Structures (A),WI13,219,78,90.70%,85.30%,10.12,B (3.18),B- (2.97)
+"Kahng, Andrew Byun",CSE 101 - Design & Analysis of Algorithm (C),WI13,154,56,79.60%,83.30%,9.77,B (3.16),B- (2.87)
+"Lee, Cynthia Bailey",CSE 105 - Intro/Theory of Computation (B),WI13,167,84,83.30%,91.70%,6.8,B (3.14),B- (2.71)
+"Bellare, Mihir",CSE 107 - Intro to Modern Cryptography (B),WI13,34,16,75.00%,56.30%,8.63,C (2.00),C+ (2.66)
+"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),WI13,153,71,90.00%,94.30%,13.49,B+ (3.51),B+ (3.39)
+"Griswold, William G.",CSE 110 - Software Engineering (B),WI13,189,70,77.30%,50.00%,10.22,B+ (3.43),B (3.18)
+"Kube, Paul Richard",CSE 12 - Basic Data Struct & OO Design (A),WI13,192,70,94.20%,76.80%,7.96,B+ (3.57),B (3.25)
+"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A),WI13,89,53,96.20%,98.10%,9.93,B+ (3.34),B- (2.95)
+"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (B),WI13,51,27,92.60%,100.00%,8.94,B (3.20),B- (2.95)
+"Lerner, Sorin",CSE 130 - Progrmng Lang:Princpl&Paradigm (A),WI13,118,49,93.60%,95.70%,9.46,B+ (3.35),B+ (3.32)
+"Ord, Richard",CSE 131 - Compiler Construction (B),WI13,105,46,84.80%,89.10%,17.52,B- (2.79),C+ (2.36)
+"Vianu, Victor Dan",CSE 132A - Database System Principles (A),WI13,102,39,81.60%,78.90%,5.67,B (3.03),B (3.04)
+"Deutsch, Alin Bernard",CSE 132B - Database System Applications (A),WI13,38,20,72.20%,77.80%,10.83,B+ (3.61),B+ (3.34)
+"Orailoglu, Alex",CSE 140 - Component&Desgn Tech/Digtl Sys (A),WI13,28,8,75.00%,75.00%,9.25,B (3.00),B- (2.72)
+"Orailoglu, Alex",CSE 140L - Digital Systems Laboratory (A),WI13,25,9,66.70%,66.70%,7.25,B (3.00),B- (2.76)
+"Tullsen, Dean Michael",CSE 141 - Intro/Computer Architecture (A),WI13,50,24,91.30%,87.00%,7.46,B (3.09),B- (2.97)
+"Mars, Jason",CSE 141 - Intro/Computer Architecture (B),WI13,91,39,89.50%,92.10%,6.06,B (3.30),B- (2.78)
+"Tullsen, Dean Michael",CSE 141L - Project/Computer Architecture (A),WI13,30,14,100.00%,92.30%,13.12,A- (3.92),A- (3.75)
+"Mars, Jason",CSE 141L - Project/Computer Architecture (B),WI13,77,30,72.40%,89.70%,12.35,B+ (3.54),B+ (3.46)
+"Gupta, Rajesh K.",CSE 143 - Microelectronic System Design (A),WI13,4,2,100.00%,100.00%,4.5,B+ (3.50),N/A
+"Saul, Lawrence",CSE 150 - Int Artif Intell:Search&Reason (A),WI13,101,75,87.80%,89.20%,7.42,B (3.09),B (3.01)
+"Kriegman, David J",CSE 152 - Intro to Computer Vision (A),WI13,29,12,83.30%,66.70%,10,B- (2.83),B (3.01)
+"Kube, Paul Richard",CSE 15L - Software Tools&Techniques Lab (A),WI13,178,62,83.30%,80.00%,3.33,A- (3.86),A- (3.71)
+"Baden, Scott B.",CSE 160 - Intro to Parallel Computing (A),WI13,58,36,94.40%,80.60%,8.94,B+ (3.54),B- (2.96)
+"Pevzner, Pavel Arkadjevich",CSE 181 - Molecular Sequence Analysis (A),WI13,11,5,80.00%,100.00%,13.7,B+ (3.60),N/A
+"Schulze, Jurgen P.",CSE 190 - Topics/Computer Sci & Engineer (B),WI13,23,16,93.80%,100.00%,9.25,A- (3.87),A- (3.87)
+"Hoover, Gregory William",CSE 190 - Topics/Computer Sci & Engineer (C),WI13,37,29,100.00%,96.60%,13.05,B+ (3.55),B+ (3.57)
+"Cottrell, Garrison W",CSE 190 - Topics/Computer Sci & Engineer (E),WI13,15,7,100.00%,100.00%,8.17,B+ (3.57),N/A
+"Halicioglu, Daniel T",CSE 191 - Semnr/Computer Sci & Engineer (A),WI13,27,10,100.00%,100.00%,0.5,N/A,A- (3.86)
+"Lovett, Shachar",CSE 20 - Intro/Discrete Mathematics (B),WI13,141,63,93.20%,86.40%,4.64,B+ (3.68),B (3.07)
+"Lee, Cynthia Bailey",CSE 20 - Intro/Discrete Mathematics (C),WI13,143,74,93.10%,93.10%,4.89,B+ (3.59),B (3.09)
+"Graham, Ronald L",CSE 21 - Math/Algorithm&Systems Analys (A),WI13,117,42,92.50%,95.00%,5.37,B+ (3.33),B+ (3.44)
+"Graham, Ronald L",CSE 21 - Math/Algorithm&Systems Analys (B),WI13,110,44,93.20%,95.50%,5.85,B+ (3.33),B+ (3.44)
+"Simon, Elizabeth A",CSE 3 - Fluency/Information Technology (A),WI13,199,107,86.80%,91.50%,3.72,A- (3.73),B+ (3.51)
+"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),WI13,179,62,95.00%,98.30%,12.47,B (3.29),B- (2.92)
+"Lee, Cynthia Bailey",CSE 7 - Intro Programming MATLAB (A),WI13,138,61,86.90%,96.70%,5.61,A- (3.77),B+ (3.38)
+"Gillespie, Gary N",CSE 80 - UNIX Lab (A),WI13,63,18,88.90%,83.30%,4.39,N/A,N/A
+"Papakonstantinou, Yannis",CSE 87 - Freshman Seminar (B),WI13,16,6,83.30%,83.30%,1.17,A (4.00),N/A
+"Cottrell, Garrison W",CSE 87 - Freshman Seminar (C),WI13,14,8,85.70%,85.70%,0.5,A (4.00),N/A
+"Marx, Susan S",CSE 8A - Intro/Computer Science: Java A (A),WI13,161,109,86.80%,58.50%,6.62,B+ (3.33),B (3.10)
+"Gillespie, Gary N",CSE 8A - Intro/Computer Science: Java A (B),WI13,165,120,92.30%,73.50%,5.47,B+ (3.41),B- (2.91)
+"Jhala, Ranjit",CSE 8AL - Intro/Computer Science:JavaLab (A),WI13,56,33,78.80%,78.80%,3.34,B+ (3.33),B- (2.96)
+"Graham, Ronald L",CSE 8AL - Intro/Computer Science:JavaLab (B),WI13,54,37,91.90%,89.20%,4.22,B+ (3.49),B- (3.00)
+"Gupta, Rajesh K.",CSE 8AL - Intro/Computer Science:JavaLab (C),WI13,55,27,76.00%,72.00%,3.8,B+ (3.41),B- (2.78)
+"Elkan, Charles Peter",CSE 8AL - Intro/Computer Science:JavaLab (D),WI13,53,32,93.80%,90.60%,3.15,B+ (3.57),B (3.25)
+"Gillespie, Gary N",CSE 8AL - Intro/Computer Science:JavaLab (E),WI13,52,29,96.40%,85.70%,4.35,B+ (3.40),B- (2.94)
+"Gillespie, Gary N",CSE 8AL - Intro/Computer Science:JavaLab (F),WI13,56,35,88.20%,73.50%,4.81,B+ (3.63),B- (2.94)
+"Marx, Susan S",CSE 8B - Intro/Computer Science: Java B (A),WI13,197,91,91.00%,39.30%,8.77,B- (2.99),B- (2.73)
+"Marx, Susan S",CSE 8B - Intro/Computer Science: Java B (B),WI13,130,58,91.20%,49.10%,7.76,B- (2.94),B- (2.73)
+"Gillespie, Gary N",CSE 90 - Undergraduate Seminar (B),WI13,38,19,94.70%,100.00%,0.5,A (4.00),N/A
+"Webb, Kevin C",CSE 91 - Perspectives in CSE (A),WI13,206,93,77.40%,95.70%,1.27,A (4.00),N/A
+"Kube, Paul Richard",CSE 100 - Advanced Data Structures (A),FA12,236,96,90.10%,86.40%,10.33,B+ (3.38),B (3.13)
+"Dasgupta, Sanjoy",CSE 101 - Design & Analysis of Algorithm (A),FA12,184,83,92.30%,100.00%,9.02,B (3.00),B- (2.81)
+"Freund, Yoav",CSE 103 - Practical Intro/Prob & Stats (A),FA12,143,52,63.30%,44.90%,7.25,B+ (3.48),B+ (3.48)
+"Shacham, Hovav",CSE 105 - Intro/Theory of Computation (B),FA12,150,53,67.30%,75.00%,8.69,B- (2.90),C+ (2.66)
+"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),FA12,190,120,96.40%,93.70%,9.57,A- (3.82),B+ (3.64)
+"Gillespie, Gary N",CSE 110 - Software Engineering (A),FA12,40,12,100.00%,90.00%,12.1,B+ (3.60),B (3.08)
+"Krueger, Ingolf",CSE 112 - Advanced Software Engineering (A),FA12,52,16,100.00%,100.00%,8.79,B+ (3.64),B+ (3.54)
+"Weibel, Nadir",CSE 118 - Ubiquitous Computing (A),FA12,25,9,87.50%,87.50%,7.25,A- (3.88),B+ (3.56)
+"Kube, Paul Richard",CSE 12 - Basic Data Struct & OO Design (A),FA12,198,83,94.50%,84.90%,9.38,B+ (3.46),B- (2.92)
+"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (B),FA12,142,61,100.00%,98.30%,9.4,B (3.22),B- (2.89)
+"Polyzos, George C",CSE 123 - Computer Networks (A),FA12,102,36,80.60%,41.90%,6.69,B- (2.90),B- (2.98)
+"Savage, Stefan Roberts",CSE 127 - Intro to Computer Security (A),FA12,120,45,90.20%,87.80%,4.05,B (3.26),B- (2.82)
+"Jhala, Ranjit",CSE 130 - Progrmng Lang:Princpl&Paradigm (A),FA12,85,38,97.10%,100.00%,10.85,B (3.09),B (3.06)
+"Vianu, Victor Dan",CSE 132A - Database System Principles (A),FA12,49,25,72.70%,45.50%,5.77,B (3.14),B- (2.82)
+"Papakonstantinou, Yannis",CSE 135 - Server-side Web Applications (A),FA12,54,25,69.60%,60.90%,7.2,B+ (3.42),B (3.01)
+"Cheng, Chung Kuan",CSE 140 - Component&Desgn Tech/Digtl Sys (A),FA12,217,77,92.10%,81.60%,5.91,B+ (3.37),B (3.26)
+"Kim, Choon",CSE 140L - Digital Systems Laboratory (A),FA12,167,54,92.20%,88.20%,6.54,A- (3.80),B+ (3.43)
+"Taylor, Michael",CSE 141 - Intro/Computer Architecture (A),FA12,56,20,68.40%,73.70%,13.61,B+ (3.37),B (3.18)
+"Taylor, Michael",CSE 141L - Project/Computer Architecture (A),FA12,55,21,72.20%,77.80%,15.83,A- (3.76),B+ (3.58)
+"Lin, Albert Yu Min",CSE 145 - Embedded System Design Project (A),FA12,12,6,100.00%,80.00%,10.9,A- (3.80),N/A
+"Schurgers, Curt",CSE 145 - Embedded System Design Project (A),FA12,12,6,100.00%,100.00%,10.9,A- (3.80),N/A
+"Cottrell, Garrison W",CSE 150 - Int Artif Intell:Search&Reason (A),FA12,52,19,94.40%,77.80%,6.06,B (3.18),B- (2.92)
+"Kube, Paul Richard",CSE 15L - Software Tools&Techniques Lab (A),FA12,179,74,82.90%,87.10%,3.71,B+ (3.68),B+ (3.38)
+"Belongie, Serge J.",CSE 166 - Image Processing (A),FA12,33,15,93.30%,86.70%,11.03,B+ (3.47),B+ (3.57)
+"Schulze, Jurgen P.",CSE 167 - Computer Graphics (A),FA12,49,25,96.00%,96.00%,13.67,B+ (3.61),B+ (3.33)
+"Bafna, Vineet",CSE 182 - Biological Databases (A),FA12,9,6,83.30%,100.00%,5.17,A- (3.83),N/A
+"Deutsch, Alin Bernard",CSE 190 - Topics/Computer Sci & Engineer (B),FA12,16,4,100.00%,100.00%,6.5,A- (3.75),N/A
+"Lee, Cynthia Bailey",CSE 20 - Intro/Discrete Mathematics (A),FA12,206,128,91.90%,94.40%,5.05,B+ (3.52),B- (2.74)
+"Ord, Richard",CSE 21 - Math/Algorithm&Systems Analys (A),FA12,213,121,96.70%,97.50%,6.37,A- (3.76),B+ (3.57)
+"Marx, Susan S",CSE 3 - Fluency/Information Technology (A),FA12,187,79,94.40%,79.20%,3.32,A- (3.82),B+ (3.53)
+"Marx, Susan S",CSE 3 - Fluency/Information Technology (B),FA12,185,88,93.60%,88.50%,3.04,A- (3.73),B+ (3.53)
+"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),FA12,169,99,93.80%,97.90%,12.25,B+ (3.59),B (3.03)
+"Marx, Susan S",CSE 5A - Introduction to Programming I (A),FA12,59,22,89.50%,68.40%,6.92,B+ (3.50),B- (2.94)
+"Kastner, Ryan Charles",CSE 87 - Freshman Seminar (A),FA12,19,7,71.40%,71.40%,1.36,N/A,N/A
+"Kastner, Ryan Charles",CSE 87 - Freshman Seminar (B),FA12,20,11,54.50%,63.60%,0.5,A (4.00),N/A
+"Papakonstantinou, Yannis",CSE 87 - Freshman Seminar (C),FA12,19,13,91.70%,75.00%,0.5,A (4.00),N/A
+"Cottrell, Garrison W",CSE 87 - Freshman Seminar (D),FA12,15,9,62.50%,75.00%,0.5,A (4.00),N/A
+"Gillespie, Gary N",CSE 8A - Intro/Computer Science: Java A (A),FA12,178,144,97.10%,90.40%,5.37,B+ (3.69),B (3.19)
+"Alvarado, Christine J.",CSE 8A - Intro/Computer Science: Java A (B),FA12,152,119,94.00%,99.10%,6.12,A- (3.74),B (3.26)
+"Lee, Cynthia Bailey",CSE 8A - Intro/Computer Science: Java A (C),FA12,149,122,97.50%,94.10%,6.23,B+ (3.68),B+ (3.34)
+"Lerner, Sorin",CSE 8AL - Intro/Computer Science:JavaLab (A),FA12,59,44,91.90%,91.90%,2.62,B+ (3.64),B (3.18)
+"Gillespie, Gary N",CSE 8AL - Intro/Computer Science:JavaLab (B),FA12,62,44,95.30%,90.70%,3.02,A- (3.76),B (3.26)
+"Jhala, Ranjit",CSE 8AL - Intro/Computer Science:JavaLab (C),FA12,57,36,94.30%,97.10%,2.74,A- (3.79),B (3.28)
+"Gillespie, Gary N",CSE 8AL - Intro/Computer Science:JavaLab (D),FA12,56,42,97.10%,91.40%,2.91,B+ (3.67),B (3.26)
+"Alvarado, Christine J.",CSE 8AL - Intro/Computer Science:JavaLab (E),FA12,62,40,87.50%,97.50%,3.95,A- (3.71),B (3.17)
+"Lee, Cynthia Bailey",CSE 8AL - Intro/Computer Science:JavaLab (F),FA12,63,50,95.80%,97.90%,2.89,A- (3.83),B (3.23)
+"Lee, Cynthia Bailey",CSE 8AL - Intro/Computer Science:JavaLab (G),FA12,56,43,95.20%,95.20%,1.91,A- (3.83),B (3.23)
+"Kastner, Ryan Charles",CSE 8AL - Intro/Computer Science:JavaLab (H),FA12,63,45,90.90%,93.20%,2.17,A- (3.76),B+ (3.34)
+"Gillespie, Gary N",CSE 90 - Undergraduate Seminar (A),FA12,50,26,84.00%,96.00%,0.58,A (4.00),N/A
+"Griswold, William G.",CSE 91 - Perspectives in CSE (B),FA12,192,120,88.60%,93.00%,1.47,A- (3.97),N/A
+"Powell, Thomas Allan",CSE 135 - Server-side Web Applications (A),S212,67,19,100.00%,100.00%,13.76,B (3.26),B (3.22)
+"Chu, Isaac Y",CSE 136 - Enterprise-class Web Applcatns (A),S212,72,19,84.20%,84.20%,10.18,B+ (3.59),B+ (3.39)
+"Tseng, Hung-Wei",CSE 141 - Intro/Computer Architecture (A),S212,57,19,94.70%,100.00%,10.82,B+ (3.32),B (3.11)
+"Tseng, Hung-Wei",CSE 141L - Project/Computer Architecture (A),S212,48,19,89.50%,100.00%,15.13,B+ (3.50),B+ (3.62)
+"Paturi, Ramamohan",CSE 101 - Design & Analysis of Algorithm (A),S112,26,10,90.00%,90.00%,7.7,B (3.00),B (3.02)
+"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),S112,41,10,100.00%,70.00%,10.7,A- (3.80),B (3.02)
+"Whitehill, Jacob R",CSE 12 - Basic Data Struct & OO Design (B),S112,73,22,90.90%,100.00%,8.86,B+ (3.32),B+ (3.40)
+"Webb, Kevin C",CSE 120 - Princ/Computer Operating Systm (A),S112,22,20,100.00%,100.00%,13.3,B- (2.75),B- (2.88)
+"Chu, Isaac Y",CSE 132A - Database System Principles (A),S112,70,18,94.40%,88.90%,10.74,B+ (3.53),B+ (3.36)
+"Powell, Thomas Allan",CSE 134B - Web Client Languages (A),S112,73,19,89.50%,84.20%,11.55,B- (2.94),B (3.04)
+"Orailoglu, Alex",CSE 140 - Component&Desgn Tech/Digtl Sys (A),S112,54,17,58.80%,17.60%,15.68,B- (2.94),C (2.10)
+"Orailoglu, Alex",CSE 140L - Digital Systems Laboratory (A),S112,39,10,60.00%,10.00%,18.3,B (3.00),C+ (2.58)
+"Ord, Richard",CSE 15L - Software Tools&Techniques Lab (A),S112,50,16,100.00%,100.00%,3.88,B+ (3.69),A- (3.72)
+"Bales, Elizabeth S.",CSE 3 - Fluency/Information Technology (A),S112,37,14,78.60%,100.00%,7.36,A- (3.79),B+ (3.63)
+"Pasquale, Joseph",CSE 4GS - Mathematical Beauty in Rome (A),S112,16,6,100.00%,100.00%,11.5,A (4.00),N/A
+"Marx, Susan S",CSE 5A - Introduction to Programming I (A),S112,41,13,100.00%,100.00%,8.04,A- (3.77),B (3.19)
+"Pasquale, Joseph",CSE 6GS - Mathematicl Beauty in Rome-Lab (A),S112,16,7,100.00%,100.00%,14.5,A (4.00),N/A
+"Burkhard, Walter A.",CSE 100 - Advanced Data Structures (A),SP12,112,43,86.00%,58.10%,7.94,B- (2.95),C+ (2.62)
+"Freund, Yoav",CSE 100 - Advanced Data Structures (A),SP12,112,38,80.60%,69.40%,8.22,B- (2.95),C+ (2.62)
+"Paturi, Ramamohan",CSE 101 - Design & Analysis of Algorithm (A),SP12,116,54,87.00%,70.40%,8.43,B (3.15),B (3.12)
+"Tsiatas, Alexander S",CSE 105 - Intro/Theory of Computation (A),SP12,152,110,80.00%,96.30%,6.76,B- (2.97),B- (2.95)
+"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),SP12,48,21,100.00%,75.00%,9.7,B (3.26),C (2.22)
+"Gillespie, Gary N",CSE 110 - Software Engineering (A),SP12,130,63,85.70%,66.70%,11.48,B+ (3.37),B (3.23)
+"Kube, Paul Richard",CSE 12 - Basic Data Struct & OO Design (A),SP12,172,62,98.40%,87.10%,11.08,B (3.25),B- (2.88)
+"Zhou, Yuan-Yuan",CSE 120 - Princ/Computer Operating Systm (A),SP12,76,32,84.40%,68.80%,11.13,B (3.16),B- (2.85)
+"Voelker, Geoffrey M.",CSE 125 - Software Sys Design & Implemnt (A),SP12,33,16,100.00%,100.00%,18.88,A- (3.86),A (4.00)
+"Savage, Stefan Roberts",CSE 127 - Intro to Computer Security (A),SP12,137,48,95.70%,91.30%,5.02,B+ (3.43),B (3.16)
+"Jhala, Ranjit",CSE 130 - Progrmng Lang:Princpl&Paradigm (A),SP12,110,59,93.20%,87.90%,11.35,B+ (3.35),B (3.10)
+"Ord, Richard",CSE 131 - Compiler Construction (A),SP12,177,63,74.20%,87.10%,17.92,B (3.03),B- (2.73)
+"Papakonstantinou, Yannis",CSE 135 - Server-side Web Applications (A),SP12,129,51,76.50%,60.80%,7.6,B+ (3.46),B (3.08)
+"Orailoglu, Alex",CSE 140 - Component&Desgn Tech/Digtl Sys (A),SP12,46,21,47.60%,33.30%,9.36,C (2.29),C+ (2.40)
+"Orailoglu, Alex",CSE 140L - Digital Systems Laboratory (A),SP12,31,15,64.30%,35.70%,8.07,B+ (3.36),C+ (2.68)
+"Taylor, Michael",CSE 141 - Intro/Computer Architecture (A),SP12,58,25,76.00%,88.00%,13.22,B- (2.96),B (3.08)
+"Taylor, Michael",CSE 141L - Project/Computer Architecture (A),SP12,58,18,72.20%,94.40%,15.83,B+ (3.39),B (3.24)
+"Tullsen, Dean Michael",CSE 148 - Adv Processor Arch Design Proj (A),SP12,7,2,100.00%,100.00%,14.5,B (3.00),N/A
+"Chaudhuri, Kamalika",CSE 151 - Intro to A.I. Stats Approach (A),SP12,88,37,70.30%,66.70%,7.64,B (3.00),B (3.23)
+"Kriegman, David J",CSE 152 - Intro to Computer Vision (A),SP12,46,19,78.90%,83.30%,9.55,B (3.00),B- (2.80)
+"Belongie, Serge J.",CSE 155 - Computer Vision/Machine Learng (B),SP12,14,7,100.00%,100.00%,11.64,B+ (3.57),N/A
+"Kube, Paul Richard",CSE 15L - Software Tools&Techniques Lab (A),SP12,142,45,88.90%,81.80%,4.19,B+ (3.45),B (3.26)
+"Jensen, Henrik",CSE 168 - Computer Graphics II:Rendering (A),SP12,14,5,100.00%,80.00%,17.3,B- (2.80),N/A
+"Bellare, Mihir",CSE 191 - Semnr/Computer Sci & Engineer (A),SP12,5,2,100.00%,100.00%,10.5,A (4.00),N/A
+"Gaasterland, Theresa",CSE 191 - Semnr/Computer Sci & Engineer (B),SP12,44,27,100.00%,96.30%,2.35,A (4.00),A (4.00)
+"Cheng, Chung Kuan",CSE 20 - Intro/Discrete Mathematics (A),SP12,150,49,71.40%,61.20%,6.66,B (3.00),B (3.16)
+"Ord, Richard",CSE 21 - Math/Algorithm&Systems Analys (A),SP12,183,72,95.80%,88.70%,6.02,A- (3.79),B+ (3.46)
+"Marx, Susan S",CSE 3 - Fluency/Information Technology (A),SP12,177,75,90.70%,85.30%,3.93,A- (3.72),B+ (3.51)
+"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),SP12,121,55,92.50%,92.30%,14.27,B (3.06),C+ (2.69)
+"Marx, Susan S",CSE 5A - Introduction to Programming I (A),SP12,80,33,84.40%,81.30%,6.56,B (3.22),B- (2.78)
+"Lee, Cynthia Bailey",CSE 7 - Intro Programming MATLAB (A),SP12,131,51,81.30%,89.60%,6.08,B+ (3.45),B- (2.95)
+"Gillespie, Gary N",CSE 86 - C++ for Java Programmers (B),SP12,43,23,90.50%,90.50%,6.24,A (4.00),N/A
+"Cottrell, Garrison W",CSE 87 - Freshman Seminar (A),SP12,9,6,83.30%,66.70%,0.5,N/A,N/A
+"Papakonstantinou, Yannis",CSE 87 - Freshman Seminar (B),SP12,16,13,92.30%,100.00%,0.5,A (4.00),N/A
+"Kube, Paul Richard",CSE 8B - Intro/Computer Science: Java B (A),SP12,171,64,91.80%,75.40%,9.04,B (3.24),B (3.04)
+"Gillespie, Gary N",CSE 90 - Undergraduate Seminar (A),SP12,18,11,100.00%,100.00%,0.5,A (4.00),N/A
+"Griswold, William G.",CSE 91 - Perspectives in CSE (A),SP12,167,60,88.10%,96.60%,1.6,A (4.00),N/A
+"Simon, Elizabeth A",CSE 91 - Perspectives in CSE (A),SP12,167,53,87.80%,91.80%,1.58,A (4.00),N/A
+"Burkhard, Walter A.",CSE 100 - Advanced Data Structures (B),WI12,150,65,83.10%,43.10%,6.28,B (3.13),B- (2.83)
+"Kahng, Andrew Byun",CSE 101 - Design & Analysis of Algorithm (A),WI12,146,58,86.00%,78.90%,10.08,B (3.16),B- (2.93)
+"Shacham, Hovav",CSE 105 - Intro/Theory of Computation (A),WI12,87,43,67.40%,81.40%,9.29,B- (2.81),B- (2.73)
+"Bellare, Mihir",CSE 107 - Intro to Modern Cryptography (A),WI12,33,18,88.20%,88.20%,8.03,B- (2.94),C+ (2.50)
+"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),WI12,44,21,90.50%,71.40%,10.79,B- (2.74),C+ (2.62)
+"Gillespie, Gary N",CSE 110 - Software Engineering (A),WI12,120,59,81.40%,69.50%,11.81,B+ (3.38),B (3.15)
+"Kube, Paul Richard",CSE 12 - Basic Data Struct & OO Design (A),WI12,150,63,93.50%,85.50%,9.74,B+ (3.57),B (3.00)
+"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A),WI12,188,89,95.40%,95.40%,8.59,B (3.18),B- (2.89)
+"Lerner, Sorin",CSE 130 - Progrmng Lang:Princpl&Paradigm (A),WI12,127,54,92.60%,98.10%,9.28,B+ (3.46),B (3.27)
+"Ord, Richard",CSE 131 - Compiler Construction (A),WI12,96,39,92.30%,97.40%,17.68,B (3.21),C+ (2.56)
+"Vianu, Victor Dan",CSE 132A - Database System Principles (A),WI12,99,42,81.00%,59.50%,7.13,B- (2.97),B- (2.74)
+"Deutsch, Alin Bernard",CSE 132B - Database System Applications (B),WI12,74,29,82.10%,78.60%,9.67,A- (3.71),B (3.19)
+"Rosing, Tajana Simunic",CSE 140 - Component&Desgn Tech/Digtl Sys (C),WI12,58,50,82.00%,74.00%,9.58,C+ (2.69),C+ (2.51)
+"Kim, Choon",CSE 140L - Digital Systems Laboratory (A),WI12,62,33,81.30%,90.60%,7.5,B+ (3.63),B+ (3.38)
+"Swanson, Steven James",CSE 141 - Intro/Computer Architecture (A),WI12,87,35,80.00%,77.10%,7.53,B (3.15),B (3.12)
+"Swanson, Steven James",CSE 141L - Project/Computer Architecture (A),WI12,75,24,62.50%,75.00%,14,B+ (3.57),B+ (3.48)
+"Gupta, Rajesh K.",CSE 143 - Microelectronic System Design (A),WI12,7,6,83.30%,100.00%,6.17,A (4.00),N/A
+"Kastner, Ryan Charles",CSE 145 - Embedded System Design Project (A),WI12,22,14,100.00%,100.00%,9.5,A- (3.86),A- (3.90)
+"Saul, Lawrence",CSE 150 - Int Artif Intell:Search&Reason (A),WI12,110,76,89.30%,94.70%,6.82,B (3.16),B- (2.95)
+"Kube, Paul Richard",CSE 15L - Software Tools&Techniques Lab (A),WI12,122,45,79.50%,79.50%,2.91,A- (3.74),B+ (3.47)
+"Pevzner, Pavel Arkadjevich",CSE 181 - Molecular Sequence Analysis (A),WI12,12,8,87.50%,87.50%,10,B+ (3.63),N/A
+"Pevzner, Pavel Arkadjevich",CSE 181 - Molecular Sequence Analysis (A),WI12,5,3,100.00%,100.00%,12.5,B (3.00),N/A
+"Kriegman, David J",CSE 190 - Topics/Computer Sci & Engineer (C),WI12,2,2,100.00%,100.00%,5.5,A (4.00),N/A
+"Paturi, Ramamohan",CSE 190 - Topics/Computer Sci & Engineer (D),WI12,74,39,79.50%,51.30%,4.97,B+ (3.39),B+ (3.39)
+"Engel, Wolfgang F.",CSE 190 - Topics/Computer Sci & Engineer (F),WI12,15,8,75.00%,75.00%,7.25,B (3.29),N/A
+"Cottrell, Garrison W",CSE 190 - Topics/Computer Sci & Engineer (G),WI12,7,4,75.00%,75.00%,5,A (4.00),N/A
+"Pasquale, Joseph",CSE 20 - Intro/Discrete Mathematics (A),WI12,199,75,81.40%,86.10%,5.88,B+ (3.30),B- (2.82)
+"Graham, Ronald L",CSE 21 - Math/Algorithm&Systems Analys (A),WI12,129,41,87.80%,95.10%,5.52,B+ (3.55),B (3.30)
+"Simon, Elizabeth A",CSE 3 - Fluency/Information Technology (A),WI12,124,73,73.60%,95.90%,4.61,B+ (3.35),B+ (3.51)
+"Simon, Elizabeth A",CSE 3 - Fluency/Information Technology (B),WI12,89,49,89.60%,100.00%,4.5,A- (3.71),B+ (3.51)
+"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),WI12,121,45,91.10%,95.50%,12.77,B (3.18),C+ (2.67)
+"Lee, Cynthia Bailey",CSE 7 - Intro Programming MATLAB (A),WI12,100,64,87.50%,92.20%,6.34,B+ (3.34),B- (2.95)
+"Gillespie, Gary N",CSE 80 - UNIX Lab (A),WI12,36,13,92.30%,92.30%,3.5,A (4.00),N/A
+"Kastner, Ryan Charles",CSE 87 - Freshman Seminar (A),WI12,18,15,93.30%,100.00%,1.57,A (4.00),N/A
+"Cottrell, Garrison W",CSE 87 - Freshman Seminar (B),WI12,9,4,100.00%,100.00%,0.5,N/A,N/A
+"Kastner, Ryan Charles",CSE 87 - Freshman Seminar (C),WI12,18,10,100.00%,88.90%,0.5,A (4.00),N/A
+"Kube, Paul Richard",CSE 8A - Intro/Computer Science: Java A (A),WI12,171,88,94.30%,57.50%,7.44,B (3.28),B+ (3.33)
+"Chaudhuri, Kamalika",CSE 8AL - Intro/Computer Science:JavaLab (A),WI12,63,32,96.80%,90.60%,3.21,B+ (3.40),B (3.22)
+"Gillespie, Gary N",CSE 8AL - Intro/Computer Science:JavaLab (B),WI12,53,22,100.00%,85.70%,3.55,B+ (3.33),B (3.24)
+"Simon, Elizabeth A",CSE 8AL - Intro/Computer Science:JavaLab (C),WI12,55,32,90.30%,100.00%,3.21,B+ (3.57),B+ (3.46)
+"Ord, Richard",CSE 8B - Intro/Computer Science: Java B (A),WI12,127,62,93.50%,98.40%,13.88,B+ (3.51),B (3.10)
+"Marx, Susan S",CSE 8B - Intro/Computer Science: Java B (B),WI12,73,32,96.90%,62.50%,10.44,B- (2.90),C+ (2.36)
+"Gillespie, Gary N",CSE 90 - Undergraduate Seminar (A),WI12,34,19,84.20%,100.00%,0.82,A (4.00),N/A
+"Simon, Elizabeth A",CSE 90 - Undergraduate Seminar (B),WI12,55,31,100.00%,100.00%,2.3,A (4.00),N/A
+"Baden, Scott B.",CSE 91 - Perspectives in CSE (A),WI12,97,51,74.00%,84.00%,1.7,A (4.00),N/A
+"Kube, Paul Richard",CSE 100 - Advanced Data Structures (A),FA11,140,65,90.80%,86.20%,11.45,B (3.26),B- (2.95)
+"Dasgupta, Sanjoy",CSE 101 - Design & Analysis of Algorithm (A),FA11,143,70,91.40%,100.00%,7.76,B (3.00),B (3.02)
+"Freund, Yoav",CSE 103 - Practical Intro/Prob & Stats (A),FA11,117,65,67.70%,64.60%,6.72,B (3.02),B+ (3.32)
+"Micciancio, Daniele",CSE 105 - Intro/Theory of Computation (A),FA11,86,42,81.00%,64.30%,7.55,B (3.07),B- (2.71)
+"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),FA11,155,69,91.30%,95.50%,12.64,B+ (3.52),B+ (3.44)
+"Howden, William E.",CSE 110 - Software Engineering (A),FA11,95,43,61.90%,50.00%,6.5,B (3.09),B- (2.81)
+"Cowan, Lisa G.",CSE 118 - Ubiquitous Computing (A),FA11,39,29,86.20%,89.70%,6.5,B+ (3.62),B+ (3.45)
+"Kube, Paul Richard",CSE 12 - Basic Data Struct & OO Design (A),FA11,157,53,94.30%,80.80%,9.25,B+ (3.43),B- (2.83)
+"Zhou, Yuan-Yuan",CSE 120 - Princ/Computer Operating Systm (A),FA11,64,29,89.30%,85.70%,11.74,B+ (3.32),B+ (3.40)
+"Savage, Stefan Roberts",CSE 123 - Computer Networks (A),FA11,129,61,90.20%,83.60%,6.3,B+ (3.56),B+ (3.45)
+"Shacham, Hovav",CSE 127 - Intro to Computer Security (A),FA11,52,27,100.00%,100.00%,9.69,A- (3.70),B (3.09)
+"Jhala, Ranjit",CSE 130 - Progrmng Lang:Princpl&Paradigm (A),FA11,93,34,100.00%,97.10%,9.38,B (3.26),B (3.07)
+"Vianu, Victor Dan",CSE 132A - Database System Principles (A),FA11,144,71,59.20%,43.70%,5.92,B- (2.94),B- (2.75)
+"Papakonstantinou, Yannis",CSE 135 - Server-side Web Applications (A),FA11,81,35,85.70%,45.70%,10.33,B+ (3.40),C+ (2.55)
+"Lin, Bill",CSE 140 - Component&Desgn Tech/Digtl Sys (A),FA11,159,55,88.90%,92.60%,5.55,B (3.28),B- (2.92)
+"Kim, Choon",CSE 140L - Digital Systems Laboratory (A),FA11,148,53,90.60%,90.60%,7.25,A- (3.94),B+ (3.64)
+"Snavely, Allan Edward",CSE 141 - Intro/Computer Architecture (A),FA11,74,35,97.10%,91.40%,6.56,B (3.18),B+ (3.60)
+"Snavely, Allan Edward",CSE 141L - Project/Computer Architecture (A),FA11,73,25,95.80%,100.00%,9.62,B+ (3.67),A- (3.75)
+"Cottrell, Garrison W",CSE 153 - Cognitive Modeling (A),FA11,14,5,80.00%,60.00%,7.7,B (3.20),N/A
+"Elkan, Charles Peter",CSE 15L - Software Tools&Techniques Lab (A),FA11,149,64,53.10%,64.10%,3.41,B+ (3.63),B (3.10)
+"Belongie, Serge J.",CSE 166 - Image Processing (A),FA11,47,25,88.00%,100.00%,11.06,B+ (3.30),B+ (3.50)
+"Schulze, Jurgen P.",CSE 167 - Computer Graphics (A),FA11,36,20,100.00%,94.70%,16.4,B+ (3.44),B (3.28)
+"Bafna, Vineet",CSE 182 - Biological Databases (A),FA11,14,3,100.00%,66.70%,7.83,B (3.00),N/A
+"Bafna, Vineet",CSE 182 - Biological Databases (A),FA11,12,6,100.00%,100.00%,14.17,C+ (2.33),N/A
+"Deutsch, Alin Bernard",CSE 190 - Topics/Computer Sci & Engineer (A),FA11,13,5,100.00%,100.00%,5.7,A (4.00),N/A
+"Griswold, William G.",CSE 191 - Semnr/Computer Sci & Engineer (A),FA11,16,8,100.00%,100.00%,1,A (4.00),N/A
+"Micciancio, Daniele",CSE 20 - Intro/Discrete Mathematics (A),FA11,147,62,78.70%,49.20%,6.66,B (3.08),C+ (2.48)
+"Graham, Ronald L",CSE 21 - Math/Algorithm&Systems Analys (A),FA11,154,77,87.00%,92.20%,5.28,B+ (3.42),B+ (3.34)
+"Marx, Susan S",CSE 3 - Fluency/Information Technology (A),FA11,202,100,89.80%,86.70%,3.94,B+ (3.68),B+ (3.64)
+"Marx, Susan S",CSE 3 - Fluency/Information Technology (B),FA11,147,80,83.50%,75.90%,3.08,B+ (3.64),B+ (3.64)
+"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),FA11,138,66,93.90%,95.50%,12.17,B+ (3.42),B (3.11)
+"Marx, Susan S",CSE 5A - Introduction to Programming I (A),FA11,66,33,84.40%,75.00%,6.26,B (3.23),B- (2.90)
+"Kastner, Ryan Charles",CSE 87 - Freshman Seminar (A),FA11,16,8,87.50%,87.50%,0.75,A (4.00),N/A
+"Papakonstantinou, Yannis",CSE 87 - Freshman Seminar (B),FA11,14,10,100.00%,90.00%,0.9,N/A,N/A
+"Cottrell, Garrison W",CSE 87 - Freshman Seminar (C),FA11,12,8,87.50%,87.50%,0.5,A (4.00),N/A
+"Kastner, Ryan Charles",CSE 87 - Freshman Seminar (D),FA11,20,7,100.00%,100.00%,1.07,A (4.00),N/A
+"Ord, Richard",CSE 8A - Intro/Computer Science: Java A (A),FA11,145,74,93.20%,98.60%,7.68,A- (3.76),A- (3.73)
+"Rhodes, Neil Campbell",CSE 8A - Intro/Computer Science: Java A (B),FA11,96,44,97.70%,95.50%,7.86,B+ (3.42),B- (2.88)
+"Jhala, Ranjit",CSE 8AL - Intro/Computer Science:JavaLab (A),FA11,35,18,83.30%,77.80%,1.72,B+ (3.61),B+ (3.61)
+"Gillespie, Gary N",CSE 8AL - Intro/Computer Science:JavaLab (B),FA11,35,15,92.90%,92.90%,0.79,A- (3.87),B (3.29)
+"Kube, Paul Richard",CSE 8AL - Intro/Computer Science:JavaLab (C),FA11,39,18,94.40%,94.40%,2.97,B+ (3.67),B+ (3.68)
+"Ord, Richard",CSE 8AL - Intro/Computer Science:JavaLab (D),FA11,36,19,94.70%,100.00%,5.34,A- (3.78),A- (3.73)
+"Rhodes, Neil Campbell",CSE 8AL - Intro/Computer Science:JavaLab (F),FA11,22,9,100.00%,100.00%,2.94,B+ (3.67),B- (2.97)
+"Rhodes, Neil Campbell",CSE 8AL - Intro/Computer Science:JavaLab (G),FA11,36,17,100.00%,100.00%,3.56,B+ (3.59),B- (2.97)
+"Gillespie, Gary N",CSE 8AL - Intro/Computer Science:JavaLab (H),FA11,38,15,100.00%,100.00%,2.63,B+ (3.40),B (3.29)
+"Gillespie, Gary N",CSE 90 - Undergraduate Seminar (A),FA11,38,16,93.80%,100.00%,0.5,N/A,N/A
+"Bournoutian, Garo",CSE 131 - Compiler Construction (A),S311,6,1,100.00%,100.00%,12.5,B (3.00),N/A
+"Whitehill, Jacob R",CSE 12 - Basic Data Struct & OO Design (A),S211,38,22,95.50%,95.50%,11.41,B (3.19),B (3.24)
+"Powell, Thomas Allan",CSE 135 - Server-side Web Applications (A),S211,52,17,94.10%,88.20%,10.26,B+ (3.41),B- (3.00)
+"Chu, Isaac Y",CSE 136 - Enterprise-class Web Applcatns (A),S211,47,14,100.00%,100.00%,7.73,A- (3.85),B+ (3.38)
+"Garcia, Saturnino",CSE 141 - Intro/Computer Architecture (A),S211,32,23,91.30%,100.00%,7.46,B (3.17),B- (2.77)
+"Garcia, Saturnino",CSE 141L - Project/Computer Architecture (A),S211,32,20,75.00%,90.00%,17.5,B+ (3.50),B+ (3.44)
+"Ruvolo, Paul L",CSE 21 - Math/Algorithm&Systems Analys (A),S211,59,33,90.90%,93.90%,8.19,A- (3.74),B+ (3.70)
+"Irturk, Ali Umut",CSE 30 - Computer Organiz&Systms Progrm (A),S211,27,8,87.50%,62.50%,14,B+ (3.43),B+ (3.55)
+"Kube, Paul Richard",CSE 100 - Advanced Data Structures (A),S111,52,21,95.20%,95.20%,16.12,B- (2.95),B- (2.74)
+"Paturi, Ramamohan",CSE 101 - Design & Analysis of Algorithm (A),S111,33,13,69.20%,46.20%,7.42,C+ (2.69),B- (2.77)
+"Lee, Cynthia Bailey",CSE 105 - Intro/Theory of Computation (A),S111,27,22,90.90%,100.00%,7.41,B (3.27),B- (2.74)
+"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),S111,31,6,100.00%,100.00%,11.83,B+ (3.50),C+ (2.60)
+"Kube, Paul Richard",CSE 12 - Basic Data Struct & OO Design (A),S111,51,16,81.30%,86.70%,11,B+ (3.40),C+ (2.58)
+"Taylor, Cynthia Bagier",CSE 120 - Princ/Computer Operating Systm (A),S111,33,27,100.00%,96.30%,10.94,B (3.07),B- (2.83)
+"Kanich, Christopher W",CSE 123 - Computer Networks (A),S111,12,6,100.00%,100.00%,16.5,B (3.00),N/A
+"Chu, Isaac Y",CSE 132A - Database System Principles (A),S111,69,28,96.40%,96.30%,8.36,A- (3.71),B+ (3.66)
+"Powell, Thomas Allan",CSE 134B - Web Client Languages (A),S111,31,9,100.00%,100.00%,8.28,B (3.22),B (3.03)
+"Orailoglu, Alex",CSE 140 - Component&Desgn Tech/Digtl Sys (A),S111,26,14,61.50%,30.80%,13.36,B- (2.93),C+ (2.41)
+"Orailoglu, Alex",CSE 140L - Digital Systems Laboratory (A),S111,24,11,66.70%,44.40%,14.5,B (3.20),B- (2.87)
+"Ord, Richard",CSE 15L - Software Tools&Techniques Lab (A),S111,50,16,93.80%,100.00%,5.38,B+ (3.56),B+ (3.33)
+"Peng, Qian",CSE 20 - Intro/Discrete Mathematics (A),S111,53,22,68.20%,59.10%,10.59,B- (2.80),B- (2.74)
+"Marx, Susan S",CSE 5A - Introduction to Programming I (A),S111,39,17,82.40%,87.50%,8.97,B+ (3.53),B (3.07)
+"Burkhard, Walter A.",CSE 100 - Advanced Data Structures (A),SP11,115,42,81.00%,28.60%,8.31,B- (2.93),C+ (2.64)
+"Impagliazzo, Russell",CSE 101 - Design & Analysis of Algorithm (A),SP11,70,31,85.70%,57.10%,7.97,B (3.28),C+ (2.65)
+"Lee, Cynthia Bailey",CSE 105 - Intro/Theory of Computation (A),SP11,194,130,76.00%,97.60%,5.93,B+ (3.34),B- (2.82)
+"Kube, Paul Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),SP11,41,16,100.00%,92.90%,13.64,B (3.07),B- (2.96)
+"Gillespie, Gary N",CSE 110 - Software Engineering (A),SP11,125,56,80.00%,69.10%,10.5,B+ (3.43),B (3.08)
+"Kube, Paul Richard",CSE 12 - Basic Data Struct & OO Design (A),SP11,164,69,82.60%,50.70%,10.3,B (3.19),B- (2.71)
+"Zhou, Yuan-Yuan",CSE 120 - Princ/Computer Operating Systm (A),SP11,55,22,95.50%,95.50%,10.12,B (3.18),B- (2.89)
+"Voelker, Geoffrey M.",CSE 125 - Software Sys Design & Implemnt (A),SP11,30,14,100.00%,100.00%,15.93,A- (3.86),A- (3.97)
+"Shacham, Hovav",CSE 127 - Intro to Computer Security (A),SP11,76,46,100.00%,100.00%,8.37,B+ (3.57),B+ (3.40)
+"Jhala, Ranjit",CSE 130 - Progrmng Lang:Princpl&Paradigm (A),SP11,32,17,100.00%,100.00%,8.62,B+ (3.31),B+ (3.44)
+"Ord, Richard",CSE 131 - Compiler Construction (A),SP11,129,65,87.70%,92.30%,17.24,B+ (3.38),B- (2.78)
+"Papakonstantinou, Yannis",CSE 135 - Server-side Web Applications (A),SP11,153,82,67.90%,45.00%,11.04,B+ (3.65),B- (2.83)
+"Orailoglu, Alex",CSE 140 - Component&Desgn Tech/Digtl Sys (A),SP11,44,21,71.40%,47.60%,12.9,C+ (2.50),B- (2.71)
+"Orailoglu, Alex",CSE 140L - Digital Systems Laboratory (A),SP11,40,17,82.40%,58.80%,14.38,B- (2.94),B- (2.76)
+"Taylor, Michael",CSE 141 - Intro/Computer Architecture (A),SP11,65,35,67.60%,90.90%,13.21,B (3.29),B (3.26)
+"Taylor, Michael",CSE 141L - Project/Computer Architecture (A),SP11,64,32,71.00%,93.50%,15.98,B+ (3.58),B+ (3.35)
+"Gupta, Rajesh K.",CSE 143 - Microelectronic System Design (A),SP11,6,5,100.00%,100.00%,8.1,B+ (3.40),N/A
+"Kastner, Ryan Charles",CSE 145 - Embedded System Design Project (A),SP11,14,7,100.00%,100.00%,9.93,B+ (3.57),N/A
+"Kriegman, David J",CSE 152 - Intro to Computer Vision (A),SP11,58,27,55.60%,51.90%,9.83,B (3.00),B- (3.00)
+"Elkan, Charles Peter",CSE 15L - Software Tools&Techniques Lab (A),SP11,126,53,62.30%,64.20%,3.78,B+ (3.49),B- (2.82)
+"Bandeira, Nuno Filipe Cabrita",CSE 181 - Molecular Sequence Analysis (A),SP11,21,12,66.70%,41.70%,11.9,B- (2.73),B- (2.99)
+"Belongie, Serge J.",CSE 190 - Topics/Computer Sci & Engineer (A),SP11,10,5,100.00%,100.00%,15.3,A (4.00),N/A
+"Cheng, Chung Kuan",CSE 20 - Intro/Discrete Mathematics (A),SP11,144,59,75.90%,46.60%,5.6,B- (2.90),B (3.21)
+"Graham, Ronald L",CSE 21 - Math/Algorithm&Systems Analys (A),SP11,96,40,95.00%,90.00%,6.7,B+ (3.68),B+ (3.54)
+"Marx, Susan S",CSE 3 - Fluency/Information Technology (C),SP11,161,45,93.20%,81.80%,3.57,A- (3.74),B (3.29)
+"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),SP11,96,37,94.60%,97.30%,11.26,B+ (3.35),B- (2.83)
+"Marx, Susan S",CSE 5A - Introduction to Programming I (A),SP11,65,19,73.70%,73.70%,7.34,B+ (3.47),B (3.22)
+"Gillespie, Gary N",CSE 86 - C++ for Java Programmers (B),SP11,35,15,93.30%,86.70%,6.1,N/A,N/A
+"Cottrell, Garrison W",CSE 87 - Freshman Seminar (A),SP11,8,3,100.00%,100.00%,1.17,N/A,N/A
+"Kastner, Ryan Charles",CSE 87 - Freshman Seminar (B),SP11,18,7,100.00%,100.00%,0.5,A (4.00),N/A
+"Kastner, Ryan Charles",CSE 87 - Freshman Seminar (C),SP11,17,10,100.00%,100.00%,0.7,B (3.00),N/A
+"Ord, Richard",CSE 8B - Intro/Computer Science: Java B (A),SP11,132,47,89.10%,97.80%,10.33,B+ (3.67),B+ (3.49)
+"Burkhard, Walter A.",CSE 100 - Advanced Data Structures (A),WI11,144,57,77.20%,28.10%,8.64,B- (2.98),C+ (2.52)
+"Kahng, Andrew Byun",CSE 101 - Design & Analysis of Algorithm (A),WI11,138,72,69.40%,44.40%,8.39,B- (2.80),B- (2.95)
+"Shacham, Hovav",CSE 105 - Intro/Theory of Computation (A),WI11,119,65,44.60%,50.80%,8.35,B- (2.84),B- (2.73)
+"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),WI11,46,23,100.00%,54.50%,7.98,B+ (3.38),C+ (2.52)
+"Krueger, Ingolf",CSE 110 - Software Engineering (A),WI11,70,38,84.20%,73.70%,7.24,B+ (3.33),B (3.18)
+"Kube, Paul Richard",CSE 12 - Basic Data Struct & OO Design (A),WI11,83,39,92.30%,64.10%,9.17,B (3.26),B (3.06)
+"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A),WI11,141,72,95.80%,94.40%,10.53,B+ (3.32),B- (2.90)
+"Lerner, Sorin",CSE 130 - Progrmng Lang:Princpl&Paradigm (A),WI11,114,64,96.80%,95.20%,9.91,B+ (3.44),B (3.25)
+"Ord, Richard",CSE 131 - Compiler Construction (A),WI11,138,53,90.60%,98.10%,17.14,B+ (3.52),C+ (2.56)
+"Rosing, Tajana Simunic",CSE 140 - Component&Desgn Tech/Digtl Sys (B),WI11,36,16,81.30%,68.80%,11.43,B (3.13),C (2.24)
+"Kim, Choon",CSE 140L - Digital Systems Laboratory (A),WI11,45,21,85.70%,85.70%,7.64,A- (3.75),A- (3.76)
+"Swanson, Steven James",CSE 141 - Intro/Computer Architecture (A),WI11,81,36,85.70%,91.40%,7.64,B+ (3.45),C+ (2.64)
+"Swanson, Steven James",CSE 141L - Project/Computer Architecture (A),WI11,54,24,70.80%,87.50%,16.42,A- (3.74),A- (3.74)
+"Tullsen, Dean Michael",CSE 148 - Adv Processor Arch Design Proj (A),WI11,15,7,85.70%,100.00%,10.79,C+ (2.67),N/A
+"Saul, Lawrence",CSE 150 - Int Artif Intell:Search&Reason (B),WI11,78,60,88.30%,96.70%,8.27,B (3.26),B (3.04)
+"Elkan, Charles Peter",CSE 15L - Software Tools&Techniques Lab (A),WI11,66,35,54.30%,50.00%,3.13,B (3.18),B (3.24)
+"Baden, Scott B.",CSE 160 - Intro to Parallel Computing (A),WI11,45,22,90.90%,86.40%,9.14,B (3.09),B- (2.96)
+"Jensen, Henrik",CSE 168 - Computer Graphics II:Rendering (A),WI11,28,16,100.00%,87.50%,15.88,B+ (3.43),B+ (3.38)
+"Paturi, Ramamohan",CSE 190 - Topics/Computer Sci & Engineer (A),WI11,48,23,73.90%,43.50%,4.33,B+ (3.50),A- (3.82)
+"Kriegman, David J",CSE 190 - Topics/Computer Sci & Engineer (D),WI11,7,4,100.00%,100.00%,13,B+ (3.33),N/A
+"Engel, Wolfgang F.",CSE 190 - Topics/Computer Sci & Engineer (E),WI11,8,3,100.00%,100.00%,9.83,B+ (3.67),N/A
+"Bellare, Mihir",CSE 191 - Semnr/Computer Sci & Engineer (A),WI11,2,1,100.00%,100.00%,8.5,A (4.00),N/A
+"Pasquale, Joseph",CSE 20 - Intro/Discrete Mathematics (A),WI11,112,54,73.60%,83.00%,6.69,B (3.06),C+ (2.50)
+"Graham, Ronald L",CSE 21 - Math/Algorithm&Systems Analys (A),WI11,106,45,88.90%,97.80%,6.86,B+ (3.44),B+ (3.47)
+"Simon, Elizabeth A",CSE 3 - Fluency/Information Technology (A),WI11,150,88,69.80%,90.70%,5.15,B+ (3.64),B+ (3.39)
+"Simon, Elizabeth A",CSE 3 - Fluency/Information Technology (B),WI11,197,120,70.80%,90.00%,4.62,B+ (3.65),B+ (3.39)
+"Simon, Elizabeth A",CSE 3 - Fluency/Information Technology (C),WI11,105,63,68.30%,82.50%,4.28,A- (3.73),B+ (3.39)
+"Kastner, Ryan Charles",CSE 30 - Computer Organiz&Systms Progrm (A),WI11,136,65,89.20%,84.60%,10.93,B (3.21),B- (2.87)
+"Gillespie, Gary N",CSE 80 - UNIX Lab (B),WI11,56,30,96.70%,93.30%,3.97,N/A,N/A
+"Cottrell, Garrison W",CSE 87 - Freshman Seminar (A),WI11,10,4,100.00%,75.00%,0.5,N/A,N/A
+"Kastner, Ryan Charles",CSE 87 - Freshman Seminar (B),WI11,17,13,100.00%,100.00%,0.65,A (4.00),N/A
+"Kastner, Ryan Charles",CSE 87 - Freshman Seminar (C),WI11,16,13,100.00%,100.00%,0.81,N/A,N/A
+"Ord, Richard",CSE 8A - Intro/Computer Science: Java A (A),WI11,160,79,97.40%,98.70%,6.63,A- (3.72),B+ (3.60)
+"Gillespie, Gary N",CSE 8AL - Intro/Computer Science:JavaLab (A),WI11,35,16,100.00%,80.00%,1.83,A- (3.75),B+ (3.43)
+"Lerner, Sorin",CSE 8AL - Intro/Computer Science:JavaLab (B),WI11,36,17,94.10%,94.10%,3.25,A- (3.88),B+ (3.63)
+"Ord, Richard",CSE 8AL - Intro/Computer Science:JavaLab (E),WI11,32,16,87.50%,100.00%,2.75,A- (3.92),A- (3.77)
+"Marx, Susan S",CSE 8AL - Intro/Computer Science:JavaLab (F),WI11,29,10,90.00%,100.00%,3.7,B+ (3.56),B+ (3.58)
+"Marx, Susan S",CSE 8AL - Intro/Computer Science:JavaLab (G),WI11,29,14,92.90%,92.90%,2.64,B+ (3.57),B+ (3.58)
+"Ord, Richard",CSE 8B - Intro/Computer Science: Java B (A),WI11,169,81,97.50%,96.20%,9.84,B+ (3.62),B+ (3.47)
+"Gillespie, Gary N",CSE 90 - Undergraduate Seminar (A),WI11,25,14,100.00%,100.00%,0.5,A (4.00),N/A
+"Simon, Elizabeth A",CSE 90 - Undergraduate Seminar (B),WI11,10,8,100.00%,100.00%,2.17,A (4.00),N/A
+"Baden, Scott B.",CSE 91 - Perspectives in CSE (B),WI11,194,102,65.70%,69.30%,1.6,A- (3.87),N/A
+"Kube, Paul Richard",CSE 100 - Advanced Data Structures (A),FA10,139,75,93.30%,80.00%,10.82,B (3.23),B- (2.95)
+"Freund, Yoav",CSE 101 - Design & Analysis of Algorithm (A),FA10,119,57,82.50%,40.40%,6.54,B (3.04),B (3.27)
+"Dasgupta, Sanjoy",CSE 103 - Practical Intro/Prob & Stats (A),FA10,45,31,96.80%,100.00%,5.98,B+ (3.30),B (3.14)
+"Micciancio, Daniele",CSE 105 - Intro/Theory of Computation (A),FA10,106,53,69.80%,86.80%,9.18,B (3.26),B (3.07)
+"Bellare, Mihir",CSE 107 - Intro/Modern Cryptography (A),FA10,16,9,100.00%,88.90%,8.5,B (3.00),N/A
+"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),FA10,88,46,95.60%,97.80%,12.23,B+ (3.53),B+ (3.34)
+"Gillespie, Gary N",CSE 110 - Software Engineering (A),FA10,33,14,78.60%,92.90%,12.36,A- (3.86),B+ (3.52)
+"Howden, William E.",CSE 111 - Objt. Oriented Software Design (A),FA10,41,17,88.20%,64.70%,3.91,B+ (3.41),B (3.16)
+"Krueger, Ingolf",CSE 112 - Advanced Software Engineering (A),FA10,18,12,100.00%,100.00%,11,A- (3.83),N/A
+"Griswold, William G.",CSE 118 - Ubiquitous Computing (A),FA10,19,12,91.70%,100.00%,6.5,B+ (3.64),N/A
+"Kube, Paul Richard",CSE 12 - Basic Data Struct & OO Design (A),FA10,98,49,91.30%,71.70%,9.18,B (3.15),B- (2.89)
+"Zhou, Yuan-Yuan",CSE 120 - Princ/Computer Operating Systm (A),FA10,59,22,77.30%,81.80%,9.83,B+ (3.32),B+ (3.38)
+"Snoeren, Alex C.",CSE 123 - Computer Networks (A),FA10,35,22,95.50%,95.50%,10.5,B (3.14),B- (2.85)
+"Balakrishnannairsa, Manoj",CSE 124 - Networked Services (A),FA10,28,13,84.60%,46.20%,5.88,B (3.15),B+ (3.53)
+"Lerner, Sorin",CSE 130 - Progrmng Lang:Princpl&Paradigm (A),FA10,87,42,95.20%,100.00%,10.26,B+ (3.66),B (3.22)
+"Deutsch, Alin Bernard",CSE 132A - Database System Principles (A),FA10,53,22,90.90%,77.30%,6.31,B (3.11),B (3.09)
+"Papakonstantinou, Yannis",CSE 135 - Server-side Web Applications (A),FA10,57,25,79.20%,87.50%,8.9,B+ (3.58),B+ (3.46)
+"Cheng, Chung Kuan",CSE 140 - Component&Desgn Tech/Digtl Sys (A),FA10,146,65,79.70%,76.60%,6.56,B+ (3.45),B+ (3.56)
+"Cheng, Chung Kuan",CSE 140L - Digital Systems Laboratory (A),FA10,146,61,66.10%,74.60%,12.27,B+ (3.63),A- (3.85)
+"Tullsen, Dean Michael",CSE 141 - Intro/Computer Architecture (A),FA10,43,19,84.20%,84.20%,6.5,B (3.22),B- (2.89)
+"Tullsen, Dean Michael",CSE 141L - Project/Computer Architecture (A),FA10,37,16,56.30%,81.30%,12.25,B+ (3.33),B+ (3.37)
+"Elkan, Charles Peter",CSE 15L - Software Tools&Techniques Lab (A),FA10,112,60,74.10%,89.70%,1.83,A- (3.77),B- (2.91)
+"Belongie, Serge J.",CSE 166 - Image Processing (A),FA10,19,13,100.00%,92.30%,10.5,B+ (3.46),N/A
+"Schulze, Jurgen P.",CSE 167 - Computer Graphics (A),FA10,51,33,93.90%,97.00%,16.38,B+ (3.63),A- (3.72)
+"Bafna, Vineet",CSE 182 - Biological Databases (A),FA10,17,8,100.00%,100.00%,11.93,B+ (3.57),N/A
+"Cottrell, Garrison W",CSE 190 - Topics/Computer Sci & Engineer (A),FA10,12,5,80.00%,80.00%,10.1,B (3.25),N/A
+"Micciancio, Daniele",CSE 20 - Intro/Discrete Mathematics (A),FA10,105,54,65.40%,36.50%,7.96,C+ (2.57),C+ (2.50)
+"Ord, Richard",CSE 21 - Math/Algorithm&Systems Analys (A),FA10,151,85,91.70%,98.80%,4.69,A- (3.76),B+ (3.65)
+"Simon, Elizabeth A",CSE 3 - Fluency/Information Technology (A),FA10,232,178,54.50%,89.30%,4.21,A- (3.70),B+ (3.34)
+"Simon, Elizabeth A",CSE 3 - Fluency/Information Technology (B),FA10,241,192,60.90%,92.20%,4.71,A- (3.78),B+ (3.34)
+"Simon, Elizabeth A",CSE 3 - Fluency/Information Technology (C),FA10,105,82,70.40%,92.50%,4.33,A- (3.80),B+ (3.34)
+"Kastner, Ryan Charles",CSE 30 - Computer Organiz&Systms Progrm (A),FA10,112,58,91.40%,91.20%,10.02,B (3.21),B- (2.86)
+"Marx, Susan S",CSE 5A - Introduction to Programming I (A),FA10,56,34,100.00%,97.10%,6.62,B+ (3.34),B- (2.94)
+"Kastner, Ryan Charles",CSE 87 - Freshman Seminar (A),FA10,18,12,91.70%,100.00%,0.67,A (4.00),N/A
+"Cottrell, Garrison W",CSE 87 - Freshman Seminar (B),FA10,13,6,66.70%,83.30%,0.5,A (4.00),N/A
+"Kastner, Ryan Charles",CSE 87 - Freshman Seminar (C),FA10,11,9,88.90%,88.90%,0.5,A (4.00),N/A
+"Ord, Richard",CSE 8A - Intro/Computer Science: Java A (A),FA10,207,111,91.80%,95.50%,7.28,B+ (3.30),B (3.29)
+"Ord, Richard",CSE 8AL - Intro/Computer Science:JavaLab (A),FA10,36,23,91.30%,91.30%,3.63,B+ (3.43),B+ (3.36)
+"Cottrell, Garrison W",CSE 8AL - Intro/Computer Science:JavaLab (B),FA10,28,17,88.20%,88.20%,2.97,B+ (3.44),B+ (3.40)
+"Gillespie, Gary N",CSE 8AL - Intro/Computer Science:JavaLab (C),FA10,31,17,93.80%,81.30%,2.25,B+ (3.35),B (3.23)
+"Marx, Susan S",CSE 8AL - Intro/Computer Science:JavaLab (D),FA10,35,17,100.00%,100.00%,4.97,B+ (3.63),B (3.26)
+"Marx, Susan S",CSE 8AL - Intro/Computer Science:JavaLab (E),FA10,35,20,94.70%,89.50%,1.94,A- (3.72),B (3.26)
+"Dasgupta, Sanjoy",CSE 8AL - Intro/Computer Science:JavaLab (F),FA10,26,11,100.00%,100.00%,1.59,B (3.27),B (3.24)
+"Gillespie, Gary N",CSE 8AL - Intro/Computer Science:JavaLab (G),FA10,16,4,100.00%,100.00%,3,B+ (3.50),B (3.23)
+"Gillespie, Gary N",CSE 90 - Undergraduate Seminar (A),FA10,26,17,94.10%,100.00%,0.62,N/A,N/A
+"Simon, Elizabeth A",CSE 90 - Undergraduate Seminar (B),FA10,43,29,100.00%,100.00%,2.29,A (4.00),N/A
+"Kube, Paul Richard",CSE 100 - Advanced Data Structures (A),SU10,53,20,95.00%,90.00%,13.1,B+ (3.37),N/A
+"Paturi, Ramamohan",CSE 101 - Design & Analysis of Algorithm (A),SU10,65,21,95.00%,85.00%,7.7,B (3.10),N/A
+"Lee, Cynthia Bailey",CSE 105 - Intro/Theory of Computation (A),SU10,45,27,85.20%,88.90%,6.5,B+ (3.42),N/A
+"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),SU10,27,11,90.90%,81.80%,10.14,B (3.00),N/A
+"Kube, Paul Richard",CSE 12 - Basic Data Struct & OO Design (A),SU10,32,9,77.80%,88.90%,12.5,B+ (3.38),N/A
+"Anderson, James W.",CSE 120 - Princ/Computer Operating Systm (A),SU10,11,5,60.00%,60.00%,18.5,B (3.00),N/A
+"Tate, Ross E",CSE 130 - Progrmng Lang:Princpl&Paradigm (A),SU10,19,11,81.80%,81.80%,10.68,B+ (3.30),N/A
+"Powell, Thomas Allan",CSE 134B - Web Client Languages (A),SU10,18,5,100.00%,100.00%,6.1,B+ (3.40),N/A
+"Powell, Thomas Allan",CSE 135 - Server-side Web Applications (A),SU10,37,14,78.60%,85.70%,13.21,B (3.21),N/A
+"Chu, Isaac Y",CSE 136 - Enterprise-class Web Applcatns (A),SU10,19,4,100.00%,100.00%,12,A (4.00),N/A
+"Orailoglu, Alex",CSE 140 - Component&Desgn Tech/Digtl Sys (A),SU10,28,9,100.00%,77.80%,11.61,B (3.13),N/A
+"Orailoglu, Alex",CSE 140L - Digital Systems Laboratory (A),SU10,26,9,100.00%,87.50%,13.39,B+ (3.56),N/A
+"Porter, Leonard Emerson",CSE 141 - Intro/Computer Architecture (A),SU10,51,19,94.70%,100.00%,8.39,B+ (3.53),N/A
+"Porter, Leonard Emerson",CSE 141L - Project/Computer Architecture (A),SU10,49,18,88.20%,100.00%,11.39,B+ (3.61),N/A
+"Peng, Qian",CSE 20 - Intro/Discrete Mathematics (A),SU10,44,17,50.00%,75.00%,9.63,B- (2.88),N/A
+"Ord, Richard",CSE 3 - Fluency/Information Technology (A),SU10,33,12,100.00%,100.00%,4,A- (3.91),N/A
+"Pasquale, Joseph",CSE 4GS - Mathematical Beauty in Rome (A),SU10,21,5,100.00%,100.00%,5.3,A (4.00),N/A
+"Marx, Susan S",CSE 5A - Introduction to Programming I (A),SU10,29,10,100.00%,90.00%,7.5,B+ (3.50),N/A
+"Pasquale, Joseph",CSE 6GS - Mathematicl Beauty in Rome-Lab (A),SU10,21,4,100.00%,100.00%,4,A (4.00),N/A
+"Burkhard, Walter A.",CSE 100 - Advanced Data Structures (A),SP10,131,66,89.40%,62.10%,6.5,B+ (3.31),C+ (2.43)
+"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),SP10,50,31,93.50%,87.10%,6.77,B (3.08),C+ (2.48)
+"Dahlstrom, Dana B.",CSE 110 - Software Engineering (A),SP10,56,30,75.90%,51.70%,9.88,B+ (3.33),B- (2.74)
+"Howden, William E.",CSE 111 - Objt. Oriented Software Design (A),SP10,29,11,63.60%,81.80%,5.23,B+ (3.55),B (3.04)
+"Kube, Paul Richard",CSE 12 - Basic Data Struct & OO Design (A),SP10,137,65,90.80%,66.20%,8.87,B+ (3.49),B (3.12)
+"Zhou, Yuan-Yuan",CSE 120 - Princ/Computer Operating Systm (A),SP10,62,26,69.20%,50.00%,9.35,B- (2.96),B (3.12)
+"Varghese, George",CSE 123 - Computer Networks (A),SP10,69,29,92.90%,85.70%,6.93,B+ (3.50),B+ (3.61)
+"Voelker, Geoffrey M.",CSE 125 - Software Sys Design & Implemnt (A),SP10,34,26,100.00%,100.00%,18.58,A- (3.96),A- (3.98)
+"Shacham, Hovav",CSE 127 - Intro/Computer Security (A),SP10,54,29,100.00%,96.60%,9.5,B+ (3.34),B (3.02)
+"Jhala, Ranjit",CSE 130 - Progrmng Lang:Princpl&Paradigm (A),SP10,134,59,94.90%,94.90%,9.58,B (3.29),B (3.06)
+"Ord, Richard",CSE 131 - Compiler Construction (A),SP10,71,37,78.40%,94.60%,16.01,B+ (3.35),C+ (2.53)
+"Deutsch, Alin Bernard",CSE 132B - Database System Applications (A),SP10,31,21,90.00%,90.00%,11.17,A- (3.79),A- (3.81)
+"Papakonstantinou, Yannis",CSE 135 - Server-side Web Applications (A),SP10,83,36,69.40%,47.20%,8.56,B+ (3.30),B- (2.84)
+"Rosing, Tajana Simunic",CSE 140 - Component&Desgn Tech/Digtl Sys (A),SP10,76,31,80.60%,77.40%,10.5,B (3.17),C (2.23)
+"Rosing, Tajana Simunic",CSE 140L - Digital Systems Laboratory (A),SP10,62,33,63.60%,69.70%,13.95,B (3.06),C+ (2.46)
+"Taylor, Michael",CSE 141 - Intro/Computer Architecture (A),SP10,40,20,80.00%,100.00%,13.6,B+ (3.45),B (3.09)
+"Taylor, Michael",CSE 141L - Project/Computer Architecture (A),SP10,43,22,59.10%,95.50%,17.14,A- (3.71),B+ (3.62)
+"Kastner, Ryan Charles",CSE 145 - Embedded System Design Project (A),SP10,26,22,90.90%,100.00%,12.14,A- (3.77),A- (3.94)
+"Tullsen, Dean Michael",CSE 148 - Adv Processor Arch Design Proj (A),SP10,8,5,100.00%,80.00%,10.9,B+ (3.60),N/A
+"Freund, Yoav",CSE 151 - Intro to A.I. Stats Approach (A),SP10,45,20,85.00%,55.00%,5.4,B+ (3.44),A- (3.91)
+"Kriegman, David J",CSE 152 - Intro to Computer Vision (A),SP10,25,13,84.60%,83.30%,10.81,B+ (3.33),B (3.01)
+"Dahlstrom, Dana B.",CSE 15L - Software Tools&Techniques Lab (A),SP10,30,16,56.30%,43.80%,3.38,B (3.25),B- (2.83)
+"Dahlstrom, Dana B.",CSE 15L - Software Tools&Techniques Lab (B),SP10,34,18,61.10%,55.60%,2.17,B- (2.81),B- (2.83)
+"Dahlstrom, Dana B.",CSE 15L - Software Tools&Techniques Lab (C),SP10,28,13,38.50%,38.50%,3.42,B (3.00),B- (2.83)
+"Jensen, Henrik",CSE 168 - Computer Graphics II:Rendering (A),SP10,35,16,93.80%,93.80%,15.57,A- (3.80),B (3.20)
+"Pevzner, Pavel Arkadjevich",CSE 181 - Molecular Sequence Analysis (A),SP10,12,8,100.00%,87.50%,11.07,B+ (3.57),N/A
+"Micciancio, Daniele",CSE 20 - Intro/Discrete Mathematics (A),SP10,99,47,53.20%,51.10%,5.72,B- (2.76),C (2.17)
+"Ord, Richard",CSE 21 - Math/Algorithm&Systems Analys (A),SP10,142,69,85.30%,98.50%,6.12,B+ (3.36),B (3.22)
+"Gillespie, Gary N",CSE 3 - Fluency/Information Technology (A),SP10,201,80,84.40%,83.10%,3.47,A- (3.86),B+ (3.57)
+"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),SP10,91,51,92.20%,94.10%,12.74,B+ (3.37),B (3.06)
+"Gillespie, Gary N",CSE 5A - Introduction to Programming I (A),SP10,47,16,81.30%,75.00%,10.5,B+ (3.45),B (3.19)
+"Dahlstrom, Dana B.",CSE 70 - Software Engineering (A),SP10,56,30,75.90%,51.70%,9.88,B+ (3.33),B- (2.74)
+"Simon, Elizabeth A",CSE 8B - Intro/Computer Science: Java B (A),SP10,75,38,92.10%,94.70%,10.18,B (3.11),B- (2.79)
+"Simon, Elizabeth A",CSE 90 - Undergraduate Seminar (A),SP10,8,5,100.00%,100.00%,2.1,N/A,N/A
+"Burkhard, Walter A.",CSE 100 - Advanced Data Structures (A),WI10,94,43,88.40%,62.80%,7.94,B+ (3.46),B- (2.73)
+"Paturi, Ramamohan",CSE 101 - Design & Analysis of Algorithm (A),WI10,79,38,89.50%,65.80%,6.45,B (3.30),B (3.12)
+"Dasgupta, Sanjoy",CSE 103 - Practical Intro/Prob & Stats (A),WI10,54,33,81.80%,93.90%,4.86,B- (2.91),B (3.11)
+"Micciancio, Daniele",CSE 105 - Intro/Theory of Computation (A),WI10,65,32,93.80%,96.80%,7.81,B+ (3.48),C+ (2.59)
+"Bellare, Mihir",CSE 107 - Intro/Modern Cryptography (A),WI10,14,8,87.50%,87.50%,6.75,B+ (3.63),N/A
+"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),WI10,51,21,95.20%,80.00%,7.6,B- (2.83),C+ (2.59)
+"Krueger, Ingolf",CSE 110 - Software Engineering (A),WI10,107,61,86.90%,75.40%,7.9,B (3.28),B- (2.92)
+"Kube, Paul Richard",CSE 12 - Basic Data Struct & OO Design (A),WI10,91,45,97.80%,86.70%,8.23,B+ (3.43),B- (2.99)
+"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A),WI10,86,53,98.10%,94.20%,10.19,B (3.18),B (3.08)
+"Snoeren, Alex C.",CSE 121 - Oper Systms:Architc&Implementn (A),WI10,8,7,71.40%,85.70%,12.5,B (3.29),N/A
+"Lerner, Sorin",CSE 130 - Progrmng Lang:Princpl&Paradigm (A),WI10,65,33,97.00%,90.90%,8,B+ (3.38),B- (2.94)
+"Ord, Richard",CSE 131 - Compiler Construction (A),WI10,58,30,76.70%,93.30%,17.37,B (3.11),C (2.29)
+"Vianu, Victor Dan",CSE 132A - Database System Principles (A),WI10,59,29,93.10%,89.70%,6.22,B+ (3.31),C+ (2.68)
+"Papakonstantinou, Yannis",CSE 135 - Server-side Web Applications (A),WI10,39,24,91.70%,91.70%,10.17,B+ (3.43),B (3.28)
+"Rosing, Tajana Simunic",CSE 140 - Component&Desgn Tech/Digtl Sys (A),WI10,51,21,81.00%,81.00%,9.2,B+ (3.43),C+ (2.61)
+"Rosing, Tajana Simunic",CSE 140L - Digital Systems Laboratory (A),WI10,43,19,57.90%,73.70%,13.55,B+ (3.68),B- (2.98)
+"Tullsen, Dean Michael",CSE 141 - Intro/Computer Architecture (A),WI10,47,27,85.20%,96.30%,6.43,B+ (3.31),B- (2.82)
+"Tullsen, Dean Michael",CSE 141L - Project/Computer Architecture (A),WI10,40,23,73.90%,95.70%,10.85,B+ (3.59),B (3.30)
+"Saul, Lawrence",CSE 150 - Int Artif Intell:Search&Reason (A),WI10,51,44,90.90%,100.00%,6.78,B+ (3.43),B (3.01)
+"Dahlstrom, Dana B.",CSE 15L - Software Tools&Techniques Lab (A),WI10,39,20,65.00%,40.00%,3.5,B (3.05),B- (2.74)
+"Dahlstrom, Dana B.",CSE 15L - Software Tools&Techniques Lab (B),WI10,34,14,64.30%,28.60%,3.07,B (3.14),B- (2.74)
+"Dahlstrom, Dana B.",CSE 15L - Software Tools&Techniques Lab (C),WI10,33,20,65.00%,45.00%,2.5,B (3.00),B- (2.74)
+"Dahlstrom, Dana B.",CSE 15L - Software Tools&Techniques Lab (D),WI10,35,22,72.70%,59.10%,2.95,B (3.18),B- (2.74)
+"Baden, Scott B.",CSE 160 - Intro to Parallel Computing (A),WI10,28,20,90.00%,73.70%,8.9,B+ (3.40),B- (2.90)
+"Wang, Wei",CSE 184 - Computational Molecular Biol. (A),WI10,10,3,33.30%,33.30%,6.5,B (3.00),N/A
+"Belongie, Serge J.",CSE 190 - Topics/Computer Sci & Engineer (A),WI10,10,8,100.00%,87.50%,11,A (4.00),N/A
+"Engel, Wolfgang F.",CSE 190 - Topics/Computer Sci & Engineer (B),WI10,25,12,83.30%,75.00%,11.05,B+ (3.33),A- (3.84)
+"Kriegman, David J",CSE 190 - Topics/Computer Sci & Engineer (C),WI10,4,1,100.00%,100.00%,6.5,C (2.00),N/A
+"Cheng, Chung Kuan",CSE 20 - Intro/Discrete Mathematics (A),WI10,115,53,75.50%,45.30%,4.15,B (3.20),B (3.22)
+"Pasquale, Joseph",CSE 21 - Math/Algorithm&Systems Analys (A),WI10,112,59,84.70%,96.60%,4.67,B+ (3.45),B (3.13)
+"Gillespie, Gary N",CSE 3 - Fluency/Information Technology (A),WI10,202,87,83.50%,68.20%,3.05,A- (3.72),B+ (3.58)
+"Marx, Susan S",CSE 3 - Fluency/Information Technology (B),WI10,204,76,85.10%,87.80%,2.58,A- (3.81),B+ (3.40)
+"Gupta, Rajesh K.",CSE 30 - Computer Organiz&Systms Progrm (A),WI10,80,44,75.00%,45.50%,9.68,B (3.12),B- (2.99)
+"Krueger, Ingolf",CSE 70 - Software Engineering (A),WI10,107,61,86.90%,75.40%,7.9,B (3.28),B- (2.92)
+"Ord, Richard",CSE 80 - UNIX Lab (A),WI10,53,39,92.30%,100.00%,1.37,A (4.00),N/A
+"Ord, Richard",CSE 86 - C++ for Java Programmers (A),WI10,53,41,97.60%,100.00%,1.04,N/A,N/A
+"Cottrell, Garrison W",CSE 87 - Freshman Seminar (A),WI10,10,7,57.10%,57.10%,0.79,N/A,N/A
+"Simon, Elizabeth A",CSE 87 - Freshman Seminar (B),WI10,10,9,100.00%,100.00%,2.06,A (4.00),N/A
+"Simon, Elizabeth A",CSE 8A - Intro/Computer Science: Java A (A),WI10,112,67,88.10%,98.50%,6.26,B+ (3.30),B- (2.99)
+"Dasgupta, Sanjoy",CSE 8AL - Intro/Computer Science:JavaLab (A),WI10,26,12,100.00%,90.90%,2,B+ (3.33),B (3.14)
+"Kastner, Ryan Charles",CSE 8AL - Intro/Computer Science:JavaLab (B),WI10,34,20,89.50%,100.00%,3.13,B (3.28),B (3.17)
+"Marzullo, Keith",CSE 8AL - Intro/Computer Science:JavaLab (C),WI10,28,20,85.00%,95.00%,3.5,B+ (3.40),B (3.05)
+"Simon, Elizabeth A",CSE 8AL - Intro/Computer Science:JavaLab (D),WI10,24,8,87.50%,100.00%,5.25,B+ (3.50),C+ (2.60)
+"Simon, Elizabeth A",CSE 8B - Intro/Computer Science: Java B (A),WI10,133,100,97.00%,100.00%,8.88,B+ (3.46),B (3.07)
+"Gillespie, Gary N",CSE 90 - Undergraduate Seminar (A),WI10,22,10,80.00%,80.00%,2.5,A (4.00),N/A
+"Varghese, George",CSE 91 - Perspectives in CSE (A),WI10,114,60,69.50%,89.80%,1.08,A- (3.92),N/A
+"Kube, Paul Richard",CSE 100 - Advanced Data Structures (A),FA09,55,32,93.80%,87.50%,12.06,B (3.13),B- (2.99)
+"Freund, Yoav",CSE 101 - Design & Analysis of Algorithm (A),FA09,68,37,75.00%,52.80%,6.28,B (3.22),B (3.05)
+"Shacham, Hovav",CSE 105 - Intro/Theory of Computation (A),FA09,37,30,73.30%,90.00%,7.23,B (3.03),B (3.07)
+"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),FA09,108,62,98.40%,95.10%,11.47,B+ (3.65),B+ (3.42)
+"Ord, Richard",CSE 110 - Software Engineering (A),FA09,96,70,71.00%,92.80%,6.53,B+ (3.61),B (3.28)
+"Howden, William E.",CSE 111 - Objt. Oriented Software Design (A),FA09,29,13,61.50%,61.50%,4.65,B+ (3.46),B- (2.85)
+"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),FA09,88,62,90.30%,95.20%,13.92,B+ (3.46),B- (2.83)
+"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A),FA09,56,31,90.00%,90.00%,8.37,B+ (3.31),B (3.03)
+"Savage, Stefan Roberts",CSE 123 - Computer Networks (A),FA09,49,38,89.50%,97.40%,5.66,B+ (3.43),B (3.17)
+"Balakrishnannairsa, Manoj",CSE 124 - Networked Services (A),FA09,14,12,83.30%,50.00%,6,B+ (3.42),N/A
+"Jhala, Ranjit",CSE 130 - Progrmng Lang:Princpl&Paradigm (A),FA09,74,32,93.80%,93.80%,9.75,B+ (3.32),B+ (3.31)
+"Vianu, Victor Dan",CSE 132A - Database System Principles (A),FA09,36,17,88.20%,88.20%,5.21,B (3.24),B- (2.87)
+"Orailoglu, Alex",CSE 140 - Component&Desgn Tech/Digtl Sys (A),FA09,37,35,68.60%,60.00%,9.13,C+ (2.47),B- (2.95)
+"Orailoglu, Alex",CSE 140L - Digital Systems Laboratory (A),FA09,37,21,71.40%,57.10%,9.26,B (3.00),B (3.12)
+"Swanson, Steven James",CSE 141 - Intro/Computer Architecture (A),FA09,21,18,100.00%,100.00%,9.94,A- (3.88),B (3.21)
+"Swanson, Steven James",CSE 141L - Project/Computer Architecture (A),FA09,21,15,100.00%,100.00%,16.1,A- (3.93),A- (3.83)
+"Elkan, Charles Peter",CSE 15L - Software Tools&Techniques Lab (A),FA09,43,38,76.30%,94.70%,2.24,B+ (3.65),B (3.10)
+"Dahlstrom, Dana B.",CSE 15L - Software Tools&Techniques Lab (B),FA09,37,32,76.70%,69.00%,2.31,B+ (3.66),B- (2.84)
+"Belongie, Serge J.",CSE 166 - Image Processing (A),FA09,26,17,76.50%,94.10%,12.25,B (3.13),B+ (3.52)
+"Schulze, Jurgen P.",CSE 167 - Computer Graphics (A),FA09,75,33,97.00%,90.90%,16.32,B+ (3.52),B (3.22)
+"Bafna, Vineet",CSE 182 - Biological Databases (A),FA09,14,10,100.00%,100.00%,10.1,B+ (3.56),N/A
+"Cottrell, Garrison W",CSE 190 - Topics/Computer Sci & Engineer (A),FA09,10,9,77.80%,100.00%,6.94,A- (3.86),N/A
+"Dahlstrom, Dana B.",CSE 20 - Intro/Discrete Mathematics (A),FA09,103,75,72.00%,45.90%,6.61,B- (2.94),C+ (2.66)
+"Graham, Ronald L",CSE 21 - Math/Algorithm&Systems Analys (A),FA09,135,63,81.70%,91.70%,4.4,B (3.30),B- (2.91)
+"Ord, Richard",CSE 3 - Fluency/Information Technology (A),FA09,156,79,88.60%,97.50%,2.5,A- (3.94),A- (3.74)
+"Marx, Susan S",CSE 3 - Fluency/Information Technology (B),FA09,133,76,76.00%,78.70%,2.45,B+ (3.68),B+ (3.56)
+"Kube, Paul Richard",CSE 3 - Fluency/Information Technology (C),FA09,156,101,71.40%,75.50%,2.64,A- (3.77),B+ (3.58)
+"Kastner, Ryan Charles",CSE 30 - Computer Organiz&Systms Progrm (A),FA09,95,68,95.50%,94.00%,7.91,B+ (3.39),B- (2.84)
+"Marx, Susan S",CSE 5A - Introduction to Programming I (A),FA09,59,48,74.50%,89.40%,5.75,B+ (3.33),B- (2.79)
+"Ord, Richard",CSE 70 - Software Engineering (A),FA09,96,70,71.00%,92.80%,6.53,B+ (3.61),B (3.28)
+"Cottrell, Garrison W",CSE 87 - Freshman Seminar (B),FA09,12,11,90.90%,90.90%,0.7,N/A,N/A
+"Simon, Elizabeth A",CSE 8A - Intro/Computer Science: Java (A),FA09,176,160,97.50%,98.10%,5.84,B+ (3.45),B (3.15)
+"Simon, Elizabeth A",CSE 8AL - Intro/Computer Science:JavaLab (A),FA09,37,18,100.00%,100.00%,3.06,B+ (3.59),B (3.15)
+"Kube, Paul Richard",CSE 8AL - Intro/Computer Science:JavaLab (B),FA09,38,29,96.30%,100.00%,1.74,A- (3.74),B (3.15)
+"Lerner, Sorin",CSE 8AL - Intro/Computer Science:JavaLab (C),FA09,36,22,95.50%,81.80%,2.5,B+ (3.45),B (3.05)
+"Jhala, Ranjit",CSE 8AL - Intro/Computer Science:JavaLab (D),FA09,39,39,92.10%,97.40%,1.63,B+ (3.60),B (3.27)
+"Marzullo, Keith",CSE 8AL - Intro/Computer Science:JavaLab (E),FA09,27,19,100.00%,100.00%,3.55,B+ (3.44),B- (2.92)
+"Gillespie, Gary N",CSE 90 - Undergraduate Seminar (A),FA09,33,19,84.20%,89.50%,1.55,N/A,N/A
+"Varghese, George",CSE 91 - Perspectives in CSE (A),FA09,126,56,90.90%,94.50%,0.89,A- (3.92),N/A
+"Glick, John Edward",CSE 100 - Advanced Data Structures (A),SU09,25,8,100.00%,87.50%,10,B (3.13),N/A
+"Paturi, Ramamohan",CSE 101 - Design & Analysis of Algorithm (A),SU09,19,5,80.00%,60.00%,6.9,B (3.20),N/A
+"Paturi, Ramamohan",CSE 105 - Intro/Theory of Computation (A),SU09,17,7,66.70%,100.00%,7.17,B+ (3.33),N/A
+"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),SU09,23,8,75.00%,75.00%,12.5,B (3.00),N/A
+"Malani, Roshni",CSE 110 - Software Engineering (A),SU09,18,7,85.70%,57.10%,7.64,B (3.14),N/A
+"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),SU09,24,13,92.30%,84.60%,14.81,B+ (3.50),N/A
+"Uyeda, Frank Christopher",CSE 120 - Princ/Computer Operating Systm (A),SU09,17,12,75.00%,81.80%,17.33,C+ (2.64),N/A
+"Dahlstrom, Dana B.",CSE 130 - Progrmng Lang:Princpl&Paradigm (A),SU09,11,4,100.00%,100.00%,8.5,B (3.25),N/A
+"Powell, Thomas Allan",CSE 134B - Web Client Languages (A),SU09,23,6,66.70%,66.70%,13.17,C+ (2.67),N/A
+"Orailoglu, Alex",CSE 140 - Component&Desgn Tech/Digtl Sys (A),SU09,23,9,77.80%,77.80%,10.28,B- (2.89),N/A
+"Orailoglu, Alex",CSE 140L - Digital Systems Laboratory (A),SU09,21,8,87.50%,75.00%,12.25,B (3.13),N/A
+"Chu, Isaac Y",CSE 141 - Intro/Computer Architecture (A),SU09,74,41,90.00%,100.00%,7.96,B+ (3.65),N/A
+"Chu, Isaac Y",CSE 141L - Project/Computer Architecture (A),SU09,76,37,91.70%,100.00%,11.64,A- (3.78),N/A
+"Dahlstrom, Dana B.",CSE 15L - Software Tools&Techniques Lab (A),SU09,24,9,77.80%,87.50%,4.28,A- (3.78),N/A
+"Glick, John Edward",CSE 160 - Intro to Parallel Computing (A),SU09,14,8,100.00%,100.00%,9.36,B+ (3.38),N/A
+"Tong, Matthew Harrison",CSE 20 - Intro/Discrete Mathematics (A),SU09,41,18,66.70%,83.30%,10.61,B- (2.94),N/A
+"Dahlstrom, Dana B.",CSE 21 - Math/Algorithm&Systems Analys (A),SU09,25,10,70.00%,60.00%,8.9,B (3.00),N/A
+"Ord, Richard",CSE 3 - Fluency/Information Technology (A),SU09,36,18,94.40%,94.40%,3.94,A- (3.94),N/A
+"Pasquale, Joseph",CSE 4GS - Mathematical Beauty in Rome (A),SU09,16,3,100.00%,100.00%,3.17,A (4.00),N/A
+"Marx, Susan S",CSE 5A - Introduction to Programming I (A),SU09,20,8,100.00%,100.00%,5.25,A (4.00),N/A
+"Pasquale, Joseph",CSE 6GS - Mathematicl Beauty in Rome-Lab (A),SU09,16,4,100.00%,100.00%,3,A- (3.75),N/A
+"Malani, Roshni",CSE 70 - Software Engineering (A),SU09,18,7,85.70%,57.10%,7.64,B (3.14),N/A
+"Kube, Paul Richard",CSE 100 - Advanced Data Structures (A),SP09,74,11,90.90%,70.00%,7.41,B+ (3.45),B- (2.89)
+"Impagliazzo, Russell",CSE 101 - Design & Analysis of Algorithm (A),SP09,38,27,74.10%,66.70%,6.65,B (3.13),C+ (2.60)
+"Micciancio, Daniele",CSE 105 - Intro/Theory of Computation (A),SP09,44,21,71.40%,85.70%,5.36,B (3.24),B- (2.98)
+"Kube, Paul Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),SP09,41,11,72.70%,81.80%,8.32,B (3.18),B- (2.95)
+"Krueger, Ingolf",CSE 110 - Software Engineering (A),SP09,63,33,78.80%,69.70%,10.5,B+ (3.30),C+ (2.50)
+"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),SP09,116,93,89.20%,90.30%,14.37,B (3.25),B- (2.76)
+"Voelker, Geoffrey M.",CSE 120 - Princ/Computer Operating Systm (A),SP09,58,38,92.10%,100.00%,12.61,B+ (3.43),B- (2.92)
+"Varghese, George",CSE 123 - Computer Networks (A),SP09,31,28,85.70%,89.30%,3.86,B+ (3.39),B+ (3.36)
+"Voelker, Geoffrey M.",CSE 125 - Software Sys Design & Implemnt (A),SP09,15,13,100.00%,100.00%,19.27,A- (3.85),N/A
+"Savage, Stefan Roberts",CSE 127 - Intro/Computer Security (A),SP09,51,28,100.00%,100.00%,3.36,A- (3.82),B+ (3.30)
+"Ord, Richard",CSE 131 - Compiler Construction (A),SP09,90,84,84.30%,96.40%,16.48,B+ (3.45),B- (2.82)
+"Deutsch, Alin Bernard",CSE 132B - Database System Applications (A),SP09,15,13,100.00%,100.00%,9.42,B+ (3.69),N/A
+"Papakonstantinou, Yannis",CSE 135 - Server-side Web Applications (A),SP09,36,25,80.00%,80.00%,6.1,B+ (3.44),B+ (3.30)
+"Cheng, Chung Kuan",CSE 140 - Component&Desgn Tech/Digtl Sys (A),SP09,91,43,85.40%,82.90%,6.13,B (3.10),B+ (3.38)
+"Cheng, Chung Kuan",CSE 140L - Digital Systems Laboratory (A),SP09,96,35,91.40%,85.70%,9.76,A- (3.71),A- (3.85)
+"Swanson, Steven James",CSE 141 - Intro/Computer Architecture (A),SP09,16,14,100.00%,92.30%,8.35,B+ (3.36),B (3.18)
+"Swanson, Steven James",CSE 141L - Project/Computer Architecture (A),SP09,16,8,100.00%,100.00%,17.75,A- (3.75),N/A
+"Gupta, Rajesh K.",CSE 143 - Microelectronic System Design (A),SP09,5,5,100.00%,100.00%,2.9,A- (3.80),N/A
+"Taylor, Michael",CSE 148 - Adv Processor Arch Design Proj (A),SP09,8,8,100.00%,100.00%,15.5,A- (3.83),N/A
+"Tullsen, Dean Michael",CSE 148 - Adv Processor Arch Design Proj (A),SP09,8,8,100.00%,100.00%,15.5,A- (3.83),N/A
+"Saul, Lawrence",CSE 150 - Int Artif Intell:Search&Reason (A),SP09,36,31,96.80%,100.00%,5.92,B (3.19),B (3.16)
+"Dahlstrom, Dana B.",CSE 15L - Software Tools&Techniques Lab (A),SP09,35,33,81.80%,81.80%,2.68,B+ (3.48),B- (2.96)
+"Pevzner, Pavel Arkadjevich",CSE 181 - Molecular Sequence Analysis (A),SP09,9,9,100.00%,100.00%,9.5,B+ (3.50),N/A
+"Dasgupta, Sanjoy",CSE 190 - Topics/Computer Sci & Engineer (A),SP09,18,14,78.60%,100.00%,5.79,B+ (3.69),B- (2.96)
+"Freund, Yoav",CSE 190 - Topics/Computer Sci & Engineer (A),SP09,18,13,76.90%,30.80%,5.58,B+ (3.69),B- (2.96)
+"Howden, William E.",CSE 20 - Intro/Discrete Mathematics (A),SP09,88,66,74.20%,87.10%,3.48,B (3.16),B- (2.75)
+"Dahlstrom, Dana B.",CSE 21 - Math/Algorithm&Systems Analys (A),SP09,66,31,51.60%,58.10%,4.24,B- (2.97),C+ (2.53)
+"Marx, Susan S",CSE 3 - Fluency/Information Technology (A),SP09,184,108,94.20%,93.20%,2.29,A- (3.84),B+ (3.31)
+"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),SP09,43,34,93.90%,93.90%,12.56,B (3.26),B- (2.76)
+"Gupta, Rajesh K.",CSE 30 - Computer Organiz&Systms Progrm (B),SP09,20,15,93.30%,80.00%,4.77,B+ (3.38),B (3.16)
+"Marx, Susan S",CSE 5A - Introduction to Programming I (A),SP09,27,22,86.40%,90.90%,4.77,B+ (3.55),B (3.19)
+"Krueger, Ingolf",CSE 70 - Software Engineering (A),SP09,63,33,78.80%,69.70%,10.5,B+ (3.30),C+ (2.50)
+"Ord, Richard",CSE 86 - C++ for Java Programmers (A),SP09,44,22,85.70%,100.00%,0.68,A (4.00),N/A
+"Cottrell, Garrison W",CSE 87 - Freshman Seminar (A),SP09,7,7,100.00%,85.70%,0.5,N/A,N/A
+"Simon, Elizabeth A",CSE 87 - Freshman Seminar (B),SP09,9,6,100.00%,100.00%,0.83,N/A,N/A
+"Simon, Elizabeth A",CSE 8B - Intro/Computer Science: Java (A),SP09,63,34,93.90%,97.10%,10.32,B+ (3.39),B (3.01)
+"Kube, Paul Richard",CSE 100 - Advanced Data Structures (A),WI09,53,29,92.90%,85.20%,10.91,B (3.21),B (3.03)
+"Dasgupta, Sanjoy",CSE 101 - Design & Analysis of Algorithm (A),WI09,66,26,84.60%,96.20%,8.74,B (3.08),B- (2.86)
+"Israeli, Amos",CSE 105 - Intro/Theory of Computation (A),WI09,41,30,69.00%,65.50%,6.98,B- (2.90),C+ (2.58)
+"Bellare, Mihir",CSE 107 - Intro/Modern Cryptography (A),WI09,22,15,93.30%,93.30%,4.5,B (3.29),B (3.19)
+"Kube, Paul Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),WI09,47,18,88.90%,88.20%,10.72,B (3.29),B (3.00)
+"Dahlstrom, Dana B.",CSE 110 - Software Engineering (A),WI09,48,38,84.20%,76.30%,7.64,B+ (3.50),B- (2.88)
+"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),WI09,84,72,93.00%,90.30%,14.19,B+ (3.31),B- (2.74)
+"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A),WI09,44,37,94.30%,91.40%,8.39,B (3.21),B- (2.92)
+"Snoeren, Alex C.",CSE 121 - Oper Systms:Architc&Implementn (A),WI09,9,7,100.00%,100.00%,7.07,B (3.29),N/A
+"Lerner, Sorin",CSE 130 - Progrmng Lang:Princpl&Paradigm (A),WI09,44,27,92.60%,92.60%,9.54,B (3.08),B (3.04)
+"Jhala, Ranjit",CSE 130 - Progrmng Lang:Princpl&Paradigm (B),WI09,37,27,100.00%,100.00%,9.54,B+ (3.48),B- (2.97)
+"Ord, Richard",CSE 131 - Compiler Construction (A),WI09,62,49,87.80%,98.00%,16.54,B+ (3.32),B- (2.80)
+"Vianu, Victor Dan",CSE 132A - Database System Principles (A),WI09,29,23,78.30%,78.30%,6.41,B (3.22),C+ (2.56)
+"Papakonstantinou, Yannis",CSE 135 - Server-side Web Applications (A),WI09,51,33,81.80%,57.60%,4.56,B+ (3.38),B (3.26)
+"Rosing, Tajana Simunic",CSE 140 - Component&Desgn Tech/Digtl Sys (A),WI09,26,22,100.00%,95.50%,7.77,B+ (3.41),B (3.10)
+"Rosing, Tajana Simunic",CSE 140L - Digital Systems Laboratory (A),WI09,22,19,89.50%,89.50%,7.45,B+ (3.53),B (3.03)
+"Tullsen, Dean Michael",CSE 141 - Intro/Computer Architecture (A),WI09,39,32,93.50%,93.50%,7,B+ (3.48),C+ (2.68)
+"Tullsen, Dean Michael",CSE 141L - Project/Computer Architecture (A),WI09,44,27,92.30%,100.00%,10.13,B+ (3.67),B+ (3.62)
+"Baden, Scott B.",CSE 15L - Software Tools&Techniques Lab (A),WI09,38,31,64.50%,64.50%,2.44,B (3.27),B- (3.00)
+"Elkan, Charles Peter",CSE 15L - Software Tools&Techniques Lab (B),WI09,50,48,62.50%,63.80%,2.13,B+ (3.57),B (3.04)
+"Dahlstrom, Dana B.",CSE 15L - Software Tools&Techniques Lab (C),WI09,36,33,75.00%,87.90%,2.81,B+ (3.70),B (3.03)
+"Rotenberg, Steven Paul",CSE 169 - Computer Animation (A),WI09,14,11,100.00%,100.00%,7.77,A- (3.70),N/A
+"Wang, Wei",CSE 184 - Computational Molecular Biol. (A),WI09,4,8,100.00%,100.00%,11,A- (3.75),N/A
+"Belongie, Serge J.",CSE 190 - Topics/Computer Sci & Engineer (A),WI09,9,10,100.00%,100.00%,8.3,A (4.00),N/A
+"Micciancio, Daniele",CSE 20 - Intro/Discrete Mathematics (A),WI09,87,26,69.20%,69.20%,4.27,B (3.19),C+ (2.36)
+"Orlitsky, Alon",CSE 21 - Math/Algorithm&Systems Analys (A),WI09,49,37,89.20%,56.80%,5.96,B (3.06),C+ (2.65)
+"Marx, Susan S",CSE 3 - Fluency/Information Technology (A),WI09,184,98,95.90%,96.90%,2.01,A- (3.84),B+ (3.66)
+"Gillespie, Gary N",CSE 3 - Fluency/Information Technology (B),WI09,169,38,89.50%,80.60%,2.45,A- (3.91),B+ (3.41)
+"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),WI09,62,42,100.00%,100.00%,10.64,B+ (3.56),B- (2.91)
+"Kastner, Ryan Charles",CSE 30 - Computer Organiz&Systms Progrm (B),WI09,6,6,100.00%,100.00%,5.83,B+ (3.33),N/A
+"Dahlstrom, Dana B.",CSE 70 - Software Engineering (A),WI09,48,38,84.20%,76.30%,7.64,B+ (3.50),B- (2.88)
+"Ord, Richard",CSE 80 - UNIX Lab (A),WI09,44,24,87.50%,100.00%,1.11,A (4.00),N/A
+"Pasquale, Joseph",CSE 87 - Freshman Seminar (C),WI09,18,14,100.00%,100.00%,0.79,A (4.00),N/A
+"Pasquale, Joseph",CSE 87 - Freshman Seminar (D),WI09,12,9,87.50%,100.00%,0.72,A (4.00),N/A
+"Pasquale, Joseph",CSE 87 - Freshman Seminar (E),WI09,18,9,100.00%,100.00%,0.5,N/A,N/A
+"Simon, Elizabeth A",CSE 8A - Intro/Computer Science: Java (A),WI09,87,66,92.30%,100.00%,6.86,B+ (3.37),B- (2.86)
+"Simon, Elizabeth A",CSE 8AL - Intro/Computer Science:JavaLab (A),WI09,33,17,94.10%,100.00%,4.85,B+ (3.59),B- (2.89)
+"Dasgupta, Sanjoy",CSE 8AL - Intro/Computer Science:JavaLab (B),WI09,36,21,100.00%,100.00%,2.98,B+ (3.45),B- (2.73)
+"Marzullo, Keith",CSE 8AL - Intro/Computer Science:JavaLab (C),WI09,18,19,100.00%,100.00%,5.66,B+ (3.53),B (3.08)
+"Simon, Elizabeth A",CSE 8B - Intro/Computer Science: Java (A),WI09,79,57,98.20%,98.20%,8.01,B+ (3.67),B (3.30)
+"Gillespie, Gary N",CSE 90 - Undergraduate Seminar (A),WI09,42,32,83.90%,100.00%,0.69,A (4.00),N/A
+"Kahng, Andrew Byun",CSE 91 - Perspectives in CSE (A),WI09,44,30,56.70%,65.50%,2.7,B+ (3.33),N/A
+"Lee, Cynthia Bailey",CSE 100 - Advanced Data Structures (A),FA08,58,35,82.90%,85.70%,14.56,B (3.18),B- (2.72)
+"Kahng, Andrew Byun",CSE 101 - Design & Analysis of Algorithm (A),FA08,58,29,85.20%,60.70%,7.74,B (3.04),B- (2.72)
+"Freund, Yoav",CSE 103 - Practical Intro/Prob & Stats (A),FA08,10,8,75.00%,62.50%,6.75,B+ (3.38),N/A
+"Israeli, Amos",CSE 105 - Intro/Theory of Computation (A),FA08,51,25,80.00%,84.00%,7.22,B (3.00),C+ (2.65)
+"Ord, Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),FA08,106,61,95.00%,96.70%,8.83,B+ (3.68),B (3.07)
+"Dahlstrom, Dana B.",CSE 110 - Software Engineering (A),FA08,24,23,68.20%,95.50%,5.5,B+ (3.65),B (3.27)
+"Krueger, Ingolf",CSE 112 - Software Engineerng (A),FA08,10,10,80.00%,100.00%,6.7,B+ (3.38),N/A
+"Griswold, William G.",CSE 118 - Ubiquitous Computing (A),FA08,13,12,100.00%,100.00%,3.95,B+ (3.64),N/A
+"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),FA08,65,48,84.80%,85.10%,11.75,B (3.22),B- (2.75)
+"Pasquale, Joseph",CSE 120 - Princ/Computer Operating Systm (A),FA08,59,34,93.90%,90.60%,8.44,B (3.03),B- (2.90)
+"Varghese, George",CSE 123 - Computer Networks (A),FA08,36,31,93.50%,96.80%,6.11,B (3.11),B (3.25)
+"Shacham, Hovav",CSE 127 - Intro/Computer Security (A),FA08,15,9,100.00%,100.00%,9.39,B+ (3.44),N/A
+"Jhala, Ranjit",CSE 130 - Progrmng Lang:Princpl&Paradigm (A),FA08,76,33,96.80%,100.00%,8.13,A- (3.81),B+ (3.35)
+"Deutsch, Alin Bernard",CSE 132A - Database System Principles (A),FA08,33,19,73.70%,84.20%,5.66,B+ (3.50),B (3.11)
+"Orailoglu, Alex",CSE 140 - Component&Desgn Tech/Digtl Sys (A),FA08,18,14,85.70%,78.60%,6.21,B (3.07),N/A
+"Orailoglu, Alex",CSE 140L - Digital Systems Laboratory (A),FA08,17,15,80.00%,86.70%,7.7,B (3.27),B+ (3.33)
+"Taylor, Michael",CSE 141 - Intro/Computer Architecture (A),FA08,42,28,75.00%,85.70%,10.43,B (3.12),B (3.09)
+"Taylor, Michael",CSE 141L - Project/Computer Architecture (A),FA08,39,18,75.00%,75.00%,15.32,B+ (3.41),B+ (3.38)
+"Elkan, Charles Peter",CSE 151 - Intro to A.I. Stats Approach (A),FA08,14,10,90.00%,60.00%,7.9,B (3.10),N/A
+"Dahlstrom, Dana B.",CSE 15L - Software Tools&Techniques Lab (A),FA08,35,30,82.10%,85.70%,2.71,B+ (3.53),B- (2.98)
+"Dahlstrom, Dana B.",CSE 15L - Software Tools&Techniques Lab (B),FA08,32,32,71.90%,78.10%,2.56,B+ (3.42),B- (2.98)
+"Baden, Scott B.",CSE 160 - Intro to Parallel Computing (A),FA08,45,31,66.70%,66.70%,5.9,B+ (3.43),B- (2.86)
+"Schulze, Jurgen P.",CSE 167 - Computer Graphics (A),FA08,26,21,95.00%,95.00%,12.02,B+ (3.39),B (3.23)
+"Bafna, Vineet",CSE 182 - Biological Databases (A),FA08,10,9,100.00%,100.00%,9.83,B+ (3.63),N/A
+"Cottrell, Garrison W",CSE 190 - Topics/Computer Sci & Engineer (A),FA08,7,8,87.50%,100.00%,8.25,B+ (3.43),N/A
+"Orlitsky, Alon",CSE 20 - Intro/Discrete Mathematics (A),FA08,56,49,61.20%,46.90%,6.91,B- (2.84),C+ (2.65)
+"Graham, Ronald L",CSE 21 - Math/Algorithm&Systems Analys (A),FA08,75,44,85.40%,95.20%,3.64,B+ (3.49),B (3.27)
+"Ord, Richard",CSE 3 - Fluency/Information Technology (A),FA08,163,125,91.70%,99.20%,2.65,A- (3.85),A- (3.73)
+"Marx, Susan S",CSE 3 - Fluency/Information Technology (B),FA08,158,83,86.30%,95.10%,2.45,A- (3.76),B+ (3.46)
+"Gillespie, Gary N",CSE 3 - Fluency/Information Technology (C),FA08,154,83,81.90%,88.00%,2.93,A- (3.72),B (3.17)
+"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),FA08,72,62,98.40%,100.00%,11.32,B+ (3.53),B (3.03)
+"Marx, Susan S",CSE 5A - Introduction to Programming I (A),FA08,53,34,91.20%,85.30%,5.74,B+ (3.41),B- (2.96)
+"Dahlstrom, Dana B.",CSE 70 - Software Engineering (A),FA08,24,23,68.20%,95.50%,5.5,B+ (3.65),B (3.27)
+"Cottrell, Garrison W",CSE 87 - Freshman Seminar (A),FA08,15,14,57.10%,78.60%,0.64,A (4.00),N/A
+"Simon, Elizabeth A",CSE 87 - Freshman Seminar (B),FA08,16,11,90.90%,100.00%,0.86,N/A,N/A
+"Gupta, Rajesh K.",CSE 87 - Freshman Seminar (C),FA08,13,13,69.20%,92.30%,0.5,N/A,N/A
+"Simon, Elizabeth A",CSE 8A - Intro/Computer Science: Java (A),FA08,114,115,93.90%,99.10%,7.25,B+ (3.31),C+ (2.67)
+"Simon, Elizabeth A",CSE 8AL - Intro/Computer Science:JavaLab (A),FA08,30,21,95.00%,100.00%,4.98,B+ (3.50),B- (2.97)
+"Marzullo, Keith",CSE 8AL - Intro/Computer Science:JavaLab (B),FA08,30,23,100.00%,100.00%,5.11,B+ (3.39),B- (2.73)
+"Jhala, Ranjit",CSE 8AL - Intro/Computer Science:JavaLab (C),FA08,29,22,95.50%,100.00%,2.95,B+ (3.59),C+ (2.64)
+"Kastner, Ryan Charles",CSE 8AL - Intro/Computer Science:JavaLab (D),FA08,25,38,97.40%,100.00%,6.08,B+ (3.32),C (2.21)
+"Kahng, Andrew Byun",CSE 91 - Perspectives in CSE (A),FA08,114,82,63.40%,78.00%,1.5,B+ (3.67),N/A
+"Paturi, Ramamohan",CSE 101 - Design & Analysis of Algorithm (A),SU08,17,16,87.50%,93.80%,7.38,B (3.00),N/A
+"Lyubashevsky, Vadim",CSE 105 - Intro/Theory of Computation (A),SU08,13,10,80.00%,90.00%,8.9,C+ (2.60),N/A
+"Cicotti, Pietro",CSE 110 - Software Engineering (A),SU08,17,11,90.90%,81.80%,6.5,B+ (3.60),N/A
+"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),SU08,28,26,96.20%,100.00%,15.96,B- (2.87),N/A
+"AuYoung, Alvin",CSE 120 - Princ/Computer Operating Systm (A),SU08,17,14,100.00%,100.00%,17.88,B (3.14),N/A
+"Dahlstrom, Dana B.",CSE 130 - Progrmng Lang:Princpl&Paradigm (A),SU08,8,6,83.30%,100.00%,12.17,B- (2.83),N/A
+"Powell, Thomas Allan",CSE 134B - Web Client Languages (A),SU08,24,7,85.70%,85.70%,10.5,B+ (3.43),N/A
+"Powell, Thomas Allan",CSE 135 - Server-side Web Applications (A),SU08,27,20,100.00%,100.00%,15.6,B+ (3.33),N/A
+"Chu, Isaac Y",CSE 140 - Component&Desgn Tech/Digtl Sys (A),SU08,38,30,93.10%,100.00%,7.37,B+ (3.48),N/A
+"Chu, Isaac Y",CSE 140L - Digital Systems Laboratory (A),SU08,31,25,92.00%,100.00%,8.25,A- (3.83),N/A
+"Dahlstrom, Dana B.",CSE 15L - Software Tools&Techniques Lab (A),SU08,12,11,88.90%,100.00%,4.5,A- (3.89),N/A
+"Lee, Cynthia Bailey",CSE 20 - Intro/Discrete Mathematics (A),SU08,18,16,93.80%,100.00%,5.83,B (3.13),N/A
+"Dahlstrom, Dana B.",CSE 21 - Math/Algorithm&Systems Analys (A),SU08,23,19,73.70%,84.20%,8.5,B (3.21),N/A
+"Ord, Richard",CSE 3 - Fluency/Information Technology (A),SU08,34,30,96.70%,100.00%,4.03,A- (3.79),N/A
+"Pasquale, Joseph",CSE 4GS - Mathematical Beauty in Rome (A),SU08,16,16,100.00%,100.00%,2.88,A (4.00),N/A
+"Marx, Susan S",CSE 5A - Introduction to Programming I (A),SU08,23,18,100.00%,94.40%,4.85,B+ (3.60),N/A
+"Pasquale, Joseph",CSE 6GS - Mathematical Beauty - Rome Lab (A),SU08,16,14,100.00%,100.00%,2.64,A (4.00),N/A
+"Cicotti, Pietro",CSE 70 - Software Engineering (A),SU08,17,11,90.90%,81.80%,6.5,B+ (3.60),N/A
+"Burkhard, Walter A.",CSE 100 - Advanced Data Structures (A),SP08,65,30,90.00%,40.00%,8.03,B (3.21),B- (2.87)
+"Burkhard, Walter A.",CSE 101 - Design & Analysis of Algorithm (A),SP08,53,36,80.00%,38.90%,6.33,B (3.19),B- (2.90)
+"Micciancio, Daniele",CSE 105 - Intro/Theory of Computation (A),SP08,58,28,82.10%,75.00%,6.71,B- (2.81),B- (2.97)
+"Kube, Paul Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),SP08,26,13,100.00%,92.30%,7.73,B (3.22),C+ (2.61)
+"Dahlstrom, Dana B.",CSE 110 - Software Engineering (A),SP08,51,36,88.20%,85.30%,8.5,B+ (3.63),B- (2.85)
+"Howden, William E.",CSE 111 - Objt. Oriented Software Design (A),SP08,36,19,68.40%,68.40%,5.34,B+ (3.56),B (3.09)
+"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),SP08,84,61,91.70%,96.70%,15.07,B (3.22),C+ (2.66)
+"Snoeren, Alex C.",CSE 120 - Princ/Computer Operating Systm (A),SP08,64,56,88.70%,96.30%,12.29,B (3.19),B- (2.95)
+"Varghese, George",CSE 123 - Computer Networks (A),SP08,30,21,81.00%,90.50%,3.64,B+ (3.30),B+ (3.53)
+"Voelker, Geoffrey M.",CSE 125 - Software Sys Design & Implemnt (A),SP08,22,23,95.70%,100.00%,18.67,A- (3.91),A- (3.99)
+"Savage, Stefan Roberts",CSE 127 - Intro/Computer Security (A),SP08,58,41,100.00%,100.00%,2.7,A- (3.76),B- (2.94)
+"Ord, Richard",CSE 131 - Compiler Construction (A),SP08,54,48,93.60%,93.60%,15.83,B+ (3.32),C+ (2.65)
+"Deutsch, Alin Bernard",CSE 132B - Database System Applications (A),SP08,12,11,90.90%,100.00%,9.95,A- (3.82),N/A
+"Rosing, Tajana Simunic",CSE 140 - Component&Desgn Tech/Digtl Sys (A),SP08,43,31,64.50%,22.60%,9.66,B- (2.87),C+ (2.45)
+"Rosing, Tajana Simunic",CSE 140L - Digital Systems Laboratory (A),SP08,38,27,63.00%,33.30%,13.46,B (3.04),B- (2.97)
+"Taylor, Michael",CSE 141 - Intro/Computer Architecture (A),SP08,18,17,93.80%,87.50%,5.79,B+ (3.31),B (3.09)
+"Taylor, Michael",CSE 141L - Project/Computer Architecture (A),SP08,10,9,55.60%,77.80%,14.5,A- (3.75),N/A
+"Saul, Lawrence",CSE 150 - Int Artif Intell:Search&Reason (A),SP08,24,21,95.20%,100.00%,6.5,B+ (3.39),B- (2.97)
+"Baden, Scott B.",CSE 15L - Software Tools&Techniques Lab (A),SP08,39,36,91.70%,86.10%,2.17,B+ (3.61),B- (2.92)
+"Dahlstrom, Dana B.",CSE 15L - Software Tools&Techniques Lab (B),SP08,21,20,90.00%,100.00%,2.1,B+ (3.65),B+ (3.32)
+"Zwicker, Matthias Beat",CSE 167 - Computer Graphics (A),SP08,18,10,88.90%,100.00%,16.1,B (3.00),B (3.16)
+"Jensen, Henrik",CSE 168 - Computer Graphics II:Rendering (A),SP08,13,14,100.00%,100.00%,11.93,A- (3.85),N/A
+"Pevzner, Pavel Arkadjevich",CSE 181 - Molecular Sequence Analysis (A),SP08,15,14,78.60%,85.70%,7.21,B (3.14),N/A
+"Vardy, Alexander",CSE 20 - Intro/Discrete Mathematics (A),SP08,38,31,71.00%,83.90%,5.6,B- (2.81),C+ (2.60)
+"Orlitsky, Alon",CSE 21 - Math/Algorithm&Systems Analys (A),SP08,18,15,60.00%,80.00%,7.7,B- (2.86),B- (2.71)
+"Kube, Paul Richard",CSE 3 - Fluency/Information Technology (A),SP08,160,87,83.10%,75.00%,2.55,B+ (3.65),B+ (3.58)
+"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),SP08,35,31,100.00%,100.00%,12.76,B+ (3.38),B- (2.85)
+"Marx, Susan S",CSE 5A - Introduction to Programming I (A),SP08,41,20,80.00%,95.00%,5,B+ (3.67),B (3.25)
+"Dahlstrom, Dana B.",CSE 70 - Software Engineering (A),SP08,51,36,88.20%,85.30%,8.5,B+ (3.63),B- (2.85)
+"Ord, Richard",CSE 86 - C++ for Java Programmers (A),SP08,20,14,85.70%,100.00%,1.21,N/A,N/A
+"Cottrell, Garrison W",CSE 87 - Freshman Seminar (A),SP08,9,8,100.00%,100.00%,0.75,A (4.00),N/A
+"Marx, Susan S",CSE 8B - Intro/Computer Science: Java (A),SP08,34,19,94.70%,84.20%,7.24,B+ (3.33),B- (2.74)
+"Burkhard, Walter A.",CSE 100 - Advanced Data Structures (A),WI08,48,24,90.90%,81.80%,6,B+ (3.36),C+ (2.67)
+"Kahng, Andrew Byun",CSE 101 - Design & Analysis of Algorithm (A),WI08,39,28,78.60%,78.60%,8.36,B- (2.96),B- (2.94)
+"Micciancio, Daniele",CSE 105 - Intro/Theory of Computation (A),WI08,42,31,80.60%,96.80%,4.77,B+ (3.41),B- (2.93)
+"Bellare, Mihir",CSE 107 - Intro/Modern Cryptography (A),WI08,12,9,100.00%,88.90%,6.06,B (3.00),B+ (3.33)
+"Kube, Paul Richard",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),WI08,27,14,84.60%,83.30%,7.79,B (3.15),B- (2.81)
+"Dahlstrom, Dana B.",CSE 110 - Software Engineering (A),WI08,46,31,65.50%,72.40%,6.44,A- (3.71),B (3.05)
+"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),WI08,48,39,87.20%,84.20%,13.94,B (3.14),B- (2.71)
+"Shacham, Hovav",CSE 127 - Intro/Computer Security (A),WI08,3,5,100.00%,100.00%,10.5,B (3.00),N/A
+"Lerner, Sorin",CSE 130 - Progrmng Lang:Princpl&Paradigm (A),WI08,76,47,93.60%,97.90%,8.12,B+ (3.49),B (3.15)
+"Ord, Richard",CSE 131 - Compiler Construction (A),WI08,83,71,86.80%,98.60%,15.81,B+ (3.37),B- (2.86)
+"Vianu, Victor Dan",CSE 132A - Database System Principles (A),WI08,35,21,63.20%,75.00%,4.79,B+ (3.43),B (3.01)
+"Powell, Thomas Allan",CSE 135 - Server-side Web Applications (A),WI08,96,54,92.60%,90.70%,7.91,B (3.20),B- (2.96)
+"Orailoglu, Alex",CSE 140 - Component&Desgn Tech/Digtl Sys (A),WI08,17,15,80.00%,66.70%,9.03,C+ (2.67),B- (2.94)
+"Orailoglu, Alex",CSE 140L - Digital Systems Laboratory (A),WI08,17,14,71.40%,57.10%,10.07,B (3.00),B (3.07)
+"Swanson, Steven James",CSE 141 - Intro/Computer Architecture (A),WI08,44,38,59.50%,42.90%,7.24,B (3.03),B (3.06)
+"Swanson, Steven James",CSE 141L - Project/Computer Architecture (A),WI08,38,23,39.10%,30.40%,17.46,B+ (3.42),B+ (3.54)
+"Gupta, Rajesh K.",CSE 143 - Microelectronic System Design (A),WI08,12,7,100.00%,71.40%,6.79,B (3.29),N/A
+"Dahlstrom, Dana B.",CSE 15L - Software Tools&Techniques Lab (A),WI08,31,27,92.60%,92.30%,1.83,B+ (3.63),B (3.17)
+"Dahlstrom, Dana B.",CSE 15L - Software Tools&Techniques Lab (B),WI08,31,30,93.30%,96.70%,2.17,A- (3.72),B (3.17)
+"Dahlstrom, Dana B.",CSE 15L - Software Tools&Techniques Lab (C),WI08,33,32,75.00%,84.40%,2.82,A- (3.73),B (3.17)
+"Rotenberg, Steven Paul",CSE 169 - Computer Animation (A),WI08,24,23,100.00%,100.00%,9.2,B+ (3.57),B+ (3.47)
+"Wang, Wei",CSE 184 - Computational Molecular Biol. (A),WI08,15,8,75.00%,75.00%,9.25,N/A,N/A
+"Belongie, Serge J.",CSE 190 - Topics/Computer Sci & Engineer (A),WI08,6,7,100.00%,100.00%,6.5,A- (3.83),N/A
+"Monteleoni, Claire",CSE 20 - Intro/Discrete Mathematics (A),WI08,67,59,77.20%,77.20%,4.33,B (3.14),C+ (2.67)
+"Graham, Ronald L",CSE 21 - Math/Algorithm&Systems Analys (A),WI08,57,30,90.00%,90.00%,4.43,B+ (3.46),B+ (3.31)
+"Marx, Susan S",CSE 3 - Fluency/Information Technology (A),WI08,168,71,87.30%,91.50%,2.07,A- (3.88),B+ (3.45)
+"Gillespie, Gary N",CSE 3 - Fluency/Information Technology (B),WI08,150,31,80.00%,86.20%,3.37,B+ (3.52),B- (2.87)
+"Kube, Paul Richard",CSE 3 - Fluency/Information Technology (C),WI08,163,104,68.00%,70.30%,2.1,A- (3.73),B+ (3.57)
+"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),WI08,46,30,96.70%,100.00%,10.17,B (3.10),B- (2.84)
+"Dahlstrom, Dana B.",CSE 70 - Software Engineering (A),WI08,46,31,65.50%,72.40%,6.44,A- (3.71),B (3.05)
+"Ord, Richard",CSE 80 - UNIX Lab (A),WI08,12,10,100.00%,100.00%,1.1,B (3.00),N/A
+"Kube, Paul Richard",CSE 8A - Intro/Computer Science: Java (A),WI08,38,21,81.00%,52.40%,6.12,B+ (3.30),B- (2.77)
+"Freund, Yoav",CSE 8AL - Intro/Computer Science:JavaLab (A),WI08,20,16,80.00%,80.00%,7.13,B+ (3.31),B- (2.73)
+"Kube, Paul Richard",CSE 8AL - Intro/Computer Science:JavaLab (B),WI08,18,15,86.70%,80.00%,5.83,B (3.21),B- (2.70)
+"Marx, Susan S",CSE 8B - Intro/Computer Science: Java (A),WI08,77,50,98.00%,80.00%,8.34,B (3.00),C+ (2.59)
+"Kube, Paul Richard",CSE 100 - Advanced Data Structures (A),FA07,41,27,88.90%,92.30%,13.46,B (3.13),B- (2.97)
+"Dasgupta, Sanjoy",CSE 101 - Design & Analysis of Algorithm (A),FA07,58,48,72.90%,93.80%,9.71,B (3.27),B- (2.91)
+"Freund, Yoav",CSE 103 - Practical Intro/Prob & Stats (A),FA07,13,13,46.20%,69.20%,5.58,B (3.00),N/A
+"Paturi, Ramamohan",CSE 105 - Intro/Theory of Computation (A),FA07,36,29,84.60%,96.30%,5.46,B+ (3.50),B+ (3.30)
+"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),FA07,40,27,92.30%,92.30%,8.5,B+ (3.44),B- (2.85)
+"Howden, William E.",CSE 111 - Objt. Oriented Software Design (A),FA07,15,10,70.00%,70.00%,6.7,B+ (3.50),N/A
+"Griswold, William G.",CSE 118 - Ubiquitous Computing (A),FA07,7,5,100.00%,100.00%,8.5,A (4.00),N/A
+"Gillespie, Gary N",CSE 12 - Basic Data Struct & OO Design (A),FA07,86,66,89.40%,84.40%,12.98,B (3.18),C+ (2.57)
+"Marzullo, Keith",CSE 120 - Princ/Computer Operating Systm (A),FA07,78,47,86.70%,88.90%,10.2,B+ (3.30),B- (2.77)
+"Vahdat, Mohammed Amin",CSE 124 - Networked Services (A),FA07,25,21,95.20%,95.20%,9.4,B+ (3.30),B+ (3.34)
+"Jhala, Ranjit",CSE 130 - Progrmng Lang:Princpl&Paradigm (A),FA07,66,57,89.30%,96.40%,8.57,B+ (3.57),B (3.24)
+"Vianu, Victor Dan",CSE 132A - Database System Principles (A),FA07,25,12,66.70%,66.70%,5.5,B+ (3.33),C+ (2.62)
+"Powell, Thomas Allan",CSE 134B - Web Client Languages (A),FA07,28,15,100.00%,100.00%,6.5,B+ (3.43),B (3.11)
+"Chu, Isaac Y",CSE 140 - Component&Desgn Tech/Digtl Sys (A),FA07,47,40,100.00%,100.00%,5.85,B+ (3.58),B (3.03)
+"Chu, Isaac Y",CSE 140L - Digital Systems Laboratory (A),FA07,46,29,100.00%,100.00%,4.5,A- (3.92),B+ (3.47)
+"Tullsen, Dean Michael",CSE 141 - Intro/Computer Architecture (A),FA07,32,23,90.90%,81.80%,6.76,B (3.14),B- (2.88)
+"Tullsen, Dean Michael",CSE 141L - Project/Computer Architecture (A),FA07,22,12,75.00%,75.00%,12,B (3.17),B (3.06)
+"Elkan, Charles Peter",CSE 151 - Intro to A.I. Stats Approach (A),FA07,22,15,80.00%,86.70%,7.57,B (3.20),B (3.07)
+"Dahlstrom, Dana B.",CSE 15L - Software Tools&Techniques Lab (A),FA07,13,13,100.00%,100.00%,3.42,A- (3.92),B+ (3.59)
+"Dahlstrom, Dana B.",CSE 15L - Software Tools&Techniques Lab (B),FA07,7,7,100.00%,100.00%,1.07,A (4.00),B+ (3.59)
+"Belongie, Serge J.",CSE 166 - Image Processing (A),FA07,20,17,88.20%,94.10%,7.25,B+ (3.53),B+ (3.63)
+"Zwicker, Matthias Beat",CSE 167 - Computer Graphics (A),FA07,21,14,92.90%,85.70%,12.21,B+ (3.50),B+ (3.66)
+"Bafna, Vineet",CSE 182 - Biological Databases (A),FA07,15,13,84.60%,92.30%,10.04,B+ (3.54),N/A
+"Orlitsky, Alon",CSE 20 - Intro/Discrete Mathematics (A),FA07,46,38,72.20%,66.70%,7.24,B- (2.94),C+ (2.42)
+"Graham, Ronald L",CSE 21 - Math/Algorithm&Systems Analys (A),FA07,59,33,87.50%,100.00%,3.17,B+ (3.44),B (3.21)
+"Ord, Richard",CSE 3 - Fluency/Information Technology (A),FA07,198,186,84.80%,100.00%,2.32,A- (3.86),A- (3.78)
+"Marx, Susan S",CSE 3 - Fluency/Information Technology (B),FA07,194,102,83.70%,95.00%,2.22,A- (3.81),B+ (3.51)
+"Ord, Richard",CSE 30 - Computer Organiz&Systms Progrm (A),FA07,71,72,98.60%,100.00%,11.58,B+ (3.44),B (3.05)
+"Ord, Richard",CSE 5A - Introduction to Programming I (A),FA07,99,77,74.00%,98.70%,6.14,B+ (3.51),B (3.21)
+"Cottrell, Garrison W",CSE 87 - Freshman Seminar (B),FA07,17,14,92.90%,92.90%,0.64,A (4.00),N/A
+"Gupta, Rajesh K.",CSE 87 - Freshman Seminar (C),FA07,8,8,87.50%,100.00%,1,A (4.00),N/A
+"Kube, Paul Richard",CSE 8A - Intro/Computer Science: Java (A),FA07,122,52,96.10%,84.30%,5.69,B+ (3.41),B (3.01)
+"Kube, Paul Richard",CSE 8AL - Intro/Computer Science:JavaLab (A),FA07,29,20,95.00%,90.00%,5.4,B+ (3.50),B- (2.98)
+"Dasgupta, Sanjoy",CSE 8AL - Intro/Computer Science:JavaLab (B),FA07,36,31,90.30%,80.00%,5.6,B+ (3.50),B (3.13)
+"Jhala, Ranjit",CSE 8AL - Intro/Computer Science:JavaLab (C),FA07,27,17,100.00%,100.00%,4.5,B (3.13),C+ (2.64)
+"Marzullo, Keith",CSE 8AL - Intro/Computer Science:JavaLab (D),FA07,29,25,96.00%,92.00%,3.33,B+ (3.56),B (3.02)
+"Kahng, Andrew Byun",CSE 91 - Perspectives in CSE (A),FA07,97,68,49.30%,71.60%,2.65,B+ (3.67),N/A
+"Glick, John Edward",CSE 100 - Advanced Data Structures (A),SU07,30,23,95.70%,100.00%,10.41,B+ (3.65),N/A
+"Paturi, Ramamohan",CSE 101 - Design & Analysis of Algorithm (A),SU07,23,16,93.80%,93.80%,9.17,B+ (3.33),N/A
+"Paturi, Ramamohan",CSE 105 - Intro/Theory of Computation (A),SU07,20,14,64.30%,85.70%,9.27,B (3.15),N/A
+"Marx, Susan S",CSE 11 - Intr/Computer Sci&Obj-Ori:Java (A),SU07,13,11,100.00%,90.90%,10.14,B- (2.90),N/A
+"Rhodes, Neil Campbell",CSE 120 - Princ/Computer Operating Systm (A),SU07,44,33,90.90%,97.00%,15.95,B (3.16),N/A
+"Shonle, Macneil Charles",CSE 130 - Progrmng Lang:Princpl&Paradigm (A),SU07,17,12,83.30%,100.00%,8.5,B+ (3.42),N/A
+"Powell, Thomas Allan",CSE 134B - Web Client Languages (A),SU07,30,25,100.00%,100.00%,8.33,B+ (3.48),N/A
+"Powell, Thomas Allan",CSE 135 - Server-side Web Applications (A),SU07,30,16,100.00%,93.80%,7.5,B+ (3.46),N/A
+"Chu, Isaac Y",CSE 140 - Component&Desgn Tech/Digtl Sys (A),SU07,14,12,100.00%,100.00%,7.5,B+ (3.58),N/A
+"Chu, Isaac Y",CSE 140L - Digital Systems Laboratory (A),SU07,11,5,100.00%,100.00%,4.5,A (4.00),N/A
+"Lee, Cynthia Bailey",CSE 141 - Intro/Computer Architecture (A),SU07,28,24,100.00%,100.00%,7.54,B (3.21),N/A
+"Lee, Cynthia Bailey",CSE 141L - Project/Computer Architecture (A),SU07,27,11,81.80%,100.00%,11.1,B+ (3.55),N/A
+"Cayton, Lawrence Allen",CSE 20 - Intro/Discrete Mathematics (A),SU07,30,27,84.60%,96.20%,5.81,B (3.08),N/A
+"Rhodes, Neil Campbell",CSE 21 - Math/Algorithm&Systems Analys (A),SU07,21,20,85.00%,95.00%,6.1,B+ (3.40),N/A
+"Ord, Richard",CSE 3 - Fluency/Information Technology (A),SU07,35,26,96.20%,100.00%,3.12,A- (3.96),N/A
+"Kleint, John Timothy",CSE 30 - Computer Organiz&Systms Progrm (A),SU07,4,5,100.00%,100.00%,12.9,B+ (3.40),N/A
+"Ord, Richard",CSE 5A - Introduction to Programming I (A),SU07,32,31,93.50%,100.00%,5.03,A- (3.85),N/A
